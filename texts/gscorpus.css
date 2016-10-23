@@ -1,0 +1,217 @@
+/* stylesheet for plays in my corpus
+by Angus Grieve-Smith */
+
+.ne {
+	color: black;
+	background-color: gray;
+}
+
+.hilite {
+	color: black;
+	background-color: yellow;
+}
+
+.input {
+	color: black;
+}
+
+.thickbottom {
+	border-bottom: thick;
+}
+
+.content {
+    padding: 1em;
+}
+
+.song {
+	font-style: italic;
+}
+
+.stage {
+	font-style: italic;
+	color: green;
+}
+
+.sstage {
+	font-style: italic;
+	color: green;
+}
+
+.colset {
+    clear: both;
+}
+
+.col {
+    float: left;
+    padding: 0.5em;
+}
+
+.pagenum {
+    font-style: italic;
+    color: #004400;
+    text-align: center;
+}
+
+.heading {
+    font-style: italic;
+    color: #004400;
+    text-align: center;
+}
+
+.charn {
+	color: red;
+}
+
+.char {
+	color: black;
+	background-color: aqua;
+}
+
+.char1 {
+	color: green;
+}
+
+.char2 {
+	color: blue;
+}
+
+.char3 {
+	color: maroon;
+}
+
+.char4 {
+	color: teal;
+}
+
+.char5 {
+	color: purple;
+}
+
+.char6 {
+	color: orange;
+}
+
+.char7 {
+	color: #AAAAAA;
+}
+
+.char8 {
+	color: #FF0000;
+}
+
+.char9 {
+	color: #88DD88;
+}
+
+.char10 {
+	color: #BBBBFF;
+}
+
+.char11 {
+	color: #99BBBB;
+}
+
+.char12 {
+	color: #BB99BB;
+}
+
+.char13 {
+	color: #BBBB99;
+}
+
+.char14 {
+	color: #996666;
+}
+
+.char15 {
+	color: #669966;
+}
+
+.char16 {
+	color: #666699;
+}
+
+.char17 {
+	color: #999966;
+}
+
+.char18 {
+	color: #996699;
+}
+
+.char19 {
+	color: #666699;
+}
+
+.char20 {
+	color: #336699;
+}
+
+.char21 {
+	color: #663399;
+}
+
+.char22 {
+	color: #996633;
+}
+
+.char23 {
+	color: #339966;
+}
+
+.char24 {
+	color: #669933;
+}
+
+.char25 {
+	color: #993366;
+}
+
+.char26 {
+	color: #003366;
+}
+
+.char27 {
+	color: #330066;
+}
+
+.char28 {
+	color: #336600;
+}
+
+.char29 {
+	color: #006633;
+}
+
+.char30 {
+	color: #660033;
+}
+
+.char31 {
+	color: #663300;
+}
+
+.char32 {
+	color: #004488;
+}
+
+.char33 {
+	color: #440088;
+}
+
+.char34 {
+	color: #448800;
+}
+
+.char35 {
+	color: #008844;
+}
+
+.char36 {
+	color: #880044;
+}
+
+.char37 {
+	color: #884400;
+}
+

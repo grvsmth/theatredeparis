@@ -8,4 +8,4 @@ The plays in the sample are listed in [a CSV file](https://github.com/grvsmth/th
 
 If you use this corpus for research, please cite me using the information below.  Or contact me to discuss co-authorship!
 
-Grieve-Smith, Angus B. (2016). The Digital Parisian Stage Corpus.  GitHub. https://github.com/grvsmth/theatredeparis
+* Grieve-Smith, Angus B. (2016). The Digital Parisian Stage Corpus.  GitHub. https://github.com/grvsmth/theatredeparis

@@ -4,7 +4,7 @@ This is a repository for public-domain theatrical texts from Paris.  The first b
 
 These texts are all out of copyright, and are distributed here for the purposes of entertainment or scientific inquiry.  I encourage you to submit pull requests with texts from the remaining 9 plays, or with corrected errors, or to fork this repository and convert the files to TEI or Markdown or any other format you like.
 
-The plays in the sample are listed in [a CSV file](https://github.com/grvsmth/theatredeparis/blob/master/napoleonicSample.csv).  The fifteen plays that have been OCRed and cleaned are in [the texts directory](https:texts).
+The plays in the sample are listed in [a CSV file](https://github.com/grvsmth/theatredeparis/blob/master/napoleonicSample.csv).  The fifteen plays that have been OCRed and cleaned are in [the texts directory](https:theatredeparis/tree/master/texts).
 
 If you use this corpus for research, please cite me using the information below.  Or contact me to discuss co-authorship!
 

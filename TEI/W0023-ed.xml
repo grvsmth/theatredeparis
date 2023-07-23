@@ -1,0 +1,1398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W23">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les acteurs à l'épreuve: TEI edition (Wicks no. 23)</title>
+    <author/>
+    <respStmt>
+     <resp>Original transcription by </resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI conversion by </resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor> The Digital Parisian Stage Corpus. GitHub.
+     https://github.com/grvsmth/theatredeparis </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images downloaded from <ref
+     target="http://books.google.com/books?id=1U46AAAAcAAJ"/>.</p>
+    <p>HTML transcription downloaded from <ref
+     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/23acteurs.html"
+     >https://github.com/grvsmth/theatredeparis</ref></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc>
+   <change when="2023-07-20">Hand edited</change>
+   <change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>Les acteurs à l'épreuve, </titlePart>
+     <titlePart>Vaudeville episodique, en un acte. </titlePart>
+    </docTitle>
+    <byline>Par <docAuthor>MM Sewrin et Chazet.</docAuthor></byline>
+    <titlePart>Représenté, pour la première fois, à Paris; sur le Théâtre des Variétés , boulevard
+     Montmartre , le 7 Juin 1808.</titlePart>
+    <titlePart> Prix : 1 fr. </titlePart>
+    <docImprint>A PARIS, Chez Madame CAVANAGH , Libraire du Théâtre des Variétés, Passage du
+     Panorama , Nç. 5 , près du Boulevard. 1808/.</docImprint>
+   </titlePage>
+   <castList>
+    <head>Personnages. Acteurs./</head>
+    <castItem><role>M. DUPRÉ, directeur de spectacle.</role><actor>M. Duval.</actor></castItem>
+    <castItem rend="braced"> <role>POULOT, niais.</role><role>DROGUANT, médecin.</role><role>FORSEC,
+     parasite très-maigre.</role><role>MESURE, tailleur.</role> <actor>Joués par le même acteur. M.
+     ARMAND.</actor></castItem>
+    <castItem><role>NICETTE.</role><actor>Mlle. Montano.</actor></castItem>
+    <castItem><role>UN DOMESTIQUE.</role><actor>M. Audry.</actor></castItem>
+
+   </castList>
+   <set>
+    <p>La scène est à Paris, chez M. Dupré.</p>
+   </set>
+  </front>
+  <body>
+
+
+   <head>LES ACTEURS A L'EPREUVE</head>
+
+   <div>
+
+    <head>SCENE PREMIERE.</head>
+
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ,</speaker>
+     <stage>seul.</stage>
+     <p>Enfin , grace à mon activité, j'espère que ce matin ma troupe sera complète ; je ne dois
+      rien négliger pour plaire au public, j'avais besoin d'une cantatrice, j'en ai une en vue; il
+      me fallait un acteur en état de se multiplier pour remplir différens emplois, je crois que
+      Dorval est ce qu'il me faut. Nous sommes à-peu-près convenus de nos faits, je l'attends ce
+      matin à déjeûner. On vient, serait-ce lui <stage>( Il voit Poulot qui entre. )</stage> Oh ,
+      non, à coup sûr ce n'est pas là un acteur.</p>
+    </sp>
+   </div>
+   <div>
+    <head>SCENE II.</head>
+    <stage>DUPRE, POULOT, UN DOMESTIQUE.</stage>
+    <sp who="#TDP23_2">
+     <speaker>LE DOMESTIQUE.</speaker>
+     <p>Monsieur , voilà un garçon qui demande à vous parler.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ,</speaker>
+     <stage>à Poulot.</stage>
+     <p>Un instant, s'il vous plaît. <stage>( Au domestique. )</stage> Avez-vous été
+      chercher ?...</p>
+    </sp>
+    <sp who="#TDP23_2">
+     <speaker>LE DOMESTIQUE ,</speaker>
+     <stage>lui remettant des papiers.</stage>
+     <p>Les voilà.</p>
+     <stage>( Scène muette entre Dupré et son domestique pendant que Poulot dit l'à-parte
+      suivant.)</stage>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT,</speaker>
+     <stage>à part d'une voix naturelle.</stage>
+     <p>Mon ami Dorval, ayant trouvé un engagement plus avantageux, veut me procurer celui-ci ;
+      tâchons de plaire au directeur par quelques scènes que j'ai préparées.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ,</speaker>
+     <stage>au domestique.</stage>
+     <p>Vous porterez toutes ces lettres à leur adresse.</p>
+    </sp>
+    <sp who="#TDP23_2">
+     <speaker>LE DOMESTIQUE,</speaker>
+     <p>Il suffit, Monsieur. <stage>(Il sort.)</stage></p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE III.</head>
+    <stage>DUPRE, POULOT.</stage>
+
+    <sp who="#TDP23_3">
+     <speaker>POULOT ,</speaker>
+     <stage>prenant une voix niaise.</stage>
+     <p>Monsieur, pardon, excuse...</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>De quoi donc, mon ami ?</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>De ce que vous m'avez fait attendre.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ</speaker>
+     <stage>apart.</stage>
+     <p>Quel est cet original ? <stage>( Haut. )</stage> Dîtes moi, mon ami, comment vous
+      nommez-vous ? Vous ressemblez à un Jocrisse que j'ai vu, et...</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Je vois que vous me prenez pour un autre; je m'appelle Poulot, et chez mon premier maître,
+      j'étais cuisinier, sommelier, etc.</p>
+     <stage>Air : de la croisée.</stage>
+     <l>Je m'mêlais d'tout avec esprit ,</l>
+     <l> Jamais i n'me fit un reproche ;</l>
+     <l> D'abord à la cave il me mit,</l>
+     <l> Ensuite il me mit à la broche ;</l>
+     <l> Puis il veut m'mettre au ratelier ;</l>
+     <l> Je veux résister , je m'emporte ,</l>
+     <l> Et pour n'pas me contrarier,</l>
+     <l> Il me met à la porte. </l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Enfin, que demandez-vous ?</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Oh! je ne demandons qu'à nous asseoir, <stage>( il s'assied. )</stage> Parce que j'ai tant
+      trimé que les jambes me rentrent dans le corps.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ</speaker>
+     <p>On ne s'en douterait pas ; mais enfin que voulez-vous ?</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Vous attendez ce matin M. Dorval ?</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ,</speaker>
+     <p>Oui, je l'attends à déjeuner.</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Eh! bien, je parie que monsieur ne s'est pas tant seulement encore douté que j'étions son
+      domestique.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ,</speaker>
+     <stage>retire brusquement la chaise et le jette par terre.</stage>
+     <p>Comment , tu oses prendre la liberté...</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Mais non , Monsieur, je n'ai pris qu'une chaise par irrévérence.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Où diable Dorval a-t-il déterré un valet comme celui-là ?</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Ah ! dame, c'est dans les petites affiches. Comme ce journal là est commode !</p>
+     <stage>Air : <hi>Cinquième édition.</hi></stage>
+     <l>On y peut lire tous les matins</l>
+     <l> L'annonce de quelque merveille,</l>
+     <l> Et l'éloge des médecins</l>
+     <l> Tout auprès des morts de la veille;</l>
+     <l> Le nom des pièc' qui vont passer,</l>
+     <l> Les énigmes qu'on n'peut comprendre,</l>
+     <l> Et les domestiq'à placer ,</l>
+     <l> A coté des bêtes à vendre.</l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Tout çà est bien arrangé !</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Moi, Monsieur, M. Dorval m'a pris sur une annonce qui m'annonçait joliment; je l'ons encore
+      sur nous.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Oh ! je ne suis pas curieux.</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>C'est l'histoire d'un rien, <stage>( Il lit. )</stage> « Ignace Poulot sortant de place
+      désire y rentrer, pourvu qu'il trouve un maître qui ait de bons répondans; comme ledit Poulot
+      ne sait pas raser, il préférerait que ce particulier fut une dame; il prévient aussi qu'il ne
+      pourrait servir une maison habitée par des chevaux, mais il est très-familier avec les ânes et
+      les dindons ; celui qui le prendra le reconnaîtra pour tel. »</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Parbleu ! voilà une annonce bien fidèle ! mais je m'amuse à t'écouter... et tu ne me rends
+      pas compte de ce que me veut Dorval ?</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Ah! v'là ce qu'il m'a chargé de vous dire ; il m'a dit, dit-il, va-t'en...</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Je t'en dirais bien autant ; mais enfin.</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Va-t-en chez M. Dupré et dis-y qu'il n'compte pas sur moi pour ce matin.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Comment donc ? et pourquoi ?</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Parce que je suis indisposé.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Ces choses là sont faites pour moi.</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT ,</speaker>
+     <stage><hi>avec mystère.</hi></stage>
+     <p>Chut!...</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Eh ! bien ?</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Ne lui dites pas ce que je vais vous dire au moins.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>impatienté.</stage>
+     <p>Non, non... après.</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Vous croyez p't'être qu'il est indisposé ?</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Quoi ! me tromperait-il ?</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Oui, monsieur... <stage>( Il le tire à l'écart. )</stage> Il est malade à en mourir ; s'il
+      n'y prend garde, sous trois jours je serai encore à louer.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>en colère.</stage>
+     <p>Mais le diable s'en mêle, je crois.</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Non, monsieur, ce sont deux médecins qui l'ont entrepris</p>
+     <stage>Air : <hi>Ca n'se peut pas.</hi></stage>
+     <l>A sa façon chacun le traite,</l>
+     <l> De son fait aucun n'est certain,</l>
+     <l> L'un tât' son pouls , l'autre sa tête ;</l>
+     <l> L'un parle grec, l'autre latin ,</l>
+     <l> A l'eau de riz l'un veut le mettre,</l>
+     <l> L'aut' dit que l'eau d'veau convient mieux,</l>
+     <l> Avec leurs eaux, moi j'vois mon maître</l>
+     <l> Entre deux feux. </l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Que faire pour mon spectacle ? où trouver quelqu'un qui remplace...</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Me v'là, moi, monsieur.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Toi, mon pauvre garçon ?</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Moi-même, écoutez bien. <stage>( Il chantonne en haute contre. )</stage> Coulez , coulez,
+      petits oiseaux... <stage>( En basse taille. )</stage> Volez, volez, petits ruisseaux. Vous
+      voyez , Je chantons dans le haut, dans le bas , dans le milieu, et quelquefois dans le
+      fossé.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>à demi voix.</stage>
+     <p>C'est unique, comme la présomption est de toutes les classes. <stage>( Haut. )</stage> Allez
+      retrouver Dorval, revenez tantôt, et apportez moi de ses nouvelles.</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Monsieur, je me ferai cet honneur là avec plaisir ; mais si monsieur ne m'engage pas, me
+      permet-il de l'engager ? . . .</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>A quoi ?</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Je prierais, en cas que...</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Eh bien! en cas que... Dépêchez vous donc ?</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>En cas que je quitte M. Dorval, à cause de sa mort...</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Ma foi, j'y consens... les serviteurs spirituels sont souvent si fripons!...</p>
+    </sp>
+    <sp who="#TDP23_3">
+     <speaker>POULOT.</speaker>
+     <p>Monsieur voit à ma figure que je suis honnête.</p>
+     <stage>Air : de l'Avare</stage>
+     <l>Monsieur , tout ce que je sais faire</l>
+     <l> Je vous l'ai dit en peu de mots ,</l>
+     <l> Bientôt vous me prendrez, j'espère ,</l>
+     <l> Je me garantis sans défauts . </l>
+     <l> Daignez accueillir ma supplique,</l>
+     <l> Sur ce je suis très humblement,</l>
+     <l> Votr'serviteur, en attendant</l>
+     <l> Que je sois votre domestique.</l>
+     <stage>(Il sort.)</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE IV</head>
+    <stage>DUPRÉ, seul.</stage>
+    <p>Ce Poulot m'a amusé un instant; mais je ne m'en vois pas moins dans un grand embarras. Dorval
+     me fait faux bond et je ne retrouverai pas facilement un pareil acteur. C'était une troupe
+     entière. Il est vrai que l'on ne peut pas trop compter sur le rapport d'un valet aussi niais.
+     Son maître n'est peut-être pas si mal... maladies d'acteurs no passent pas ordinairement pour
+     bien dangereuses. Un moment; celui-ci a deux médecins; je ne voudrais pas en répondre. Le plus
+     sûr, je crois , serait d'ailer m'en éclaircir moi-même... Oui, c'est là le meilleur parti... Je
+     vais passer un habit, et... mais quelqu'un vient.</p>
+
+   </div>
+   <div>
+
+    <head>SCENE V.</head>
+    <stage>DUPRÉ, M. DROGUAIT, médecin.</stage>
+
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>à demi voix.</stage>
+     <p>Ah! ah! celui-ci pourrait bien être un acteur.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT</speaker>
+     <stage>à part.</stage>
+     <p>Prêt à vous jouer, mon cher directeur ; il ne me reconnaît pas.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Je me doute, monsieur , de ce qui vous amène, vous aurez appris que ce pauvre Dorval...</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>Droguant.</speaker>
+     <p>Comme vous dites, il est dans un fâcheux état.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Réellement ? vous en êtes sûr ?</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Comme vous dites, je sais cela de la première main.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Monsieur est peut-être son ami ?</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Je suis son médecin.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>C'est différent.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Comme vous dites.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Mais enfin tout n'est pas désespéré ?</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Oh ! non.</p>
+     <stage>Air : <hi>du maître d'école.</hi></stage>
+     <l>Il m'a semblé que ma présence,</l>
+     <l> A l'instant redoublait ses maux ,</l>
+     <l> Pour calmer un peu sa souffrance ,</l>
+     <l> J'ai dû le laisser eu repos ;</l>
+     <l> Heureux effet de ma science ,</l>
+     <l> Tout à l'heure, un de ses neveux</l>
+     <l> M'a dit que , depuis mon absence ,</l>
+     <l> Il se trouvait beaucoup mieux.</l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Cela prouve votre talent.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Comme vous dites.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Et vous dites donc, vous, Monsieur, que la maladie de Dorval est...</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUAIT.</speaker>
+     <p>Fièvre violente , qui n'a pas encore de caractère, mais je me charge de lui en donner
+      un.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Je crois que cela ne sera pas long; mais d'après ce que son valet m'a dit, il y a auprès de
+      lui un autre de vos confrères...</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Comme vous dites.... Il y était; mais il n'y est plus; cet homme là n'était pas fait pour
+      opérer avec moi.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>J'entends, c'était un ignorant...</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Comme vous...</p>
+     <stage>( <hi>Il se mouche.</hi> )</stage>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Hein ?</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Comme vous dites, avant de rien donner au malade.</p>
+     <stage>Air : c'est Zéphir plus léger.</stage>
+     <l>Moi, j'ai voulu qu'entre nous deux,</l>
+     <l> Il prononçât sans plus attendre,</l>
+     <l> Et connaisant mon nom fameux ,</l>
+     <l> C'est moi seul qu'il a voulu prendre ;</l>
+     <l> Il était temps que pour Droguant</l>
+     <l> Il décidât; je dois le dire,</l>
+     <l> Le pauvre homme, en me choisissant,</l>
+     <l> Etait déjà dans le délire.</l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Je n'ai pas de peine à le croire; mais M. Droguant, Dorval a besoin de vos soins, et je me
+      reprocherais d'abuser plus long-temps...</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Comme vous dites, il faut que je parte; mais il faut aussi que je vous parle de l'objet qui
+      m'amène chez vous.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Il est temps, que puis-je faire pour votre service ?</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Vous pouvez m'être fort utile ; vous êtes directeur d'un spectacle ? je vous demande, moi,
+      la direction de la santé de vos acteurs.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Pardon, monsieur; mais ceci est un peu délicat.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Comme vous dites; mais je serai l'homme de la direction :</p>
+     <stage>Air : <hi>de Guillaume.</hi></stage>
+     <l>Si quelqu'acteur fidèle à sa coutume,</l>
+     <l> Feignait de tousser , aussitôt</l>
+     <l> Je dirais ce qui vous enrhume ,</l>
+     <l> C'est une avance qu'il vous faut : </l>
+     <l> Puis je dirais à l'actrice coquette</l>
+     <l> Qui de la tête se plaindrait ,</l>
+     <l> Vous avez pris ce mal de tète...</l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Où ?</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Sous votre bonnet, Oui , sous votre bonnet. <stage>( bis. )</stage></p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Cela peut-être fort utile , et pour tous vos soins vous demanderiez ?...</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Mes entrées à la comédie.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Quoi ! même quand on donnera <hi>le Médecin malgré lui, le Malade imaginaire ?</hi></p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Comme vous dites, Molière ne nous fait pas peur.</p>
+     <stage>Air : Trouverez-vous un Parlement.</stage>
+     <l>Malgré lui cet auteur malin</l>
+     <l> Nous place au temple de mémoire,</l>
+     <l> Une épigramme de sa main</l>
+     <l> Vaut une page dans l'histoire ;</l>
+     <l> Je sais qu'il voulut nous railler ,</l>
+     <l> Qu'il fut ardent à nous poursuivre ,</l>
+     <l> Mais en croyant nous immoler,</l>
+     <l> Pour jamais il nous a fait vivre.</l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>C'était généreux à lui.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Oui, Monsieur, tout Molière qu'il est, il n'a pu tuer les médecins.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Parbleu ! je le crois bien ; il n'aurait plus rien eu à leur reprocher. Au reste, monsieur,
+      je songerai à votre proposition.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>DROGUANT.</speaker>
+     <p>Comme vous dites; je vous laisse mon adresse; Droguant, docteur en médecine, rue du
+      Hasard.</p>
+     <stage>Air : une fille est un Oiseau.</stage>
+     <l>Si vous daignez m'accepter,</l>
+     <l> Sensible à la préférence,</l>
+     <l> Je veux par reconnaissance ,</l>
+     <l> Etre seul à vous traiter.</l>
+     <l> Reconnu pour très habile ,</l>
+     <l> Je vais visiter par mille ,</l>
+     <l> Des malades du haut stile</l>
+     <l> J'en ai dans chaque quartier ;</l>
+     <l> Mais quand vous serez des nôtres,</l>
+     <l> Monsieur, avant tous les autres ,</l>
+     <l> Je veux vous expédier.</l>
+     <stage>( Il sort. )</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE VI.</head>
+
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>seul.</stage>
+     <p>Ce pauvre Dorval est en bonnes mains... Charger un pareil homme de soigner mes acteurs. ce
+      serait adroit; quand il aurait entrepris l'un d'eux , je pourrais sur-le-champ en engager un
+      autre. Avec tout cela, je n'ai point encore fait de démarches poor me procurer le sujet qu'il
+      me faut. Un autre objet encore m'inquiète, je voudrais trouver le canevas d'une petite pièce
+      destinée aux débats de mes nouveaux acteurs... Mettons-nous à déjeuner. Les bonnes idées,
+      dit-on , viennent toujours à table. Ne négligeons pas un moyen aussi simple... Labrie !...
+      apporte-moi mon déjeuner.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE VII.</head>
+    <stage>DUPRE, M.FORSEC.</stage>
+
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <p>Pardon , Monsieur, j'ai mal choisi l'instant, je le vois; mais désirait vous entretenir
+      d'une affaire importante....</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Il est vrai, Monsieur, que j'allais déjeuner; mais cela peut se remettre. Je vais dire qui
+      l'on attende.</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <stage>L'arrêtant.</stage>
+     <p>Non , nos, gardez-vous en bien ; l'appétit ne s'ajourne pas.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>le considérant à part.</stage>
+     <p>Le pauvre diable ! Je crois qu'il parle par expérience. <stage>( Haut. )</stage> Faisons
+      mieux , Monsieur, veuillez prendre votre part de ce repas , ensuite...</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <p>Ah! Monsieur, il m'est impossible....</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ</speaker>
+     <p>D'accepter ?</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <p>De refuser une proposition si aimable... Mais de grace, point de façons.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Je fais comme vous. Monsieur déjeuna à la fourchette ?</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <p>Monsieur, en fait de repas , j'ai peu d'habitude ; mais :</p>
+     <stage>Air : <hi>j'ai vu partout dans mes voyages.</hi></stage>
+     <l>Les déjeûners à la fourchette ,</l>
+     <l> Ont bien pour moi quelques attraits;</l>
+     <l> L'art de bien vivre. à leur recette ,</l>
+     <l> De nos jours doit tous ses progrès ;</l>
+     <l> Autrefois des gourmans vulgaires,</l>
+     <l> Ne savaient rien imaginer ;</l>
+     <l> De tous les dîners de nos pères</l>
+     <l> Nous ne ferions qu'un déjeuner.</l>
+     <stage>( Le domestique apporte une table garnie. )</stage>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Monsieur, voici le mien.</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <stage>se précipitant à table.</stage>
+     <p>Je veux vous éviter la peine de me placer;</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Mais il n'y a qu'un couvert. Labrie , il en faut un second.</p>
+    </sp>
+    <sp who="#TDP23_2">
+     <speaker>LE DOMESTIQUE.</speaker>
+     <p>Je vais en chercher un là haut.</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC,</speaker>
+     <stage>mangeant très vite.</stage>
+     <p>Pardon, si je ne vous attends pas ; mais je suis un peu pressé.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Commeut donc , à votre aise. Vous ne voulez pas de raves ?</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <p>Viande creuse, je vais plutôt tomber sur les côtelettes... Ah ! que ça fait de bien !</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ,</speaker>
+     <stage>à part</stage>
+     <p>Comme il y va !</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <stage>toujours mangeant vite.</stage>
+     <p>Et ce pâté... Ah ! quelle croûte ! <stage>( Il se verse à boire , et boit coup sur coup.
+      )</stage> Mais çà fait boire ?... Je vais dire aussi un petit mot à ce biffeteck.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ,</speaker>
+     <stage>à part.</stage>
+     <p>Encore un moment, et il ne restera rien. <stage>( Haut. )</stage> Labrie! Ce coquin là ne
+      reviendra pas.</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC,</speaker>
+     <stage>dévorant.</stage>
+     <p>Il y a des gens qui sont d'une lenteur !....</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>à part.</stage>
+     <p>Ce n'est pas vous toujours. <stage>( Haut. )</stage> Labrie... Maudit valet ?</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <stage>( achevant les plats tour à tour. )</stage>
+     <stage>Air : <hi>mais ma mère , est-ce que j'sais ça ?</hi></stage>
+     <l>A des gens de cette clique</l>
+     <l> Pouvez vous vous asservir ?</l>
+     <l> Je n'ai point de domestique ,</l>
+     <l> Je sais tout seul me servir ;</l>
+     <l> Comme ce ragoût m'excite !</l>
+     <l> Je le finis , il le faut.</l>
+     <l> Si je le mange si vite,</l>
+     <l> Ces't qu'il ne serait plus chaud. </l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>à part.</stage>
+     <p>Voilà des principes. <stage>( Haut. )</stage> Mais vous ne buvez pas ?</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <stage>( achevant la bouteille. )</stage>
+     <l>Moi pour le jus de la treille</l>
+     <l> Je n'ai pas un goût bien vif,</l>
+     <l> Si j'achève la bouteille ,</l>
+     <l> Voici quel est mon motif</l>
+     <l> Le vin s'aigrit tout de suite,</l>
+     <l> Quand Phébus lance ses traits,</l>
+     <l> Et si je le bois si vite ,</l>
+     <l> C'est quil ne serait plus frais. </l><stage>( bis. )</stage>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Grande prévoyance !</p>
+    </sp>
+    <sp who="#TDP23_2">
+     <speaker>LE DOMESTIQUE,</speaker>
+     <stage>rentrant.</stage>
+     <p>Monsieur, voici un couvert.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Il est bien temps ! <stage>( Le domestique sort. )</stage></p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <p>A présent, mon cher hôte , à votre tour; cela ne vous empêchera pas de m'entendre.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Pour mieux vous écouter, je ne déjeûnerai qu'après ; ainsi soyez bref.</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC</speaker>
+     <p>Oh! l'expédition est mon fort. Voici le fait : je me nomme Forsec et vous voyez que je n'ai
+      pas volé ce nom là, le mélodrame est l'âme d'un théâtre et le vôtre sans doute...</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Vous vous trompez.</p>
+     <stage type="air">Air : <hi>des Visitandines.</hi></stage>
+     <l>C'est un bâtard de Melpomène.</l>
+     <l> Qui chez moi ne doit pas entrer.</l>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC</speaker>
+     <l>Bâtard ! sa fortune est certaine,</l>
+     <l> On les voit toujours prospérer. </l><stage>( bis. )</stage>
+     <l> Puis, grace au gout qui dégénère,</l>
+     <l> Les tragiques ne faisant rien,</l>
+     <l> Ce fils naturel pourrait bien,</l>
+     <l> Un jour hériter de sa mère. </l><stage>( bis. )</stage>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Mais enfin quel rapport y a-t-il entre le mélodrame et vous ?</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <p>Regardez-moi , ne suis-je pas né pour jouer les traîtres , les tyrans , les revenans, lès
+      inquisiteurs, les diables et les voleurs ?</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Malheureusement, monsieur, je n'ai point de quoi vous employer; mais si je puis vous être
+      utile auprès de quelqu'un de mes confrères...</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <p>Réfléchissez y , je vous prie, je viendrai savoir la réponse à l'heure de votre dîner.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>vivement.</stage>
+     <p>Pardon, je ne dîne pas chez moi.</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <p>Alors demain à votre déjeuner.</p>
+     <stage>Air : <hi>d'Alcibiade.</hi></stage>
+     <l>Oui, c'est à l'heure des repas</l>
+     <l> Que les gens sont meilleurs à prendre,</l>
+     <l> Ils sont toujours , en pareil cas ,</l>
+     <l> Mieux disposés à nous entendre,</l>
+     <l> Sans effort on se laisse aller,</l>
+     <l> On danse , on discute , on disserte,</l>
+     <l> Il n'en conte rien pour parler,</l>
+     <l> On a déjà la bouche ouverte.</l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>A demain donc.</p>
+    </sp>
+    <sp who="#TDP23_5">
+     <speaker>FORSEC.</speaker>
+     <p>A demain, de bonne heure. <stage>( Il sort. )</stage></p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE VIII.</head>
+
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>seul.</stage>
+     <p>Voilà une visite dont je me souviendrai, c'est un homme qu'il ne faut jamais voir à jeun.
+      Les bonnes idées viennent à table, me disais-je. Je n'en ai pas eu une fort heureuse de me
+      faire servir mon déjeûner. Ce diable d'homme m'a tellement dérangé que je ne sais plus ce que
+      je voulais faire. Remettons-nous. Je cherchais le canevas d'un petit prologue. Supposons trois
+      personnages ridicules. D'abord c'est l'imbécile qui entre.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE IX.</head>
+    <stage>DUPRE, MESURE.</stage>
+
+    <sp who="#TDP23_6">
+     <speaker>MESURE.</speaker>
+     <p>J'arrive à propos... Monsieur z'est seul et pourrà m'accorder z'un moment d'entretien.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Puis-je savoir, monsieur, ce qui m'attire l'honneur...</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE.</speaker>
+     <p>Monsieur, je me nomme Mesure, je suis tailleur pour vous servir, zet...</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Pardon, mais je n'ai besoin de rien , z'en ce moment.</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE,</speaker>
+     <p>Aussi z'est-ce un autre sujet qui me conduit z'ici, je sais que Monsieur a entrepris z'un
+      spectacle assez conséquent.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Eh ! bien ?</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE.</speaker>
+     <p>Moi, j'ai t'entrepris depuis long-temps une pièce dramatique que je veux mettre z'au
+      jour.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>En vérité ?... M. Mesure a été électrisé par l'exemple d'un cordonnier devenu illustre.</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE.</speaker>
+     <p>Oui, monsieur. Quand j'ai vu de quel pas il allait à la gloire, j'ai dit : ne restons pas
+      les jambes croisées.</p>
+     <stage>Air : <hi>d'abord je chante.</hi></stage>
+     <l>Ce noble exemple m'entraîne.</l>
+     <l> Il est fait pour m'éveiller ;</l>
+     <l> Il travaille à perdre haleine,</l>
+     <l> En plein drap je sais tailler;</l>
+     <l> J'ai sur lui , je le confesse,</l>
+     <l> Des droits que je puis citer.</l>
+     <l> Un tailleur , en fait de pièce ,</l>
+     <l> A coup sûr doit l'emporter. </l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Quand ce ne serait que par habitude.</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE.</speaker>
+     <p>Monsieur s'amuse; mais quand il connaîtra ma comédie....</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Je ne m'amuserai plus, c'est très possible ; ainsi c'est une comédie ?...</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE.</speaker>
+     <p>Oui, Monsieur, c'est z'une comédie, mais z'où la gaîté z'est mélangée par un intérêt si
+      doux... je vois d'ici le spectateur pleurant d'un œil et riant de l'autre.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Ce serait incommode pour les borgnes... Du reste, Monsieur a sans doute déjà lu sa
+      comédie ?</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE,</speaker>
+     <p>J'en ai même fait jouer une ; c'est moi qui enrichissais lé théâtre de l'Estrapade quand il
+      a fait banqueroute.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Et on vous a joué ?</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE.</speaker>
+     <p>Oui, Monsieur, les acteurs, le public, tout le monde s'en est m'êlé.</p>
+     <stage>Air : <hi>la Parole.</hi></stage>
+     <l>Mes garçons ayant tous le fil,</l>
+     <l> Je les avais mis au parterre ,</l>
+     <l> J'avais chargé le plus subtil</l>
+     <l> De diriger la troupe entière.</l>
+     <l> Tout allait bien... fatal destin!</l>
+     <l> Au dénouaient quelques murmures</l>
+     <l> De la pièce ont troublé la fin,</l>
+     <l> Et mes garçons le lendemain</l>
+     <l> M'ont tous demandé </l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Cela vous coûte si peu.</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE.</speaker>
+     <stage>même air.</stage>
+     <l>Peut être avec de bons acteurs,</l>
+     <l> J'aurais pu charmer le parterre ,</l>
+     <l> J'avais demandé les meilleurs,</l>
+     <l> Pour être plus certain de plaire ;</l>
+     <l> Par leurs talens j'aurais brillé,</l>
+     <l> Mais malgré toutes mes mesures ,</l>
+     <l> Ne soyez pas émerveillé,</l>
+     <l> Si je fus très mal habillé ,</l>
+     <l> On m'avait donné </l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Vous vous êtes vengé par une autre pièce ?</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE.</speaker>
+     <p>Que vous allez entendre. <stage>( En disant cela , il a traîné près de la sienne la chaise
+      de Dupré. )</stage></p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ,</speaker>
+     <stage>à part.</stage>
+     <p>Comment m'en débarrasser ?</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE.</speaker>
+     <p>M'y voilà. <stage>( Il lit. )</stage> « L'habit z'à la française, en 5 actes. »</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>C'est un peu long.</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE.</speaker>
+     <p>M. Grands-airs ouvre la scène en fermant la porte , et dit à son valet. « Passe-moi, maraud,
+      cet habit à la française. » Vous voyez comme on entre dans le sujet ?</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ,</speaker>
+     <stage>impatienté.</stage>
+     <p>Oui, mais moi je sors.</p>
+    </sp>
+    <sp who="#TDP23_6">
+     <speaker>MESURE.</speaker>
+     <p>J'entends, je vois que vous refusez la pièce sur l'échantillon; il ne me reste plus qu'une
+      ressource, j'ai une pantomime dont les chevaux n'ont pas voulu, je vais la porter aux
+      chiens.</p>
+     <stage>Air : <hi>la femme est une rose.</hi></stage>
+     <l>Paris , et la banlieue,</l>
+     <l> Viennent les visiter,</l>
+     <l> Ils ont toujours la queue,</l>
+     <l> Cela doit me tenter ;</l>
+     <l> Pour grossir les recettes,</l>
+     <l> Les montrant tous en bloc,</l>
+     <l> Du théâtre des bêtes</l>
+     <l> J'espère être le coq. </l>
+     <stage>( Il sort. )</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE VIII.</head>
+
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>seul.&lt;/&lt;/p&gt;</stage>
+     <p>Un tailleur métromane ! c'est une épidémie ! et où en serons-nous , si, parce qu'un artisan
+      s'est fait remarquer par un talent naturel, tous les autres vont s'imaginer qu'ils sont nés
+      pour être de grands hommes. Il semble que tous les originaux de Paris se soient donné
+      rendez-vous che. moi. Un valet plus bête que Jocrisse , un médecin plus ignorant que les
+      autres, un parasite effronté , un tailleur bel esprit, et dans tout cela pas d'acteur, je
+      serai obligé de mettre sur l'affiche : relâche par indisposition. Non, non, coûte qui coûte,
+      il faut jouer... Encore un importun! celui là, je l'aurai bientôt congédié.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCÈNE VII.</head>
+    <stage>DUPRE, POULOT.</stage>
+
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Comment, encore Poulot !</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Oui, monsieur , me v'là revenu.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Avez-vous de bonnes nouvelles à réapprendre ?</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Oh! mon dieu oui, monsieur, c'est à dire pas trop ! Le médecin est toujours ave mon
+      maître.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Cela n'est pas rassurant.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Mais c'est égal, puisque j'ai promis de ne pas vous abandonner.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>C'est bien aimable à vous.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Vous savez bien c'te jeune actrice que M. Dorval vous avait promise; eh! ben , elle est
+      disparue.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Comment disparue !</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Eh! oui, elle est, dit-on, partie pour... bien loin !... Pour la Ru...</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Pour la Ru...</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Pour la Russie.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Pour la Russie !</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Oui, Monsieur.</p>
+     <stage>Air : on doit soixante mille francs.</stage>
+     <l>Ses amis, malgré leur désir,</l>
+     <l> Si loin n'iront pas l'applaudir ,</l>
+     <l> C'est ce qui la désole; </l>
+     <l> Mais plus d'un importun témoin</l>
+     <l> N'ira pas la chercher si loin ,</l>
+     <l> C'est ce qui la console. </l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>C'est bien quelque chose.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>D'ailleurs , comme dit la chanson de deux sous que je viens d'acheter.</p>
+     <stage>Air : que m'importe ma liberté.</stage>
+     <l>Quand le doux primtemps dans nos bois</l>
+     <l> Ramène les jeux sur son aile ,</l>
+     <l> Doit on au pays des grands froids ,</l>
+     <l> S'étonner de voir une belle ?</l>
+     <l> En tous lieux les fougueux autans,</l>
+     <l> Respectent la reine des grâces,</l>
+     <l> Elle aura partout le printemps,</l>
+     <l> Puisque Zéphyr est sur ses traces. </l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Fort bien ! et moi, je trouverai une actrice où je pourrai.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT</speaker>
+     <p>Quand je vous dis que je vous tirerons de là.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>En vérité ? voudrais-tu par hazard jouer aussi les amoureuses ? <stage>(Il rit.)</stage></p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT,</speaker>
+     <p>Vous ailes voir si je vous mentons. <stage>( Appelant. )</stage> Nicette! Nicette!</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XII, et dernière.</head>
+    <stage>Les Mêmes, NICETTE, en jeune paysanne niaise.</stage>
+
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Qu'est-ce que c'est que cette Nicette ?</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>C'est ma sœur , pour vous obéir. Saluez, Mamzelle, plus bas donc... Et t'nez vous droite
+      comme moi.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Ah çà, et pour quel sujet m'amenez-vous Mademoiselle ?</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Pour jouer la comédie , donc.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>La com... <stage>(Il rit.)</stage>Ah ! ah ! ah ! ah !</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>N'est-il pas vrai, ma sœur, que tu veux bien faire les amoureuses ?</p>
+    </sp>
+    <sp who="#TDP23_7">
+     <speaker>Nicette</speaker>
+     <stage>niaisement.</stage>
+     <p>Dame ! c'est d'mon âge...</p>
+     <stage>Air : Lisbeth.</stage>
+     <l>Lucas qu'est un garçon charmant,</l>
+     <l> Plus d'une fois m'a dit : Nicette,</l>
+     <l> Pour ce qu'est en fait d'sentiment,</l>
+     <l> J'crois qu'tu réussiras vraiment;</l>
+     <l> Pourtant je n'me crois pas parfaite ,</l>
+     <l> J'n'ons encore fait l'amour qu'aux champs,</l>
+     <l> Et cela n'est pas difficile,</l>
+     <l> On dit qu'il faut ben plus d'talens ,</l>
+     <l> Pour jouer </l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>C'est surtout pour chanter qu'il faut du talent.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Oh ! pour c'qui est d'çà, elle s'en tire joliment.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Je le crois.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Allons, chante donc.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>A propos, quel a été votre maître de musique ?</p>
+    </sp>
+    <sp who="#TDP23_7">
+     <speaker>NICETTE.</speaker>
+     <stage>avec une révérence.</stage>
+     <p>Le serpent de notre paroisse, Monsieur.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Je m'en doutais.</p>
+    </sp>
+    <sp who="#TDP23_7">
+     <speaker>NICETTE.</speaker>
+     <stage>Air : <hi>c'est un enfant.</hi></stage>
+     <l>De c'maîtr' là, vous pouvez m'en croire,</l>
+     <l> Le choix n'était pas si nigaud ,</l>
+     <l> J'ons lu dans l'enfance une histoire</l>
+     <l> Qui vous le prouvera , s'il le faut.</l>
+     <l> D'la première femme</l>
+     <l> Qui sut former l'àme ,</l>
+     <l> Orner l'esprit trop innocent ?</l>
+     <l> C'est un serpent. </l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Comment diable !</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Chante, ma sœur, chante... queuqu'chose de gentil. dé pathétique, de...</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Oui, une romance , par exemple.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Une romance , c'est çà... Allons , Nicette, lâche là romance.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>Ecoutons la romance.</p>
+    </sp>
+    <sp who="#TDP23_7">
+     <speaker>NICETTE.</speaker>
+     <stage>( Ier acte de Créqui. ) Air : de vos bontés , de son amour.</stage>
+     <l>L'amour qui fut longtemps heureux</l>
+     <l> Dans le sein d'une paix parfaite,</l>
+     <l> Pour son malheur formant des nœuds ,</l>
+     <l> Fit naître une fille inquiète.</l>
+     <l> Otons le bandeau de l'amour ,</l>
+     <l> Dit aussitôt la jalousie,</l>
+     <l> Il est juste de rendre au jour</l>
+     <l> Celui qui m'a donné la vie. </l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>étonné.</stage>
+     <p>Comment donc ? Mais, â merveille ! <stage>( A part. )</stage> C'est un piège qu'on veut me
+      tendre. <stage>( Haut. )</stage> Continuez , mon enfant, continuez.</p>
+    </sp>
+    <sp who="#TDP23_7">
+     <speaker>NICETTE.</speaker>
+     <l>Bientôt du jour le vif éclat</l>
+     <l> Fatigua l'enfant de Cythère,</l>
+     <l> On sait que son œil délicat</l>
+     <l> Ne peut soutenir la lumière,</l>
+     <l> Ainsi pour éclairer l'amour</l>
+     <l> La trop crédule jalousie ,</l>
+     <l> Par une erreur priva du jour</l>
+     <l> Celui qui lui donna la vie.</l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>à part.</stage>
+     <p>Allons, décidément je suis joué ; mais voyons jusqu'au bout.</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT</speaker>
+     <stage>bas à sa sœur.</stage>
+     <p>Je crois qu'il commence à se douter de l'affaire.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <stage>à Nicette.</stage>
+     <p>Je vois, ma fille, que je vous avais mal jugée ; mais avant de vous confier le rôle de mon
+      amoureuse fugitive , il faut que j'aie une preuve de plus de vos talens. Dites-moi ,
+      Mademoiselle Nicette , dans votre village, où l'on a si bien dirigé votre goût, vous a-t-on
+      aussi appris à chanter le rondeau ?</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Si elle chante le rondeau ! ah ! et rondement encore... à livre ouvert. <stage>( Il prend un
+      livre de musique. )</stage></p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>En ce cas, Mademoiselle, choisissez, ou bien le premier venu , tenez, celui-ci ?</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Allons, ma sœur, file nous ça gentiment comme tu sais.</p>
+    </sp>
+    <sp who="#TDP23_7">
+     <speaker>NICETTE.</speaker>
+     <stage>RONDEAU.</stage>
+     <l>Jeunes amans, craignez d'une coquette</l>
+     <l> Le faux brillant , le langage imposteur,</l>
+     <l> Pour la beauté simple, tendre et discrette ,</l>
+     <l> Conservez toujours votre cœur.</l>
+     <l> Souvent l'Amour n'est qu'une erreur ;</l>
+     <l> Ne prenez pas pour une flamme</l>
+     <l> Un feu léger, toujours trompeur ,</l>
+     <l> Ne prenez pas l'esprit pour l'âme ,</l>
+     <l> Et le plaisir pour le bonheur.</l>
+     <l> Trop souvent un jeune cœur, en un moment s'enflamme.</l>
+     <l> Hélas ! jeunes amans , etc.</l>
+     <l> Sentir , penser, agir de même,</l>
+     <l> Et n'être qu'un quand on est deux,</l>
+     <l> Sur les désirs de ce qu'on aime</l>
+     <l> Fixer ses gouts , régler ses vœux ,</l>
+     <l> Pour un seul aspirer à plaire,</l>
+     <l> Pour être heureux, être constant ,</l>
+     <l> Pour être aimé , toujours sincère ,</l>
+     <l> Ah ! c'est charmant !</l>
+     <l> Mais prudemment,</l>
+     <l> Jeunes amans, etc.</l>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p><stage>( enthousiasmé. )</stage> Comme un ange ! comme un ange !</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>C'est pas l'embaras , c'est joliment roucoulé.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>M. Poulot, vous jouez fort bien l'imbécille. Mais de grace, plus de déguisement; et vous
+      gentille Nicette, reprenez vos graces naturelles, et daignez m'apprendre enfin...</p>
+    </sp>
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <p>Cette lettre , Monsieur, vous dira tout, Dorval m'avait chargé de vous la remettre.</p>
+    </sp>
+    <sp who="#TDP23_1">
+     <speaker>DUPRÉ.</speaker>
+     <p>«Mon cher Dupré, il m'est imposable d'accepter l'engagement que vous me proposez; mais les
+      deux artistes que je vous adresse vous en dédommageront. Une mémoire facile, beaucoup de zèle
+      et de bonne volonté de leur part rempliront le but que.. » <stage>( S'interrompant. )</stage>
+      Parbleu! vous ne me quitterez plus, je rends grace à mon ami Dorval, et j'espère gagner
+      toujours en mettant vos talens à l'épreuve.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>VAUDEVILLE.</head>
+    <stage>Air : de l'Opéra-Comique</stage>
+
+    <sp who="#TDP23_4">
+     <speaker>POULOT.</speaker>
+     <l>Ah ! combien d'erreurs ici bas ,</l>
+     <l> Probite que l'on croit solide</l>
+     <l> Pour un peu d'or fait un faux pas :</l>
+     <l> Femme, qu'on croit franche, est perfide</l>
+     <l> Un ami , que l'on croit parfait,</l>
+     <l> De ses torts vous donne la preuve,</l>
+     <l> Dans ce monde heureux qui pourrait</l>
+     <l> Tout choisir à l'épreuve. </l>
+    </sp>
+    <sp who="#TDP23_7">
+     <speaker>NICETTE</speaker>
+     <stage>au Public.</stage>
+     <l>Quand la bienveillance applaudit,</l>
+     <l> Notre zèle devient extrême,</l>
+     <l> Jamais il ne se ralentit,</l>
+     <l> Il renaît de vos bontés même,</l>
+     <l> Puissions nous , d'un si doux appui</l>
+     <l> Quand nous vous demandons la preuve,</l>
+     <l> De votre indulgence aujourd'hui</l>
+     <l> Faire encore une épreuve.</l>
+    </sp>
+    <trailer>FIN.</trailer>
+
+   </div>
+   <trailer>De l'Imprimerie de F. BRETON, place Maubert,
+    N°. 17, derrière le corps-de-garde</trailer>
+  </body>
+ </text>
+</TEI>

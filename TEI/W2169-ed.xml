@@ -1,0 +1,2274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2169">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Papirius, ou, Les femmes comme elles étaient : parade historique en un acte, mêlée de
+     vaudevilles: TEI edition (Wicks no. 2169)</title>
+    <author/>
+    <respStmt>
+     <resp>Original transcription by </resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI conversion by </resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor> The Digital Parisian Stage Corpus. GitHub.
+     https://github.com/grvsmth/theatredeparis </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images downloaded from <ref
+     target="http://books.google.com/books?id=JyxaAAAAcAAJ"/>.</p>
+    <p>HTML transcription downloaded from <ref
+     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2169papirius.html"
+     >https://github.com/grvsmth/theatredeparis</ref></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc>
+   <change when="2023-07-22">Hand-edited</change>
+<change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>PAPIRIUS, ou LES FEMMES COMME ELLES ÉTAIENT; PARADE HISTORIQUE EN UN ACTE, MÊLÉE DE
+      VAUDEVILLES, </titlePart>
+     <titlePart>Représentée, pour la première fois, à Paris sur le théâtre du Vaudeville, le 11
+      messidor an IX. </titlePart>
+    </docTitle>
+    <byline>Par les CC. GERSIN et VIEILLARD.</byline>
+    <docImprint>A PARIS, Chez Barba, libraire, palais du Tribunat, galerie derrière le théâtre
+     Français de la République , no. 51.</docImprint>
+    <docDate>AN IX. — 1801. </docDate>
+   </titlePage>
+   <div>
+    <head>COUPLETS D'ANNONCE.</head>
+    <lg>
+     <head>AIR: </head>
+     <l>Vous plaire à tous en même tems ,</l>
+     <l> C'est glorieux, mais difficile;</l>
+     <l> L'un veut qu'on le transporte aux champs</l>
+     <l> L'autre qu'on le laisse à la ville.</l>
+     <l> Celui-ci veut des traits bien doux ,</l>
+     <l> Celui-là veut des épigrammes :</l>
+     <l> Nous, pour contenter tous vos goûts ,</l>
+     <l> Nous allons vous offrir des femmes.</l>
+    </lg>
+    <p>Mais ce ne sont pas les femmes d'aujourd'hui</p>
+    <lg>
+     <head>AIR:</head>
+     <l> Dans les traits de nos personnages </l>
+     <l>Si quelque défaut vous frappait, </l>
+     <l>Songez qu'ils offrent les images </l>
+     <l>Du beau sexe comme il était. </l>
+     <l>Mais les femmes ne sont plus telles, </l>
+     <l>Et si chez nous de ses tableaux </l>
+     <l>L'auteur eût choisi les modèles , </l>
+     <l>On n'y verrait point de défauts. </l>
+    </lg>
+   </div>
+   
+
+   <castList>
+    <head> PERSONNAGES. ACTEURS. </head>
+
+    <castItem><role>CATON le censeur ,</role><actor>Hyppolite.</actor></castItem>
+    <castItem><role>VALERIUS-FLACCUS , grand édile,</role><actor>Lenoble.</actor></castItem>
+    <castItem><role>CALPHURNIË, épouse de Flaccus,</role><actor>M.me DuCHAUME.</actor></castItem>
+    <castItem><role>PAPIRIUS , fils de Calphurnie.</role><actor>M.me Henri.</actor></castItem>
+    <castItem><role>JULIE , pupille de Caton,</role><actor>M.Ile Arsène.</actor></castItem>
+    <castItem><role>CANIDIE ,</role><actor>M.me AUBERT.</actor></castItem>
+    <castItem><role>SEMPRONIE ,</role><actor>M.me Thubé.</actor></castItem>
+    <castItem><role>FULVIE,</role><actor>M.lle Jeannette Laporte.</actor></castItem>
+    <castItem><role>UN GREFFIER ,</role><actor>Caron.</actor></castItem>
+    <castItem><role>DAMES ROMAINES.</role><actor/></castItem>
+    <castItem><role>CLIENTS ET SUITE DE L'EDILE.</role><actor/></castItem>
+    <castItem><role>LICTEURS.</role><actor/></castItem>
+
+   </castList>
+   <set>
+    <p>La scène se passe à Rome , dans la maison de l'édile. </p>
+   </set>
+  </front>
+  <body>
+
+   <head>PAPIRIUS, PARADE HISTORIQUE.</head>
+
+   <div>
+
+    <head>SCENE PREMIERE.</head>
+    <stage>CALPHURNIE, CANIDIÈ , EMPRONIE , FULVIE ET AUTRES DAMES ROMAINES.</stage>
+    <stage>( Elles sont toutes assises en demi-cercle au lever de la toile : Calphurnie est au
+     milieu et sur un siege plus élevé. )</stage>
+
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Illustres romaines , par moi convoquées en ces lieux , ô vous dont les époux goûtent encore
+      les douceurs du sommeil dans le lit conjugal, tandis que le mien a déjà quitté sa couche
+      solitaire pour vaquer aux fonctions de l'édilité, salut.</p>
+     <stage>(Elle se lève, salue les femmes romaines, et est elle-même saluée par toutes les femmes
+      : elle se rassied. )</stage>
+     <p>Malgré les nombreux sacrifices que nous avons faits pour le bien public, le sénat a rendu
+      plusieurs lois attentatoires à nos prérogatives; en ce moment il en prépare une nouvelle qui
+      nous concerne; voilà ce que nous savons : que va-t-elle nous retrancher encore? C'est ce que
+      nous ne savons pas, et ce qu'il nous importe de savoir. — Délibérons sur les moyens d'y
+      parvenir; mais surtout de l'ordre, du calme et de la dignité.</p>
+     <stage>AIR : <hi>Ah ! quel scandale abominable !</hi> ( Des Rigueurs du Cloître. )</stage>
+     <l>« Trop haut n'élevez pas la voix ,</l>
+     <l> « Et ne parlez qu'une à la fois.</l>
+    </sp>
+    <sp who="#TDP2169_21">
+     <speaker>CHŒUR.</speaker>
+     <l>« Trop haut n'élevons pas la voix,</l>
+     <l> « Et ne parlons qu'une à la fois.</l>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE.</speaker>
+     <p>« Contraignez-vous: faites enfin silence.</p>
+    </sp>
+    <sp who="#TDP2169_3 ( 6 )">
+     <speaker>SEMPRONIE.</speaker>
+     <p>« Craignons de perdre une telle séance</p>
+     <pb n="( 6 )"/>
+    </sp>
+    <sp who="#TDP2169_4">
+     <speaker>FULVIE.</speaker>
+     <l>« Parlons tout bas ,</l>
+     <l> « Evitons de bruyans éclats.</l>
+    </sp>
+    <sp who="#TDP2169_21">
+     <speaker>CHŒUR.</speaker>
+     <l>« Plus bas :</l>
+     <l> « Evitons de bruyans éclats,</l>
+     <l> « Parlons tout bas,</l>
+     <l> « Parlons tout bas.</l>
+     <stage>(Le chœur s'achève en criant très-haut.)</stage>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Bien : nous commençons sous d'heureux auspices. — Après-avoir profondément médité sur la
+      situation difficile où nous. sommes, que celle d'entre nous qui veut parler se lève.</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>TOUTES LES FEMMES.</speaker>
+     <stage>( Elles se lèvent en même-tems. )</stage>
+     <p>Voici mon avis.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>assise.</stage>
+     <p>Chut, doucement. Pour aujourd'hui il convient de parler l'une après l'autre, et la parole
+      est de droit à la plus âgée.</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>TOUTES LES FEMMES.</speaker>
+     <stage>(Elles se rassoient en se disant l'une à l'autre :)</stage>
+     <p>A vous, à vous.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Eh bien , tout le monde se tait? Allons , puisqu'il n'est pas de plus âgée parmi nous, la
+      parole est à la plus jeune.</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>TOUTES LES FEMMES.</speaker>
+     <stage>(Elles se lèvent avec précipitation.)</stage>
+     <p>A moi.</p>
+    </sp>
+    <sp who="#TDP2169_21 ( 7 )">
+     <speaker>DERNIÈRE REPRISE DU CHŒUR.</speaker>
+     <l>« Je suis plus jeune, en bonne foi ;</l>
+     <l> « Elle est à moi ,</l>
+     <l> « Elle est à moi.</l>
+     <stage>(Pour appaiser le tumulte, Calphurnie se couvre avec son voile, et toutes les femmes se
+      remettent à leur place, en disant :)</stage>
+     <p>Chut, chut.</p>
+     <pb n="( 7 )"/>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE II.</head>
+    <stage>Les mêmes, PAPIRIUS, un esclave, arrêtant Papirius.</stage>
+    <p>Non, vous dis-je, les femmes délibèrent : les hommes n'entrent pas.</p>
+
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>en-dehors.</stage>
+     <p>Comment! Que dis-tu, téméraire?</p>
+     <stage>Air du pas redoublé.</stage>
+     <l>Aux lieux où pour délibérer</l>
+     <l> Sont les femmes de Rome ,</l>
+     <l> Empêche les vieillards d'entrer ;</l>
+     <l> Moi, je suis un jeune homme:</l>
+     <l> N'espère pas me retenir,</l>
+     <l> Et sache qu'à mon âge ,</l>
+     <l> Près des femmes pour parvenir,</l>
+     <l> On force le passage.</l>
+     <stage>( Il entre. )</stage>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>LES FEMMES, </speaker>
+     <stage>avec étonnement.</stage>
+     <p>Papirius !</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Mon fils!... il convient bien à un adolescent de s'introduire dans le sein de cette auguste
+      assemblée, de troubler le calme de nos discussions !</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Quand on entre au sénat, lorsqu'en qualité de fils de patricien on assiste aux délibérations
+      des pères conscrits on peut bien, je crois....</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>aux femmes.</stage>
+     <p>C'est vrai : il entre au sénat, nous pouvons l'admettre parmi nous.</p>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE.</speaker>
+     <p>C'est Minerve qui nous l'envoie.</p>
+    </sp>
+    <sp who="#TDP2169_3 ( 8 )">
+     <speaker>SEMPRONIE.</speaker>
+     <p>Soyez le bien-venu : approchez-vous, ô Papirius !</p>
+     <stage>(Papirius entre alors dans le cercle des femmes. )</stage>
+     <pb n="( 8 )"/>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>en entrant.</stage>
+     <p>Illustres romaines, je suis confus.... <stage>( A part. )</stage> Conservons notre
+      dignité.</p>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE, </speaker>
+     <stage>se levant.</stage>
+     <p>Ah ça, mon petit ami , puisque vous siégez au sénat, vous savez ce qui s'y passe. Qu'est-ce
+      qu'on y dit ?</p>
+    </sp>
+    <sp who="#TDP2169_3">
+     <speaker>SEMPRONIE, </speaker>
+     <stage>se levant.</stage>
+     <p>Qu'est-ce qu'on y fait?</p>
+    </sp>
+    <sp who="#TDP2169_4">
+     <speaker>FULVIE , </speaker>
+     <stage>se levant aussi.</stage>
+     <p>Qu'est-ce qu'on y projette?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Vous savez que les fils des sénateurs qui, comme moi, sont admis à leurs délibérations pour
+      apprendre à gouverner un jour l'univers, ne doivent rien révéler : ils en ont fait le
+      serment.</p>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE.</speaker>
+     <p>Les femmes vous en dégagent.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Doucement, s'il vous plaît.</p>
+     <stage>AIR: <hi>J'ai vu partout dans mes voyages,</hi></stage>
+     <l>« Chaque femme à son esclavage</l>
+     <l> « Veut nous soumettre tour à tour ,</l>
+     <l> « Et son inconstance dégage</l>
+     <l> « Des sermens que dicte l'amour ;</l>
+     <l> « Mais celles par qui l'on voit naître</l>
+     <l> « Les plus nobles penchans du cœur ,</l>
+     <l> « Ne peuvent faire méconnaître</l>
+     <l> « Les sermens qu'on fait à l'honneur. »</l>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Ne craignez rien: nous sommes discrètes.</p>
+    </sp>
+    <sp who="#TDP2169_6 ( 9 )">
+     <speaker>PAPIRIUS.</speaker>
+     <p>En êtes-vous bien sûres?</p>
+     <pb n="( 9 )"/>
+    </sp>
+    <sp who="#TDP2169_3">
+     <speaker>SEMPRONIE.</speaker>
+     <stage>Air: Oh ! oui, l'homme le plus parfait.</stage>
+     <p>« Nous ne dirons rien désormais.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>« Ne faites pas cette promesse.</p>
+    </sp>
+    <sp who="#TDP2169_4">
+     <speaker>FULVIE.</speaker>
+     <p>« Nous gardons de certains secrets.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>« Le mien n'est pas de cette espèce.</p>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE, </speaker>
+     <stage>le tirant à part.</stage>
+     <l>« C'est à moi seule que tu dois</l>
+     <l> « Un secret de cette importance.</l>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>à elle seule.</stage>
+     <l>« Je ne veux pas mettre à la fois</l>
+     <l> « Tant de gens dans ma confidence.</l>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE.</speaker>
+     <p>Comment , petit ingrat , déjà vous nous supposez des défauts ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>Papirius.</speaker>
+     <p>Des défauts? Personne, au contraire, ne vous en trouve moins que moi.</p>
+     <stage>Air: Que ta porte, ô ma tendre amie ! ( De lE'ntrevue. )</stage>
+     <l>« A nos hommages chaque femme</l>
+     <l> « A mille titros précieux ;</l>
+     <l> « Ses vertus captivent notre ame ,</l>
+     <l> « Ses attraits enchantent nos yeux:</l>
+     <l> « Et si pourtant à la censure</l>
+     <l> « Elle prête de légers trails ,</l>
+     <l> « C'est sans doute que la nature</l>
+     <l> « N'a point de chcfs-d'oeuvres parfaits. »</l>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE.</speaker>
+     <p>Puisque vous nous rendez justice, parlez donc.</p>
+    </sp>
+    <sp who="#TDP2169_6 ( 10 )">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Ah! c'est différent.</p>
+     <pb n="( 10 )"/>
+    </sp>
+    <sp who="#TDP2169_3">
+     <speaker>SEMPRONIE.</speaker>
+     <p>Vous nous refusez?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Demandez-moi toute autre chose , et je m'empresserai....</p>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE.</speaker>
+     <p>Nous ne vous demandons que cela, et nous ne sortirons pas d'ici que nous ne soyons
+      instruites.</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>TOUTES LES FEMMES, </speaker>
+     <stage>en se levant.</stage>
+     <p>Nous en faisons le serment.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>à part.</stage>
+     <p>Ah ciel ! et Caton qui doit venir ici ce matin , et ma chère Julie! — Vite , un mensonge
+      pour les renvoyer.</p>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE.</speaker>
+     <p>Eh bien?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Comment résister à des femmes? — Tout le monde écoute?</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>LES FEMMES.</speaker>
+     <p>Oui.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>à part.</stage>
+     <p>Que leur dirai-je? — J'y suis. — <stage>( Haut. )</stage></p>
+     <p>Le chef des augures vient de découvrir un ancien oracle qui promet les faveurs de la déesse
+      Lucine à toutes les romaines qui auront embrassé leurs maris le premier des ides d'avril,
+      avant la troisième heure du jour.</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>LES FEMMES.</speaker>
+     <p>Le premier des ides d'avril? C'est aujourd'hui.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Celles qui veulent jouir de cette faveur n'ont pas de tems à perdre.</p>
+    </sp>
+    <sp who="#TDP2169_21 ( 11 )">
+     <speaker>CHŒUR DE FEMMES.</speaker>
+     <stage>Air de la découpure.</stage>
+     <l>« Vite, hâtons notre départ;</l>
+     <l> « Courons sans retard</l>
+     <l> « Où notre devoir nous appelle :</l>
+     <l> « Vite, hâtons notre départ ;</l>
+     <l> « Un moment plus tard</l>
+     <l> « Nous pourrions arriver trop tard.</l>
+     <pb n="( 11 )"/>
+     <l>« Dépêchons, dépêchons, dépèchons-nous ;</l>
+     <l> « A nos chers époux</l>
+     <l> « Portons cette heureuse nouvelle.</l>
+     <l> « Dépêchons, dépêchons, dépèchons-nous;</l>
+     <l> « Et courons chez nous</l>
+     <l> « Embrasser nos époux. »</l>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE III.</head>
+
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>seul.</stage>
+     <p>C'est cela. — Je ne sais pas si elles y gagneront; mais le champ de bataille est libre , mon
+      rendez-vous aura lieu ; on s'entendra dans la maison , on s'entendra dans le quartier, et
+      Caton n'aura pas le mot à dire. Ma chère Julie peut maintenant venir! J'ai du talent pour les
+      négociations. Et des calomniateurs diront encore qu'on ne peut pas faire entendre raison aux
+      femmes ! tandis que moi à seize ans...</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE IV.</head>
+    <stage>JULIE, PAPIRIUS.</stage>
+
+    <sp who="#TDP2169_7">
+     <speaker>JULIE, </speaker>
+     <stage>entrant par la porte du fond.</stage>
+     <p>Eh ! bon dieu ! où courent ainsi loutes ces femmes ?</p>
+     <stage>AIR: C'est un enfant.</stage>
+     <l>« Quelle est donc la cause soudaine.</l>
+     <l> « Qui les fait sortir de ce lieu ?</l>
+     <l> « Dans le transport qui les entraîne ,</l>
+     <l> « Elles semblent courir au feu.</l>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <l>« Chacune à cette heure</l>
+     <l> « Va dans sa demeure.</l>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>« Qui l'y conduit si promptement?</p>
+    </sp>
+    <sp who="#TDP2169_6 ( 12 )">
+     <speaker>PAPIRIUS.</speaker>
+     <p>« C'est un enfant, c'est un enfant. »</p>
+     <pb n="( 12 )"/>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>Que dis-tu ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Que tu vois en moi l'auteur de ce grand mouvement.</p>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>Encore un nouveau tour de ta façon?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>C'est mon chef-d'œuvre. — On tenait ici un conseil secret ; j'ai voulu rompre l'assemblée,
+      j'ai dit un mot , et l'assemblée a été rompue.</p>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>Un seul mot ! Il est donc bien puissant ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Infaillible , et surtout nécessaire : Caton va se rendre ici.</p>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>Mon tuteur?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Lui-même. Irrité des assemblées illégales qui ont lieu dans cette maison , il doit venir ce
+      matin dans l'intention de prendre sur le fait le sénat féminin.</p>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>Quel malheur s'il y eût réussi ! Cet événement ne pouvait qu'augmenter la mésintelligence
+      qui règne entre nos parens, et peut-être rompre notre mariage.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Oui : mais par mon adresse , par mon génie , je vais profiter de cette circonstance pour
+      réconcilier Caton avec ma mère et son époux.</p>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>Comment y réussir? La nonchalance de ton beau-père , et la pétulance de Calphurnie irritent
+      également Caton , et je crains...</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Sois tranquille. — Je modérerai ma mère , j'écarterai l'édile ; et, enfin , je serai le
+      conciliateur.</p>
+    </sp>
+    <sp who="#TDP2169_7 ( 13 )">
+     <speaker>JULIE.</speaker>
+     <p>Et tu te flattes d'inspirer de la confiance à mon tuteur ? y songes-tu bien?</p>
+     <pb n="( 13 )"/>
+     <stage>Air du vaudeville de la Tragédie.</stage>
+     <l>« Tu sais qu'à nous unir tous deux,</l>
+     <l> « Dès long-tems Caton se refuse.</l>
+     <l> « D'un arrêt aussi rigoureux ,</l>
+     <l> « C'est en toi qu'il trouve l'excuse :</l>
+     <l> « Tu lui semblés trop étourdi,</l>
+     <l> « Et l'austère censeur de Rome</l>
+     <l> « Prétend qu'avant d'être mari ,</l>
+     <l> « Il faut mériter le nom d'homme. »</l>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Oh ! rassure-toi...</p>
+     <stage>Même air.</stage>
+     <l>« Long-tems si l'on dut me juger</l>
+     <l> « Une tète folle et légère .</l>
+     <l> « Bientôt on me verra changer</l>
+     <l> « Et de rôle et de caractère.</l>
+     <l> « Comme un enfant, un étourdi ,</l>
+     <l> « Jusqu'ici j'ai vécu dans Rome ;</l>
+     <l> « Mais qu'on me fasse ton mari ,</l>
+     <l> « Alors j'agirai comme un homme. »</l>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>Je crains qu'avant d'en venir là , nous n'ayons bien des obstacles à surmonter.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Je les lèverai tous.</p>
+     <stage>DUO.</stage>
+     <stage>Air de Doche.</stage>
+     <p>Au doux espoir livre ton cœur.</p>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>Déjà ta voix calme mon cœur.</p>
+    </sp>
+    <sp who="#TDP2169_23">
+     <speaker>ENSEMBLE.</speaker>
+     <p>Non , plus de craintes vaines.</p>
+    </sp>
+    <sp who="#TDP2169_6 ( 14 )">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Bientôt l'hymen et le bonheur ;</p>
+     <pb n="( 14 )"/>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>Présage heureux ! instant flatteur !</p>
+    </sp>
+    <sp who="#TDP2169_23">
+     <speaker>ENSEMBLE.</speaker>
+     <p>Ce jour finit nos peines.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Soins assidus, fidélité,</p>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>Amour constant, félicité.</p>
+    </sp>
+    <sp who="#TDP2169_23">
+     <speaker>ENSEMBLE.</speaker>
+     <l>Voilà notre partage.</l>
+     <l> Pour jamais avec volupté</l>
+     <l> Sous tes lois je m'engage.</l>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>Paix ; voilà ta mère : comme elle a l'air contrariée !</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Laisse-moi la préparer à l'arrivée de Caton.</p>
+     <stage>( Julie sort. )</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE V.</head>
+    <stage>PAPIRIUS, CALPHURNIE.</stage>
+    <stage>( Calphurnie entre sans voir Papinus. )</stage>
+
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Suis-je assez malheureuse ! .... rien ne me réussit. Je n'ai point trouvé mon époux.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>s'approchant.</stage>
+     <p>O ma mère ! vous êtes destinée à quelque chose de bien extraordinaire !</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>A quoi donc ?</p>
+    </sp>
+    <sp who="#TDP2169_6 ( 15 )">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Vous allez terminer le différend qui règne entre Caton et voire époux : cette gloire
+      n'appartient qu'à vous.</p>
+     <pb n="( 15 )"/>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>A moi ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>A vous seule.</p>
+     <stage>AIR: C'est le meilleur homme du monde. ( De M. Guillaume. )</stage>
+     <l>« Un habile médiateur,</l>
+     <l> « Usant d'une heureuse prudence ,</l>
+     <l> « Dompte la haine et la fureur</l>
+     <l> « Par la bonté, par l'indulgence :</l>
+     <l> « Par un irrésistible attrait,</l>
+     <l> « Il gouverne à son gré notre aine :</l>
+     <l> « Le modèle de ce portrait</l>
+     <l> « Ne pouvait être qu'une femme. »</l>
+     <p>Et cette femme , c'est vous.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>A la bonne heure ; mais je ne me charge pas de cette mission.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Tant pis. On aurait dit : « Deux des principaux chefs de l'état étaient divisés, ils
+      cessèrent de l'être : qui opéra ce grand prodige? Une femme ; Calphurnie. » Quel triomphe
+      !</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>On aurait dit cela ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Oui : mais maintenant ou dira : « Savez-vous pourquoi Calphurnie n'a pas réconcilié son
+      époux et Caton ? C'est parce qu'elle n'a plus d'empire sur son mari. »</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Je n'ai plus d'empire sur mon mari ! Est-ce que ce n'est pas moi qui le dirige, qui le
+      conduis dans l'exercice de ses fonc-publiques et privées?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>En ce cas , on dira que c'est Caton qui vous effraie.</p>
+    </sp>
+    <sp who="#TDP2169_1 ( 16 )">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Il faudrait qu'il fût bien redoutable.</p>
+     <pb n="( 16 )"/>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>On dira que vous avez craint de ne pouvoir le désarmer.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Ce n'est pas cela qui m'inquiète.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>On ne le pensera pas moins.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>J'empêcherai bien qu'on ne le croie ; et je veux donner un démenti aux mauvais propos , en
+      réunissant dès ce jour mon époux et Caton. Où est-il Caton ? que je le voie , que je lui
+      parle.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Calmez-vous ; il doit venir ce matin même.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>C'est bien : je vais me recueillir un instant, <stage>( A part. )</stage> et voir si par
+      hasard mon époux ne se trouverait pas chez lui.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>seul.</stage>
+     <p>Moi, je reste pour attendre Caton. Pour maîtriser son esprit, feignons de croire qu'il ne
+      vient ici que pour essayer une réconciliation. Je l'entends : de la souplesse, de l'assurance,
+      et il est à moi.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE VI.</head>
+    <stage>CATON, PAPIRIUS.</stage>
+
+    <sp who="#TDP2169_6 ( 17 )">
+     <speaker>PAPIRIUS</speaker>
+     <p>Caton ici ? quel bonheur ! quelle allégresse !</p>
+     <stage>AIR: Mon cousin l'allure.</stage>
+     <l>« En ces lieux la raison ,</l>
+     <l> « Cher Caton ,</l>
+     <l> « Dès long-tems nous délaisse :</l>
+     <l> « Mais dans cette maison,</l>
+     <l> « Cher Caton ,</l>
+     <l> « Pour guider ma jeunesse,</l>
+     <l> « Cher Caton ,</l>
+     <pb n="( 17 )"/>
+     <l>« Vous ramenez la sagesse ,</l>
+     <l> « Cher Caton ,</l>
+     <l> « Vous ramenez la sagesse. »</l>
+     <p>Parlez, parlez, sage Caton.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON, </speaker>
+     <stage>avec sang-froid.</stage>
+     <p>Votre mère est-elle ici ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>à part.</stage>
+     <p>Je m'y suis mal pris : changeons de ton. <stage>( Haut. )</stage> Oui, vertueux Caton ;
+      quelle sera sa reconnaissance en voyant que c'est même vous qui....</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Pourrai-je parler à votre mère?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>à part.</stage>
+     <p>Peste! quel sang froid! A un autre essai. <stage>( Haut. )</stage> N'en doutez pas , austère
+      Caton , vous allez la voir. Elle sait que tous les momens d'un magistrat tel que vous sont
+      comptés, et que chaque instant qu'on lui fait perdre est un larcin aux soins du bonheur
+      public.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Allez chercher voire mère.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>à part.</stage>
+     <p>Mon cellègue Caton n'est guère communicatif aujourd'hui. — Voici ma mère.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE VII.</head>
+    <stage>les mêmes, CALPHURNIE.</stage>
+
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Eh! bonjour, Caton.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Salut.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Soyez le bien venu ; asseyez-vous, Caton. Papirius, un siége à Caton.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Cela n'est pas nécessaire.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Je n'écoulerai rien que vous ne soyez assis.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS , </speaker>
+     <stage>à Calphurnie.</stage>
+     <p>Ne le contrariez pas.</p>
+    </sp>
+    <sp who="#TDP2169_1 ( 18 )">
+     <speaker>CALPURNIE.</speaker>
+     <p>Papirius, laissez-nous.</p>
+     <pb n="( 18 )"/>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Mais....</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Sortez.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Quel contretems ! elle va tout perdre.</p>
+     <stage>( Il sort en ayant l'air d'écouter. )</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE VIII.</head>
+    <stage>CATON, CALPHURNIE.</stage>
+
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Connaissez le sujet qui m'amène.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Point d'explication ; votre démarche me suffit. Que désormais l'union règne entre nos deux
+      familles. Embrassez-moi, tout est oublié.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Que signifie ce langage ?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Ne perdez pas déjà cet air de cordialité qui vous sied si bien : allons , embrassez-moi ,
+      vous dis-je.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Cessez un discours aussi déplacé.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Vous voilà retombé dans vos mauvaises habitudes. Quand quitterez-vous ce ton sévère? quand
+      cesserez-vous donc de censurer?</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <stage>AIR: Trouverez-vous un parlement?</stage>
+     <l>« Lorsque des hommes corrompus</l>
+     <l> « Aux moeurs ne feront plus injure ;</l>
+     <l> « Lorsque nos modernes Crésus</l>
+     <l> « Cesseront leur infâme usure ;</l>
+     <l> « Lorsque l'on verra chez l'hymen</l>
+     <l> « La fidélité rétablie.</l>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <l>« Je l'ai dit, vous avez dessein</l>
+     <l> « De censurer toute la vie. »</l>
+    </sp>
+    <sp who="#TDP2169_8 ( 19 )">
+     <speaker>CATON.</speaker>
+     <stage>Même air.</stage>
+     <l>« De ce devoir je suis jaloux ,</l>
+     <l> « Lorsque je fais la guerre au vice :</l>
+     <pb n="( 19 )"/>
+     <l>« Il est trop commun pnrmi nous ,</l>
+     <l> « Et je censure avec justice.</l>
+     <l> « Mais sitôt qu'il disparaîtra,</l>
+     <l> « Par un principe moins austère,</l>
+     <l> « La censure alors se taira.</l>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>« Elle n'est pas près de se taire. »</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Quel est le but des assemblées secrètes que des femmes tiennent ici?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Ah ! voilà ce que vous voulez savoir ?</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Je l'exige au nom du sénat.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>C'est différent. J'étais tout à l'heure l'épouse de Flaccus, votre parente, la seconde mère
+      de votre pupille; je suis maintenant la présidente de l'assemblée des femmes romaines.</p>
+     <stage>AIR: II faut quitter ce que j'adore.</stage>
+     <l>« Puisque le sénat, par prudence ,</l>
+     <l> « Vers nous vient de vous députer,</l>
+     <l> « Comme de puissance à puissance</l>
+     <l> « Ensemble nous allons traiter.</l>
+     <l> « Mais, en vous admettant d'emblée,</l>
+     <l> « Je manquerais à mes devoirs :</l>
+     <l> « Pour entrer dans notre assemblée,.</l>
+     <l> « Caton , avez-vous des pouvoirs ? »</l>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Songez à me répondre : quel est le motif de vos réunions clandestines?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Quel est le sujet des délibérations du sénat ?</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Avez-vous perdu la raison ?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Vous avez de la discrétion ; comme femme , je dois en avoir aussi, et le secret de mon
+      sexe...</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Est le secret de tout le monde ; au lieu que celui du sénat..,</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Sera bientôt le nôtre.</p>
+    </sp>
+    <sp who="#TDP2169_8 ( 20 )">
+     <speaker>CATON.</speaker>
+     <p>Calphurnie !</p>
+     <pb n="( 20 )"/>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Caton !</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Cédez.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Je sais ce que je vous dois ; vous parlerez le premier,</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Vous me forcerez d'user de sévérité-</p>
+     <stage>( En ce moment Papirius entre sans être aperçu. )</stage>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>bas.</stage>
+     <p>On se querelle ; écoutons.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>J'ai la liste des femmes qui se sont rendues ici.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>commençant à se fâcher.</stage>
+     <p>Je connais les sénateurs qui votent contre nos intérêts.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Elles seront retenues chez elles.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Ils ne seront admis nulle part.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Il suffit: c'est l'édile seul qui doit me répondre. Licteurs?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>à part.</stage>
+     <p>Vite , détournons l'orage.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Allez-vous encore l'accabler de reproches, le tourmenter?</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Je ferai mon devoir.</p>
+     <stage>( Il se retourne pour sortir , et aperçoit Papirius qui entre à la tête de quelques
+      licteurs. )</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE IX.</head>
+    <stage>CATON, CALPIIURNIE, PAPIRIUS, LICTEURS.</stage>
+
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>très-gravement.</stage>
+     <p>Le sénat est rassemblé pour prononcer sur la loi qui concerne les femmes romaines, et l'on y
+      attend l'illustre Caton.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Je vais m'y rendre. — La loi est juste, et malgré vos emportemens, je veux lui donner ma
+      voix.</p>
+    </sp>
+    <sp who="#TDP2169_6 ( 21 )">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>à Caton.</stage>
+     <p>Je vais vous accompagner au sénat.</p>
+     <pb n="( 21 )"/>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Je m'y oppose ; j'ai voté contre la loi qui vous permet d'y assister ; je ne veux pas
+      paraître l'approuver.</p>
+     <stage>Air des pendus</stage>
+     <l>« Sans vous je me rends au sénat :</l>
+     <l> « Dans sa conduite, un magistrat ,</l>
+     <l> « Par une lâche complaisance ,</l>
+     <l> « Doit-il trahir sa conscience ?</l>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>le prenant à l'écart.</stage>
+     <p>« Vous ne seriez pas le premier,</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>le tirant d'un autre coté.</stage>
+     <p>« Vous ne seriez pas le dernier. »</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>à Caton qui sort.</stage>
+     <p>Caton , vous ne voulez pas savoir le sujet de nos assemblées ?</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Je vous défends de les continuer : et ma démarche ici doit vous prouver que j'ai les yeux
+      fixés sur vous.</p>
+     <stage>( Les licteurs sortent, et Caton les suit. )</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE X.</head>
+    <stage>CALPHURNIE, PAPIRIUS.</stage>
+
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <stage>Air de la pipe de tabac.</stage>
+     <p>« Caton sort vraiment en colère.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>« Je me ris de son vain courroux.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Les hommes vous feront la guerre.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>« Pourront-ils se passer de nous ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>« Pourquoi ce silence qu'il blâme ?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>« Pourquoi veut-il tout me celer ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>« Il est sénateur;</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Je suis femme.</p>
+    </sp>
+    <sp who="#TDP2169_6 ( 22 )">
+     <speaker>PAPIRIUS.</speaker>
+     <p>« C'était donc à vous à parler. »</p>
+     <pb n="( 22 )"/>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Et je n'ai rien appris! A présent, comment me montrer en public? — Que dira-t-on en me
+      voyant paraître? Voilà cette femme romaine qui se vantait d'être toujours la première
+      instruite; son mari est sénateur, son propre fils siège au sénat... et elle ne sait rien !</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Est-ce votre faute? Voire mari ne va plus au sénat , et, comme vous, votre fils est
+      discret.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>comme par inspiration.</stage>
+     <p>Mon fils ! mon cher fils !</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Ma tendre mère !</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <l/>
+     <l> Mon espoir! ma consolation !</l>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>De quoi s'agit-il?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Non, tu ne voudras point faire le malheur de celle qui t'a donné le jour.</p>
+     <stage>( Elle ajuste la coiffure de Papirius , rattache sa robe , et lui fait quelques
+      caresses. )</stage>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Dites , parlez , que faut-il faire ?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>toujours de même</stage>
+     <p>Ta récompense est prête. Tu aimes Julie?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>vivement.</stage>
+     <p>Je l'adore !</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Tantôt, lorsque nous te demandions à connaître un décret, tu nous as fait part d'un
+      oracle.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Eh bien ?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Eh bien , il faut maintenant que tu me dises sans détour quelle est cette loi qui concerne
+      les femmes. Moi , de mon côté , je me charge , en dépit de tous les obstacles, d'assurer
+      aujourd'hui ton hymen.</p>
+    </sp>
+    <sp who="#TDP2169_6 ( 23 )">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Ma mère, rien n'égale ma déférence pour vous, et mon amour pour Julie ; mais je ne puis
+      parler.</p>
+     <pb n="( 23 )"/>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>s'éloignant</stage>
+     <p>Tu ne peux parler ! Tu n'es donc pas mon fils ? <stage>( Elle se rapproche avec
+      bonté. )</stage> Décidément, tu ne parleras pas ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Décidément, non.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>avec colère.</stage>
+     <p>Eh bien ! renoncez à votre maîlresse.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Ciel !</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Vous ne la verrez plus; elle ne sera jamais à vous.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>à part.</stage>
+     <p>Quelle situation! entre mon devoir et mon amour!</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Elle vous convenait; vous étiez faits l'un pour l'autre.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>voulant s'approcher de sa mère s'arrête.</stage>
+     <p>Si je pouvais par un nouveau détour.... J'y suis. <stage>( Il prend la main de sa mère avec
+      tendresse. )</stage> Vous l'exigez, ma mère ?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Vous alliez être unis.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Vous m'y forcez....</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>retirant sa main.</stage>
+     <p>Mais plus d'hymen entre vous.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>l' amenant sur le bord de la scène.</stage>
+     <p>Si j'étais sûr qu'aucune confidence de votre part...</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Ah ! je te promets, je te jure la plus grande discrétion.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Nous sommes seuls?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Oui ; parle.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>On ne peut nous entendre?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Non ; parle , parle ; parle donc !</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>avec mystère.</stage>
+     <p>On a proposé dans le sénat une loi qui permît aux femmes d'avoir deux maris.</p>
+    </sp>
+    <sp who="#TDP2169_1 ( 24 )">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Serait-il possible?</p>
+     <pb n="( 24 )"/>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Pourquoi non?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>En es-tu bien sûr ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>J'y étais. Mais ce n'est pas tout.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Qu'est-ce encore ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Cette proposition a été rejetée.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Rejetée ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Et il est question maintenant de donner deux femmes à un mari.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Deux femmes à un mari !</p>
+     <stage>AIR: Qu'on soit jaloux. ( Du Secret. )</stage>
+     <l>« O trahison! ô loi fatale!</l>
+     <l> « Quoi ! nos époux vont en ce jour,</l>
+     <l> « En nous donnant une rivale ,</l>
+     <l> « Nous enlever tout leur amour!</l>
+     <l> « Lorsque leur tendresse économe</l>
+     <l> « De moitié réduit notre prix,</l>
+     <l> « Feront-ils que dans un seul homme</l>
+     <l> « Nous puissions trouver deux maris ? »</l>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Rassurez - vous ; les sénateurs y regarderont à deux fois avant d'adopter une pareille
+      proposition.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Les égoïstes ! ils l'adopteront : ils sont capables de tout. Adieu.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Où courez-vous ?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Prendre l'air. — Je ne puis rester ici. <stage>( A part. )</stage> Allons convoquer notre
+      assemblée.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Ma mère , sougez à votre promesse ; gardez-vous de parler.</p>
+    </sp>
+    <sp who="#TDP2169_1 ( 25 )">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Moi parler! ne me connais-tu pas? Va, va , mon ami,
+      <pb n="( 25 )"/> ton secret est là. <stage>( A part. )</stage> J'étouffe, je suffoque.
+      <stage>( Haut. )</stage> Adieu.</p>
+     <stage>( Elle sort. )</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XI.</head>
+
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS , </speaker>
+     <stage>seul.</stage>
+     <p>Voilà ma mère bien alarmée ; elle ne se doute, guère que la loi qu'elle craint est dictée en
+      faveur des femmes par la reconnaissance publique : et que n'ont-elles pas fait pour la mériter
+      !</p>
+     <stage>AIR : Dorilas contre moi dès femmes.</stage>
+     <l>« L'une, à l'époux qu'elle révère,</l>
+     <l> « Dans les cachots unit son sort ;</l>
+     <l> « Une autre , pour sauver son père ,</l>
+     <l> « Sans effroi s'expose à la mort.</l>
+     <l> « Et lorsqu'en ces tems de détresse</l>
+     <l> « Les hommes étaient sans pitié,</l>
+     <l> « Les femmes nous offraient sans cessé</l>
+     <l> « L'héroïsme de l'amitié. »</l>
+     <p>Mais j'entends le cortège de l'édile qui vient ici tenir sa séance.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XII.</head>
+    <stage>PAPIRIUS, VALERIUS FLACCUS, un GREFFIER, CLIENTS, et suîte de l'édile.</stage>
+    <stage>( Flaccus est porté dans une chaise curule. par ses esclaves qui le placent sur le milieu
+     de la scène ; il a le costume de grand édile , le manteau long et la baguette d'ivoire.
+     )</stage>
+
+    <sp who="#TDP2169_24 ( 26 )">
+     <speaker>CHŒUR DES CLIENTS.</speaker>
+     <stage>AIR: Honneur, honneur. ( Du Droit du Seigneur. )</stage>
+     <l>« Louange, éclat</l>
+     <l> « An magistrat</l>
+     <l> « Soutien du l'état:</l>
+     <l> « Célébrons sa sagesse ,</l>
+     <l> « Exaltons sa délicatesse }</l>
+     <l> « De ses décrets ,</l>
+     <l> « De ses arrêts</l>
+     <l> « Minerve fait les frais.</l>
+     <l> « C'est le grand édile de Rome ,</l>
+     <l> « De plus ; c'est un grand homme.</l>
+     <pb n="( 26 )"/>
+     <l>« Gloire, éternel éclat</l>
+     <l> « Au flambeau du senate</l>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Bien; mettez-moi là. — Te voici , Papirius? tant mieux : je vais donner audience , reste
+      observe , et profite. — Greffier , lisez-moi les rapports.</p>
+    </sp>
+    <sp who="#TDP2169_10">
+     <speaker>LE GREFFIER, </speaker>
+     <stage>lisant.</stage>
+     <p>« L'inspecteur de police expose à l'édile curule que le soir des voleurs parcourent les rues
+      de Rome , arrêtent, maltraitent et pillent les citoyens paisibles. »</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Attendu que le soir on trouve des fripons dans les rues , défendons aux citoyens honnêtes de
+      sortir de chez eux après le coucher du soleil.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Mais c'est laisser le champ libre aux fripons.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Oui; mais le logis reste aux honnêtes gens.</p>
+     <stage>AIR: <stage>Fidèle époux, franc militaire.</stage></stage>
+     <l>« Les choses s'arrangent de sorte</l>
+     <l> « Que les fripons disparaîtront :</l>
+     <l> « On les a tous mis à la porte ,</l>
+     <l> « Et sans doute ils y resteront.</l>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <l>« Faut-il dans les lieux où l'on passe</l>
+     <l> « Les tolérer ?</l>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <l>« C'est par égard.</l>
+     <l> « Depuis'qu'ils ne sont plus en place ,</l>
+     <l> « Il faut bien qu'ils soient quelque part. »</l>
+    </sp>
+    <sp who="#TDP2169_10">
+     <speaker>LE GREFFIER, </speaker>
+     <stage>lisant.</stage>
+     <p>« Les courtisanes.... »</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Passez; dès long-tems ces objets ne sont plus de ma compétence.</p>
+    </sp>
+    <sp who="#TDP2169_10">
+     <speaker>LE GREFFIER.</speaker>
+     <p>C'est une plainte contre elles.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Encore? Voyons ce que c'est.</p>
+    </sp>
+    <sp who="#TDP2169_10 ( 27 )">
+     <speaker>LE GREFFIER.</speaker>
+     <stage>AIR: Aimé de la belle Ninon.</stage>
+     <l>« Les courtisanes d'à présent</l>
+     <l> « Vont si modestement vêtues ,</l>
+     <pb n="( 27 )"/>
+     <l>« Que les autres femmes , souvent,</l>
+     <l> « Sont avec elles confondues.</l>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <l>« Pour éviter semblable affront ,</l>
+     <l> « Ordonnons, sans plus de chiennes,</l>
+     <l> « Que nos femmes s'habilleront</l>
+     <l> « Autrement que les courtisanes. »</l>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>C'est un service à leur rendre.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Depuis la fin de la guerre on s'occupe de relever les temples d'Apollon, de Thémis et du
+      Bonheur : où en sont les travaux ?</p>
+    </sp>
+    <sp who="#TDP2169_10">
+     <speaker>LE GREFFIER.</speaker>
+     <p>Ils sont terminés , et l'on n'attend plus de vous que le chois des personnages qui en feront
+      la dédicace.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Ah! Papirius, je veux te consulter là-dessus.</p>
+     <stage>AIR: Cet arbre apporté de Provence.</stage>
+     <l>« Qui doit vouer à la justice ?</l>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>« Celui qui la fait révérer.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>« Aux beaux arts ?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <l>« La main protectrice</l>
+     <l> « Qui les fait enfin prospérer.</l>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>« A la félicité?</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <l>« C'est l'homme</l>
+     <l> « Dont la paix est l'heureux bienfait.</l>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>« C'est toujours le même qu'il nomme !</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>« C'est que le même homme a tout fait.</p>
+     <p>Et cependant Scipion n'a que trente ans.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XIII.</head>
+    <stage>Les mêmes, CALPHURNIE.</stage>
+
+    <sp who="#TDP2169_1 ( 28 )">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>entre en appelant.</stage>
+     <p>Valerius, Valerius. <stage>(Apercevant Papirius, à part.)</stage> Encore ici!</p>
+     <pb n="( 28 )"/>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Qu'est-ce donc? que voulez-vous, ma femme? avez-vous aussi quelque requête du ressort de mon
+      tribunal?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>bas à Flaccus.</stage>
+     <p>Oui , j'ai à vous parler.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>A votre tour : la justice n'a point de préférence. J'ai d'autres: affaires à traiter avant
+      la vôtre. — Greffier, continuez.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Mais avez-vous beaucoup d'affaires?</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Si j'en ai ! j'en suis accablé : est-ce que je ne porte pas le fardeau de l'état ?</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Vous travaillez trop, mon ami ; il faut vous ménager. <stage>( A demi-voix. )</stage> J'ai
+      quelque chose d'important à vous communiquer.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS, </speaker>
+     <stage>sortant de sa chaise.</stage>
+     <p>En effet, je me sens fatigué : allons, je lève ma séance.</p>
+     <stage>(Les esclaves écartent la chaise de Flaccus , et sortent avec le greffier.)</stage>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>à Papirius.</stage>
+     <p>Et toi, Papirius , que fais-tu ici ?</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS, </speaker>
+     <stage>en posant son manteau et sa baguette sur la chaise.</stage>
+     <p>Il assiste à mes délibérations : je le forme.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>C'est très-bien; mais la jeunesse a besoin d'un peu de délassement: va, va, mon fils ;
+      laisse-nous.</p>
+     <stage>Papirius sort, et Calphurnie le suit pour fermer la porte. )</stage>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>en sortant.</stage>
+     <p>Gare à mon secret ! allons, voir s'il ne court pas déjà la ville.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XIV.</head>
+    <stage>CALPHURNIE, FLACCUS.</stage>
+
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Nous sommes seuls?</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Eh mais! qu'y a-t-il donc de si pressé?</p>
+    </sp>
+    <sp who="#TDP2169_1 ( 29 )">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Il va que tout est bouleversé dans Rome ! plus de lois, plus de moralité, plus de
+      police.</p>
+     <pb n="( 29 )"/>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Ah ! je vous demande grace pour la police : mes soins, mon activité....</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Il s'agit bien de cela! Savez-vous ce que fait le sénat?</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Des bévues sans doute : je n'y vais plus.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Voilà votre tort.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Je ne veux pas y rencontrer Caton.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Aujourd'hui vous devez y aller.</p>
+     <stage>Air du vaudeville d'Abusar.</stage>
+     <p>« Préparez-vous.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>« Je suis trop las.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>« Obligez-moi.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>« Non , j'y renonce.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>« Il faut agir.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>« Je ne puis pas.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>« Telle est toujours votre réponse.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <l>« Puis-je courir matin et soir ?</l>
+     <l> « A mon âge c'est trop pénible.</l>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>« Rien n'est donc en votre pouvoir ?</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>« Il vous faut toujours l'impossible.</p>
+     <p>J'ai besoin de repos.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Par Diane, vous n'en prenez que trop!</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>J'en veux prendre encore.</p>
+    </sp>
+    <sp who="#TDP2169_1 ( 30 )">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Vous ne voulez pas aller au sénat ?</p>
+     <pb n="( 30 )"/>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Non.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Vous voulez donc avoir deux femmes?</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Deux femmes? Non , par Vulcain !</p>
+     <stage>AIR: Ça n'se peut pas.</stage>
+     <l>« Une femme nous est bien chère ;</l>
+     <l> « C'est toujours un joli cadeau :</l>
+     <l> « Mais pour l'homme qui se modère</l>
+     <l> « Trop de richesse est un fardeau.</l>
+     <l> « Comment supporter ma fortune?</l>
+     <l> « En garder deux , quel embarras !</l>
+     <l> « Puisque souvent en garder une,</l>
+     <l> « Ça n'se peut pas , ça n'se peut pas.</l>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Eh bien ! vous ne voulez pas aller au sénat, et la loi dont il s'occupe va vous donner deux
+      femmes.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Deux femmes ? — Mon manteau.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>en lui attachant son manteau.</stage>
+     <p>Vous trouvez qu'une épouse est trop exigeante ; que ferez-vous quand vous aurez...</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Deux femmes? Ma baguette.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>lui apportant.</stage>
+     <p>Vous qui vous plaignez que votre épouse parle trop, que ferez-vous quand une autre...</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Une autre ! O ciel ! — Mes esclaves , ma chaise.</p>
+     <stage>( Des esclaves entrent, et préparent la chaise. )</stage>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Vous qui soupirez toujours après le repos, jugez donc...</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Au sénat, au sénat. — Je vais lui dire : Pères conscrits, je m'oppose formellement ,
+      personnellement à ce que deux-femmes puissent... Deux femmes ! Au sénat, au sénat.</p>
+     <stage>( Il se place dans sa chaise, et ses esclaves l'emportent. )</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XV.</head>
+
+    <sp who="#TDP2169_1 ( 31 )">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>seule.</stage>
+     <p>En voici un du moins dont je suis sûre. — Que ne puis-je
+      <pb n="( 31 )"/> ainsi tenir les autres en mon pouvoir! — J'ai fait avertir les femmes de se
+      rendre ici en diligence — A quoi s'occupent-elles ? Si elles savaient le sort qui les attend !
+      — Grand dieu ! un mari pour deux femmes! quel décret !</p>
+     <stage>AIR : Je suis ne natif de Ferrare.</stage>
+     <l>« Si jamais dans la république</l>
+     <l> « On pouvait le mettre en pratique ,</l>
+     <l> « Combien un pareil règlement</l>
+     <l> « Causerait de dérèglement !</l>
+     <l> « Quoi ! deux femmes pour un seul homme !</l>
+     <l> « Quel affreux désordre dans Rome!</l>
+     <l> « Fût-il projet plus insensé ?</l>
+     <l> « Ah! c'est le monde renversé. » </l>
+     <p><stage>( On entend la ritournelle de l'air va-t-en voir s'ils viennent. )</stage> Mais,
+      qu'entends-je ?</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XVI.</head>
+    <stage>CALPHURNIE, CANIDIE, FULVIE, SEMPRONIE, FEMMES ROMAINES.</stage>
+    <stage>( Elles arrivent l'une après l'autre. )</stage>
+
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE, </speaker>
+     <stage>en entrant.</stage>
+     <p>Calphurnie, je sais le secret du sénat.</p>
+     <stage>AIR: Va-t-en voir , etc.</stage>
+     <l>« D'après le vœu de Caton ,</l>
+     <l> « Le sénat peu sage</l>
+     <l> « Des jeux de hasard , dit-on,</l>
+     <l> « Nous défend l'usage.</l>
+     <l> « De bonne part, sûrement,</l>
+     <l> « Ces bruits me parviennent.</l>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Empêcher les femmes de jouer ?</p>
+     <stage>( L'orchestre achève l'air. )</stage>
+     <p><stage>( A Canidie. )</stage> Ce n'est pas cela.</p>
+    </sp>
+    <sp who="#TDP2169_3 ( 32 )">
+     <speaker>SEMPRONIE, </speaker>
+     <stage>en entrant.</stage>
+     <p>Je sais le secret du sénat.</p>
+     <stage>Même air.</stage>
+     <l>« Pour éviter les écarts</l>
+     <l> « Aux femmes romaines ,</l>
+     <l> « On va , dit-on , de nos chars</l>
+     <l> « Nous ôter les rênes.</l>
+     <pb n="( 32 )"/>
+     <l>« De bonne part, sûrement ,</l>
+     <l> « Ces bruits me parviennent.</l>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Les sénateurs nous empêcheut de les mener? <stage>( L'orchestré achève l'air. )</stage>
+      <stage>( A Sempronie. )</stage> Ce n'est pas cela.</p>
+    </sp>
+    <sp who="#TDP2169_4">
+     <speaker>FULVlE, </speaker>
+     <stage>entrant.</stage>
+     <p>Je sais le secret du sénat.</p>
+     <stage>Même air.</stage>
+     <l>« Le sénat, toujours jaloux</l>
+     <l> « De nous contredire ,</l>
+     <l> « A ne voir que nos époux</l>
+     <l> « Prétend nous réduire.</l>
+     <l> « De bonne part, sûrement ,</l>
+     <l> « Ces bruits me parviennent.</l>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Nous forcer de vivre seules ? <stage>( l'orchestre achève L'air. )</stage> Ce n'est pas
+      cela. Ainsi , ce qu'il y a de plus illustre dans Rome , les femmes des premiers magistrats
+      ignorent ce qui se trame contre elles.</p>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE.</speaker>
+     <p>Je sais tout.</p>
+    </sp>
+    <sp who="#TDP2169_3">
+     <speaker>SEMPRONIE.</speaker>
+     <p>Rien ne m'est caché.</p>
+    </sp>
+    <sp who="#TDP2169_4">
+     <speaker>FULVIE.</speaker>
+     <p>On m'a tout appris.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Vous ne savez rien, rien; moi seule j'ai tout découvert: écoutez-moi.</p>
+     <stage>Air de la contredanse du Diable à Quatre.</stage>
+     <stage>MINEUR.</stage>
+     <l>« Par la plus noire des trames</l>
+     <l> « Le bonheur nous est ravi :</l>
+     <l> « Les sénateurs à deux femmes</l>
+     <l> « N'accordent phis qu'un mari.</l>
+    </sp>
+    <sp who="#TDP2169_21 ( 33 )">
+     <speaker>CHŒUR.</speaker>
+     <l>« Cruel attentat ! crime inoui !</l>
+     <l> Les infâmes !</l>
+     <l> « Un mari pour deux femmes !</l>
+     <l> « Que pourrons-nous faire d'un mari?</l>
+     <l> « Que chacune n'aura qu'à demi.</l>
+     <pb n="( 33 )"/>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE.</speaker>
+     <l>« Certes, le décret contraire</l>
+     <l> « Nous aurait mieux convenu.</l>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <l>« On l'a proposé , ma chère ,</l>
+     <l> « Mais ils ne l'ont pas voulu.</l>
+    </sp>
+    <sp who="#TDP2169_21">
+     <speaker>CHŒUR.</speaker>
+     <p>« Cruel attentat! etc.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Vous sentez combien une pareille mesure compromet la chose publique.</p>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE.</speaker>
+     <p>Calphurnie , on vous a trompée.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>On m'a trompée ? — Sachez que cette nouvelle m'a été révélée par un sénateur.</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>LES FEMMES.</speaker>
+     <p>Par un sénateur ? — Allons la proclamer.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>les arrêtant.</stage>
+     <p>Une de nous suffira pour la répandre dans fous les quartiers de la ville. — Loquacie ,
+      allez. <stage>( Loquacie sort. )</stage> Quant à nous , ne nous séparons pas. La loi n'est pas
+      encore rendue ; cherchons un moyen de contraindre le sénat à y renoncer.</p>
+    </sp>
+    <sp who="#TDP2169_10">
+     <speaker>UNE FEMME.</speaker>
+     <p>Rompons toute communication avec les hommes.</p>
+    </sp>
+    <sp who="#TDP2169_25">
+     <speaker>LES VIEILLES.</speaker>
+     <p>Adopté ; adopté !</p>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE.</speaker>
+     <p>Un moment, un moment ; ne nous portons pas tout de suite aux dernières extrémités.</p>
+    </sp>
+    <sp who="#TDP2169_3">
+     <speaker>SEMPRONIE.</speaker>
+     <p>Le remède serait pire que le mal.</p>
+    </sp>
+    <sp who="#TDP2169_4">
+     <speaker>FULVIE.</speaker>
+     <p>Il sera toujours tems d'en venir là.</p>
+    </sp>
+    <sp who="#TDP2169_26">
+     <speaker>LES JEUNES.</speaker>
+     <p>Rejeté, rejeté !</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Tentons d'abord les voies de conciliation : que chacune de nous se charge de gagner son
+      époux.</p>
+    </sp>
+    <sp who="#TDP2169_2 ( 34 )">
+     <speaker>CANIDIE.</speaker>
+     <p>Pour moi , je déclare que je ne puis plus rien sur le mien.</p>
+     <pb n="( 34 )"/>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>TOUTES LES FEMMES, </speaker>
+     <stage>les unes après les autres.</stage>
+     <p>Ni moi, ni moi, ni moi. etc.</p>
+    </sp>
+    <sp who="#TDP2169_3">
+     <speaker>SEMPRONIE.</speaker>
+     <p>Renonçons à ce projet.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <stage>AIR: Accompagné de plusieurs autres.</stage>
+     <l>« D'après ce découragement ,</l>
+     <l> « On reconnaît très-clairement</l>
+     <l> « Quelles disgraces sont les vôtres :</l>
+     <l> « Je vois que chacune de vous</l>
+     <l> « Est sans pouvoir sur son époux ,</l>
+     <l> « Et moi je suis comme les autres.</l>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XVII.</head>
+    <stage>LES MÊMES, LOQUACIE.</stage>
+
+    <sp who="#TDP2169_11">
+     <speaker>LOQUACIE, </speaker>
+     <stage>accourant.</stage>
+     <stage>AIR : A boire ! à boire ! à boire !</stage>
+     <l>« Alerte! alerte ! alerte !</l>
+     <l> « Je viens de la découverte :</l>
+     <l> « Les femmes courent au sénat,</l>
+     <l> « On va tenter un coup d'éclat. »</l>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>LES FEMMES.</speaker>
+     <p>Un coup d'éclat ! allons nous joindre à elles.</p>
+    </sp>
+    <sp who="#TDP2169_12">
+     <speaker>VÉTILLE, .</speaker>
+     <stage>accourant</stage>
+     <stage>Même air.</stage>
+     <l>« Alerte ! alerte ! alerte !</l>
+     <l> « De tous les côtés l'on déserte :</l>
+     <l> « Les femmes , pour fuir leur destin,</l>
+     <l> « Vont camper au mont Aventin. »</l>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Camper! voilà le moment de nous montrer.</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>LES FEMMES, .</speaker>
+     <stage>en sortant</stage>
+     <p>Oui, montrons-nous , montrons-nous.</p>
+     <stage>( Elles sortent en courant. )</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XVIII.</head>
+    <stage>CALPHURNIE, FLACCUS.</stage>
+    <stage>( Flaccus entra en rattachant son manteau, etc. )</stage>
+
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>avec douleur.</stage>
+     <p>La loi est donc rendue !</p>
+    </sp>
+    <sp who="#TDP2169_9 ( 35 )">
+     <speaker>FLACCUS.</speaker>
+     <p>J'en pleurerais.</p>
+     <pb n="( 35 )"/>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Et vous ne vous y êtes pas opposé?</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>J'ai tout fait pour cela.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Et ils ont résisté à votre éloquence ?</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Je n'ai pas parlé.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Le sénat a refusé de vous entendre ?</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Je n'ai pas pu y entrer.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Et pourquoi ?</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <stage>AIR. Daignez m'épargner le reste.</stage>
+     <l>« J'ai rencontré près du logis</l>
+     <l> « Mille femmes dont les cohortes</l>
+     <l> « Couraient, en poussant de grands cris ,</l>
+     <l> « Du sénat assiéger les portes.</l>
+     <l> « Le désordre de mes habits</l>
+     <l> « Vous instruit de leurs tours infâmes :</l>
+     <l> « J'ai payé pour tous les maris.</l>
+     <l> « Jugez, à présent, si je suis</l>
+     <l> « Pour la pluralité des femmes ! »</l>
+     <p>C'en était fait de moi si Caton ne fût arrivé.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Caton est là ?</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Eh oui ! dans la foule : dès qu'elles l'ont vu , elles ont lâché prise pour s'adresser à lui
+      ; et Dieu sait comment il s'en tirera !</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XIX ET DERNIÈRE.</head>
+    <stage>CATON, CALPHURNIE, FLACCUS, JULIE, PAPIRIUS, FEMMES ROMAINES, LICTEURS <hi>portant une
+     enseigne.</hi></stage>
+
+    <sp who="#TDP2169_22 ( 36 )">
+     <speaker>CHŒUR DE FEMMES.</speaker>
+     <stage>Air: Ran, tan, plan, etc.</stage>
+     <l>« A vos indignes décrets ,</l>
+     <l> « Non , non ! nous ne nous soumettrons jamais.</l>
+     <pb n="( 36 )"/>
+     <l>« Renoncez à des projets</l>
+     <l> « Dont le sexe s'offense.</l>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>« Quel excès de licence !</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>LES FEMMES.</speaker>
+     <p>« Quel excès d'insolence !</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>« On a cru vous honorer.</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>LES FEMMES.</speaker>
+     <p>« Non , non! au mépris on veut nous livrer.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>« Pouviez-vous mieux espérer ?</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>LES FEMMES.</speaker>
+     <p>« La belle récompense !</p>
+     <stage>REPRISE DE L' AIR</stage>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>« Faites enfin silence.</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>LES FEMMES.</speaker>
+     <p>« Perdes cette espérance.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>« Revenez à la raison.</p>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>LES FEMMES.</speaker>
+     <l>« Non, non ! la raison n'est plus de saison ,</l>
+     <l> « Et de cette trahison</l>
+     <l> « Nous obtiendrons vengeance! »</l>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Je ne reconnais point les romaines à cet excès d'immodération.</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Non, nous ne les reconnaissons plus.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Mais c'en est assez. Un autre sujet m'amène ici. Edile, vous êtes chargé de faire publier ce
+      règlement : il défend aux fils des sénateurs de siéger désormais au sénat ; un d'eux a commis
+      une indiscrétion qui leur en interdit l'entrée.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE, </speaker>
+     <stage>à Caton.</stage>
+     <p>Si mon fils a trahi le secret de l'état , c'est moi qui l'ai forcé de parler.</p>
+    </sp>
+    <sp who="#TDP2169_8 ( 37 )">
+     <speaker>CATON, </speaker>
+     <stage>avec surprise.</stage>
+     <p>Votre fils ! — En est-il moins coupable?</p>
+     <pb n="( 37 )"/>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Son silence lui faisait perdre sa chère Julie.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Son indiscrétion l'en prive pour toujours ; il n'obtiendra jamais mon consentement.</p>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>Nous sommes perdus.</p>
+    </sp>
+    <sp who="#TDP2169_1">
+     <speaker>CALPHURNIE.</speaker>
+     <p>Eh bien, Caton, vous êtes libre ; aussi bien mon fils ne voudrait-il pas être le premier à
+      obéir à la loi que vous venez de rendre, et qui le forcerait d'avoir deux femmes.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Deux femmes? — Que signifie ...</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>à Calphurnie.</stage>
+     <p>Pardon, ma mère ; j'ai craint de vous irriter, et j'ai osé...</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON , </speaker>
+     <stage>à Papirius.</stage>
+     <p>Quoi ! c'est ainsi...</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Illustre Caton , celui qui siège auprès de vous , qui veut s'allier à votre famille , peut
+      être léger, étourdi; mais il ne sera jamais indiscret.</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON ,</speaker>
+     <stage>à Papirius.</stage>
+     <p>Papirius , votre discrétion sera récompensée : ma pupille est à vous.</p>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <p>O bonheur !</p>
+    </sp>
+    <sp who="#TDP2169_8 ( 38 )">
+     <speaker>CATON , </speaker>
+     <stage>à Papirius.</stage>
+     <p>Et vous seul, malgré la loi, continuerez d'entrer au sénat. <stage>( Aux femmes. )</stage>
+      Quant à vous , romaines , je ne suis plus étonné du grand courroux qui vous anime ; connaissez
+      la loi qui nous occupait.</p>
+     <stage>( Il lit. )</stage>
+     <p>«Le sénat, reconnaissant des services que les femmes ont rendus dans les tems malheureux où
+      s'est trouvée la république , admirant le dévouement avec lequel elles ont bravé tous les
+      périls pour secourir leurs pères , leurs époux, leurs enfans , ordonne que leur éloge soit
+      fait publiquement, et leur décerne le titre de dames romaines. »</p>
+     <stage>( A l'instant, une fanfare se fait entendre, une enseigne se découvre , et laisse lire
+      cette inscription environnée d'une couronne de fleurs: HONNEUR AUX DAMES. )</stage>
+     <stage>Air nouveau de Cochet</stage>
+     <l>« Vous avez droit à ces honneurs:</l>
+     <l> « Un jour on lira dans l'histoire</l>
+     <l> « Que l'époque de nos malheurs</l>
+     <l> « Fut lépoque de votre gloire.</l>
+     <l> « Après ces tems d'adversité ,</l>
+     <l> « Nous vous offrons le même hommage</l>
+     <l> « Que l'homme échappé du naufrage</l>
+     <l> « Adresse à la divinité.</l>
+     <pb n="( 38 )"/>
+    </sp>
+    <sp who="#TDP2169_22">
+     <speaker>LES FEMMES.</speaker>
+     <p>Quoi ! c'est là la loi ?</p>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <p>Oui ; mesdames ; appaisez-vous : vous n'aurez qu'un mari.</p>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <p>Je n'aurai pas deux femmes !</p>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS.</speaker>
+     <p>Et les femmes resteront toujours comme elles étaient.</p>
+     <stage>VAUDEVILLE.</stage>
+     <stage>Air nouveau de Wicht.</stage>
+    </sp>
+    <sp who="#TDP2169_2">
+     <speaker>CANIDIE.</speaker>
+     <l>Blâmer l'amour et la jeunesse ,</l>
+     <l> Leur dicter de sévères lois ,</l>
+     <l> Gronder et se plaindre sans cesse,</l>
+     <l> Telle était la vieille autrefois.</l>
+     <l> Approuver la mode nouvelle,</l>
+     <l> Parler souvent de Tivoli ,</l>
+     <l>,</l>
+     <l> Telle est la vieille d'aujourd'hui.</l>
+    </sp>
+    <sp who="#TDP2169_1 ( 39 )">
+     <speaker>CALPHURNIE.</speaker>
+     <l>Pour réparer la perte faite ,</l>
+     <l> D'un nouvel époux faire choix</l>
+     <l> Après quinze jours de retraite ,</l>
+     <l> Telle était la veuve autrefois.</l>
+     <l> De peur qu'un vivant ne l'appaise,</l>
+     <l> Au tombeau suivre son mari,</l>
+     <l> Comme la matrone d'Ephèse,</l>
+     <l> Telle est la veuve d'aujourd'hui.</l>
+     <pb n="( 39 )"/>
+    </sp>
+    <sp who="#TDP2169_9">
+     <speaker>FLACCUS.</speaker>
+     <l>Aux jeux se montrer empressée ,</l>
+     <l> Faire des heureux quelquefois ,</l>
+     <l> Courir les bals et le lycée ,</l>
+     <l> Telle était l'épouse autrefois.</l>
+     <l> Blâmer les plaisirs de la veille ,</l>
+     <l> Ne regarder que son mari ,</l>
+     <l> Aux doux propos fermer l'oreille,</l>
+     <l> Telle est l'épouse d'aujourd'hui.</l>
+    </sp>
+    <sp who="#TDP2169_7">
+     <speaker>JULIE.</speaker>
+     <l>Figurer dans toutes les fêtes,</l>
+     <l> Du plaisir seul suivre les loix ,</l>
+     <l> Compter ses jours par ses conquêtes,</l>
+     <l> Telle était la fille autrefois.</l>
+     <l> Fuir l'éclat, et, par modestie,</l>
+     <l> Des fleurettes craindre l'ennui ,</l>
+     <l> Même ignorer qu'elle est jolie ,</l>
+     <l> Telle est une fille aujourd'hui.</l>
+    </sp>
+    <sp who="#TDP2169_8">
+     <speaker>CATON.</speaker>
+     <l>Enchaîner l'amour sur leurs traces,</l>
+     <l> Du bonheur enseigner les lois ,</l>
+     <l> Unir le sentiment aux graces ,</l>
+     <l> Voilà les femmes d'autrefois.</l>
+     <l> Aux vertus se montrer fidelles,</l>
+     <l> Du malheur se rendre l'appui,</l>
+     <l> Etre aimables , sensibles , belles ,</l>
+     <l> Voilà les femmes d'aujourd'hui.</l>
+    </sp>
+    <sp who="#TDP2169_6">
+     <speaker>PAPIRIUS, </speaker>
+     <stage>au public.</stage>
+     <l>Du parterre avec confiance,</l>
+     <l> Pour le sujet dont il fit choix ,</l>
+     <l> Oser réclamer l'indulgence ,</l>
+     <l> Tel était l'auteur autrefois.</l>
+     <l> Toujours fidèle à cet usage,</l>
+     <l> Vouloir unir à votre appui</l>
+     <l> De chaque belle le suffrage,</l>
+     <l> Tel est notre auteur aujourd'hui.</l>
+    </sp>
+    <trailer>FIN.</trailer>
+   </div>
+ 
+   <trailer>DE L'LIMPRIMERIE DE BRASSEUR, RUE DE LA HARPE,
+    No. 477.</trailer>
+  </body>
+  
+ </text>
+</TEI>

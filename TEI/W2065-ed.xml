@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2065">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nitouche et Guignolet: TEI edition (Wicks no. 2065)</title>
+    <author/>
+    <respStmt>
+     <resp>Original transcription by </resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI conversion by </resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor> The Digital Parisian Stage Corpus. GitHub.
+     https://github.com/grvsmth/theatredeparis </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images downloaded from <ref
+     target="http://www.google.com/books?id=xVWu4jMP5KoC"/>.</p>
+    <p>HTML transcription downloaded from <ref
+     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2065nitouche.html"
+     >https://github.com/grvsmth/theatredeparis</ref></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc>
+   <change when="2023-07-22">Hand-edited</change>
+<change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>NITOUCHE ET GUIGNOLET, COMÉDIE EN UN ACTE ET EN PROSE. </titlePart>
+    </docTitle>
+    <byline>Par <docAuthor>Dorvigny.</docAuthor> </byline>
+     <titlePart>Représenté sur le théâtre Montansier-Variétés, le 17 nivôse an 10. </titlePart>
+     <docImprint>A PARIS, Chez Barba, Libraire, Palais du Tribunat, galerie derrière ïe théâtre
+     Français de la République, no. 51.</docImprint>
+    <docDate> AN X. (1802.)</docDate>
+   </titlePage>
+   <castList>
+    <head> PERSONNAGES. ACTEURS. </head>
+
+    <castItem><role>M. ROGUIGNARD,</role><roleDesc>bourgeois de
+     Paris.</roleDesc><actor>Duval.</actor></castItem>
+    <castItem><role>Mlle ROGUIGNARD,</role><roleDesc>sa sœur, vieille fille.</roleDesc><actor>Mad.
+     Baroyer</actor></castItem>
+    <castItem><role>Mlle JULIE ,</role><roleDesc>fille de Roguignard.</roleDesc><actor>Mlle
+     Grangé</actor></castItem>
+    <castItem><role>NITOUCHE ,</role><roleDesc>jeune paysanne, servant chez
+     eux.</roleDesc><actor>Mlle Grangé j.</actor></castItem>
+    <castItem><role>GUIGNOLET ,</role><roleDesc>jeune
+     paysan.</roleDesc><actor>Brunet</actor></castItem>
+    <castItem><role>GRIPPEFORT,</role><roleDesc>procureur.</roleDesc><actor>Bonioli</actor></castItem>
+    <castItem><role>SCRUPULE.</role><roleDesc>} notaires {</roleDesc><actor>Hugot</actor></castItem>
+    <castItem><role>MINUTTE.</role><actor>Dufresnoy</actor></castItem>
+
+   </castList>
+
+   <set>
+    <p><hi>La scène est à Paris chez M. Roguignard.</hi></p>
+   </set>
+  </front>
+  <body>
+   <div>
+
+    <head>NITOUCHE ET GUIGNOLET.</head>
+    <stage>Le théâtre représente une salle. Il y a un canapé, chaises , fauteuils, et une table ,
+     avec papier, plumes et écritoire. La chambre de Mad. Roguignard est à droite , une porte à
+     gauche pour sortir, et une grande entrée au milieu du fond.</stage>
+
+   </div>
+   <div>
+
+    <head>SCENE PREMIERE.</head>
+    <stage>M. ROGUIGNARD, Mlle. ROGUIGNARD</stage>
+
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard, .</speaker>
+     <stage>a sa canne et son chapeau</stage>
+     <p>Ecoutez - moi bien, ma chère sœur ; avant de sortir , je veux, vous expliquer la conséquence
+      de l'opération majeure que je me propose de mettre à fin aujourd'hui.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Effectivement, M. Roguignard, vous avez l'air de couver quelque projet extraordinaire.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignad.</speaker>
+     <p>Ecoutez-moi, vous dis-je , attentivement.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE II</head>
+    <stage>LES PRÉCÉDENS, NITOUCHE, entre doucement du fond, avec un balai, et reste derrière à
+     écouter , en faisant semblant de balayer et d'épouster, sans être vue d'abord.</stage>
+
+    <sp who="#TDP2065_1 (4)">
+     <speaker>Roguignard, </speaker>
+     <stage>continuant sans la voir.</stage>
+     <p>Vous savez que mon ancien ami , M. Pillegrain , ce riche fermier d'Argenteuil, est mort
+      depuis six mois, et qu'il</p>
+     <pb n="(4)"/>
+     <p>m'avait confié une somme de dix mille écus à lui faire valoir. Il m'a laissé son exécuteur
+      testamentaire, et n'a pour héritier qu'un fils , jeune homme simple et ingénu, qui a toujours
+      été élevé à la campagne comme un paysan , et qui se nomme Eustache Guignolet.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Je sais tout cela. Après?</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Il m'a chargé de prendre soin de ce fils, et de lui remettre ces dix mille écus ; mais avec
+      l'obligation à lui d'épouser une personne de ma famille.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Ah ! voilà l'essentiel ! et il vous devait bien cette reconnaissance-là. <stage>( à part, en
+      se rengorgeant. )</stage> Une personne de la famille... Nous le verrons venir. <stage>( haut.
+      )</stage> Eh bien , mon frère?...</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Eh bien, je veux faire épouser ma fille à cet héritier, afin de ne pas me dessaisir de ces
+      trente mille francs que je fais profiter. J'ai écrit en conséquence au magister d'Argenteuil
+      qu'il disposât M. Guignolet à venir me trouver, et je viens de recevoir une réponse de lui ,
+      par laquelle il m'apprend que le susdit sera ici aujourd'hui.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>à part , avec humeur</stage>
+     <p>Pour épouser ma nièce qui est une ridicule ! oh ! elle ne mérite pas un si bon parti.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, </speaker>
+     <stage>derrière et à part.</stage>
+     <p>Tout ça n'est pas mauvais à savoir.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Je vais aller faire disposer, par mon notaire, un contrat de mariage , en attendant que mon
+      gendre arrive , et je le lui ferai signer sitôt qu'il paraîtra , d'autant plus facilement
+      qu'il n'a aucune connaissance du testament de son père, et qu'il croira tenir de moi seul tout
+      à-la-fois une épouse aimable et trente mille francs pour sa dot.</p>
+    </sp>
+    <sp who="#TDP2065_2 ( 5 )">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>C'est très-bien l'entendre.</p>
+     <pb n="( 5 )"/>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, .</speaker>
+     <stage>à part, derrière</stage>
+     <p>Oh ! oui ! il n'oublie jamais ses intérêts.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard, .</speaker>
+     <stage>se retournant , voit Nitouche , et lui dit brusquement</stage>
+     <p>Qu'est-ce que vous faites-là , vous ?</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, .</speaker>
+     <stage>d'un ton câlin</stage>
+     <p>Eh mais , je balaye , vous voyez ben.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Ce n'est pas là le moment, mademoiselle ; est-ce que vous voulez nous faire avaler toute
+      votre poussière ?</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Eh là ! ne vous fâchez pas. Je m'en vais , et je reviendrai quand vous n'y serez pus , mon
+      cousin.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard , .</speaker>
+     <stage>en colère</stage>
+     <p>Qu'est-ce que vous dites , mon cousin !... est-ce que vous ne vous souvenez plus de la
+      défense que je vous ai faite de prononcer ce nom-là ?... Je vous le passe encore ; mais
+      prenez-y garde. A la première fois , je vous renvoie.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Eh bien donc, je ne le dirai plus , là. <stage>( Elle rentre parle fond. )</stage></p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE III.</head>
+    <stage>ROGUIGNARD ET SA SOEUR.</stage>
+
+    <sp who="#TDP2065_1">
+     <speaker>ROGUIGNARD.</speaker>
+     <p>C'est une futée matoise que cette fille-là ! avec son air bonace et innocent ; elle écoute
+      tout , espionne tout ? et je vous conseille de vous en méfier.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard.</speaker>
+     <p>Je vous l'ai déjà dit la première , et vous êtes trop bon de la garder ici. C'est une sainte
+      Nitouche , comme je l'ai batisée , dont nous n'aurons que du désagrément.</p>
+    </sp>
+    <sp who="#TDP2065_1 ( 6 )">
+     <speaker>Roguignard.</speaker>
+     <p>Oh ! j'y mettrai ordre bientôt. Je la garde encore parce que j'en ai besoin jusqu'au mariage
+      de ma fille ; mais après? je la renverrai à son village. Revenons à vous ? ma sœur. Je voulais
+      vous dire que Mlle. Julie, ma fille, est si orgueil<pb n="( 6 )"/>
+leuse et si impérieuse... car je crois qu'elle tient de tous plus que de moi , cette
+      fille-là...</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard.</speaker>
+     <p>Bien obligé , mon frère ; vous ne laissez jamais échapper l'occasion de m'adresser une
+      politesse.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Dame , la preuve est à l'appui. Vous avez cinquante ans et plus...</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>piquée</stage>
+     <p>Eh ! je ne vous demande pas mon âge.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Non, mais je suis bien aise de vous le rappeller, moi. Vous avez donc , comme je dis,
+      cinquante ans bien sonnés , et cependant vous n'êtes pas mariée , et vous ne le serez
+      jamais... et cela , par la fierté que vous avez eue dans votre jeunesse de refuser nombre de
+      bons partis.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>en colère</stage>
+     <p>Eh ! qui vous dit, monsieur mon frère , que je ne le serai jamais ?</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard , .</speaker>
+     <stage>ricannant</stage>
+     <p>Oh ! c'est que le tems passé ne revient pas , et que, comme dit le proverbe, <hi>qui refuse
+      , muse.</hi> . . Au reste , je ne vous défends pas d'espérer ; mais je parie contre , et je
+      vous exhorte à la patience. C'est à présent la plus utile vertu qui vous reste à
+      pratiquer.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard.</speaker>
+     <p>Grand merci de votre conseil , j'en profiterai peut-être ; mais on vous aviserait en vain
+      d'avoir de la discrétion et de l'honnêteté, on y perdrait son tems.</p>
+    </sp>
+    <sp who="#TDP2065_1 ( 7 )">
+     <speaker>Roguignard , .</speaker>
+     <stage>riant</stage>
+     <p>Eh bien , quitte de politesses , ma bonne sœur , ne nous fâchons pas, et reprenons notre
+      raisonnement. Je vois donc, dis-je , avec chagrin, que ma fille suit tous vos mêmes principes.
+      Elle a déjà manquée , par son orgueil, plusieurs excellens partis, et elle a donné une si
+      mauvaise opinion de son caractère , que, depuis long-tems, personne ne me la demande plus ; et
+      je risque de la voir rester comme vous vieille fille. Or, comme voilà une nouvelle occasion et
+      très-favo-.</p>
+     <pb n="( 7 )"/>
+     <p>rable qui se retrouve pour l'établir, j'en veux profiter, et je l'en ai déjà prévenue. Ce
+      que je vous recommande donc , c'est de la disposer à m'obéir, en lui représentant tous les
+      avantages qu'elle trouvera dans ce mariage , afin qu'elle soit prête à signer le contrat à mon
+      retour de chez le notaire. Au revoir, ma sœur. Je compte sur vous. <stage>( il s'en va par la
+      ports de la rue.)</stage></p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE IV.</head>
+
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD, .</speaker>
+     <stage>seule</stage>
+     <p>Oui ! attends-toi que je vas la disposer à ce mariage-là ! il m'intéresse beaucoup
+      assurément ; et au moment , sur-tout, où tu me dis que je ne serai jamais mariée , moi !....
+      Oh ! voilà qui me pique , et je veux te faire mentir... <stage>( elle rêve.)</stage></p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE V.</head>
+    <stage>Mlle. ROGUIGNARD , sur le devant. NITOUCHE.</stage>
+
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, </speaker>
+     <stage>entre doucement derrière avec son balai , et dit à part.</stage>
+     <p>Bon! v'là ma cousine toute seule, tâchons de savoir un peu ce qu'ail pense dessus tout
+      ça....</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>sans la voir</stage>
+     <p>Et ce qu'il y a de mieux, c'est qu'il a eu l'indiscrétion de m'a vouer que monsieur
+      Guignolet doit avoir les trente mille francs, pourvu qu'il épouse une personne de la famille ;
+      mais il n'est pas spécifié positivement que ce sera sa fille.... Eh bien ! je suis de la
+      famille aussi bien que ma nièce, moi, et avant, même...</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, .</speaker>
+     <stage>derrière, bas</stage>
+     <p>Eh mais, dame ! j'en suis aussi , moi, malgré qu'ils ne veulent pas m'appeller cousine !</p>
+    </sp>
+    <sp who="#TDP2065_2 (8)">
+     <speaker>Mlle. Roguignard.</speaker>
+     <p>En dépit des yeux de mon frère, qui me voyent de travers, on peut encore , sans doute ,
+      paraître agréable à ceux d'un autre.</p>
+     <pb n="(8)"/>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, .</speaker>
+     <stage>derrière</stage>
+     <p>Eh , mon dieu ! je ne suis pas pus repoussante qu'elle , ja crois.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. roguignard, .</speaker>
+     <stage>en avant</stage>
+     <p>C'est ce que nous allons éprouver bientôt... Oui , au lieu d'aller sermoner sa fille, je
+      vais guetter l'arrivée de l'héritier; et tâcher de le prévenir en ma faveur. Outre que ces dix
+      mille écus-là m'accommoderaient bien , c'est que je ne dépendrais plus d'un frère tyrannique
+      et de mon impertinente nièce , qui ose prendre des tons avec moi, et me mépriser à cause de sa
+      jeunesse.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, .</speaker>
+     <stage>à part</stage>
+     <p>Et moi donc ! i me méprisent encore ben mieux, tous! que j'ai l'air d'être ici par charité
+      !... c'est encore ben pus dur!</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>se retourne et la voit</stage>
+     <p>Comment ! vous voilà encore ici ! est-ce que mon frère ne vous a pas défendu de balayer
+      ?</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, .</speaker>
+     <stage>d'un air innocent</stage>
+     <p>Oui , mais il est parti ; et je profite de ce moment-là pour faire mon ouvrage.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD, .</speaker>
+     <stage>en colère</stage>
+     <p>Il est parti, imbécille ! mais j'y suis encore , moi ; est-ce que vous me comptez peur rien
+      ?</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Oh ! non , je vous compte pour beaucoup , au contraire ; car , drès qu'il me'dit quate
+      paroles de reproches, vous m'en dites ben le redoube, vous , pour le moins.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD , .</speaker>
+     <stage>piquée</stage>
+     <p>Eh ! je ne vous en dis jamais assez, <stage>( à part.)</stage> Comme elle est insolente ,
+      malgré sa niaiserie !. ... Il n'y a pas jusqu'à cette créature qui me tourne ici en
+      ridicule.... niais voilà le moment de couper court à tout cela. <stage>( haut.)</stage>
+      Allez-vous-en, vous dis-je ; vous nétoierez ici quand il n'y aura personne.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, .</speaker>
+     <stage>d'un-air bonnace</stage>
+     <p>Eh ben ! je m'en vas encore , ma'cousine.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>avec humeur</stage>
+     <p>Qu'appeliez-vous, votre cousine ! vous êtes bien osée ! Est-ce que vous avez oublié ce que
+      mon frère vient de vous défendre encore devant moi ?</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, </speaker>
+     <stage>bonnement</stage>
+     <p>Oh ! je n'ai garde , i m'a défendu de l'appeller mon cousin.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>durement</stage>
+     <p>Eh bien ! souvenez-vous que je ne vous suis pas plus que lui, et que je vous fais la même
+      défense.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Comment ! je ne suis donc pas de la famille de mes parens, de ce coup-ci ?</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Quest-ce que vous dites , parens !... Nous'voulons bien par bonté prendre soin de vous ;
+      mais apprenez que nous ne vous devons rien, et que, quand on dépend de la bonne volonté du
+      monde, on ne connaît que des bienfaiteurs qu'on respecte , et non pas des parens avec qui l'on
+      se familiarise.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, .</speaker>
+     <stage>humblement</stage>
+     <p>Eh ben , madame , vous ne serez pus ma cousine , pisque vous ne voulez pas l'être, et je
+      vous respecterons pisqu'il le faut ; mais aussi i faut que j'arrange cette chambre , car il
+      est tard, et vous serais cause qu'on me grondera.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Allons , faites donc votre ouvrage ; aussi bien vous n'êtes déjà que trop paresseuse , et
+      vous ne cherchez que des prétextes. <stage>( à part. )</stage> Je réfléchis qu'il faut que
+      j'aille faire un peu de toilette pour recevoir ce jeune homme à qui je veux parler la
+      première. <stage>( à Nitouche. )</stage> Restez donc ici à bien nettoyer tout , et s'il arrive
+      un homme de la campagne , ne manquez pas de venir m'avertir tout de suite.</p>
+     <stage>( elle s'en va. )</stage>
+    </sp>
+    <sp who="#TDP2065_3 ( 10 )">
+     <speaker>Nitouche, </speaker>
+     <stage>la saluant</stage>
+     <p>Oui , ma cous.....</p>
+     <stage>Mlle. roguignard <stage>se retourne et la regarde d'un air qui lui coupe la
+      parole</stage>.</stage>
+     <p><stage>( Se reprenant. )</stage> Oui, madame.</p>
+     <stage>( L'autre sort, et va dans la chambre à droite. )</stage>
+     <pb n="( 10 )"/>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE VI.</head>
+
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, .</speaker>
+     <stage>seule</stage>
+     <p>Oh ! comme c'est donc chagrinant d'avoir des familles comme ça, qui vous renient parce
+      qu'ils sont pus riches que vous ! jarni ! je voudrais gagner tant seulement un gros lot pour
+      me moquer d'eux à mon tour , et je me choisirais du moins des parens à mon goût après... mais
+      , si nigaude qu'ils me croyent et que j'ai l'air de l'être esprès, j'ai bien entendu leurs
+      complots à tous , et je peux ben faire les mêmes aussi , moi ; i ne s'agit que d'avoir du
+      bonheur; car enfin , tout ça dépend, à ce qu'il me paraît, du jeune hommè tout seul ; si je
+      l'y plaisais , à s'théritier-là putôt que les autres , et qu'il voulut m'épouser, j'aurais les
+      dix mille écus avec lui, tout aussi ben que ma vieille ou ma jeune cousine, qui me forcent
+      d'être leus servante , et de les appeler madame et mamzelle... Faut travailler à ça. Je vas
+      d'abord me faire un peu pus propre , afin de pouvoir donner dans l'œil à M. Grignolet, quand
+      il arrivera; ma vieille cousine est trop passée pour ly plaire , et ma jeune , sa nièce, est
+      trop orgueilleuse pour vouloir d'un paysan. Tout ça me fait pus beau jeu ; ensuite , j'ai mon
+      parain , le procureur, M. Grippefort, qui n'aime déjà pas mon cousin Roguignard, et qui me
+      soutiendra là dedans.... Oui , faut entamer la besogne , et pis je verrons ce que ça
+      deviendra.</p>
+     <stage>( elle sort par le fond. )</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE VII.</head>
+
+    <sp who="#TDP2065_4 ( 11 )">
+     <speaker>GUIGNOLET, .</speaker>
+     <stage>vient par le côté de la rue, il a un habit de paysan, et en demi-deuil; un grand chapeau
+      , des guêtres , un bâton à la main y et une gourde en bandoullière</stage>
+     <p>Quien ! i n'y a personne dans ste maison ! s'est pourtant ben ici qu'on m'a t'indiqué , une
+      porte grise avec trois fenêtres devant peinturlurées en vert, en face de la <hi>Truie qui
+      file....</hi> Ah! c'est que le monde est à la promenade, appa<pb n="( 11 )"/>
+vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! j'avions peur
+      que sa lettre ne fusse une attrape , quand notre magister nous l'a lue , et qu'on nous allait
+      rire au né, quand j'aurions demandé ce nom là dans Paris... mais pas du tout, c'est ben vrai,
+      i s'appelle comme ça tout juste, de même que nous Ustache Guignolet ; et pis aussi, j'avons
+      ben vû la Truie qui file , dans le beau mitan de l'enseigne en facé ; en ce cas-là i ne faut
+      pas nous gêner ici, pisqu'on nous y a fait venir pour de bonnes nouvelles à ce qu'on dit , et
+      que j'y serons comme si c'était cheus nous ; eh ben ! étalons nous y en attendant de savoir
+      quoique M. Craquignard nous veut. <stage>( Il regarde le canapé. )</stage> Vlà justement une
+      chaise qu'est pus commode que nos tabourets de la campagne , reposons nous z'y ; il n'y a de
+      bon tems dans la vie que les beaux momens qu'on s'y donne. <stage>( il s'étale sur le canapé.
+      )</stage> Sarpedié ! ça dégotte encore mon lit de sangue.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE VIII.</head>
+    <stage>GUIGNOLET, Mlle. ROGUIGNARD, parée ridiculement.</stage>
+
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD, .</speaker>
+     <stage>à part, en haut, sortant de sa chambre</stage>
+     <p>Mon impatience ne me permet pas d'attendre qu'on m'avertisse , et je viens moi-même guetter
+      son arrivée.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, </speaker>
+     <stage>retourne la tête et la voit. ( à part, sans se lever. )</stage>
+     <p>Quien , v'la une femme ! qu'est-ce qu'elle cherche ici ? est-ce qu'elle a reçu aussi une
+      lettre de bonne nouvelle pour s'y rendre?</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, </speaker>
+     <stage>le voyant aussi. ( à part au fond. )</stage>
+     <p>Eh mais , voilà quelqu'un ! serait-ce lui déjà ? <stage>( elle avance à lui )</stage></p>
+     <p>Que demandez-vous ici, monsieur ?</p>
+    </sp>
+    <sp who="#TDP2065_4 ( 12 )">
+     <speaker>Guignolet, </speaker>
+     <stage>sans la saluer.</stage>
+     <p>Ne vous dérangez pas , madame, ni nous non pus. Vous-cherchez apparemment M. Craquignard ,
+      et je le demandons<pb n="( 12 )"/> itout. Par ainsi , attendons-le tous les deux sans nous gêner , et causons ensemble jusqu'à
+      ce qu'il vienne , ça nous fera passer le tems ; aseisez-vous là, tenez. <stage>(Il retire un
+      peu ses jambes qu'il avait étendues sur le canapé. )</stage></p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle roguignard, </speaker>
+     <stage>d'un air de dignité.</stage>
+     <p>Non , monsieur, je ne cherche pas M. Roguignard, je suis sa sœur , et maîtresse dans sa
+      maison comme lui, vous pouvez vous adresser à moi pour vos affaires , c'est la même chose.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, </speaker>
+     <stage>se levant.</stage>
+     <p>Ah! je dis , madame , la même chose !... Je crayons ben que y a queuque différence dans les
+      personnes ; mais i n'y en aura pas dans les respèques que je voulons vous rendre à tous les
+      deux ; je nous appelons nous Ustache Guignolet, je sommes le fils de notre père, qu'est mort
+      défunt il y a six mois, et l'ami de M. Craquignard , qui nous a écrit, par notre magister, de
+      venir cheus lui parce qu'il avait des bonnes nouvelles à nous apprendre.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. roguignard.</speaker>
+     <p>Oui, monsieur , d'excellentes même ; et, puisque mon frère n'y est pas pour vous les dire ,
+      je me félicite de pouvoir vous en instruire moi-même.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Madame, je nous en félicitons aussi, et de queuque part que le bien nous arrive , je pensons
+      qu'il faut remarcier la main qui nous l'offre, et en ouvrir deux pour le recevoir. En
+      conséquence , nous v'la tout prêt, dépêchez vous. <stage>( Il lui tend les deux mains.
+      )</stage></p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>minaudant</stage>
+     <p>Mon cher enfant, vous en méritez beaucoup , et je suis enchantée de pouvoir vous annoncer
+      que je veux faire votre fortune, et je le peux , si vous le voulez.</p>
+    </sp>
+    <sp who="#TDP2065_4 ( 13 )">
+     <speaker>Guignolet, .</speaker>
+     <stage>vivement</stage>
+     <p>Si je le voulons ! ah, ma chère bonne dame ! je le voulons sûrement encore, pusque vous ne
+      le pouvez ; parlez-nous clair, et croyez que ça ne manquera pas de notre</p>
+     <pb n="( 13 )"/>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Eh bien ! mon cher , pour ne pas vous faire languir , la bonne nouvelle est que je puis vous
+      faire toucher dix mille écus comptant.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>chaudement</stage>
+     <p>Sarpedié ! toucher , ça n'est pas assez ; si je les magnons une fois , je voulons les
+      empoigner et les empocher tout-à-fait.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>C'est aussi comme cela que je l'entends.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>guignolet.</speaker>
+     <p>Eh ben ! pisque je l'entendons de d'même tous les deux , faites-moi donc ben vite entendre
+      itout le son des écus pour en finir.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>C'est comme si vous les teniez , il n'y a qu'un mot à dire pour les avoir.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oh , que non , dire et tenir , c'est ben différent. Mais encore, queuque c'est que ce mot
+      qu'il faut lâcher pour ça ? est-ti ben difficile ?</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard , .</speaker>
+     <stage>minaudant</stage>
+     <p>Je ne crois pas qu'il doive vous le paraître , et beaucoup d'autres voudraient être à votre
+      place pour le dire.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Eh jarni ! que de lantiponage! annoncez-le nous donc ben vite pour que je lé disions , que
+      je prenions l'argent, et que je nous en allions avec.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Vous me paraissez bien pressé de l'avoir.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oh ! sarpedié ! je voudrions déjà le tenir.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Oui, mais c'est qu'il y a une condition pour cela.</p>
+    </sp>
+    <sp who="#TDP2065_4 ( 14 )">
+     <speaker>Guignolet.</speaker>
+     <p>Quien ! des conditions astheure ! et vous nous disiez avant que ce n'était qu'une
+      parole.</p>
+     <pb n="( 14 )"/>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. roguignard.</speaker>
+     <p>Ce n'en est qu'une non plus , et bien courte même ; il ne s'agit que de.prononcer un
+      <hi>oui.</hi></p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Eh jarnombille ! j'en dirons putôt dix mille , un par chaque écu ; mais que je les tenions
+      ben vite.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>En ce cas, mon enfant, vous ne tarderez pas. Sur le bien que j'ai entendu dire de votre
+      sagesse et de votre bonne conduite, je me suis déterminée à vous enrichir en vous épousant. Ce
+      mariage vous assure les dix mille écus avec ma main. Voilà le marché doublement avantageux que
+      je vous propose ; ainsi, en me disant <hi>oui</hi>, vous aurez l'épouse et les trente mille
+      francs.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>d'un air de réflexion, et se grattant l'oreille</stage>
+     <p>Ah ! diantre, ça fait deux parts au lieu d'une, donc ?</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Positivement , et c'est un surcroit de bonheur qui doit vous flatter.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oh ! je disons, madame , c'est sûrement pusque je ne demandions ; et pour ce qui est de
+      votre bonté de songer à nous , c'est là ce qui nous embarrasse le pus fort.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Comment donc ! que voulez-vous dire ?</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Eh parguenne ! que j'aurions été ben pus à not'aise , si je n'avions eu à vous remercier que
+      pour les trente mille francs. Mais à c't'heure-ci, qu'il est question de vous épouser avec, ça
+      ne me paraît pu s'emmancher si aisément.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>piquée</stage>
+     <p>Pourquoi donc, M. Guignolet ? est-ce que ma personne vous répugnerait, par hasard ?</p>
+    </sp>
+    <sp who="#TDP2065_4 ( 15 )">
+     <speaker>Guignolet.</speaker>
+     <p>Eh ! mon dieu , madame, queuque vous dittes donc là , rapugnerait !... Comment que ça se
+      pourrait-ti , pisque je ne comprenons tant seulement pas ce mot-là..</p>
+     <pb n="( 15 )"/>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>sèchement</stage>
+     <p>Eh mais, que je n'aurais pas le bonheur de vous paraître aimable ?</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oh ! jarni, ben loin de ça , madame, qu'au contraire... c'est que ça me contusionne la
+      timidité de mon respeque. Pour aimabe , je sommes trop poli pour vous le renier ; et pis , ça
+      ne nous irait pas , car y a long-tems qu'on sait quo vous l'êtes ; mais c'est que je
+      n'oserions jamais vous regarder comme not'femme ; vous voyez ben que je sommes trop jeune.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. roguignard, .</speaker>
+     <stage>faisant la belle</stage>
+     <p>Eh mais, mon cher ami, est-ce-que vous me trouvez donc si vieille ?</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Vieille ! oh non. Je ne voulons pas vous dire ça non pus , c'est une sottise... Mais c'est
+      tant seulement de l'âge que le monde dira que vous avez de trop pour nous.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>piquée</stage>
+     <p>Ce sont des sots qui dirons ça. Est-ce que vous le penseriez aussi , vous ?</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Eh ! non pas du tout, nous. C'est les autes que je vous disons ; car ben mieux, si i faut
+      vous épouser pour avoir les trente mille francs, j'ai me rions encore autant que vous ayez
+      trente ans de plus , voyez-vous.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard.</speaker>
+     <p>Bon ! pourquoi cela?</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oh ! ce n'est pas la peine de vous le dire ; mais je nous entendons ben. <stage>( à part.
+      )</stage> C'est que je serions putôt débarrassé d'elle ; ét, avec son argent, j'en
+      retrouverions une pus jeune.</p>
+    </sp>
+    <sp who="#TDP2065_2 ( 16 )">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>agréablement</stage>
+     <p>Dailleurs , croyez que les bonnes façons que j'aurai pour vous ne vous laisserons pas
+      repentir de ce mariage-là. Pensez donc encore aux dix mille écus qui sont au bout du
+      <hi>oui</hi> que je vous demande.</p>
+     <pb n="( 16 )"/>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>à part</stage>
+     <p>Saperlotte ! c'est ben ce bon bout-là qui nous détermine. <stage>(haut.)</stage> Allons,
+      madame , je taupons à tout, pisque vous le voulez , et je vous disons le pus beau et le pus
+      ferme <hi>oui</hi> que j'ayons jamais prononcé.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. roguignard.</speaker>
+     <p>Je suis content de vous, et je vàis bientôt vous faire compter l'argent.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guionoiet, .</speaker>
+     <stage>vivement</stage>
+     <p>Oh ! oui , car sans ça , marché nul déjà.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD, .</speaker>
+     <stage>défaisant son bracelet</stage>
+     <p>Je vais d'avance vous donner un gage de ma parole. Tenez, voilà mon portrait, <stage>( elle
+      le lui donne. )</stage></p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>le regardant</stage>
+     <p>Ça, vot'portrait ! bah ! vous m'attrappez ! i ne vous ressembe pas du tout. C'est s'tilà
+      d'une de vos filles , putot.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>d'un air précieux</stage>
+     <p>D'une de mes filles ! ... oh ! je n'en ai jamais eue, dieu merci, et je suis bien encore
+      demoiselle.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Allons , passe donc pour demoiselle...</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. roguignard.</speaker>
+     <p>Vous pouvez bien le croire... Il y a peut-être quelque différence dans le teint, parce que
+      j'étais plus jeune quand je me suis fait peindre ; mais ce sont toujours les mêmes traits.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>GUIGNOLET.</speaker>
+     <p>Ah ! les mêmes si vous voulez ; mais i sont ben renforcés depuis.. . L'or s'est mieux
+      conservé, par exemple : il a encore assez bonne mine.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Oui, vous êtes si délicat, que c'est tout ce qui vous flatte le plus.... Eh ! quel gage
+      allez-vous me donner de votre promesse ?</p>
+    </sp>
+    <sp who="#TDP2065_4 ( 17 )">
+     <speaker>Guignolet.</speaker>
+     <p>Ma fine , je n'avons ni or, ni bijoux. Je n'avons pour tout meubes que mon sauvageon d'épine
+      que v'la, et pis ma gourde où ce que j'avons mis une goutte en partant de cheux<pb n="( 17 )"/> nous , et pis encore une tabattière de corne à votre service, choisissez dans tout ça ,
+      c'est de bon cœur.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard.</speaker>
+     <p>Non. Je ne veux vous priver de rien de ce qui vous est utile; mais voilà du papier et de
+      l'encre , signez-moi votre nom , et je ferai remplir au-dessus notre contrat de mariage.
+      <stage>( Elle va à la table préparer des papiers. )</stage></p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Guignolet.</speaker>
+     <p>Oh ! siner ! ... <stage>( à part. )</stage> Not' magister nous a prévenu de ne pas rien
+      siner trop vite, parce qu'on est malin ici.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>de la table</stage>
+     <p>Venez , mon ami.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>allant à elle</stage>
+     <p>Madame, pour siner not'nom , ça ne nous est pas si aisé comme de dire <hi>oui</hi> , car de
+      tout l'alphabet que j'avons étudié long-tems, je n'avons pu apprendre à lire et à siner que -
+      la croix de par dieu qu'est en tête.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. roguignard.</speaker>
+     <p>Eh bien, faites-moi une croix , cela suffira.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oh ! pour de ça, j'y sommes habille. Tenez, la v'la , et ben grande , et ben dessinée, même.
+      Ça vaut la pataraphe d'un notaire.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>à part, prenant le papier</stage>
+     <p>Je l'espère bien , et mon cher frère ne sera pas peu surpris quand il verra l'acte en bonne
+      forme que je vais faire mettre au-dessus, <stage>( haut. )</stage> Au revoir , mon cher ami ;
+      je vais travailler pour vous rendre bientôt riche et heureux. M. Roguignard est sorti.
+      D'ailleurs vous n'avez plus affaire à lui ; ainsi , entrez dans le jardin pour vous y promener
+      en m'attendant , et ne parlez à personne de la maison que je ne sois revenue. J'irai vous y
+      prendre pour achever votre bonheur.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Ça suffit, madame , je vous attendrons.</p>
+    </sp>
+    <sp who="#TDP2065_2 ( 18 )">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>tendrement</stage>
+     <p>Je ne voue laisserai pas languir. Sans adieu , mon aima-<pb n="( 18 )"/> ble futur. Tenez, prenez un à-compte sur mes bontés. <stage>( Elle lui présente sa main.
+      )</stage></p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>regardant sa main</stage>
+     <p>Où donc qu'il est, c't'à-compte ? i n'y a rien dans vote main.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Non , mais, baisez-la , mon cher ami ; c'est la première faveur qu'une honnête femme peut
+      accorder à celui qu'elle regarde déjà en époux.</p>
+     <stage>( Comme Guignolet ne se presse pas , elle la lui porte assez rudement au visage. Il
+      éternue dessus. Elle le salue d'un air de protection amicale. )</stage>
+     <p>Sans adieu , mon poulet. <stage>( Elle s'en va par la porte de la rue. )</stage></p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker/>
+     <stage>Guignolet, <stage>à demi-voix</stage>.</stage>
+     <p>Au revoir , ma vieille poule.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE IX.</head>
+
+    <sp who="#TDP2065_4 ( 19 )">
+     <speaker>GUIGNOLET, .</speaker>
+     <stage>seul</stage>
+     <p>Vlà un à-compte qui ne garnira pas note poche ; mais j'ons consenti à ste première faveur-là
+      , pour qu'elle nous apporte ben vite la seconde, qu'est les trente mille francs... Par exempe
+      , ceux-là , je les baiserons de ben meyeur cœur encore.... C'est pourtant ben singuyer que ste
+      vieille richarde se jette comme ça à note tête ! c'est des coups d'hasard heureux apparemment
+      que l'étoile amène comme ça... et ça ne m'étonne pas , car drès étant petit, une sorcière qui
+      nous a tiré les cartes , nous a dit que je ferions fortune avec les femmes par note figure...
+      et j'en avons déjà ben vu la preuve , car ,dans note village , toutes les filles d'écurie et
+      de basse-cour , et des champs, courions après nous les jours de fête ; et pendant les danses
+      et les chansons, j'attrapions à nous tout seul pus de taloches de leurs amquié, que tous les
+      autres garçons ensemble; aussi ça les faisait brisquer.... Mais à présent que les dames de la
+      ville nous donnons leus mains à baiter, avec des portraits et des trente mille francs !...
+      c'est encore de ben plus fines marques, ça ! Oh ! c'est dit, la sorcière<pb n="( 19 )"/> avait raison dans ses cartes , et v'la mon microscope qu'est accompli. Allons donc voir ce
+      beau jardin , en attendant ma future avec ses écus <stage>( Il va pour sortir , mais il
+      apperçoit Julie qui vient du fond, et il s'arrête. )</stage></p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE X.</head>
+    <stage>JULIE, GUIGNOLET.</stage>
+
+    <sp who="#TDP2065_5">
+     <speaker>Julie, .</speaker>
+     <stage>d'en haut , à part</stage>
+     <p>Qu'est-ce que cet homme-là fait ici ?.... Ah ! c'est apparemment ce paysan que mon père a
+      conçu le ridicule projet de me faire épouser.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>la regardant de côté, à part</stage>
+     <p>Quien ! v'la t'une demoiselle ben pus jolie , et pus jeune que la vieille ! c'est sûrement
+      sa gnièce , faut la voir venir ; j'allons t'ètre son onque, ainsi, c'est à elle à nous faire
+      la première politesse.</p>
+    </sp>
+    <sp who="#TDP2065_5">
+     <speaker>Julie , .</speaker>
+     <stage>à part</stage>
+     <p>J'ai envie de m'en amuser pendant que mon père n'y est pas , et de lui ôter l'impertinente
+      fantaisie de prétendre à ma main.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>la regardant toujours de côté sans bouger.</stage>
+     <p>Elle ne sait pas encore les titres d'autorité que j'allons avoir dessus elle ; mais c'est
+      égal, i faut toujours tenir note <hi>quant à soi</hi> , et prendre au vis-à-vis d'elle , le
+      ton qui nous convient, <stage>( haut et fièrement. )</stage> Bonjour, mamzelle, queuque vous
+      demandez ici ?</p>
+    </sp>
+    <sp who="#TDP2065_5">
+     <speaker>Julie, .</speaker>
+     <stage>avec hauteur</stage>
+     <p>Comment, ce que j'y demande ! mais, c'est moi-même qui vous demande ce que vous y venez
+      chercher, et de quel droit un homme de votre façon se permet d'interroger une maîtresse de
+      maison ?</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Ah! maîtresse de maison !... après les autres, quoique ça.</p>
+    </sp>
+    <sp who="#TDP2065_5 ( 20 )">
+     <speaker>Julie, .</speaker>
+     <stage>piquée</stage>
+     <p>Après les autres !... et qui donc , outre mon père , à la primauté ici sur moi ?</p>
+     <pb n="( 20 )"/>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Bon , bon , ça s'espliquera , y en a encore d'autes qui passeront avant, quoiqu'ils soyont
+      venus après.</p>
+    </sp>
+    <sp who="#TDP2065_5">
+     <speaker>Julie, .</speaker>
+     <stage>en colère</stage>
+     <p>Vous êtes un mal appris et un grossier.... et si vous vous appuyez sur l'inconvenable
+      dessein de mon père, assurez-vous d'avance qu'il n'aura jamais mon consentement.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Je ne connaissons pas pus votre père que je n'avons besoin de votre consentement pour ça ;
+      et que ça vous convienne ou non, j'aurons dix mille écus et une femme , et je serons votre
+      supérieur malgré vous... et vous nous devrez le respeque, et je saurons ben vous y forcer
+      encore.</p>
+    </sp>
+    <sp who="#TDP2065_5">
+     <speaker>Julie, .</speaker>
+     <stage>riant de dédaim</stage>
+     <p>Moi du respect pour vous !... ah ! ah ! ah ! voyez donc cette figure respectable !</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Mais , oui da , mamzelle , qu'all l'est, et ceux-là à qui qu'all parait agréabe , sauront
+      ben vous la faire trouver vénérabe à vous-même. Je ne vous disons que ça pour une première
+      fois , et souvenez-vous qu'à la seconde, et quand vous serez un petit brin pus au fait de ce
+      que vous devrez à note qualité , comme vous vous conduirez , je nous conduirons.</p>
+    </sp>
+    <sp who="#TDP2065_5">
+     <speaker>Julie, .</speaker>
+     <stage>outrée</stage>
+     <p>Oh ! c'est trop fort ! un misérable paysan ose me parler sur ce ton-là !</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>piqué à sou tour</stage>
+     <p>Qu'appeliez-vous mademoiselle , des paysans et des tons ? c'est nous qui sauront bentôt
+      rabattre le vote. Un paysan qu'épouse une madame de la ville avec dix mille écus comptant , a
+      le droit de parler encore ben mieux que ça à la fille de M. Craquignard, qu'est la gnièce de
+      sa tante.</p>
+    </sp>
+    <sp who="#TDP2065_5 ( 21 )">
+     <speaker>Julie, .</speaker>
+     <stage>en colère</stage>
+     <p>Oh ! je ne saurais tenir à tant d'insolence ! Apprenez, mal avisé et brutal campagnard que
+      vous êtes , que c'est vous qui, à ces deux titres-là, me devez du respect ; mais que je vous
+      méprise trop pour recevoir jamais le témoignage d'aucun sentiment de votre part... <stage>( à
+      part. )</stage>Ah! je vois <pb n="( 21 )"/> mon père , je me retire ; et quelqu'ordre qu'il me donne , je ne paraîtrai jamais devant cet
+      original. <stage>( Elle rentre. )</stage></p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XI.</head>
+    <stage>ROGUIGNARD, GUIGNOLET.</stage>
+
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard, .</speaker>
+     <stage>à part, entrant de la rue</stage>
+     <p>Oh ! voici un paysan avec qui ma fille causait-là. C'est sans doute celui que j'attends.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet , .</speaker>
+     <stage>à part, sans voir Roguignard</stage>
+     <p>Diantre ! les filles sont drôles ici, à ce qu'il parait, et elles ne se gênont pas quand
+      elles ne savont pas que c'est à des onques qu'elles parlont ; mais ce tite-là va la faire
+      filer à son tour.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard , .</speaker>
+     <stage>s'ovancant à lui</stage>
+     <p>Bon jour, mon cher monsieur.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>lestement</stage>
+     <p>Bon jour , mon cher monsieur vous-même : de quoi que vous me voulez ?</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Toute sorte de biens. Je me doute que vous êtes M. Eustache Guignolet.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oui, monsieur , en propre personne, véritable et naturelle.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>ROUGUIGNARD.</speaker>
+     <p>Et moi, je suis Christophe Roguignard, qui vous ai fait inviter à venir chez moi.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Eh ben, monsieur , pisque vous nous l'apprenez par vous-même , je nous en doutons itout, et
+      je vous en faisons note compliment. Pourquoi t'est-ce donc que vous nous avez écrit de
+      venir.</p>
+    </sp>
+    <sp who="#TDP2065_1 ( 22 )">
+     <speaker>Roguignard.</speaker>
+     <p>Mon cher enfant, puisque je viens de vous trouver en conversation avec ma fille , et que
+      vous la connaissez à présent, je vais abréger les préliminaires. Comment trouvez-vous sa
+      figure et sa personne ?</p>
+     <pb n="( 22 )"/>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oh ! pour la figure de son visage , elle est ben gentille et ben avenante ; et, quand à la
+      taille de sa personne, elle est ben coupée , ben droite et ben fine , et en total , quoiqu'un
+      paysan, comme elle nous appelle , ne s'y connaisse pas ben , je pouvons dire que pour les yeux
+      , la bouche, et tout ce qui est de son portail, elle nous a parue ben agréyabe.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>ROGUIGNARD.</speaker>
+     <p>Je suis charmé que vous la trouviez telle. En ce cas là , mon enfant, comme j'étais
+      très-intime ami de défunt votre père , j'ai résolu de vous faire un établissement avantageux,
+      et je vous offre ma fille en mariage.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>ébahi</stage>
+     <p>Bah ! à nous vot'fille en mariage ! pour not' femme?.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Oui , à vous , pour votre épouse.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>à part</stage>
+     <p>Ah ! jarni, v'la ben encore de quoi pus confondre son orgueil ! comme not' femme , all'nous
+      devra encore ben pus de respeque que comme not' gnièce.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Vous réfléchissez !. . . Apprenez en sus qu'en l'épousant vous aurez trente mille francs
+      pour sa dot.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>sautant de joie</stage>
+     <p>Trente mille francs aussi ! c'est donc là le taut de tous les mariages qu'on fait à
+      Paris?... <stage>( haut. )</stage> Ah ça , mais , mon cher M. Craquignard , ça n'est ti pas
+      une craque que vous me glissez-là, vous ?</p>
+    </sp>
+    <sp who="#TDP2065_1 ( 23 )">
+     <speaker>Roguignard.</speaker>
+     <p>Non. Je suis un homme d'honneur ; et comme je vous l'ai annoncé, l'amitié que j'ai toujours
+      eue pour feu votre père , me fait la loi de travailler à votre bonheur ; ainsi répondez-moi
+      franchement comme je vous parle , et si ma proposition vous convient. Comme je sais qu'avec
+      les gens de la campagne qui sont droits et sincères , il ne faut pas perdre le tems en vains
+      discours, j'ai tout disposé d'avance. J'ai un modèle de contrat tout préparé pour votre
+      mariage ; nous allons le signer tous les deux, et l'affaire sera conclue dans le même
+      instant.</p>
+     <pb n="( 23 )"/>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>à part</stage>
+     <p>Sarpedié ! v'la encore une nouvelle preuve de not'étoile de bonheur ! j'aurons le même
+      argent , ça nous débarrasse de la vieille que je n'aimons pas , et ça punira la jeune qui nous
+      revient ben mieux. <stage>( haut. )</stage> M. Craquignard , je vous pernons au mot.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Et je ne m'en dédis pas. Voici le projet de contrat : signez-le. <stage>( Il va à la table.
+      )</stage></p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>à part, pendant que l'autre prépara son papier</stage>
+     <p>Voyez-vous que j'ons eu bon nez avec la vieille. Si j'avions siné tout de bon, tantôt, je
+      serions pris là... Méfions-nous encore , quoique ça. <stage>( haut. )</stage> Monsieur , je
+      vous demandons pardon , escuse de not'ignorance ; mais je ne savons pas écrire. Je ferons une
+      marque , si vous voulez.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Eh bien , c'est égal. Tenez , faites-la ici.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>GUIGNOLET, .</speaker>
+     <stage>la faisant</stage>
+     <p>Oui. La v'la.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard, .</speaker>
+     <stage>regardant</stage>
+     <p>C'est une double croix que vous faites.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oui, parce que ça vaut mieux qu'une simpe... <stage>( à part. )</stage> Et ça l'emportera
+      sur la première que j'avons fait à la vieille. Si ça nous convient toujours , parce que faut
+      voir jusqu'au bout si on ne nous attrappe pas.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard, .</speaker>
+     <stage>qui pendant cet à part a ployé son papier</stage>
+     <p>A présent, je vais faire expédier un double de cet acte , et nous terminerons tout de suite.
+      Amusez-vous là , ou bien allez causer avec ma fille. Je vais être à vous dans un instant , mon
+      gendre. <stage>( Il sort par la porte de la rue. )</stage></p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XII.</head>
+
+    <sp who="#TDP2065_4 ( 24 )">
+     <speaker>GUIGNOLET, .</speaker>
+     <stage>seul</stage>
+     <p>Sarpedié ! les épouseux sont donc ben rares , ici , qu'on nous envoie chercher à la campagne
+      esprès pour nous don- <pb n="( 24 )"/> ner des femmes à choisir ? tant mieux. Faut profiter de son bon quand on le trouve , et
+      j'allons nous amuser à ben faire bisquer c't'belle demoiselle qui méprise les paysans. Oui ,
+      morguenne ! pour l'y rabattre un peu son caquet, je l'y donnerons la charge de soigner not'
+      basse-cour. Allons l'y annoncer ça d'avance.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XIII.</head>
+    <stage>GUIGNOLET, NITOUCHE, reparaît au fond, un peu plus ajustée.</stage>
+
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, .</speaker>
+     <stage>à part, en entrant</stage>
+     <p>Le v'la enfin seul ! voyons donc si je n'aurais pas queuqu'espérances aussi , moi ?</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet , .</speaker>
+     <stage>qui allait sortir , la voit</stage>
+     <p>Ah ! jarnigouette , en v'la une ben pus jolie encore que toutes les autres ! y a donc un
+      magasin de femmes , ici ?</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, .</speaker>
+     <stage>s'avançant, lui fait une petite révétencee courte et vive</stage>
+     <p>Votre servante, monsieur.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>la salue avec intérêt</stage>
+     <p>C'est nous qui sommes ban vot'petit serviteur très-humble , ma belle demoiselle : est-ce que
+      vous êtes de la maison ?</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Ouidà , monsieur, et pus qu'on ne voudrait encore.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>galamment</stage>
+     <p>Comment donc ! vous ne pouvez en être trop ; et quand vous en seriez la première maîtresse
+      même , ça ne serait pas encore assez pour la beauté de vos appas.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Vous êtes ben honnête , mais tout le monde ne pense pas comme ça, ici ; car , quoique je
+      soyons la prope cousine de monsieur et de mademoiselle Roguignard sa sœur, et de mademoiselle
+      Julie, ils ne veulent tous me regarder que comme servante.</p>
+    </sp>
+    <sp who="#TDP2065_4 ( 25 )">
+     <speaker>GUIGNOLET.</speaker>
+     <p>Ah ! fi donc ! ça sont des ingrats et des dénaturalisés, et <pb n="( 25 )"/> et qui ne méritont pas l'honneur que vous leus z'y faites d'être de leus famille ; car vous
+      valiez, à vous toute seule, pus qu'eux tous , et le reste de leus race , si elle leus
+      ressembe.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Je ne mérite pas les complimens que vous me faites.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Si fait , mamzelle , et ben-pus encore ! et je vous le prouverons bentôt, car j'allons être
+      de la famille itout, tel que vous nous voyez ; et un des pus majors encore , d'un côté ou d'un
+      aute même ; car je pouvons choisir.... et je vous promettons d'avance que drès demain vous ne
+      serez pas servante ici, et qu'on vous y appellera cousine , gros comme le bras , encore ; ou
+      ben on ne nous appellera pus Guignolet.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Ah ! je ne peux pas croire que vous vous intéressiez tant que ça à nous , pour la première
+      fois que vous nous voyez.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Vlà ce qui vous trompe ; et je nous y intéressons encore ben pus fort que tout ça , car
+      jarni ! je n'ons qu'un chagrin, c'est de n'être pas riche par nous-même ; car aulieur de vous
+      appeller note cousine , je vous appellerions tout d'un coup note femme, si ça pouvait vous
+      convenir , s'entend , et j'en serions ben pus ben aise que de ces deux - là que j'avons à
+      choisir... et vous , mamzelle, nous auriez-vous aimé un petit brin ? dites-le bonnement.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Eh ! monsieur , à quoi que ça servirait si vous ne m'aimez pas vous-même.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Ah ! jarnombille ! je ne vous aimons que trop déjà, et je sentons ben que ça serait toujours
+      en augmentant ; car je nous trouvons de plein pied avec vous ; au lieur qu'avec les autres que
+      je pouvons prendre , y en a une qui serait ma mère, et l'autre qui voudra être ma maîtresse
+      supérieure... Mais , avec vous, je ne serions que des amans et mari, et femme ben tendres et
+      ben accouplés ; mais , comme je vous disons , je ne sommes pas assez riche pour faire votre
+      bonheur.</p>
+    </sp>
+    <sp who="#TDP2065_3 ( 26 )">
+     <speaker>Nitouche.</speaker>
+     <p>Eh ben ! monsieur, si c'est comme ca, et si le cœur vous <pb n="( 26 )"/> en dit pour moi , nous aurons assez de bien pour être contens : en m'épousant, vous
+      toucherez trente mille francs.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>à part, tout joyeux</stage>
+     <p>Comment, saperlotte ! encore trente mille francs! mais , mais , c'est donc ici le Perrou
+      pour les filles? que y a trente mille francs sus toutes les têtes femelles ? Ah ça, mais!
+      c'est ti ben vrai ce que vous dites-là ?</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Oh ! tout aussi vrai, et aussi sûr que si vous les teniez déjà dans votre poche.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>sautant sur sa main qu'il serre</stage>
+     <p>Par la venterguenne ! si ça est comme ça, vous êtes note femme, et je vous faisons le
+      sacrifice de la vieille et de la jeune ; et pour preuve , v'la le portrait d'or de la tante
+      que j'allons l'y rendre , et je baisons vote jolie menotte avee ben pus de plaisir que je
+      n'avons flairé la sienne.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Oui, mais nous aurons p't'être de l'embarras. N'avez-vous pas fait des promesses à la tante
+      , ou au père de mamzelle Julie ?</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oui dà , si fait, i z'ont ben voulu m'y prendre , mais heureusement que j'avons t'eu une
+      bonne rubrique. Comme le magister de cheus nous nous avait prévenu de ne pas siner aucun
+      papier trop vite, je leus y avons dit à tous les deux, que je ne savions pas écrire , et je ne
+      leus y avons fait à chacun que des croix ; mais à vous, j'allons vous donner note sinature
+      toute entière.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Ah ! queu bonne idée que vous avez eu là ! comme ça, nous sommes sûrs de note affaire. J'ai
+      mon parain , monsieur Grippefort, qu'est un habile procureur, qui n'aime ni mon cousin , ni ma
+      cousine, et il va nous arranger ça de façon que je l'emporterons sur eux.</p>
+    </sp>
+    <sp who="#TDP2065_4 (27)">
+     <speaker>Guignolet, .</speaker>
+     <stage>allant à la table écrire</stage>
+     <p>Ah ben ! je nous y accordons de tout note cœur , et v'la note nom , avec tous nos tites,
+      Ustache Guignolet, fils de défunt Boniface Guignolet, dit Pillegrain , fermier d'Ar- <pb n="(27)"/> enteuil, <stage>( Il lui donne le papier. )</stage> pernez ça , ça coule à fond tous les
+      autes.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Oh oui ! nous n'avons pas rien à craindre ; je vas trouver non parain , et vous serez bentôt
+      délivré de mes deux cousines. <stage>( elle va pour sortir. )</stage></p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>la rappelant</stage>
+     <p>Ecoutez donc , mamzelle.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Queque vous voulez encore ?</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oh! je voulous faire la chose tout-à-fait en rêgue, pour que ça tienne mieux avec vous
+      qu'avec les autes , faut que je vous donnions pus de gages que je ne leus y en avons donné; Je
+      vous avons fait note nom sus le papier, aulieur d'un croix ; mais je ne vous avons baisé que
+      la main comme à la vieille , et faut que je vous embrassions tout-à-fait, pour que vote preuve
+      dégotte la sienne.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Oh ! quand nous serons mariés , nous aurons tout le tems.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>C'est égal, ce qui est d'avance ne compte pas ; c'est gratis comme le dernier adieu ,
+      <stage>( Il l'embrasse. )</stage> et le v'la donné. Là, je ne pouvons pus nous dédire ni l'un
+      ni l'antre <stage>( On entend tousser dehors. )</stage></p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <p>Oh ! j'entends la vieille qui vient vous chercher , n'allez pas me faire infidélité à
+      présent au moins, songez que j'ai votre signature.</p>
+    </sp>
+    <sp who="#TDP2065_4 (28 )">
+     <speaker>Guignolet.</speaker>
+     <p>Eh, mamzelle , vous avez ben mieux que ça ; vous avez not cœur et not ame... et pis note
+      dernier adieu par dessus tout. Partez tranquille , j'allons rembarer la vieille , <stage>(
+      Nitouche rentre par le fond, on entend toujours tousser, dehors. )</stage></p>
+     <pb n="(28 )"/>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XIV.</head>
+
+    <sp who="#TDP2065_4">
+     <speaker>GUIGNOLET, .</speaker>
+     <stage>seul</stage>
+     <p>Quien ! comme all'tousse donc, not vieille amoureuse! C'est une coqueluche que le plaisir du
+      mariage l'y a causée apparammment.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, </speaker>
+     <stage>( entre en toussant. )</stage>
+     <p>Me voilà enfin revenue, mon cher enfant, et je n'ai pas donné de cesse au notaire qu'il
+      n'ait eu fini notre contrat, et que je ne l'aie amenné avec moi. <stage>( elle tousse.
+      )</stage></p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Eh mais, jarni ! madame , vous vous êtes donc ben échauffée à courir ! v'la un rheume qu'est
+      dangereux , et qui nous fait peur pour vous.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>C'est vrai , mon bijou, l'empressement que j'ai mis à avancer notre mutuelle satisfaction ,
+      m'a fatigué la poitrine, et cela me coupe la respiration. Hem! hem !... mais ça va passer
+      bientôt.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Mais non, c'est p'têtre ancien, et faudrait prendre garde à ça.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Bon bon ! le plaisir de la nôce va dissiper tout ; il n'y paraîtra plus demain.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Au contraire , ça ne ferait qu'augmenter ; et si je vous faisions danser par là - dessus ,
+      je craindrions d'être trop tôt vœuf. Vaut ben mieux prendre des raffraichissemens pendant
+      queuque tems, et je varrons après, comment que vous vous trouverez.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Eh non, ne faites pas attention, ça n'est rien ; c'est une quinte qui me prend comme ça de
+      tems en tems.</p>
+    </sp>
+    <sp who="#TDP2065_4 ( 29 )">
+     <speaker>Guignolet.</speaker>
+     <p>Sarpedié ! c'est un vilain jeu à vous faire capote ! faut écarter ste quinte-là ,
+      madame.</p>
+     <pb n="( 29 )"/>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard.</speaker>
+     <p>Ça va passer , je vous le dis. Venez vous en dans ma chambre où le notaire nous attend pour
+      finir. <stage>( Elle le prend par la main. )</stage></p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet , .</speaker>
+     <stage>résistant, à part</stage>
+     <p>Ouf ! nous v'la déjà dans une crise. Comment que j'allons faire pour l'y donner son compte ?
+      Je voudrions voir venir l'autre avant.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. roguignard.</speaker>
+     <p>Eh bien ! à quoi pensez-vous donc ? songez que j'ai votre parole , et qu'il n'est plus tems
+      de faire des réflexions <stage>( elle tousse. )</stage></p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oh ! je n'en faisons pas non pus... mais , c'est votre coqueluche qui nous inquiète ,
+      vraiment, vous allez étouffer. Laissez-nous vous taper dans le dos un petit peu. <stage>( Il
+      va pour la cogner. )</stage></p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Ahi ! ahi ! vous m'extropiez.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Non pas, c'est pour l'intérêt que je prenons à vote santé.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XV.</head>
+    <stage>Les précédens, ROGUIGNARD.</stage>
+
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard, .</speaker>
+     <stage>venant prendre la main de Guignolet</stage>
+     <p>Allons , venez-vous en , mon gendre , voilà le moment de terminer.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>le prenant de l'autre côté</stage>
+     <p>Tout est terminé, mon cher frère , et je l'emmène pour cela.</p>
+    </sp>
+    <sp who="#TDP2065_1 ( 30 )">
+     <speaker>Roguignard.</speaker>
+     <p>Eh ! où l'emmenez-vous ? il n'est plus besoin que vous lui parliez ; j'ai fini avec lui,
+      venez vous en plutôt avec nous pour la signature du contrat, nous allons le marier , <stage>(
+      il le tire de son côté. )</stage></p>
+     <pb n="( 30 )"/>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>le tirant du sien</stage>
+     <p>Qu'appelez-vous marier ! il l'est déjà... allons , venez.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>résistant des deux côtés</stage>
+     <p>Doucement donc , monsieur et madame !... <stage>( à part. )</stage> eh ! jarni ! me v'la
+      entre le marteau et l'enclume !</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard, .</speaker>
+     <stage>à sa sœur</stage>
+     <p>Comment! il est marié!.... vous savez donc que le notaire est là, dans mon cabinet ?</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Dans votre cabinet! c'est bien dans ma chambre et c'est moi qui l'ai fait venir.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Allons, ne vous donnez donc pas les gands de ça. C'est moi-même qui vient de le
+      chercher.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard.</speaker>
+     <p>Oh ! quel entêtement déplacé ! je vous dis que c'est moi , et vous en allez voir la preuve,
+      <stage>( elle remonte vers set chambre )</stage></p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Parbleu ! c'est bien moi qui vais vous convaincre. <stage>( Il remonte et appelle au fond.
+      )</stage> Entrez, M. Scrupule.:</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. roguignard, .</speaker>
+     <stage>à sa porte</stage>
+     <p>Arrivez, M. Minute.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XVI.</head>
+    <stage>Les Précédens, LES DEUX NOTAIRES entrant des deux côtés avec leurs papiers.</stage>
+
+    <sp who="#TDP2065_6">
+     <speaker>Scrupule, .</speaker>
+     <stage>à Roguignard</stage>
+     <p>Me voilà , Monsieur.</p>
+    </sp>
+    <sp who="#TDP2065_7">
+     <speaker>Minute, .</speaker>
+     <stage>à Mlle. Roguignard</stage>
+     <p>Me voici, Madame.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oh ! tenons nous ben ! v'la que j'allons être mariée deux fois!</p>
+    </sp>
+    <sp who="#TDP2065_2 ( 31 )">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>à son frère</stage>
+     <p>Ah bien, mon cher frère , votre notaire arrive trop tard , car j'ai parlé la première à M.
+      Guignolet , et je l'épouse.</p>
+     <pb n="( 31 )"/>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>C'est vous qui abusez , ma sœur , car c'est à ma fille que je le marie.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>aux deux notaires</stage>
+     <p>Je ne sommes ti pas trop heureux, messieurs ? un pauvre paysan se voir disputer par deux
+      madame de la ville!</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. ROGUIGNARD.</speaker>
+     <p>Oh ! nous savons bien , M. Roguignard , que c'était - là votre plan ; mais le mien était de
+      vous prouver que je serais marié malgré vous , quand je le voudrais. J'ai la parole de mon
+      futur, et, qui plus est, une croix qu'il a faite sur mou contrat. Montrez-le , M. Minute.</p>
+    </sp>
+    <sp who="#TDP2065_7">
+     <speaker>Minute, .</speaker>
+     <stage>montrant le contrat</stage>
+     <p>C'est vrai , et le voila.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>bas à Minute</stage>
+     <p>Eh ben , quand on fait une croix sus z'un papier, c'es-ti pas signe qu'on le refuse.... il
+      est biffé.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Ma sœur , je vous condamne par vos paroles ; s'il a fait une croix sur votre contrat , il en
+      a fait deux sur le mien , et ça vaut davantage, comme il a dit ; <stage>( à Scrupule )</stage>
+      faites les voir, monsieur.</p>
+    </sp>
+    <sp who="#TDP2065_6">
+     <speaker>Scrupule, </speaker>
+     <stage>montrant son papier.</stage>
+     <p>Oh ! c'est authentique, les voilà bien.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>à part</stage>
+     <p>Allons , v'la les Scrupules et les Minutes contre nous.</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. roguignard, .</speaker>
+     <stage>reprenant Guignolet</stage>
+     <p>Vous direz ce que vous voudrez , mais en vertu de sa première croix , moi je l'emmène et je
+      l'épouse, <stage>( à Guignolet. )</stage> Venez , mon-mari.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard, .</speaker>
+     <stage>le reprenant</stage>
+     <p>Oh ! ce ne sera pas vrai ; et par l'autorité de ses deux croix, c'est moi qui le prends et
+      il épousera ma fille. Venez , mon gendre.</p>
+    </sp>
+    <sp who="#TDP2065_4 ( 32 )">
+     <speaker>Guignolet, .</speaker>
+     <stage>se débattant entre les deux</stage>
+     <p>Ah dame ! on peut dire que v'la un joli homme ben accaparé!</p>
+     <pb n="( 32 )"/>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XVII.</head>
+    <stage>Les précédens, M. GRIPPEFORT et NITOUCHE, venant par la rue.</stage>
+
+    <sp who="#TDP2065_8">
+     <speaker>Grippefort, .</speaker>
+     <stage>un papier à la main aussi</stage>
+     <p>Alte-là , monsieur et madame. C'est moi qui m'empare de M. Guignolet.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, </speaker>
+     <stage>voyant Nitouche qui lui fait des signes.</stage>
+     <p>Ah ! v'la la bonne ! je commençons à ben espérer.</p>
+    </sp>
+    <sp who="#TDP2065_8">
+     <speaker>Grippefort, .</speaker>
+     <stage>au frère et à la sœur</stage>
+     <p>Les croix vous resteront pour constater les surprises que vous avez voulu lui faire ; mais
+      en vertu de sa signature bien conditionnée, et de son intention volontaire et raisonnable, il
+      épousera ma filleule, et jouira avec elle des trente mille francs qui lui sont délégués par le
+      testament de son père , et que vous, M. Roguignard , aurez la bonté de lui remettre , avec les
+      intérêts depuis six mois que vous les faites valoir.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oh ! jarni , je commençons à entendre sonner les écus.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard, .</speaker>
+     <stage>à Grippefort</stage>
+     <p>Comment, monsieur...</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>en colère</stage>
+     <p>Qu'est-ce à dire , M. Grippefort !</p>
+    </sp>
+    <sp who="#TDP2065_8">
+     <speaker>Grippefort, .</speaker>
+     <stage>à tous deux</stage>
+     <p>Point d'emportement , car vous n'y gagneriez rien. Voici justement deux notaires : ce sont
+      des experts capables de nous juger. <stage>( à eux. )</stage> Voyez , messieurs, si cet acte
+      est plus en règle que les vôtres, et s'il ne mérite pas la préférence ?</p>
+     <stage>( II lui montre son contrat. )</stage>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard, </speaker>
+     <stage>pendant que les notaires regardent.</stage>
+     <p><stage>( A Nitouche, avec humeur. )</stage> Eh ! quoi , mademoiselle , vous avez osé aller
+      sur les brisées de ma fille ?</p>
+    </sp>
+    <sp who="#TDP2065_2 ( 33 )">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>en colère</stage>
+     <p>Comment ! petite impertinente , une misérable paysanne <pb n="( 33 )"/> comme vous s'avise de couper l'herbe sous le pied à une dame comme moi !</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet, .</speaker>
+     <stage>à Mlle. Roguignard</stage>
+     <p>C'est justement pour ça, madame. Je sommes paysan itout, nous, ça fait que je sommes ben
+      mieux attelés ensembe.</p>
+    </sp>
+    <sp who="#TDP2065_6">
+     <speaker>Scrupule, .</speaker>
+     <stage>ayant lu le contrat de Grippefort</stage>
+     <p>Il n'y a rien à répliquer. Ce contrat-là est le seul valide , et les deux nôtres sont
+      nuls.</p>
+    </sp>
+    <sp who="#TDP2065_7">
+     <speaker>Minute.</speaker>
+     <p>Oui. Il n'y a pas à en revenir. <stage>( au frère et à la sœur.)</stage> Vous aurez
+      cependant pour agréable , monsieur et madame, de nous en acquitter la façon , parce que toute
+      peine prise doit être payée ; tant pis pour ceux qui la commandent mal-à-propos. Nous vous
+      enverrons ncs clercs pour cela. Serviteur, madame.</p>
+    </sp>
+    <sp who="#TDP2065_6">
+     <speaker>Scrupule.</speaker>
+     <p>Bonjour , monsieur. <stage>( Il s'en vont en saluant tous les deux. )</stage></p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE. XVIII.</head>
+    <stage>Les PRÉCÉDENS , hors les deux NOTAIRES.</stage>
+
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Voyez-vous , ma sœur , si je ne vous avais pas toujours bien annoncé que cette Nitouche-là
+      nous jouerait quelque mauvais tour ?</p>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>en côlère</stage>
+     <p>Eh ! je vous l'avais prédit bien davantage, moi ! au reste, j'en suis bien aise pour
+      l'humiliation qui en revient à votre glorieuse de fille.. Cela vous fait voir, du moins,
+      qu'elle n'a pas la préférence sur moi. Adieu. Je me sépare de vous, et je ne veux plus yous
+      revoir ni l'un ni l'autre ; vous me portez malheur tous les deux. <stage>( Elle s'en va.
+      )</stage></p>
+    </sp>
+    <sp who="#TDP2065_4 ( 34 )">
+     <speaker>Guignolet, </speaker>
+     <stage>allant après elle.</stage>
+     <p>Ah ! tenez , madame , à propos de ça , v'la vot' portrait que je vous rendons ; i vous
+      servira pour une aut'fois.</p>
+     <pb n="( 34 )"/>
+    </sp>
+    <sp who="#TDP2065_2">
+     <speaker>Mlle. Roguignard, .</speaker>
+     <stage>lui arrachant des mains</stage>
+     <p>Donne, paysan ; il n'était pas fait pour être dans tes mains, et je saurai mieux le placer.
+      <stage>( Elle s'en va avec colère. )</stage></p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XIX. et derniere.</head>
+    <stage>ROGUIGNARD, GRIPPEFORT, NITOUCHE, et GUIGNOLET.</stage>
+
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard, .</speaker>
+     <stage>à Nitouche</stage>
+     <p>Et vous , mademoiselle , faites votre paquet pour retourner bien vite à votre village : je
+      ne veux plus vous voir ici.</p>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche, .</speaker>
+     <stage>d'un ton patelin</stage>
+     <p>Dame , je vous demandons escuse , mon cousin.</p>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard, .</speaker>
+     <stage>en colère</stage>
+     <p>Allez-vous-en au diable , avec votre cousinage.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Ah ça , mais, je crayons pourtant ben que vous avez un aut' présent de noces à nous faire
+      que ça.</p>
+    </sp>
+    <sp who="#TDP2065_8">
+     <speaker>Grippefort.</speaker>
+     <p>Oui, certainement ; car outre les trente mille francs , il y a encore les intérêts depuis
+      six mois , ce qui ne laisse pas de faire encore une petite somme, <stage>( à Roguignard.
+      )</stage> Allons , croyez-moi , mon voisin , mettez-vous de bonne grâce à la raison, et,
+      malgré la cupidité qui vous porte sans cesse à vouloir amasser de l'argent, pensez donc une
+      fois qu'il faut être délicat sur les moyens de l'acquérir. Demain , je l'espère , vous me
+      remercierez de ce qui vous chagrine aujourd'hui.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet.</speaker>
+     <p>Oh ! pour nous, je vous en remercions drès à ce moment; et pour prouver à M. Craquignard que
+      je n'avons pas de rencune , je l'y remettons ben volontiers les intérêts des trente mille
+      francs , pourvu qu'il consente à siner not'contrat, et, à appeller mamzelle, not' femme, sa
+      cousine.</p>
+    </sp>
+    <sp who="#TDP2065_8 ( 35 )">
+     <speaker>Grippefort, .</speaker>
+     <stage>à Roguignard</stage>
+     <p>Prenez-le au mot, morbleu ! c'est un bon marché pour vous.</p>
+     <pb n="( 35 )"/>
+    </sp>
+    <sp who="#TDP2065_1">
+     <speaker>Roguignard.</speaker>
+     <p>Allons , c'est toujours quelque chose de gagné. Soit donc, mariez-vous avec mademoiselle...
+      ma cousine.</p>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>Guignolet , .</speaker>
+     <stage>à Nitouche</stage>
+     <p>Ah ! v'la le grand mot lâché, et vous v'la rentrée en famille... Igna pus que la vieille
+      qu'a encore de l'humeur contre vous ; mais dame, elle est pardonnabe : c'est le chagrin de me
+      perdre. <stage>( au public. )</stage> Au reste , je nous consolerons qu'elle ne soit pas à
+      not'noce, pourvu, messieurs , que j'ayons le bonheur de vous revoir au lendemain.</p>
+     <stage>VAUDEVILLE.</stage>
+     <stage>Air : De la prise de tabac.</stage>
+    </sp>
+    <sp who="#TDP2065_3">
+     <speaker>Nitouche.</speaker>
+     <l>De Guignolet dev'nant la femme, D'mes parens j'nai pas l'amitié ;</l>
+     <l> De c'qui pouvait flatter mon ame ,</l>
+     <l> Leur humeur m'ote la moitié : </l>
+     <stage>( Au public.)</stage>
+     <l>Mais, pour animer not'ménage,</l>
+     <l> Daignez nous soutenir du moins,</l>
+     <l> Et tous deux j'aurons du courage,</l>
+     <l> Si j'ons l'appui de nos témoins. </l>
+    </sp>
+    <sp who="#TDP2065_4">
+     <speaker>GUIGNOLET.</speaker>
+     <l>Pour le premier jour qu'à la ville,</l>
+     <l> Je sommes venu de nos champs,</l>
+     <l> Je n'aurions pas cru si facile</l>
+     <l> D'y trouver trente mille francs : </l>
+     <l>Femme, avec ça, pour not'ménage</l>
+     <l> Q'jons eue à choisir entre trois !...</l>
+     <l> Si vous y joignez vot'suffrage,</l>
+     <l> J'aurons tous les biens à la fois. </l>
+     <stage>FIN.</stage>
+    </sp>
+   </div>
+  </body>
+ </text>
+</TEI>

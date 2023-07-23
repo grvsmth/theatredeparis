@@ -1,0 +1,2385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W1127">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fontenelle : TEI edition (Wicks no. 1127)</title>
+    <author>P.A.S. Petit aîné &amp; Servières</author>
+    <respStmt>
+     <resp>Original transcription by </resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI conversion by </resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor> The Digital Parisian Stage Corpus. GitHub.
+     https://github.com/grvsmth/theatredeparis </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images downloaded from <ref
+     target="http://books.google.com/books?id=WH5LAAAAcAAJ"/>.</p>
+    <p>HTML transcription downloaded from <ref
+     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/1127Fontenelle.html"
+     >https://github.com/grvsmth/theatredeparis</ref></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc>
+   <change when="2023-07-20">Hand edited</change>
+   <change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>FONTENELLE, COMÉDIE ANECDOTE, EN UN ACTE ET EN PROSE, MÊLÉE DE VAUDEVILLES,</titlePart></docTitle>
+   <titlePart> Représentée pour la première fois, à Paris, le samedi 15
+brumaire an XI de la République. </titlePart><titlePart>PRIX 1 franc.</titlePart>
+
+    <byline>PAR <docAuthor>PETIT, aîné, ET SERVIÈRES.</docAuthor></byline>
+    <docImprint>A PARIS, Chez Madame MASSON, Éditeur des Pièces de Théâtre, rue de
+     l'Échelle, no. 558, au coin de celle Honoré. AN XI. 1802.</docImprint>
+   </titlePage>
+   <castList>
+    <head>Personnages.</head>
+    <castItem><role>FONTENELLE, membre et sercretaire de l'Academie des sciences.</role></castItem>
+    <castItem><role>CHARLES DAUBE, neveu de Fontenelle.</role></castItem>
+    <castItem><role>Madame GEOFFRIN, amie de Fontenelle.</role></castItem>
+    <castItem><role>MELANIE, niece de Madame Geoffrin.</role></castItem>
+    <castItem><role>ROLET, homme de Lettres.</role></castItem>
+    <castItem><role>ANONYME, factotum de Rolet.</role></castItem>
+    
+   </castList>
+  <set> <p>La scène se passe à Paris, dans la maison de madame Geoffrin, où
+    demeure Fontenelle.</p>
+   <p>Le théâtre représente une salle de compagnie; à droite est un secrétaire, sur lequel est
+    posée une lampe allumée.</p>
+  </set>
+   <!-- BIBLIOTHEQUE Amedée MARANDET
+
+RÉPONSE A LA CRITIQUE. L'abbé T ...... alors avait la rage
+D'être à Paris un petit personnage;
+An peu d'esprit que le bonhomme avait
+L'esprit d'autrui par supplément servait;
+Il entassait adage sur adage;
+Il compilait, compilait, compilait;
+On le voyait sans cesse écrire, écrire,
+Ce qu'il avait jadis entendu dire:
+Il nous lassait, sans jamais se lasser.
+Il me choisit pour l'aider à penser;
+Trois mois entiers ensemble nous pensâmes,
+Lûmes beaucoup, et rien n'imaginâmes. VOLTAIRE. (Pauvre Diable). AVIS. Il n'y a d'édition avouée par l'auteur, que celle dont les
+exemplaires sont signés par l'éditeur. Il poursuivra les
+contrefacteurs, conformément à la loi.-->
+   <div>
+    
+    <head>COUPLET D'ANNONCE.</head>
+    <stage type="air">AIR: j'ai vu par-tout, etc.</stage>
+    <l>Fontenelle, ce soir, doit craindre,</l>
+    <l> En vous, un censeur irrité;</l>
+    <l> Mais les auteurs ont voulu peindre,</l>
+    <l> Moins son esprit que sa bonté.</l>
+    <l> Loin d'être une image fidèle,</l>
+    <l> Si c'est un croquis imparfait,</l>
+    <l> Messieurs, en faveur du modèle,</l>
+    <l> Ménagez un peu le portrait. <stage>(bis.)</stage></l>
+    
+   </div>
+  </front>
+  <body>
+  <head>FONTENELLE, COMEDIE-VAUDEVILLE, EN UN ACTE.</head>
+   
+   <div>
+    
+     <head>Scène première</head>
+     <stage>Rolet, Anonyme.</stage>
+    
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>MONSIEUR Rolet, la chose est décidée; je vous quitte.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Tu n'y a pas réfléchi, mon cher Anonyme.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Pardonnez-moi, j'ai très-bien réfléchi; mais je suis las d'être à votre service.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>La raison?</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Mille pour une. D'abord, vos pièces ne font pas plus fortune que votre journal. Vous me
+      faites travailler jour et nuit à copier vos manuscrits, souvent à les refaire; ce métier-là me
+      déplaît, et je veux faire une fin.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Bon, Et de quelle nature?</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>On m'offre un abri contre la misère; une place de portier dans une abbaye.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Je me proposais bien de prendre les ordres, de me faire abbé; mais j'ai d'autres projets en
+      tète. Puis-je, d'ailleurs, m'arrêter au milieu de mes succès littéraires?</p>
+    </sp>
+    <sp who="#TDP1127_2 6">
+     <speaker>Anonyme.</speaker>
+     <p>N'y pensez donc plus; vous savez bien ce que vous a dit M. de Voltaire, dans le Pauvre
+      Diable dont je suis le héros anonyme.</p>
+     <pb n="6"/>
+     <stage type="air">AIR: j ‘ai perdu mon âne.</stage>
+     <l>Comme on nous accable!</l>
+     <l> Métier détestable!</l>
+     <l> Tout confrère, en Apollon,</l>
+     <l> A toujours eu le renom</l>
+     <l> D'être un pauvre diable. <stage>(bis.)</stage> .</l>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <stage>Même air.</stage>
+     <l>Des propos semblables</l>
+     <l> Ne sont qu'honorables;</l>
+     <l> La fortune a ses rigueurs.</l>
+     <l> Bien des gens, sans être auteurs,</l>
+     <l> Sont de pauvres diables. <stage>(bis.)</stage></l>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>ANONYME,</speaker>
+     <stage>souriant.</stage>
+     <p>Quand ce ne serait que les plaideurs.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Au surplus, je vais être bien vengé .... j'entre à l'académie.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>AMONYME,</speaker>
+     <stage>souriant.</stage>
+     <p>Comme la dernière fois, qui était la vingtième.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Non. J'ai le suffrage de Fontenelle, qui loge ici, comme tu sais; madame Geoffrin me l'a
+      promis: et tu sens que le suffrage d'un homme tel que Fontenelle!</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Vous en êtes donc toujours enthousiaste?</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Hé! qui ne le serait pas?</p>
+     <stage type="air">AIR: ces auteurs de profession, (dans René le sage.)</stage>
+     <l>Il sait être l'ami des rois,</l>
+     <l> Et ne pas exciter l'envie;</l>
+     <l> Il sait allier à la fois</l>
+     <l> L'amour et la philosophie.</l>
+     <l> Sombre penseur, gai troubadour,</l>
+     <l> Uranie ou Phébus l'inspire;</l>
+     <l> On le voit prendre, tour à tour,</l>
+     <l> Le compas, la plume et la lyre.</l>
+    </sp>
+    <sp who="#TDP1127_2 7">
+     <speaker>Anonyme.</speaker>
+     <p>C'est vrai, c'est vrai; mais madame Geoffrin, en vous promettant le suffrage de Fontenelle,
+      a-t-elle promis aussi que nous gagnerions de quoi pourvoir aux besoins les plus pressants
+      ..... Car, monsieur, voyez ma triste nudité.</p>
+     <pb n="7"/>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Tais-toi donc .... je vais t'apprendre une excellente nouvelle.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Dites donc vite, monsieur?</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Le jour de l'an approche.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Eh bien?</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Madame Geoffrin, à l'imitation de madame Tencin, continue de donner, pour étrennes, à
+      messieurs de l'académie ....</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Je sais, une culotte de velours superbe!</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Je te la donne.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Ah! monsieur, je la changerais bien d'avance pour une autre plus modeste.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Si je suis reçu à l'académie aujourd'hui.... tu as demain la culotte; mais ce n'est pas
+      tout. Tu connais la belle Mélanie, la nièce de madame Geoffrin, qui a presque autant d'esprit
+      que sa tante, des graces, des talents....</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Passons sur la description.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Je l'aime, je l'adore, et je l'épouse.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Vous l'épousez; parlons de cela.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Un instant; j'ai un rival.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Qu'il soit écarté. Une satyre, un article diffamatoire dans notre journal.... je m'en
+      charge.</p>
+    </sp>
+    <sp who="#TDP1127_3 8">
+     <speaker>Rolet.</speaker>
+     <p>Non; ce rival, je dois le ménager.</p>
+     <pb n="8"/>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Le ménager; est-ce donc un grand seigneur, ou un homme en place?</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>C'est le neveu de Fontenelle.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Charles Daube, cet homme emporté, grondeur; le bel amant! nous triompherons.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Je l'espère; aussi je n'ai qu'une chose à songer dans ce moment; c'est le moyen de faire
+      parvenir cet aveu de mes sentiments, à Mélanie. <stage>(Il montre un billet.)</stage></p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Elle ignore que vous l'aimez; voilà un mariage bien avancé,</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>N'est-ce pas la tante qui marie?</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Oui; mais c'est la nièce qui épouse. Il n'importe, confiez-moi ce billet; je sais me prêter
+      à tout, et s'il ne faut que le remettre, j'en fais mon affaire. ... Mais voulez-vous savoir ma
+      façon de penser?</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Oui.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Je me vois portier, et vous abbé.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Tu rêves; madame Geoffrin porte ses pas de ce côté; je veux lui parler en particulier. ...
+      Retire-toi.</p>
+     <stage>(Anonyme sort.)</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE II.</head>
+     <stage>ROLET, Madame GEOFFRIN.</stage>
+    
+    <sp who="#TDP1127_4 9">
+     <speaker>Madame GEOFFRIN.</speaker>
+     <p>DÉJA chez moi, mon cher Rolet; un amant ne serait pas plus exact.</p>
+     <pb n="9"/>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Cela doit-il vous étonner, madame?</p>
+     <stage type="air">AIR: du vaudeville de Décence.</stage>
+     <l>On peut, le premier jour qu'on aime,</l>
+     <l> Le premier être au rendez-vous;</l>
+     <l> Mais cette exactitude extrême</l>
+     <l> Fatigue au second rendez-vous.</l>
+     <l> Douce amitié! qui jamais ne se lasse,</l>
+     <l> Toujours se trouve au rendez-vous. ...</l>
+     <l> Et l'ami, sûr d'y trouver une Grâce,</l>
+     <l> Manquerait-il au rendez-vous?</l>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Trève de galanteries: vous venez me dire comment vont les répétitions .... de votre
+      pièce.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Dites; la vôtre.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Vous oubliez nos conventions.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Nous sommes seuls, et je puis bien vous rendre, en particulier, les honneurs que je me fais
+      en public avec votre ouvrage.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Je vous le répète encore; quoique cette pièce soit bien de moi, je ne veux pas m'attirer le
+      ridicule de l'avoir faite: on en prête assez à notre pauvre sexe, sans qu'il se donne celui de
+      bel esprit.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Ce ridicule, en vous, ne serait qu'un agrément de plus.</p>
+     <stage type="air">AIR: c'est du bien que l'on en dit.</stage>
+     <l>Votre esprit par-tout si vanté,</l>
+     <l> D'un succès est la garantie;</l>
+     <l> La lyre, aux mains de la beauté,</l>
+     <l> N'a jamais manqué d'harmonie.</l>
+     <l> Du critique, de l'envieux,</l>
+     <l> Vous captiverez les suffrages;</l>
+     <l> Ce n'est qu'en admirant vos yeux,</l>
+     <l> Que l'on oublîra vos ouvrages.</l>
+    </sp>
+    <sp who="#TDP1127_4 10">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Si je réussis, je puis compter sur mille compliments pareils. La pièce accueillie, rien de
+      mieux. ... mais une chûte. ...</p>
+     <pb n="10"/>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Est impossible!</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Le doute m'est au moins permis; d'ailleurs, toutes mes réflexions sont faites; disgrace ou
+      succès, tout vous appartient. Un seul point m'embarrasse; quelle sera la récompense de votre
+      audace à courir l'évènement?</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Vous m'avez permis de la choisir.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Sans doute.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Vous connaissez mes sentiments pour votre nièce.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>J'entends: la récompense. ...</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Est inappréciable.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Je ne pourrais vous promettre que mon aveu, et j'y mets quel ques conditions.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>En est-il que je ne m'impose?</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>D'abord, un secret éternel sur mon essai dramatique, vous me l'avez promis; mais, mon cher
+      Rolet, vous n'avez point d'état.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Comptez-vous pour rien, ma réception à l'académie?</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>En seriez-vous certain?</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>J'ai presque toutes les voix.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>En ce cas, obtenez le fauteuil; réussissez près de ma nièce, vous aurez mon aveu. ... mais
+      sur-tout songez que ma pièce est de vous.</p>
+    </sp>
+    <sp who="#TDP1127_3 11">
+     <speaker>Rolet.</speaker>
+     <p>Figurez-vous cependant ce qui arrivera: un, succès complet.</p>
+     <pb n="11"/>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame GEOFFRIN.</speaker>
+     <p>Un succès ne pourrait me rassurer encore.</p>
+     <stage type="air">AIR: souvent la nuit quand je sommeille.</stage>
+     <l>On ne désarme point l'envie;</l>
+     <l> Elle s'irrite d'un succès;</l>
+     <l> Elle insulte jusqu'au génie:</l>
+     <l> M'épargnerait-elle ses traits?</l>
+     <l> Si ma chûte est triste et complète,</l>
+     <l> A mes dépens chacun rira;</l>
+     <l> Si la pièce est bonne, on dira</l>
+     <l> Que c'est un autre qui l'a faite.</l>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Puisque vous l'exigez, je tiendrai notre traité dans toute sa rigueur; je jure de ne point
+      vous nommer; mais l'heure s'avance, je vole à la répétition.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Ne manquez pas l'effet de ma dernière scène.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Voilà bien les auteurs! disant du mal de leurs ouvrages, et s'en occupant sans cesse.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE III.</head>
+     <stage>Madame GEOFFRIN, seule.</stage>
+     <p>MON secret est assuré; plût à Dieu qu'un succès le fût de même. Quelques situations
+      intéressantes, quelques vers heureux, me donnent de l'espoir. ... Attendons l'évènement.
+      (souriant.) Qu'on dise qu'une femme ne sait pas garder un secret! ... Je n'en ai rien dit à
+      notre ami Fontenelle. ... mais je ne l'ai pas vu d'aujourd'hui.</p>
+    
+   </div>
+   <div>
+    
+     <head>SCENE IV.</head>
+     <stage>Madame GEOFFRIN, FONTENELLE.</stage>
+    
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle,</speaker>
+     <stage>réfléchissant.</stage>
+     <p>OUI, l'amour doit parler ainsi.</p>
+    </sp>
+    <sp who="#TDP1127_4 12">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Quoi, Fontenelle! est-ce bien lui qui parle d'amour?</p>
+     <pb n="12"/>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Eh pourquoi pas? C'est un enfant gâté; il maîtrise l'homme du monde, et le pilosophe s'en
+      amuse. Voici ce que je lui fais dire à une jeune fille qui ne veut pas l'écouter. C'est ce
+      matin que j'ai composé cela.</p>
+     <stage type="air">AIR: de Teniers.</stage>
+     <l>Pourquoi me chasser, belle Annette?</l>
+     <l> Pourquoi cet excès de rigueur?</l>
+     <l> Donnez-moi plutôt, pour retraite,</l>
+     <l> Un petit coin de votre cœur.</l>
+     <l> Je vous réponds qu'il serait impossible,</l>
+     <l> Que vous pussiez mieux me cacher:</l>
+     <l> Comme il me fut toujours inaccessible,</l>
+     <l> Ou ne viendra pas m'y chercher.</l>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>C'est fort joli, Fontenelle! mais il faut vous parler en amie!</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Malheureusement, nous en sommes réduits la.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Vous avez bien de l'esprit. ... mais je suis de l'avis de Voltaire, qui vous dit, de la part
+      du dieu du goût, du public et de la sienne, même pour votre charmant dialogue des morts,</p>
+     <stage type="air">AIR: oui, mon cher Favart, à tes yeux.</stage>
+     <l>Par-tout, faites-nous retrouver</l>
+     <l> L'aimable auteur qui fit les mondes,</l>
+     <l> Dont l'esprit sut enjoliver</l>
+     <l> Les sciences les plus profondes.</l>
+     <l> M'affadissez plus, par trop d'art,</l>
+     <l> Votre muse sage et riante.</l>
+     <l> Pourquoi la gâter par le fard?</l>
+     <l> Sa couleur est assez brillante.</l>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Je vous remercie de l'avis, il ne sera pas perdu. II faut bien qu'il en soit quelque chose,
+      car le régent me plaisantait ce malin là dessus. Il ne me disait pas tout à fait. ... à la
+      cour, on ne dit jamais les choses qu'à demi-mot: je l'ai senti.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Vous l'aviez peu vu depuis son avènement à la régence.</p>
+    </sp>
+    <sp who="#TDP1127_5 13">
+     <speaker>FONTENEELLE.</speaker>
+     <p>C'est le reproche qu'il m'a fait. « Je complais vous voir plus » souvent (m'a-t-il dit) ».
+      Je le comptais bien aussi, lui ai-je</p>
+     <pb n="13"/>
+     <p>répondu; mais vous avez fait une si grande fortune! Il a souri, et j'ai saisi cette occasion
+      de lui recommander mon neveu. Il m'a promis de s'en occuper.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Il est déjà maître des requêtes!</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>C'est quelque chose pour un garçon; mais quand on veut s'établir et jouer un certain rôle
+      dans la société, il faut mieux que cela.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Charles aurait-il des vues?</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Certainement, et je suis même chargé de vous les communiquer.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Parlez.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Il adore Mélanie.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Ma nièce!</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Êtes-vous donc à vous en appercevoir?</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Ils sont sans cesse à se quereller.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Voilà bien la preuve qu'ils s'aiment.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Mélanie se plaint amèrement de ce qu'il est bourru, emporté.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>C'est parce qu'elle voudrait le corriger. Résultat, ils s'aiment. ... ils se conviènent: il
+      faut les unir.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Doucement. Ce que vous mettez en fait, on pourrait le révo quer en doute.</p>
+    </sp>
+    <sp who="#TDP1127_5 14">
+     <speaker>Fontenelle.</speaker>
+     <p>Je ne connais qu'un moyen de s'en assurer; c'est de consulter les parties intéressées.
+      Mélanie est la candeur même; elle avouera ce qui se passe dans son cœur.</p>
+     <pb n="14"/>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Soyez bien certain que je ne la contraindrai nullement. Mais, c'est elle que j'entends!
+      Justement, ils sont ensemble.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE V.</head>
+     <stage>LES PRÉCÉDENTS, MÉLANIE, CHARLES.</stage>
+    
+    <sp who="#TDP1127_6">
+     <speaker>MÉLANIE.</speaker>
+     <stage type="air">AIR: rien n'est si plaisant que la tournure. (de J. Monet).</stage>
+     <l>JE ne souffrirai pas qu'on m'opprime,</l>
+     <l> Et de vos humeurs,</l>
+     <l> De vos fureurs,</l>
+     <l> Je ne veux point être la victime.</l>
+     <l> Pour crier ainsi,</l>
+     <l> Êtes-vous mon mari?</l>
+     <l> Votre affreuse jalousie</l>
+     <l> Trop long-temps m'a fait souffrir.</l>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <l>De la chaîne qui me lie,</l>
+     <l> Je veux aussi m'affranchir.</l>
+    </sp>
+    <sp who="#TDP1127_11">
+     <speaker>Ensemble.</speaker>
+     <l>Je ne souffrirai pas qu'on m'opprime,</l>
+     <l> Et de vos humeurs,</l>
+     <l> De vos fureurs, | De vos rigueurs,</l>
+     <l> Je ne veux pas être la victime.</l>
+     <l> Pour crier ainsi, | Pour parler ainsi,</l>
+     <l> Êtes-vous mon mari? | Suis-je votre mari?</l>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Ils se disputent; vous voyez bien qu'ils sont amoureux.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Que serait-ce donc, s'ils étaient époux? Il est clair, d'après ce que j'entends, Melanie.
+      ...</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Que je ne puis souffrir un homme brusque et jaloux.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Je suis sûr, malgré cela, mon cher neveu, que vous aimez. ...</p>
+    </sp>
+    <sp who="#TDP1127_7 15">
+     <speaker>Charles.</speaker>
+     <p>Toutes les femmes qui ne sont pas coquettes.</p>
+     <pb n="15"/>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Je suis lasse de ses propos.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Et moi de son indifférence.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Un tyran ne me plaira jamais.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Je fuirai toujours une femme insensible.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle,</speaker>
+     <stage>souriant.</stage>
+     <p>Tu ne t'exiles pas bien loin.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Récapitulons tout ceci; l'homme brusque et jaloux. ...</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>C'est lui.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>La coquette et l'indifférente! ....</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>C'est elle. <stage>(à Mélanie)</stage> Ah! si vous ne changez de caractère, vous ne
+      trouverez jamais d'époux.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Il vaudrait mieux s'en passer, que d'en avoir un qui vous ressemblât.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Mais si tu desires un mari, j'en ai un à te proposer.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Tant mieux, ma tante; je l'accepte.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle,</speaker>
+     <stage>(Sourit).</stage>
+     <p>Ils feront connaissance après.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Et vous, mon oncle, avez-vous aussi une femme à me donner?</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Oui, j'ai ce qu'il te faut.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Eh bien! j'accepte aussi.</p>
+    </sp>
+    <sp who="#TDP1127_4 16">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>C'est Rolet qui se propose.</p>
+     <pb n="16"/>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Rolet! ... Il est fort aimable.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES,</speaker>
+     <stage>(à part).</stage>
+     <p>La perfide!</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle,</speaker>
+     <stage>à Charles.</stage>
+     <p>Je te nommerai la tienne dans un autre instant.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>C'est égal, je la trouve charmante! adorable!</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>(à part).</stage>
+     <p>Le traître!</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin,</speaker>
+     <stage>à Mélanie.</stage>
+     <p>Cela t'arrange ainsi que moi, tout le monde sera content; alors je veux t'en entretenir.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Volontiers. Je vois que je serai la plus heureuse des femmes,</p>
+     <stage>REPRISE DU COUPLET.</stage>
+     <l>Je ne souffrirai pas qu'on m'opprime,</l>
+     <l> Et de vos humeurs, etc.</l>
+     <stage>(Madame Geoffrin et Mélanie sortent).</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE VI.</head>
+    
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle,</speaker>
+     <stage>Charles.</stage>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>ELLE est partie, et elle accepte .... un Rolet! qui ne l'aimera jamais.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Mais qui sera toujours aimable, mon cher neveu!</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Courage, mon oncle, louez-le; ah! il ne l'aura pas.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Que feras-tu pour l'empêcher de l'obtenir?</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Ce que je ferai. ... d'abord, je vais retrouver Mélanie.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Je te vois en charmantes dispositions pour ramener une maîtresse</p>
+    </sp>  <pb n="17"/>
+     <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>La ramener! point du tout, je l'accable de reproches.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Ce serait une répétition de la dernière scène! ... Cela me rappèle qu'à ton âge, fou comme
+      toi. ... ma maîtresse aussi m'abandonna. Je fus. ...</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Capable d'aller la remercier.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Non, non. J'étais furieux, j'allai la trouver. ... je lui débitai une harangue bien dure,
+      bien mortifiante ... comme celle que tu ferais en ce moment à Mélanie.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Contez, je vous prie, un peu plus longuement.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Mon neveu, on ne m'a jamais reproché cela; mais passons. Elle me répondit (comme Mélanie
+      ferait peut-être de sang-froid) en riant.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES</speaker>
+     <p>En riant! c'était un second vous-même.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Quoi, dit-elle, vous voudriez que je donnasse la préférence au moindre plaisir! ... soyez
+      juste, j'en trouve plus avec un autre.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Vous lui donnâtes du moins les noms les plus odieux. ...</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>De perfide! d'ingrate! point du tout. Vous avez raison, lui dis-je, je ne veux gêner
+      personne; mais si je ne suis plus votre amant, que je sois du moins le meilleur de vos
+      amis.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Mais, mon oncle, vous ne sentez donc rien! ... je ne vous imiterai point.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Tu n'es pas forcé d'être philosophe.</p>
+    </sp>
+    <sp who="#TDP1127_7 18">
+     <speaker>Charles.</speaker>
+     <p>Dieu m'en garde.</p>
+     <pb n="18"/>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Sais-tu ce que c'est qu'un philosophe?</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Non, non; ni n'ai envie de le savoir.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Je veux te l'apprendre.</p>
+     <stage type="air">AIR: si Dorilas.</stage>
+     <l>Admirant tout d'un œil tranquille,</l>
+     <l> Froids, et ne s'affectant de rien;</l>
+     <l> Contents aux champs comme à la ville,</l>
+     <l> En tous lieux ils se trouvent bien.</l>
+     <l> Ces philosophes, que l'on fronde,</l>
+     <l> Quoiqu'on en dise, sont heureux;</l>
+     <l> Ils se passent de tout le monde;</l>
+     <stage>(souriant).</stage>
+     <p>Mais l'on se passerait bien d'eux.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES,</speaker>
+     <stage>(paraît sortir de réfléchir).</stage>
+     <p>J'ai pris mon parti; je tue mon rival.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Alors il n'épousera pas Mélanie.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Vous plaisantez. ... mais c'est vous qui causez mon malheur; si vous m'aviez servi près de
+      madame Geoffrin.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>J'ai parlé; mes sollicitations ont échoué.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Mon oncle. ... tenez. ... je suis ... je suis furieux. ... vous riez, mon cher oncle; prenez
+      pitié de moi, je suis dans le délire.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Tu es amoureux; mais remets-toi, je promets ....</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Vous promettez ....</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Le valet de Rolet: que me veut-il?</p>
+    </sp>
+    <sp who="#TDP1127_7 19">
+     <speaker>Charles.</speaker>
+     <p>Mais achevez donc.</p>
+     <pb n="19"/>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE VII.</head>
+     <stage>LES PRÉCÉDENTS, ANONYME.</stage>
+    
+    <sp who="#TDP1127_2">
+     <speaker>ANONYME,</speaker>
+     <stage>à Fontenelle.</stage>
+     <p>MONSIEUR, monsieur Rolet m'a chargé de vous présenter ses hommages.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES,</speaker>
+     <stage>regardant Anonyme.</stage>
+     <p>Si je pouvais me venger! .... le coquin ne m'a rien fait.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Je devine; c'est le dernier jour. ... je vole à l'académie donner ma voix pour lui.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Mais, mon oncle, vous vouliez me dire quelque chose.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>A mon retour, cela ne presse pas. A propos, Marivaux est incommodé; il ne faut pas que
+      j'oublie de le voir. <stage>(Il cherche dans son secrétaire)</stage>. Prenons mon
+      porte-feuille. ... quand on va chez un auteur malade, cette précaution est utile.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Quel sang-froid! mais, mon oncle? ...</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Adieu, mon cher neveu. <stage>(Il sort)</stage>.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE VIII.</head>
+     <stage>CHARLES, ANONYME.</stage>
+    
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>EH bien! que fais-tu maintenant ici?</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Je reste, Anonyme, et j'attends quelqu'un qui m'annonce à madame Geoffrin.</p>
+    </sp>
+    <sp who="#TDP1127_7 20">
+     <speaker>Charles.</speaker>
+     <p>Tu veux lui parler de la part de Rolet. ... dis à ce Rolet que je veux aussi
+      l'entretenir.</p>
+     <pb n="20"/>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>AIR: de l'officier de fortune.</p>
+     <l>Vous voyez un second lui-même;</l>
+     <l> Ainsi vous pouvez me parler.</l>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <l>En ce cas, ma colère extrême</l>
+     <l> Sur ton dos va se signaler.</l>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>N'en faites rien.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Réponds-moi, traître! ..?</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Parlez, et je vous répondrai.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Veux-tu pour lui, par la fenêtre. ...</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Non, monsieur. ... je vous l'enverrai.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Eh bien! c'est là ce que je lui réserve, s'il approche de cette maison.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Ah! nous pourrions bien nous venger.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Vous venger!</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Prenez-y garde, nous pourrions vous envoyer. ...</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Un cartel! à la bonne heure.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Non, une épigramme.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Lâche!</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Ou une satyre; nous laissons toujours le choix des armes.</p>
+    </sp>
+    <sp who="#TDP1127_7 21">
+     <speaker>Charles.</speaker>
+     <p>Plat écrivain, ainsi que ton collègue! une épigramme! une satyre! Eh! sauriez-vous seulement
+      les faire?</p>
+     <pb n="21"/>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <l>AIR: jetez les yeux sur cette lettre.</l>
+     <l> Nous en avons en porte-feuille;</l>
+     <l> Gardez-vous de nous irriter.</l>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <l>De votre pitoyable feuille,</l>
+     <l> Que puis-je avoir à redouter?</l>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <l>Contre un journal qui va s'éteitidre,</l>
+     <l> C'est être par trop acharné;</l>
+     <l> Je vous permettrais de vous plaindre,</l>
+     <l> Si vous étiez notre abonné.</l>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Le coquin plaisante.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Vous êtes fâché; je suis de bonne humeur: chacun son rôle,</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES,</speaker>
+     <stage>(à part).</stage>
+     <p>S'irriter nuit à mon projet. ... <stage>(haut)</stage>. Écoute, critiquer sans esprit, louer
+      un sot auteur parce qu'il est en place, mentir enfin pour quelques écus qu'on te retient
+      souvent, je gage. ... est-il un plus mauvais métier? n'est-ce pas être un pauvre diable?</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>ANONYME,</speaker>
+     <stage>(soupire).</stage>
+     <p>C'est être moi!</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Que peut-on faire de pis, que de faire de méchants vers? car Rolet ne t'a choisi. ...</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Que pour l'aider à penser.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Vous écrivez sans cesse et n'imaginez rien; quitte ce petit personnage.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Eh, monsieur! que devenir si je l'abandonne? Hélas! n'ai-je pas fait tous les métiers?</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Veux-tu changer ton sort?</p>
+    </sp>
+    <sp who="#TDP1127_2 22">
+     <speaker>Anonyme.</speaker>
+     <p>Parlez.</p>
+     <pb n="22"/>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>J'ai besoin d'un valet; veux-tu l'être?</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Un instant, monsieur; ne serez-vous jamais poète?</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Certainement non.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>J'accepte.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Voici trois mois de gages. Que venais tu dire à madame Geoffrin?</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>C'est mademoiselle Mélanie que je cherchais, pour lui remettre cette lettre de Rolet.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Donne; en la remettant toi-même, elle refuserait. L'idée est bizarre; n'importe, je me
+      charge de cette lettre. Mais je vois la perfide. <stage>(Il veut sortir)</stage>.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Je vais vous suivre.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Non. Je remets à ton adresse de sonder ses véritables sentiments ur Rolet. Reste, et viens
+      promptement me rendre compte de ce que tu auras appris. <stage>(Il sort)</stage>.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE IX.</head>
+     <stage>ANONYME, MÉLANIE.</stage>
+    
+    <sp who="#TDP1127_2">
+     <speaker>ANONYME,</speaker>
+     <stage>(À PART).</stage>
+     <p>COMMENT m'y prendre? <stage>( haut )</stage> . Mademoiselle, j'étais chargé ... d'une lettre
+      pour vous <stage>( à part )</stage> . Comment me tirer de là?</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Vous vous trompez, monsieur, c'est sans doute pour ma tante.</p>
+    </sp>
+    <sp who="#TDP1127_2 23">
+     <speaker>ANONYME,</speaker>
+     <stage>(À PART).</stage>
+     <p>Que vais-je dire? <stage>( haut ).</stage> C'est bien pour vous.</p>
+     <pb n="23"/>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Ne vous donnez point la peine de la chercher; je ne l'accepterai pas.</p>
+     <stage>AIR.: malgré quelques traits différents.</stage>
+     <l>De recevoir un tel écrit,</l>
+     <l> Je ne ferai pas l'imprudence.</l>
+     <l> Qui peut calculer où conduit</l>
+     <l> La plus légère inconséquence?</l>
+     <l> Ah! de ce piège gardez-vous,</l>
+     <l> Jeunes beautés qu'on veut séduire;</l>
+     <l> Femme qui lit des billets doux,</l>
+     <l> Est toujours bien près d'en écrire.</l>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>Je vais donc le rendre à celui qui m'en a charge; mais tenez, le voici lui-même.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE X.</head>
+     <stage>LES PRÉCÉDENTS, ROLET.</stage>
+    
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>MÉLANIE! <stage>( à Anonyme à part ).</stage> Mon billet est-il remis?</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>ANONYME,</speaker>
+     <stage>(à part à Rolet, avec embarras).</stage>
+     <p>Vous êtes aimé.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Que je dois bénir le sort, belle Mélanie! j'étais le plus heureux des hommes, en espérance;
+      la réalité m'est assurée, par ce que j'apprends.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>MÉLANIE,</speaker>
+     <stage>(à part).</stage>
+     <p>Ma tante lui aura tout dit ... <stage>(haut)</stage>. Mais, monsieur, j'avoue ...</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Puis je en désirer davantage? L'excès de mon bonheur m'ôte la faculté de l'exprimer. Votre
+      aveu, celui de madame Geoffrin, tout me garantit d'être bientôt l'époux. ... Vous baissez les
+      yeux; ah, belle Mélanie! tout confirme mon bonheur.</p>
+    </sp>
+    <sp who="#TDP1127_6 24">
+     <speaker>Mélanie.</speaker>
+     <p>J'avoue, monsieur, que je n'ai point paru éloignée de répondre à vos vœux. ... cependant,
+      vous connaissant aussi peu ....</p>
+     <pb n="24"/>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Si le plus fortuné n'est pas le plus parfait des hommes, il sera du moins toujours le plus
+      amoureux.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>ANONYME,</speaker>
+     <stage>(à part).</stage>
+     <p>Voilà une belle phrase; je l'ai vue quelque part.</p>
+    </sp>
+    <sp who="#TDP1127_6 25">
+     <speaker>Mélanie.</speaker>
+     <p>Ils en disent tous autant à chaque femme dont ils briguent la conquête!</p>
+     <stage type="air">AIR: contre-danse de la Sauteuse.</stage>
+     <l>Que l'amour</l>
+     <l> Du jour,</l>
+     <l> Lorsque j'y pense, me fait rire;</l>
+     <l> Et que les amans,</l>
+     <l> Depuis quelque temps,</l>
+     <l> Sont plaisants.</l>
+     <l> Un objet</l>
+     <l> Paraît,</l>
+     <l> Vîte on desire</l>
+     <l> Le séduire;</l>
+     <l> Compliment flatteur</l>
+     <l> A bientôt subjugué son cœur.</l>
+     <l> Aujourd'hui,</l>
+     <l> Pour lui,</l>
+     <l> On brûle, on soupire,</l>
+     <l> On expire;</l>
+     <l> Demain, sans sujet,</l>
+     <l> On est</l>
+     <l> Distrait,</l>
+     <l> L'objet</l>
+     <l> Déplaît.</l>
+     <l> Si jamais</l>
+     <l> J'aimais,</l>
+     <l> Si je faisais</l>
+     <l> Cette folie,</l>
+     <l> Je serais,</l>
+     <l> Je crois,</l>
+     <l> Long-temps avant de faire un choix.</l>
+     <l> Jeunes gens,</l>
+     <l> Changeants,</l>
+     <l> De vous je n'aurais nulle envie:</l>
+     <l> Un cœur, sans détour,</l>
+     <l> Captiverait seul mon amour.</l>
+     <l> Je voudrais</l>
+     <l> Qu'après</l>
+     <l> M'avoir présenté son hommage,</l>
+     <l> On se fît la loi</l>
+     <l> De ne donner sa foi</l>
+     <l> Qu'à moi;</l>
+     <l> Qu'on ne fût point fat,</l>
+     <l> Mais délicat,</l>
+     <pb n="25"/>
+     <l>Discret et sage,</l>
+     <l> Complaisant et doux</l>
+     <l> Aimable,</l>
+     <l> Affable,</l>
+     <l> Et point jaloux;</l>
+     <l> Mais,</l>
+     <l> Chez les</l>
+     <l> Français,</l>
+     <l> Bien fine, je crois, serait</l>
+     <l> Celle</l>
+     <l> Qui découvrirait</l>
+     <l> Le modèle</l>
+     <l> De ce portrait.</l>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Vous les jugez bien sévèrement.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>(avec embarras).</stage>
+     <p>Votre recherche n'a rien que d'honorable pour moi.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>ANONYME,</speaker>
+     <stage>(à part).</stage>
+     <p>Serait-il aimé?</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Mais, vous me permettrez d'observer que le billet. ...</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Aurait-il pu vous offenser?</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>ANONYME,</speaker>
+     <stage>(interrompant).</stage>
+     <p>Non, monsieur. Mademoiselle, avec une grace, une justesse d'esprit. ... (Donner à
+      mademoiselle toutes les qualités, ce serait encore à peine lui rendre justice) lorsque
+      j'offrais votre billet.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>(avec embarras).</stage>
+     <p>J'ai dû ....</p>
+    </sp>
+    <sp who="#TDP1127_2 26">
+     <speaker>Anonyme.</speaker>
+     <p>Sans doute. Aussi, je n'aurais pas osé concevoir, pour vous, l'espoir, la félicité ....
+      Voici madame Geoffrin. <stage>(à part)</stage>. J'en avais grand besoin, tout allait se
+      découvrir. Vîte, allons retirer notre billet, les choses ont changé de face. <stage>(à
+      Rolet).</stage> Vous êtes adoré.</p>
+     <stage>(Anonyme sort).</stage>
+     <pb n="26"/>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XI.</head>
+     <stage>LES PRÉCÉDENTS, hormis ANONYME; Mad. GEOFFRIN.</stage>
+    
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>ENSEMBLE! cela est d'un excellent augure: ma chère Mélanie, je t'enlève notre ami Rolet pour
+      un moment; j'ai à lui parler.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>(à part à madame Geoffrin).</stage>
+     <p>Ma tante, vous avez fait bien vite usage ....</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Ce jour sera, je l'espère, le plus beau de ma vie.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Je vous complimente d'aller aussi vite en affaires. Va, ma nièce, ôtes-lui la manie d'écrire
+      et je crois que c'est une excellente acquisition.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>à sa tante.</stage>
+     <p>Je vous en prie, ne terminez rien, sans me revoir.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Oh! nous ne ferons pas encore ta noce aujourd'hui.</p>
+     <stage>(Mélanie sort).</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XII.</head>
+     <stage>Madame GEOFFRIN, ROLET,</stage>
+    
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>JE n'ai plus rien à desirer que le succès de votre ouvrage, qui se joue ce soir.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Quoi, sitôt!</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Je sors de la répétition générale, tout a pris la meilleure tournure; on nous retient une
+      loge, et je pense bien que vous m'accompagnerez.</p>
+    </sp>
+    <sp who="#TDP1127_4 27">
+     <speaker>Madame Geoffrin,</speaker>
+     <stage>(gaîment).</stage>
+     <p>Certaine de votre silence .... oui, je m'y détermine .... je me sens le courage de braver
+      une disgrâce.</p>
+     <pb n="27"/>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Il en faut peut-être davantage pour résister au bonheur qu'à l'adversité, et c'est celui
+      dont vous aurez besoin.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XIII.</head>
+     <stage>LES PRÉCÉDENTS, FONTENELLE.</stage>
+    
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle,</speaker>
+     <stage>tient des lettres à sa main.</stage>
+     <p>AH! je viens de donner ma voix pour vous.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Je ne doutais pas de votre parole.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Vous avez reçu des lettres, vous me direz à mon retour, mon cher Fontenelle, si vous avez
+      des nouvelles qui m'intéressent. Nous allons voir la nouvelle œuvre dramatique; acceptez-vous
+      une place?</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Ma façon de penser vous est connue. Une pièce est-elle bonne? on la voit à son aise et avec
+      plus d'ensemble, aux autres représentations: est-elle mauvaise? on n'a rien perdu, pas même
+      son temps; ce qui n'est pas le moins précieux à ménager.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Nous avons promis d'y assister; permettez que nous vous quittions.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XIV.</head>
+    
+    <sp who="#TDP1127_5 28">
+     <speaker>Fontenelle,</speaker>
+     <stage>seul.</stage>
+     <p>VOYONS mes Lettres <stage>(Il ouvre une Lettre)</stage> DE MARIVAUX! ... Il reposait lorsque
+      j'ai passé chez lui ... que me veut-il? <stage>(Il lit)</stage>. « Tu as agi avec moi comme un
+      véritable ami dont le » cœur devine et n'attend pas qu'on lui demande; je te renvoye » comme
+      n'en ayant plus besoin, le billet de caisse que tu as » laissé ce matin chez moi; je regarde
+      ton argent comme reçu; » je m'en suis servi, et je le rends avec la reconnaissance qu'un » tel
+      service exige ».</p>
+     <pb n="28"/>
+     <p>Eh, mon Dieu! qu'y a-t-il d'étonnant dans ma conduite? Il en eût fait autant que moi
+      <stage>(Il ouvre une autre lettre et lit)</stage>.</p>
+     <p>« Les dames qui sont à Villars, se sont gâtées par la lecture de » vos mondes; elles sont
+      devenues philosophes, et nous sommes » tous devenus physiciens, pour l'amour d'elles ».</p>
+     <p>Le soir sur des lits de verdure, etc.</p>
+     <p>Etc., etc .... « Vous savez rendre aimables les choses que beaucoup de philosophes rendent à
+      peine intelligibles ».</p>
+     <p>Ce diable de Voltaire, toujours des éloges! je finirai cela. Quelle est celle-ci? Le régent
+      me fait écrire <stage>(Il parcourt)</stage>. Il m'a tenu bientôt sa parole. Mon neveu. ...
+      Rolet. ... c'est bon. <stage>(Il en ouvre une autre)</stage>. De Danchet. « Mon cher
+      Fontenelle, madame » Geoffrin donne à souper ce soir à tous nos collègues de l'académie; je
+      comptais bien aussi venir recevoir mes étrennes; » mais il m'arrive un petit accident, auquel
+      je ne m'attendais pas; » je me suis marié ce matin, et je suis obligé d'être à ma noce ».</p>
+     <p>Encore un trait de sa façon; quel original!</p>
+     <p>Des reproches dans celle-ci! «Vous avez oublié un temps bien » doux, Fontenelle, vous ne
+      m'aimez plus .... »</p>
+     <p>Ses reproches sont fondés.</p>
+     <stage type="air">AIR: d’ Arlequin aux petites maisons.</stage>
+     <l>Hélas! pourquoi faut-il qu'on aime,</l>
+     <l> Et qu'on aime si peu de temps?</l>
+     <l> Si l'on n'est pas toujours le même,</l>
+     <l> C'est, je crois, la faute du temps.</l>
+     <l> Deux cœurs tendres, qu'amour rassemble,</l>
+     <l> Devraient calculer mieux le temps,</l>
+     <l> Et commencer eu même temps,</l>
+     <l> Vour lâcher de finir ensemble.</l>
+     <p>J'ai des torts, car j'avais promis des vers; je n'ai pas eu le temps d'y mettre la dernière
+      main. ... mais je suis seul, je vais m'en occuper, et ce sera un tort de réparé.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XV.</head>
+     <stage>Fontenelle, Mélanie.</stage>
+    
+    <sp who="#TDP1127_6 29">
+     <speaker>Mélanie</speaker>
+     <stage>s'approche doucement.</stage>
+     <p>MONSIEUR Fontenelle est seul, mais il réfléchit. ... si j'allais le contrarier.</p>
+     <pb n="29"/>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle</speaker>
+     <stage>rêve.</stage>
+     <p>Cette idée, sans doute. ... voyons. ...</p>
+     <stage>MADRIGAL.</stage>
+     <l>« Je veux chanter en vers la beauté qui m'engage;</l>
+     <l> » J'y pense j'y repense, et le tout sans effet;</l>
+     <l> » Mon cœur s'occupe du sujet,</l>
+     <l> » Et l'esprit laisse là l'ouvrage ».</l>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Quel autre que Fontenelle pourrait s'exprimer ainsi!</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Quoi, c'est vous, Mélanie! approchez donc?</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Je craignais de vous interrompre.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <l>Peut-on jamais se plaindre d'une distraction aussi agréable?</l>
+     <l> </l>
+     <stage>(IL LÈVE L'ABAT-JOUR DE SA LAMPE).</stage>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Cette clarté nuit à votre vue. ... vous aimez l'obscurité.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Non pas où vous êtes, mademoiselle.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Vous êtes aussi honnête qu'aimable et bon; c'est ce qui m'en courage à m'adresser à vous.
+      ... vous savez qu'on me marie?</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <l>A Rolet! et n'en êtes-vous pas satisfaite? Ne vous a-t-il pas</l>
+     <l> prouvé qu'il partageait vos sentiments?</l>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>avec vivacité.</stage>
+     <l>Mon dieu! la seule preuve que j'en aye est ce billet, que j'ai</l>
+     <l> trouvé sur ma toilette. ...</l>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Et ce billet vient? ....</p>
+    </sp>
+    <sp who="#TDP1127_6 30">
+     <speaker>Mélanie.</speaker>
+     <p>De monsieur Rolet. Ma tante m'a parlé en sa faveur; lui-même se croit payé de retour de ma
+      part. On a fixé mon mariage à un terme très-prochain; je voudrais au moins le reculer.</p>
+     <pb n="30"/>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Puisque vous le desirez, j'en parlerai à madame Geoffrin.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Que je vous aurai d'obligation! car, tenez, non, je ne l'aime pas du tout, ce Rolet.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle</speaker>
+     <stage>sourit.</stage>
+     <p>Tantôt, cependant. ...</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>avec embarras.</stage>
+     <l>C'est vrai. ... mais, monsieur Fontenelle, comme vous l'avez</l>
+     <l> dit vous-même, s'il est bon d'être délicat dans un commerce d'amour, il ne faut pas être
+      chicaneur. Les plaintes de délicatesse réveillent, les autres fatiguent toujours; vous l'avez
+      écrit.</l>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle,</speaker>
+     <stage>(à part).</stage>
+     <p>Voilà pour mon neveu; le fripon est aimé.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>bien timidement.</stage>
+     <p>Il faut que je vous ouvre tout à fait mon cœur. ... vous ne me trahirez pas. ... vous avez
+      parlé tantôt à Charles d'une femme que vous lui destiniez.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>C'est vrai, je lui destine une femme.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>avec inquiétude.</stage>
+     <p>Belle!</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Oui.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Elle a de l'esprit?</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle,</speaker>
+     <stage>(haut).</stage>
+     <p>Oui. <stage>(à part)</stage>. Elle ne fera pas une troisième question.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>vivement et par inspiration.</stage>
+     <p>Monsieur Fontenelle, ah! qu'il ne la voye pas, je vous en prie!</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle,</speaker>
+     <stage>sourit.</stage>
+     <p>Il l'a vue, et c'est sur-tout sa naïveté qui l'a touché.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>avec inquiétude.</stage>
+     <p>Il l'aime donc?</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Il l'adore.</p>
+    </sp>
+    <sp who="#TDP1127_6 31">
+     <speaker>Mélanie.</speaker>
+     <p>C'est fini, je ne veux plus rien entendre.</p>
+     <pb n="31"/>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Il prétend que vous avez changé la première.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Et quand cela serait, eût-il suivi mon exemple, s'il eût réellement aimé?</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>On peut le ramener.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>fièrement.</stage>
+     <p>Non. Celui qui a pu changer une fois peut changer mille. Monsieur Fontenelle, je ne veux
+      plus qu'une grace de vous; demandez un délai à ma tante pour mon mariage avec Rolet. ... je
+      vous en conjure. ... c'est le seul bonheur que je desire maintenant. Voici votre neveu .....
+      sans doute il desire vous entretenir; permettez que j'évite ses regards.</p>
+     <stage>(Elle sort).</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XVI.</head>
+     <stage>Fontenelle, Charles.</stage>
+    
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle,</speaker>
+     <stage>(à part).</stage>
+     <p>NE négligeons pas l'occasion de placer la leçon et de les rendre heureux, s'il est
+      possible.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Ah, mon oncle! je l'ai vue; elle sort d'ici.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Me parles-tu de la femme que je t'ai proposée!</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Je vous parle de Mélanie! ...</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Oui, j'ai eu un moment d'entretien avec elle.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Je vous connais; vous êtes si bon, vous aurez fait ma paix.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Moi! ... je n'étais pas plénipotentiaire.</p>
+    </sp>
+    <sp who="#TDP1127_7 32">
+     <speaker>Charles.</speaker>
+     <p>Ne plaisantez donc pas; elle ne consent plus à épouser ce Rolet</p>
+     <pb n="32"/>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Elle veut retarder quelque temps; mais elle consent à l'épouser.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Retarder quelque temps! c'est fini, elle reconnaîtra ses torts.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Ses torts sont les vôtres, à ce qu'elle prétend.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES,</speaker>
+     <stage>(avec hauteur).</stage>
+     <p>Les miens! ... <stage>(avec douceur)</stage>. Eh bien, j'en conviendrai!</p>
+     <stage type="air">AIR: comme j'aime mon Hyppolite.</stage>
+     <l>Tous mes torts seront pardonnés,</l>
+     <l> S'il ne faut que les reconnaître;</l>
+     <l> Si l'amour me les a donnés,</l>
+     <l> L'amour les fera disparaître.</l>
+     <l> Je ne me crois plus innocent,</l>
+     <l> Lorsque j'offense Mélanie ....</l>
+     <l> Toujours le véritable amant</l>
+     <l> Doit voir par les yeux d'une amie.</l>
+     <p>Oui, mon oncle, elle me pardonnera ...... n'a-t-elle pas paru disposée? ....</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>A ne plus vous revoir, à épouser Rolet.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Ne me désespérez pas. Une démarche la ramènera? je cours me jeter à ses pieds.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Dis-moi un seul mot: vous vous êtes querellés, brouillés?</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>C'est vrai; mon maudit caractère en est la cause.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Vous êtes désunis pour jamais.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Ciel! que m'annoncez-vous! je n'existerais point sans elle.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Un sujet bien grave a causé votre emportement mutuel!</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <l>Oh oui, bien grave! mais quand j'oublie tout, elle doit</l>
+     <l> m'imiter.</l>
+    </sp><pb n="33"/>
+   
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <l>Pour opérer un rapprochement, mon cher neveu, il me semble</l>
+     <l> qu'il eût fallu m'instruire. ... mais peut être le motif est d'une telle</l>
+     <l> importance, qu'on ne peut en faire part?</l>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Si fait .... cela était bien important! ... mais., mon oncle, pensez-vous qu'elle
+      l'épouse!</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Ce sujet de votre brouillerie?</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Oh, c'est un sujet!</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Encore?</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>A vrai dire, je ne m'en rappèle pas trop l'origine.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <stage type="air">AIR: ce fut par la faute du sort</stage>
+     <l>On voit plus d'un couplé fidèle,</l>
+     <l> Se brouiller, pour une querelle</l>
+     <l> Dont il ignore le sujet.</l>
+     <l> Ainsi Mars, ravageant la terre,</l>
+     <l> Chez vingt peuples porte l'effroi;</l>
+     <l> Et quand on s'est bien fait la guerre,</l>
+     <l> Chacun se demande pourquoi?</l>
+     <p>Je vois que vous ne connaissez que les suites de votre brouillarie. ... alors je suis tout
+      aussi instruit que vous.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <l>Il ne s'agit pas de savoir ce qui nous a brouillés, mais de nous</l>
+     <l> raccommoder.</l>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenellr.</speaker>
+     <p>C'est juste. Eh bien! je vais t'en donner un moyen.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Ah, parlez, parlez! ce ne sera pas le moindre de vos bienfaits.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <l>Attends, pour me remercier, que je t'aye donné ce moyen; il</l>
+     <l> est si simple, qu'il ne vaut guères la peine. ...</l>
+    </sp>
+    <sp who="#TDP1127_7 34">
+     <speaker>Charles.</speaker>
+     <p>Ce moyen, mon oncle?</p>
+     <pb n="34"/>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>C'est de changer ton caractère, mon neveu.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES,</speaker>
+     <stage>(avec emportement).</stage>
+     <l> je changerai. Soyez mon</l>
+     <l> Répondez-moi donc;</l>
+     <l> faites-moi espérer si vous ne voulez que je meure. ... </l>
+     <l> En changeant de caractère, en étant. ...</l>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Doux.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Oui, mon oncle.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Prévenant, affable.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Oui, mon oncle.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Toujours du même avis, sur-tout que votre amie. ...</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Oh oui mon oncle! je ne voudrai jamais que ce qu'elle voudra.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <l>Comme ton caractère est connu, en te justifiant de ces défauts,</l>
+     <l> par une conduite opposée et continue. ...</l>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Oui, mon oncle, une conduite opposée et continue. ...</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Tu es certain de réussir. ...</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES,</speaker>
+     <stage>(avec confiance).</stage>
+     <p>A obtenir mon pardon.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Non; à te faire aimer de toutes les Femmes.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Mais je ne veux être aimé que de celle-là.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Mais celle-là ne veut plus t'aimer.</p>
+    </sp>
+    <sp who="#TDP1127_7 35">
+     <speaker>Charles.</speaker>
+     <p>Vous me désespérez; j'en mourrai.</p>
+     <pb n="35"/>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>On ne meurt de cela qu'en paroles, mon neveu. Mais, qu'entends - je? quel bruit! Madame
+      Geoffrin, riant aux éclats! Rolet!!</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE XVII.</head>
+     <stage>LES PRÉCÉDENTS, Madame GEOFFRIN, ROLET.</stage>
+    
+    <sp who="#TDP1127_3">
+     <speaker>ROLET,</speaker>
+     <stage>tout défait.</stage>
+     <p>OUI, madame, riez; finissez la scène que vous avez commencée.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Mais, c'est qu'elle est fort plaisante.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Qu'est-il donc arrivé?</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <l>Ce qui m'est arrivé!!! l'aventure la plus scandaleuse! la plus</l>
+     <l> outrageante!</l>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Oh, vous prenez la chose au tragique!</p>
+    </sp>
+    <sp who="#TDP1127_3 36">
+     <speaker>Rolet.</speaker>
+     <l>Au tragique! quand on a porté l'atteinte la plus sanglante à ma</l>
+     <l> réputation. Monsieur Fontenelle, vous allez en juger.</l>
+     <stage type="air">AIR: contre-danse de la Hullin.</stage>
+     <l>Vous savez qu'on nous annonçait</l>
+     <l> Pour ce soir, du neuf chez Thalie;</l>
+     <l> Nous prenons, comme on commençait,</l>
+     <l> Les places qu'on nous retenait.</l>
+     <l>La salle était</l>
+     <l> Bien garnie.</l>
+     <l>Mais mon destin chagrinant</l>
+     <l> Veut que madame me prie</l>
+     <l> De m'asseoir sur le devant,</l>
+     <l> Quoique d'abord m'en défendant;</l>
+     <l> Elle ordonne, elle est obéie;</l>
+     <l> Mais bientôt après on entend</l>
+     <pb n="36"/>
+     <l>Des sifflets le bruit déchirant,</l>
+     <l> Madame, au bord de la loge,</l>
+     <l> Me répète à tout moment:</l>
+     <l> Quoi! vous me faisiez l'éloge</l>
+     <l> De cet ouvrage assommant!</l>
+     <l>Chacun huait,</l>
+     <l> Chacun sifflait;</l>
+     <l>Et madame, au moindre intervale,</l>
+     <l> A haute vois me répétait:</l>
+     <l> Que c'est mauvais, mon cher Rolet!</l>
+     <l> Ce mot frappe la cabale,</l>
+     <l> On me cherche, on m'appercoit;</l>
+     <l> Et bientôt toute la salle,</l>
+     <l> En riant, me montre au doigt:</l>
+     <l> « Cher Rolet, tu t'es signalé,</l>
+     <l> » Disait-on; permets qu'on te loue,</l>
+     <l> » Dans quel œuvre as-tu compilé</l>
+     <l> » Un ouvrage aussi mal baclé »</l>
+     <l> Tout le monde me bafoue;</l>
+     <l> Chacun de moi se mocquait</l>
+     <l>Et criait</l>
+     <l> Du moins avoue</l>
+     <l>Que c'est mauvais, cher Rolet.</l>
+     <l> Je sors; hélas! on me suivait. ...</l>
+     <l>Dans la rue</l>
+     <l> On siflle, on me hue. ...</l>
+     <l>Que c'est mauvais, mon cher Rolet?</l>
+     <l> De ces mots chacun m'accablait.</l>
+     <l> Une indigne populace</l>
+     <l> Me poursuit en s'attroupant:</l>
+     <l> Dans chaque endroit où je passe,</l>
+     <l> Ces mots frappent mon timpan.</l>
+     <l> C'est au point, qu'un de vos laquais ...</l>
+     <l> Qui, sans doute sait ma disgrace,</l>
+     <l> M'a dit encor, comme j'entrais,</l>
+     <l> Monsieur Rolet, que c'est mauvais!</l>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <l>L'avanture est désagréable pour vous; mais mon compliment de</l>
+     <l> condoléance, ne vous consolera guères.</l>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES,</speaker>
+     <stage>(à part).</stage>
+     <p>Diable d'homme! je voulais l'accabler d'injures; je suis obligé de le plaindre.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Je veux bien convenir que j'ai quelques torts; mais, mon cher Rolet, c'était si mauvais!</p>
+    </sp>
+    <sp who="#TDP1127_3 37">
+     <speaker>Rolet.</speaker>
+     <p>Encore, madame, ah! ...</p>
+     <pb n="37"/>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Je n'en disconviendrai jamais; c'est un ouvrage détestable.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Mais, madame, cet ouvrage. ...</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin,</speaker>
+     <stage>(souriant).</stage>
+     <p>N'a pas le sens commun, et fait presque honte à l'auteur.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>ROLET,</speaker>
+     <stage>(avec emportement).</stage>
+     <p>En ce cas, madame, vous devriez rougir.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle,</speaker>
+     <stage>à madame Geoffrin.</stage>
+     <p>Comment: est-ce que vous seriez? ....</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin,</speaker>
+     <stage>(souriant).</stage>
+     <l>La coupable! il faut bien l'avouer, puisque je suis trahie ....</l>
+     <l> Mon cher Rolet, vous vous rappelez notre marché.</l>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Qu'ai-je fait?</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Comment?</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <l>Madame, pardonnez à l'amour-propre .... non, messieurs, je</l>
+     <l> me suis trompé ....</l>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <l>Avouez, que je pourrais bien me venger; mais non. Je suis</l>
+     <l> généreuse, et si ma nièce persiste dans ses sentiments pour</l>
+     <l> vous ....</l>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Quoi, madame! vous pourriez ....</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Faire le bonheur de ma nièce.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Sans doute; c'est le devoir de son cœur.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES,</speaker>
+     <stage>à Rolet.</stage>
+     <p>Je vous déclare que la mort de l'un des deux ...</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Mon neveu, comme te voilà changé!</p>
+    </sp>
+    <sp who="#TDP1127_4 38">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Messieurs, ma nièce ne sera pas la cause d'une bataille, De deux
+      <pb n="38"/>
+     choses l'une; ou vous ne l'aurez ni l'un ni l'autre, ou l'amant malheureux supportera son
+      sort avec résignation.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Sans doute; et je réponds que mon neveu subira son arrêt sans murmurer,</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES,</speaker>
+     <stage>(furieux).</stage>
+     <p>Mon oncle!</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Je m'avance même pour Rolet.</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Voici ma nièce; elle va prononcer. <stage>(à Rolet.)</stage> On n'est pas deux fois
+      malheureux.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE XVIII.</head>
+     <stage>LES PRÉCÉDENTS, MÉLANIE</stage>
+    
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>À MADAME GEOFFRIN.</stage>
+     <p>On m'a dit que vous étiez rentrée <stage>(se retirant.)</stage> Charles et Rolet!</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Belle Mélanie! voici le moment décisif pour deux rivaux .... L'un, plein d'impatience
+      <stage>(regardant son neveu.)</stage> promettant, ce que l'on croit sans peine en vous voyant,
+      que vous aurez l'art de gouverner son caractère impétueux! ....</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>L'autre, mademoiselle, qui se flatte de ne vous pas être indifférent!</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES,</speaker>
+     <stage>(vivement).</stage>
+     <p>Vous ne répondez rien, mademoiselle; il est bien facile cependant de décider ...... vous
+      aimez quelqu'un, ou vous n'aimez personne. On ne fait pas souffrir aussi long-temps et de
+      gaîté de cœur.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle,</speaker>
+     <stage>(avec ironie)</stage>
+     <p>Courage, mon neveu, tu changes à vue d'œil.</p>
+    </sp>
+    <sp who="#TDP1127_6 39">
+     <speaker>Mélanie.</speaker>
+     <p>Eh! de quel droit vous permettez-vous des reproches! ... qui vous dit, monsieur, que cette
+      alternative puisse m'égayer?</p>
+     <pb n="39"/>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Eh, mademoiselle! votre silence dit assez en faveur de qui vous penchez.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Prononcez, leur sort est dans vos mains.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES,</speaker>
+     <stage>(à part).</stage>
+     <p>Je souffre le martyre.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Quelqu'un vient; c'est Anonyme.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XIX ET DERNIÈRE.</head>
+     <stage>LES PRÉCÉDENTS, ANONYME.</stage>
+    
+    <sp who="#TDP1127_2">
+     <speaker>ANONYME,</speaker>
+     <stage>à Rolet, avec tristessse.</stage>
+     <p>AH, Monsieur, je suis un courier de malheur! <stage>(à Fontenelle, avec joie)</stage>. Ah,
+      monsieur, je suis un courier de bonheur! vous êtes nommé président de l'académie des
+      sciences.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Je ne l'avais pas demandé. Mais le malheur. ... Est-ce la chûte que tu viens annoncer? nous
+      en sommes instruits.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <p>C'est pis que cela.</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>Et qu'y a-t-il de si affligeant qui m'intéresse?</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <stage type="air">AIR: des deux Fermiers.</stage>
+     <l>Mon cher maître, désolez-vous;</l>
+     <l> Je reviens de l'académie.</l>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <l>Quoi! de la fortune ennemie</l>
+     <l> Ressentirai-je encor les coups?</l>
+    </sp>
+    <sp who="#TDP1127_2 40">
+     <speaker>Anonyme.</speaker>
+     <l>Nul malheur n'est égal au vôtre;</l>
+     <l> Car, hélas! </l>
+     <pb n="40"/>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>ROLET, .</speaker>
+     <stage>avec douleur</stage>
+     <p>Je suis encore repoussé du fauteuil.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>ANONYME, .</speaker>
+     <stage>à Rolet</stage>
+     <p>Maltraité de Plutus et des Muses , l'Amour vous sera-t-il plus favorable ?</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>ROLET , .</speaker>
+     <stage>avec douleur</stage>
+     <p>Mon mariage avec mademoiselle dépendait de ma réception à l'académie.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES.</speaker>
+     <p>Non, la délicatesse me fait un devoir de faire expliquer Mélanie, et, quoiqu'il puisse m'en
+      coûter, je ne devrait point sa main au malheur de mon rival.</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>FONTENELLE.</speaker>
+     <p>Prononcez alors avec confiance.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie, .</speaker>
+     <stage>avec bonté et timidité</stage>
+     <p>Eh bien, monsieur Rolet !</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>ANONYME, .</speaker>
+     <stage>( à part avec étonnement )</stage>
+     <p>Il est préféré!</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>J'avoue que j'ai pu causer votre erreur par mon silence; mais que mon cœur n'a pas cessé
+      d'être à Charles.... que mon cœur absout, avant de l'avoir entendu....</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>CHARLES , .</speaker>
+     <stage>baise la main de Mélanie</stage>
+     <p>O bonheur! ma chère Mélanie ?</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>ROLET.</speaker>
+     <p>Poursuivie par le destin, je vais chercher, s'il en est, une retraite inaccessible à ses
+      coups ! <stage>( à Anonyme )</stage> Suis-moi, je prends les ordres.</p>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>ANONYME.</speaker>
+     <p>L'homme propose, et Dieu dispose. Sans aller si loin, de désespoir...... j'entre au service
+      de monsieur <stage>( montrant Charles )</stage>. <stage>( à Rolet )</stage> Pour vous, mon
+      ex-maître, faites-vous abbé; je crois qu'il ne vous reste rien de mieux à faire.</p>
+    </sp>
+    <sp who="#TDP1127_5 41">
+     <speaker>FONTENELLE, .</speaker>
+     <stage>arrête Rolet</stage>
+     <p>J'avais prévu votre disgrace, et j'ai tâché de vous en consoler. Lisez cet écrit. <stage>(
+      Il lui donne une lettre ).</stage></p>
+     <pb n="41"/>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>ROLET,</speaker>
+     <stage>parcourt la lettre.</stage>
+     <p>Le régent m'accorde une abbaye, dont les revenus se montent annuellement à huit mille
+      livres. Ah, monsieur Fontenelle! on ne sert pas mieux ses amis. <stage>(Il relit
+      encore)</stage>. Mais .... je ne dois pas seul me réjouir de cette lettre; elle annonce une
+      charge de conseiller d'état pour votre neveu.</p>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <p>Quoi, mon oncle!</p>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Oui, mon neveu, c'est ton présent de noces, avec la femme dont je t'ai parlé.
+      <stage>(montrant Mélanie)</stage>.</p>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie.</speaker>
+     <p>Je vous ai deviné ... mais comment reconnaître tant de bienfaits?</p>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame GEOFFRIN.</speaker>
+     <p>Oh, mon ami! et les méchants vous accuseront d'égoïsme!</p>
+    </sp>
+    <sp who="#TDP1127_3">
+     <speaker>Rolet.</speaker>
+     <p>On vous rendra justice, Fontenelle; la postérité vous appréciera, et c'est ainsi que tous
+      ceux qui vous connaîtront parleront de vous.</p>
+     <stage>AIR; Vaudeville de Lasthénie.</stage>
+     <l>Ami constant de la vertu,</l>
+     <l> Grand écrivain, poète aimable,</l>
+     <l> Toujours au malheur abattu</l>
+     <l> Tendant une main secourable.</l>
+     <l> C'est en vain qu'un lâche ennemi</l>
+     <l> A noircir votre ame persiste.</l>
+     <l> Le bon parent, le bon ami,</l>
+     <l> Ne fut jamais un égoïste.</l>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <p>Eh! qui ne calomnie-t-on pas?</p>
+    </sp>
+    <sp who="#TDP1127_4 42">
+     <speaker>Madame Geoffrin.</speaker>
+     <p>Le mot n'est-il pas que bien des gens vous jugent d'après eux?</p>
+     <pb n="42"/>
+     <stage>VAUDEVILLE.</stage>
+    </sp>
+    <sp who="#TDP1127_4">
+     <speaker>Madame Geoffrin.</speaker>
+     <stage type="air">AIR: du Rémouleur et la Meunière.</stage>
+     <l>Petits emplois, brillantes places,</l>
+     <l> Chacun n'y vise que pour soi;</l>
+     <l> Tel qui peut obtenir des graces,</l>
+     <l> Ne les demande que pour soi.</l>
+     <l> On sait que tout homme d'affaire</l>
+     <l> Commence par songer à soi;</l>
+     <l> D'un bout à l'autre de la terre.</l>
+     <l> Chacun ne pense que pour soi.</l>
+    </sp>
+    <sp who="#TDP1127_5">
+     <speaker>Fontenelle.</speaker>
+     <l>Cloé, gentille bergerette,</l>
+     <l> Peut prendre un époux à son gré;</l>
+     <l> Vingt amants briguent sa conquête;</l>
+     <l> Heureux qui sera préféré!</l>
+     <l> A chacun de ces bons apôtres,</l>
+     <l> On peut bien permettre, je croi,</l>
+     <l> De vouloir écarter les autres,</l>
+     <l> Et de ne penser que pour soi.</l>
+    </sp>
+    <sp who="#TDP1127_7">
+     <speaker>Charles.</speaker>
+     <l>Quand la femme s'occupe d'elle,</l>
+     <l> Le mari s'occupe de lui:</l>
+     <l> C'est (dit-on) l'histoire fidèle</l>
+     <l> De plus d'un ménage aujourd'hui.</l>
+     <stage>(À MÉLANIE).</stage>
+     <l>De l'égoisme, dans le nôtre,</l>
+     <l> Nous subirons aussi la loi;</l>
+     <l> Car, pensant toujours l'un à l'autre,</l>
+     <l> Ce sera ne penser qu'à soi.</l>
+    </sp>
+    <sp who="#TDP1127_3 43">
+     <speaker>Rolet.</speaker>
+     <l>Un auteur présente un ouvrage;</l>
+     <l> Mais si cet ouvrage est mauvais,</l>
+     <l> Il ne doit pas, d'un public sage,</l>
+     <l> Enfreindre les justes arrêts.</l>
+     <l> Car, pour une pièce éphemère,</l>
+     <l> Telle que tous les jours j'en voi</l>
+     <l> Souffrir qu'on se batte au parterre,</l>
+     <l> C'est bien ne penser que pour soi.</l>
+     <pb n="43"/>
+    </sp>
+    <sp who="#TDP1127_2">
+     <speaker>Anonyme.</speaker>
+     <l>Je suis un pauvre misérable,</l>
+     <l> Sans parents, sans état, sans nom;</l>
+     <l> En me surnommant pauvre diable,</l>
+     <l> Voltaire sans doute eut raison.</l>
+     <l> Sur rien mon espoir ne se fonde;</l>
+     <l> Sur terre je n'ai rien à moi:</l>
+     <l> Hélas! en me mettant au monde,</l>
+     <l> Mon père n'a songé qu'à soi.</l>
+    </sp>
+    <sp who="#TDP1127_6">
+     <speaker>Mélanie,</speaker>
+     <stage>au public.</stage>
+     <l>Notre desir fut de vous plaire;</l>
+     <l> Y réussir serait bien doux;</l>
+     <l> Mais nous craignons fort le contraire,</l>
+     <l> Et déjà nous tremblons pour nous.</l>
+     <l> De son côté, l'auteur éprouve</l>
+     <l> Un juste ou chimérique effroi;</l>
+     <l> Et voilà bien ce qui vous prouve</l>
+     <l> Que chacun ne pense qu'à soi.</l>
+    </sp>
+   </div>
+   <div>
+    
+     <head>F I N.</head>
+    
+   </div>
+  </body>
+ </text>
+</TEI>

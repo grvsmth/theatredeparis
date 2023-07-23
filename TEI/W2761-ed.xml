@@ -1,0 +1,2984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2761">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Strélitz; mélodrame en trois actes et à grand spectacle: TEI edition (Wicks no.
+     2761)</title>
+    <author>J. J. M. Duperche</author>
+    <respStmt>
+     <resp>Original transcription by </resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI conversion by </resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor> The Digital Parisian Stage Corpus. GitHub.
+     https://github.com/grvsmth/theatredeparis </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images downloaded from <ref
+     target="http://books.google.com/books?id=GGnpR5FuFwYC"/>.</p>
+    <p>HTML transcription downloaded from <ref
+     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2761strelitz.html"
+     >https://github.com/grvsmth/theatredeparis</ref></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc>
+   <change when="2023-07-22">Hand-edited</change>
+<change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>LES STRELITZ, </titlePart>
+     <titlePart>MÉLODRAME EN TROIS ACTES ET A GRAND SPECTACLE; </titlePart>
+    </docTitle>
+    <byline>Par <docAuthor>J. J. M. DUPERCHE</docAuthor>; Musique de MM. QUAISIN et PICCINI; Ballets
+     de M. RICHARD, Pensionnaire de l'Académie impériale de Musique. </byline>
+    <titlePart>Représenté pour la première fois , à Paris, sur le Théâtre de l' Ambigu-Comique , le
+     12 Mai 1808. </titlePart>
+    <docImprint>PARIS, Chez Barba , Libraire, Palais-Royal , derrière le Théâtre Français,
+     No.51.</docImprint>
+    <docDate> 1808.</docDate>
+   </titlePage>
+   <castList>
+    <head>PERSONNAGES.ACTEURS.</head>
+    <castItem><role>PIERRE ALEXIOWITZ, Empereur de Russie.</role><actor>M.
+     Defresne.</actor></castItem>
+    <castItem><role>CATHERINE, son Epouse.</role><actor>Mlle. Leroy</actor></castItem>
+    <castItem><role>MENZICOFF, son premier Ministre.</role><actor>M. Stockelet</actor></castItem>
+    <castItem><role>MARIA, Epouse du général des Strélitz licenciés.</role><actor>Mad.
+     Lévéque.</actor></castItem>
+    <castItem><role>FEODOR, son Fils.</role><actor>M. Perrin.</actor></castItem>
+    <castItem><role>SUCHANIN,</role> <role>ROSERDORF,</role>
+     <roleDesc>Strélitz.</roleDesc>><actor>M. St. Clair.</actor><actor>M.</actor></castItem>
+    <castItem><role>Deux inconnus.</role><actor/></castItem>
+    <castItem><role>Officiers.</role><actor/></castItem>
+    <castItem><role>Gardes.</role><actor/></castItem>
+    <castItem><role>Strélitz.</role><actor/></castItem>
+    <castItem><role>Peuple.</role><actor/></castItem>
+   </castList>
+   <set>
+    <p>La scène est à Moscou.</p>
+   </set>
+  </front>
+  <body>
+
+   <head>LES STRELITZ.</head>
+   <div>
+
+    <head>ACTE PREMIER.</head>
+    <stage>( Le théâtre représente une place publique; un piédestal entourré d'une grille est au
+     fond. Le jour commence à paraître. )</stage>
+
+
+    <div>
+
+     <head>SCENE PREMIERE.</head>
+     <stage>MARIA, ROSERDORF.</stage>
+     <stage>( Ils entrent avec précaution , observant et cherchant. )</stage>
+
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Tous les habitans de Moscou sont encore ensevelis dans le sommeil ; venez , madame ,
+       approchez sans crainte.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Des craintes . . . une mère infortunée qui cherche le fils qu'on lui a ravi, n'en connaît
+       d'autres que celle de ne pas retrouver cet objet si cher. . . . Roserdorf. . . es-tu bien
+       certain que l'édifice voisin soit celui qu'on assure renfermer mon fils ? et que cette place
+       isolée soit bien celle que souvent il traverse dès l'aube du jour?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Moscou m'est trop connu , je ne pouvais m'y tromper.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Pourquoi donc depuis trois jours sa malheureuse mère s'y consume-t-elle dans une vaine
+       attente ? chaque instant ajoute à mes alarmes.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Qu'auriez-vous encore à redouter pour lui ; grace au Czar, la famille d'Ossacow, dans sa
+       misère profonde, peut maintenant braver et sa toute puissance et les coups du sort.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Eh ! . . . par un seul mot le cruel ne peut-il pas encore m'enlever à jamais mon fils ! . .
+       . ce fils. . .qu'elle idée sinistre vient tout à coup s'emparer de mon esprit!... ô ciel! ...
+       si Féodor malade, privé de tout secours.... et tu n'as pas voulu tenter de pénétrer jusqu'à
+       lui.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Non, cette démarche vous aurait infailliblement trahie. N'attendez de moi que les services
+       qui ne peuvent exposer vos jours. Vous êtes l'épouse d'Ossacow , ce vertueux chef des
+       Strélitz, condamné à finir ses jours en Sibérie; vous connaissez l'arrêt qui vous défend à
+       vous-même et sous peine de mort , d'approcher cette ville de plus de dix lieues. Si l'on me
+       voyait dans l'asile de votre fils , les yeux s'ouvriraient ; on se demanderait : que veut
+       Roserdorf près du jeune Ossacow ? qui l'envoyé ? on ferait des recherches, vous seriez
+       découverte, et bientôt votre tête roulerait aux pieds du Czar.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Qui pense à nous? qui peut ou voudrait encore nous reconnaître ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Le soupçon.....</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Nous sommes descendus trop bas pour que l'œil da maître daigne s'attacher sur nous.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Trop bas! . . . non. ... les Strélitz dispersés et bannis n'ont pas cessé de lui paraître
+       dangereux ; nul de nous ne lui est indifférent, il veille sur toutes nos démarches.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Eh quoi, tu partages aussi l'erreur commune? tu pense que si le Czar n'avait pas craint les
+       Strélitz, il n'eut point détruit ce corps si brave et si renommé? Ah! cesse de t'abuser: la
+       haine qu'il lui portait , et dont cent fois il lui a donné des marques , a seule causé notre
+       infortune.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Maria, le malheur rend injuste. D'où serait née cette haine du Czar pour les plus braves de
+       ses soldats? quoiqu'il ait réduit et mes amis et moi à l'état le plus déplorable , je ne puis
+       me dispenser de rendre hommage à a vérité: Pierre est grand, noble, vaillant et généreux. Si
+       nous avons été victimes de sa vengeance , c'est que cédant à un premier mouvement de fureur ,
+       il nous a tous confondus avec quelques factieux qui se trouvaient parmi nous , et voulaient
+       s'opposer à ses desseins ; c'est que nous-même , connaissant la pureté de nos consiences,
+       nous avons laissé peut-être éclater plus de fierté qu'il ne convient à des sujets d'en
+       montrer devant leur maître.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA,</speaker>
+      <stage>avec amertume.</stage>
+      <p>Ainsi, défenseur du Czar , tu approuves la sévérité avec laquelle il nous traita.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Je ne puis approuver cette sévérité , elle fut poussé trop loin , puisque le crime el
+       l'indiscrétion partagèrent le même châtiment : je ne suis point le défenseur de Pierre , mais
+       jamais je n'ai su taire ma pensée. Estimez-moi toujours madame, car tout en rendant justice
+       au Czar , je ne vous en suis pas moins entièrement dévoué.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Mille fois tu m'en a donné des preuves !... J'entends quelqu'un , je crois. . . .</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Oui. ... on approche. ... éloignons-nous. ...</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Si c'était Féodor.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Il faut nous en assurer avant de paraître.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Mais.....</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Point d'imprudence. . . . venez.</p>
+      <stage>(Ils s'éignent. )</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCENE II.</head>
+
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <stage>( Il s'approche en observant. )</stage>
+      <p>Personne . . . .Si, comme des surveillans l'ont assuré au ministre, Maria Ossacow a pénétré
+       dans cette ville, on doit la trouver près de l'azile qui renferme son fils : le voir est sans
+       doute le seul motif qui l'amène à Moscou. . . que viendrait-elle chercher dans un lieu où la
+       mort l'attend ? elle ne peut savoir, que sur des lettres supposées de son époux , dont j'ai
+       en l'art d'imiter la signature, j'ai réunis les Strélitz ; que j'ai su déterminer ces
+       vaillans soldats à placer la couronne sur la tete d'Ivanowitz, dernier rejetton de l'ancienne
+       famille impériale. Que faire dans cette circonstance? Il serait imprudent de confier à une
+       femme des projets de cette importance ; depuis trois mois que je suis parvenu à découvrir
+       l'asile de son fils, je le vois tous les jours , j'ai fait naître dans son ame le désir de
+       connaître sa famille, j'ai su l'animer contre le Czar; je veux le presenter aux Strélitz; la
+       présence du fils d'Ossacow , du fils infortuné de leur malheureux chef, doit exciter leur
+       haine, et je saurai profiter du moment pour renverser le tyran que j'abhore; mais l'arrivée
+       de Maria m'inquiète : n importe, tâchons de la découvrir, et si cela est necéssaire ,
+       servons-nous d'elle pour accomplir mes desseins. Oui Pierre ! pour secouer ton jeux odieux ,
+       pour remonter aux honneurs dont tu me fis descendre , je veux mettre à ta place un nouveau
+       maître qui, me devant tout, me comblera de richesses et me vengera de ton mépris. Je puis
+       être contraint de retarder encore ; mais pour être plus lents , les coups n'en seront pas
+       moins terribles. On vient.</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCENE III.</head>
+     <stage>SUCHANIN, MARIA, ROSERDORF, ( qui approchent. )</stage>
+
+     <sp who="#TDP2761_2">
+      <speaker>MARIA</speaker>
+      <stage>observant de loin.</stage>
+      <p>C'est peut-être lui, mon Féodor.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF</speaker>
+      <stage>la retenant.</stage>
+      <p>Non, cette démarche n'est pas celle. . . .</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN</speaker>
+      <stage>cherchant de l'œil.</stage>
+      <p>On parle. . . .</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Mais il peut le connaître, nous instruire, approchons.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>C'est une femme.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF</speaker>
+      <stage>la retenant.</stage>
+      <p>Prenez garde ; cette précipitation. . . . .</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>En parlant avec prudence. ... et pourquoi-tout Moscou ne serait-il peuplé que de nos
+       ennemis? Je veux sortir de mon incertitude.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF</speaker>
+      <stage>tirant le sabre.</stage>
+      <p>En ce cas, je vais me tenir prêt à tout événement. Si cet homme est dangereux, votre
+       impatience lui coûtera la vie.</p>
+      <stage>( Il se tient un peu en arrière, et prêt à frapper )</stage>
+      <p>Parlez, maintenant.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>s'approchant et observant Suchanin.</p>
+      <stage>( à part. )</stage>
+      <p>Cette taille , ces traits ne me sont pas inconnus.</p>
+      <stage>( haut. )</stage>
+      <p>Pardonnez si j'ose arrêter un instant vos pas....</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <stage>( a part. )</stage>
+      <p>Il me semble reconnaître cette voix, <stage>( haut. )</stage> Puis-je vous être bon à
+       quelque chose !</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Oui, si ce n'est point abuser de votre complaisance : étrangers , pauvres, sans azile ,
+       nous avons vainement cherché....</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <stage>( à part. )</stage>
+      <p>C'est elle ! ( <stage>haut.</stage> ) Pardonnez, mais plus je vous entends, et plus. . . .
+       dites-moi, madame, ne fut-il point un tems où plus favorisé de la fortune ? . . .</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA</speaker>
+      <stage>réservée.</stage>
+      <p>Pourquoi cette question ?</p>
+      <stage>( Roserdorf recule un pas et est prêt à frapper ).</stage>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Elle ne doit pas faire naître votre défiance , jamais Suchanin ne dut en inspirer.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <stage>bas à Roserdorf.</stage>
+      <p>Suchanin !</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF</speaker>
+      <stage>après avoir examiné Suchanin.</stage>
+      <p>En effet, c'est lui, vous pouvez parler.</p>
+      <stage>( Il remet son sabre dans son foureau. )</stage>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Mon nom paraît vous causer de la surprise ?</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Suchanin ! le compagnon d'armes, l'ami de mon époux !</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Il est donc vrai! vous ! vous, Maria, dans ces lieux?</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Oui, je suis cette Maria qui jadis moins infortunée. . .</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Ah! mille fois heureux le jour où je vous revois, où je puis enfin savoir ce que fait le
+       grand et généreux Ossacow.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Ne cherche point à connaître le destin d'un malheureux pour qui l'existence est un fardeau
+       pénible. Mais, toi, quel est ton sort? comment te vois-je à Moscou, lorsque je te croyais
+       exilé dans les déserts du Kamschatka ?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Je devais en effet y être conduit, des amis ont obtenu ma grace.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Ta grace !.. ta grace ! . . tu as eu la bassesse de l'accepter. . . c'en est assez,
+       laisse-moi. . .</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Arrêtez Maria , daignez m'entendre , et vous me trouverez moins coupable.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Vas , tu n'étais pas digne d'être un Strélitz, tu as craint de partager les maux dont on a
+       su les accabler.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Ecoutez-moi, vous dis-je : si nul de nous ne fut demeuré dans Moscou, si tous nous avions
+       été dépouillés , quel appui serait resté à nos frères ? de qui auraient-ils pu attendre des
+       secours? ces considérations seules ont pu me déterminer à rechercher la faveur du tyran que
+       je déteste.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Est-il vrai, Suchanin ? est-ce bien à tes frères, et non point à ton ambition que tu as
+       fait ce généreux sacrifice ?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Me feriez-vous l'injure d'en douter ? ah! ne réservez point un tel prix à un dévouement
+       dont vous pourrez bientôt recueillir les fruits les plus doux.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Comment, que veux-tu dire ?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Apprenez qu'après des recherches infinies, je suis enfin parvenu à découvrir la retraite où
+       Pierre avait placé votre fils.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria.</speaker>
+      <p>Tu connais sa retraite! ah! noble ami! parle-moi de ce jeune infortuné.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Lorsque Pierre licencia nos cohortes, et condamna nos chefs à l'exil, il craignit sans
+       doute de révolter les esprits par une excès do sévérité: il n'osa tremper ses mains dans le
+       sang des Strélitz; mais voulant éteindre jusqu'au souvenir de ces braves, il dispersa leurs
+       fils, les fit élever dans l'ignorance de leurs parens , et destinés au service des
+       autels.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>O mon Féodor!</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Vainement on a tenté de détruire les sentimens qu'il tient de ses ayeux ; l'amour des armes
+       et de la gloire enflamme son jeune cenrage : l'impossibilité seule de se livrer à cette noble
+       passion a pu jusqu'ici tempérer son ardeur.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA ,</speaker>
+      <stage>avec ardeur.</stage>
+      <p>L'aurais-tu vu?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Depuis plusieurs semaines , chaque matin je le rencontre, à l'instant où libre de tout
+       exercice, il lui est permis de sortir de sa retraite.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Est-il instruit par toi du nom et des malheurs de sa famille ?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Non , madame : je l'ai seulement préparé à connaître et à taire cet important sceret , je
+       me disposaisais à lui confier aujourd'hui même, lorsque. . . .</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Ainsi tu dois le voir encore? . . . Ah! je t'en supplie, hâte-toi de me conduire vers
+       lui.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Impossible, on sait déjà votre arrivée dans Moscou, on vous cherche peut-être, retournez
+       dans votre asile , et. . . .</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Depuis mon arrivée, je n'en ai d'autre que les ruines du vieux fort près des remparts. . .
+       .</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <p>Tenez vous y cachée, je n'ose au milieu du jour vous conduire chez moi, mais ce soir j'irai
+       vous chercher. En attendant ce moment , j'essaierai de voir Féodor , de le prévenir, et
+       demain je saurai vous ménager une entrevue....</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Demain ! . . . ah ! . . . proscrite dans celte ville, chaque heure peut être ma dernière,
+       et je mourrais sans embrasser mon fils; je t'en conjure , au nom de l'amitié que tu portas à
+       mon époux, que je revoie mon Féodor. . . . Cette place est écartée , solitaire , promets-moi
+       de l'y conduire.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <p>Cette place! dans un instant un peuple immense va la remplir.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Comment.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <p>Les magistrats veulent placer dans leur salle le buste d'Alexiowitz ; pour en faire
+       l'inauguration, ils ont choisi l'anniversaire du jour où Pierre est monté sur le trône. De
+       vils flatteurs ont proposé d'exposer sur toutes les places aux regards du peuple, ce buste
+       qu'ils veulent couronner ; ce bloc est disposé pour le recevoir , nons sommes près des
+       ateliers de l'artiste qui l'a fait, à chaque instant je crains de voir arriver les troupes
+       qui doivent l'escorter, et la foule qui les suivra.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Eh bien , je reviens à mon premier projet ; conduis-moi où tu dois voir Féodor ; vainement
+       tu voudrais t'en défendre, je ne te quitte plus.</p>
+      <stage>( On entend le canon dans l'éloignement. )</stage>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <p>Déjà! <stage>( à Maria. )</stage> Femme cruelle : c'est ici même, au milieu du grand nombre
+       qui va s'y rassembler, que j'espérais le voir, et par quelques signes l'engager à me suivre.
+       <stage>( Canon , musique plus rapprochée )</stage> Entendez-vous.... on approche. . . .
+       gagnez votre retraite.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Ne l'espère point. ... tu dois le voir ici, dis-tu? suis ton dessein, mais promets de le
+       ramener lorsque la multitude se sera éloignée. <stage>( Musique. )</stage> Le bruit
+       augmente... presse-toi, ou ton refus me livre à mes bourreaux.</p>
+      <stage>( Musique, canon, )</stage>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN,</speaker>
+      <stage>effrayé.</stage>
+      <p>Les voici.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Eh bien ?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <stage>de même.</stage>
+      <p>Vous l'exigez , j'obéis.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Tu le jures?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Foi de Strélitz. <stage>( Musique. )</stage> Hâtez-vous. . . . Hâtez-vous. . . .</p>
+      <stage>( Maria et Roserdorf sortent, Suchanin s'éloigne. )</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCENE IV.</head>
+     <stage>( Des troupes arrivent. Le peuple entre par toutes les issues. On apporte le buste de
+      Pierre, qu'on place sur le piédestal. On forme autour des danses populaires ; on le couronne ,
+      et on l'emporte au milieu des acclamations du peuple. Pendant ces mouvemens on voit Suchanin
+      chercher Féodor , et lui faire signe de le suivie. Tous deux sortent avec tout le monde.
+      )</stage>
+
+    </div>
+    <div>
+
+     <head>SCENE V.</head>
+     <stage>MARIA , ROSERDORF.</stage>
+     <stage>(Ils s'avancent avec précaution. )</stage>
+
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Ils s'éloignent, et sans doute Féodor part avec eux.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Suchanin le ramènera.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Tu l'espère ? . . . . Nous devrons beaucoup à ce Strélitz, mais je ne sais quel
+       pressentiment secret m'empêche de me livrer entièrement à sa foi.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Je pense que vous lui faites injure ; il a quelques défauts, sans doute; l'ambition l'a
+       toujours dominé ; mais je gagerais ma tête qu'il tiendra la promesse qu'il vous a faite.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Il t'est donc connu ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Il fut vingt ans mon compagnon inséparable.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Et près d'un ami si fidèle tu es demeuré immobile et froid, sans lui parler, sans prononcer
+       un mot.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Trop de maux m'ont accablé : tous les sentimens de la nature me sont maintenant étrangers :
+       le malheur, la perfidie, l'injustice les ont éteints pour jamais dans mon cœur.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Comment prends - tu donc un intérêt si vif à l'infortune qui depuis dix ans poursuit et mon
+       époux et moi ? qui t'a porté à me suivre dans les déserts de la Sibérie ? à exposer tes jours
+       pour les miens ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>La reconnaissance ; je n'existe plus que pour elle. Malheureux , vous m'avez consolé ,
+       pauvre , vous m'avez secouru, blessé, vous n'avez point dédaigné de me penser vous-même : en
+       vous consacrant le reste de ma carrière , j'acquitte une partie de ma dette. Mon existence
+       n'est plus à moi , elle est à vous; mes jours vous appartiennent, ils sont attachés aux
+       vôtres. Tant que vous vivrez, je dois vivre pour vous; la mort seule en vous frappant peut me
+       relever de mon poste.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA,</speaker>
+      <stage>lui tend la main.</stage>
+      <p>Comment reconnaître des soins si précieux?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <stage>lui baisant la main.</stage>
+      <p>En ne m'en parlant plus et en me permettant de vous les continuer. Voici Suchanin.</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCENE VI</head>
+     <stage>Les Précédens, SUCHANIN.</stage>
+
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <p>Il me suit , il est instruit de tout.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>O mon dieu , je te rends grace !</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <p>Pendant votre entretien , je vais avec cet homme veiller à votre sûreté.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Vous le connaissez , cet homme est Roserdorf.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <p>Roserdorf ! . . . quoi, mon ami, mon frère! . . . .</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>D'abord occupons-nous d'eux , plus tard nous parlerons de notre ancienne amitié.</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCÈNE VII.</head>
+     <stage>Les précédens, FEODOR.</stage>
+
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR,</speaker>
+      <stage>a demi-voix.</stage>
+      <p>Où est-elle? où est ma mère?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <p>La voici.</p>
+      <stage>( Ils volent dans les bras l'un de l'autre. )</stage>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Féodor ! . . . mon fils! . . . est-ce bien toi que je presse contre mon sein !</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Vous ! . . . vous , ma mère !</p>
+      <stage>( Roserdorf et Suchanin observent au fond. )</stage>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Après dix ans d'absence , qu'un tel moment a de charmes!</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Grand dieu! . . . vous chancelez!</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Dissipe tes allarmes. ... un regard surtoi, sur notre destinée a froissé mon cœur. . . .
+       mon émotion va se calmer.. . . Ah ! Féodor, est-ce ainsi que nous devions nous revoir ! moi,
+       bannie; toi, orphelin. . . .</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Orphelin!. . . juste ciel ! . . . mon père? . . .</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Il respire. . . . pardonne-moi ce mot effrayant. Ton père voit encore le jour, mais. . .
+       .</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Oui, vous avez raison ; il est orphelin , celui dont les parens sont bannis... Cependant
+       cette séparation doit-elle être éternelle ? ne puis-je me flatter ? . . .</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Mon ami, s'il me restait le moindre espoir, je me hâterais de t'en faire part ; mais tu ne
+       peux ni ne dois consumer ta jeunesse dans une vaine attente : ton père ne reverra jamais sa
+       patrie.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Que dites-vous, o ciel !</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Oui, Ossacow doit finir ses jours dans l'infortune ; lui-même a perdu toute espérance. Si
+       tu parviens à découvrir mon fils, ma-t-il dit avant notre séparation, dis-lui que jamais il
+       ne me verra libre. On m'a réduit à l'état le plus déplorable , et cette raison suffit pour
+       qu'on regarde comme dangereux , de rappeller parmi les hommes cet Ossacow si cruellement
+       outragé.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Eh bien, ma mère , volons auprès de lui.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Qu'y veux-tu chercher ?</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>C'est vous qui me faites cette question ! c'est vous qui me demandez ce qu'un fils veut
+       chercher près de son père?</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Tu veux partager sa misère ! mais par cela même tu doublerais ses tourmens ; non , écoute
+       ses ordres. C'est pour te les apporter que j'ai traversé les immenses et les affreux déserts
+       qui nous séparent de lui. Certaine de ton obéissance, je revole dans ses bras pour ne plus
+       m'en séparer.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Parlez, ma mère, quels sont ses ordres, je suis prêt à les suivre.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>En les exécutant, tu peux encore adoucir ses malheurs; il revit dans toi, le savoir heureux
+       est la seule consolation qu'il puisse espérer sur la terre. Fuis cette ville ingratte, dans
+       laquelle le chemin des honneurs et de la fortune t'est à jamais fermé. Efface de ton souvenir
+       le nom de ta patrie, vas dans une terre étrangère, quelle qu'elle soit, le nom d'Ossacow et
+       le récit de ses malheurs t'y auront devancé et t'y protégeront.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Vous voulez que je ne m'occupe que de moi , tandis que mon père. . . .</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCENE VIII.</head>
+     <stage>Les Précédens.</stage>
+     <stage>Tandis que Roserdorf et Suchanin se sont réunis un moment, un homme couvert d'un manteau
+      est entré, et s'est approché de Maria, dont il cherche à voir les traits.</stage>
+
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Ton père l'exige et ta malheureuse mère t'en conjure, que ta soumission nous prouve que la
+       misère et l'ignominie n'ont pu anéantir nos droits sur le cœur de notre enfant.</p>
+      <stage>( Un second homme, couvert aussi d'un manteau, s'approche du premier, qui lui dit :
+       )</stage>
+     </sp>
+     <sp who="#TDP2761_5">
+      <speaker>Le 1er HOMME</speaker>
+      <stage>à demi-voix.</stage>
+      <p>C'est elle !</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>( Il a quitté Suchanin en appercevant le premier homme, et se trouve derrière lui quand il
+       parle. )</p>
+      <p>Qui, elle ?</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Grand dieu !</p>
+      <stage>(Les deux hommes se sauvent par différens côtés.)</stage>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN,</speaker>
+      <stage>qui est descendu,</stage>
+      <p>Il l'a reconnue !</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Il n'en portera pas la nouvelle à son maître.</p>
+      <stage>( Le sabre à la main , il s'élance à la poursuite du premier homme. )</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCENE IX.</head>
+     <stage>Les Prècèderts, sans Roserdorf et les deux inconnus.</stage>
+
+     <sp who="#TDP2761_2">
+      <speaker>MARIA,</speaker>
+      <stage>que le bruit a fait retourner.</stage>
+      <p>Roserdorf ! . . . où va-t-il ?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Il n'y a pas un instant à perdre , madame, il faut vous séparer.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria,</speaker>
+      <stage>pressant son fils dans ses bras.</stage>
+      <p>Nous séparer ! ô Féodor !</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Quitter ma mère, à l'instant où elle vient de m'étre rendue ! jamais!</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Jeune homme ! veux-tu la conduire à l'échafaud ? elle-est reconnue , et dans un instant
+       peut-être on l'arrête à nos yeux.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>L'arrêter ! et tu m'oses proposer. . . .</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Ce que la prudence et la conservation d'une vie aussi précieuse devrait t'avoir inspiré.
+       Maria , pour sa sûreté et la votre , donnez-lui l'exemple d'un sacrifice indispensable,</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Mais Roserdorf ?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Je le rejoins ; dans un instant il sera près de vous.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Et Féodor , où pourrais-je le revoir ?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>J'y pourvoirai, mais fuyez sans plus attendre.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Adieu ! . . . mon ami. . . . suis les conseils de cet ami respectable , et sois digne de
+       tes ayeux.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>O ma mère ! . . . quoi, seule ?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Il le faut, si tu veux qu'elle échappe aux satellites du tyran. . . . Madame ! . . .</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Féodor ! . . . mon Féodor! ... le ciel est juste , il me rendra mon fils.</p>
+      <stage>( Elle sort. )</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCENE X.</head>
+     <stage>SUCHANIN, FEODOR.</stage>
+
+     <sp who="#TDP2761_4">
+      <speaker>Féodor.</speaker>
+      <stage>( Il suit de l'œil Maria , et est retenu par Suchanin. )</stage>
+      <p>Et je ne puis la suivre, pour la guider et la protéger si quelques danger la menace !</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Il va de votre vie, et vous exposeriez la sienne; noble et vaillant Ossacow! voila donc le
+       prix de tes services! ton fils est esclave ; ton épouse ne peut, sans exposer ses jours,
+       faire un pas dans la ville qui l'a vu naître; et toi, seul dans un affreux désert, implorant
+       en vain des secours et la pitié. . . . horrible tableau ! . . . O mon infortuné général ! que
+       ne suis-je ton fils!</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Suchanin ! n'abuse point de mon état. Tu le vois le fils d'Ossacow, tu le vois à tes
+       pieds... Dis-lui ce qu'il doit entreprendre pour sauver son père.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Ce qu'il doit entreprendre! . . . tout. . . Si j'avais l'honneur d'être né de lui, je
+       chercherais à réunir les Strélitz dispersés, altérés de vengeance; la foule grossirait à
+       chaque pas. Je me mettrais à leur tête , et, le fer à la main , j'irais sauver mon père.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Où les rencontrer ces vaillains soldats?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <p>Ils errent aux environs de Moscou, en peu d'heures dix mille d'entre eux peuvent être
+       rassemblés, et tous les Russes qui aiment leur patrie, se rallieront sous leurs bannières.
+       <stage>( Il observe autour de lui, )</stage> Enfin. ... il est tems de parler plus
+       clairement. ... <stage>( à demi-bas. )</stage> Dès long-tems ils ont formé le dessein de
+       punir le tyran qui opprime leur patrie. Leur plus vif désir serait de voir un Ossacow au
+       milieu d'eux, ils regardent ce nom comme un garant de la victoire. Les plus habiles de nos
+       chers sont en cette ville, nous nous sommes concertés, nos plans sont dressés, et déjà tu les
+       connaîtrais, si dès nos premiers entretiens, tu m'avais inspiré assez de confiance pour
+       m'ouvrir entièrement à toi.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Alors je m'ignorais encore. . . .</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Le vif intérêt que tu as pris au destin de ton père me décide enfin. Si cet intérêt est
+       réel, viens et bientôt nous serons tous vengés. Si je me suis trompé sur toi, donne-moi la
+       main comme gage de ton silence, et jamais tu ne reverra Suchanin.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Ami! la voilà cette main, et avec elle l'assurance que je suis prêt à sacrifier ma vie pour
+       une aussi juste cause ; les dangers de ma mere , tes projets ont éveillé mon courage. Tu
+       connaîtras bientôt si je suis digne de mes ayeux ; viens, guide mes pas, et qu'à l'instant
+       même. . .</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Arrête! cette ardeur imprudente serait plus dangereuse qu'utile. Ce soir tu me retrouveras
+       ici : si tu es toujours le même, je te conduirai au milieu de nos amis. A la faveur du
+       tumulte de la fête , ils pourront, sans faire naitre le soupçon , se rassembler chez moi ;
+       j'aurais soin de les prévenir sur tes sentimens. Si le hazard te faisait rejoindre la mère,
+       ne l'instruis de rien; ses réflexions, tes allarmes nous causeraient plus d'embarras que le
+       Czar ne peut nous en donner avec ses défenseurs. Nous exigeons ta discrétion , pour première
+       preuve que tu es digne de nous seconder.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Comptez sur moi.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <p>Les effets parleront. Adieu, il serait imprudent de nous laisser voir ensemble.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>A ce soir! dis à tes compagnons, qui sont aussi les miens, que le fils d'Ossacow ne forme
+       plus qu'un souhait : ou mourir, ou sauver son père!</p>
+      <stage>(Il sort. )</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCENE XI.</head>
+
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN,</speaker>
+      <stage>seul , suit de l'œil Feodor.</stage>
+      <p>Le voilà tel que je le désirais ; que le nom d'Ossacow, le courage de son fils, et les
+       efforts des Strélitz se réunissent pour seconder mes desseins et en assurer le succès. Si
+       Ivanowitz était ensuite assez ingrat , pour oublier que c'est moins à son nom qu'à mes
+       efforts qu'il doit le sceptre et la couronne , s'il oubliait les promesses qu'il me fit dans
+       l'humble retraite qu'il ne doit quitter qu'à ma voix. . . la main qui aura su précipiter
+       Pierre du trône des Czars, saura bien aussi briser le faible instrument dont elle sa sera
+       servie ? . . . qui vient si précipitament ? . . . c'est Roserdorf.</p>
+      <stage>(Il s'éloigne un peu. )</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCENE XII.</head>
+     <stage>SUCHANIN, ROSERDORF.</stage>
+
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF,</speaker>
+      <stage>accourant et cherchant de l'oeil avec rapidité. Il a le sabre à la main.</stage>
+      <p>Mort et enfer ! ils ne sont plus ici.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN</speaker>
+      <stage>approchent. (Haut. )</stage>
+      <p>Qu'as-tu Roserdorf; qu'est-il arrivé!</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF,</speaker>
+      <stage>le prenant par la main.</stage>
+      <p>Te voilà! . . . viens.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Comment ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf.</speaker>
+      <p>Suis-moi , te dis-je , Maria vient d'être arrêtée.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Maria !</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf.</speaker>
+      <p>En revenant de poursuivre le traître , que je n'ai pu atteindre, un autre de ces lâches,
+       passant rapidement à mes côtés, et méprenant sans doute pour un des siens , m'a crié qu'une
+       escouade emmenait notre amie.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Ciel !</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf.</speaker>
+      <p>Les plaintes sont superflues ; courons : en prenant ce détour, nous les devancerons.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Insensé! tu crois pouvoir seul t'opposer aux satellites qui l'entraînent ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Notre devoir est de mourir à ses pieds, si nous ne pouvons la sauver.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN</speaker>
+      <stage>le prenant par la main , et à demi-voix.</stage>
+      <p>Notre devoir est de rendre à-la-fois à Ossacow son épouse, son fils, sa fortune , et j'en
+       ai les moyens.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Toi!</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Moi !.... Si tu veux les connaître, assure-moi seulement que tu es prêt à tout sacrifier
+       pour sauver tes amis.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Tout, jusqu'à mon existence. Je le jure, et tu sais si l'on doit croire à mes sermens.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Eh bien! apprends qu'un parti nombreux se dispose à délivrer la Russie du joug sous lequel
+       elle gémit; j'ai l'honneur d'être un des chefs de cette glorieuse entreprise; les Strélitz
+       ont tous juré de nous servir ; d'autres bras s'arment à notre voix, et dès cette nuit
+       peut-être...</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Quoi!... tu conspires contre ton maître?</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Dis contre mon tyran, l'oppresseur de ma patrie , l'ennemi des Moscovites.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Il est leur souverain légitime.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Chaque jour il foule aux pieds leurs loix et leurs usages, il renverse , il change, il
+       détruit.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Homme, il peut errer ; Czar, il ne peut vouloir que le bonheur de ses peuples.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Est-ce pour assurer ce bonheur , qu'il a dissipé nos cohortes, condamné à l'exil le plus
+       rigoureux tous les hommes dont la Russie s'énorgueillissait? N'eussai-je à nommer que le
+       vertueux Ossacow.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Ah!</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Et Maria, dis-moi, les Moscovites seront-ils plus heureux, en voyant dès demain peut-être
+       le sang de cette infortunée rougir le fer d'un bourreau.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Arrête , Suchanin !</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Vas, cesse d'écouter un ridicule préjugé ; songe au peril qui me face tes amis ; et
+       rappellant ce courage indompté, dont je t'ai vu donner tant de marques éclatantes, joins tes
+       efforts aux notres. pour obtenir enfin et justice et vengeance.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf</speaker>
+      <stage>réfléchissant</stage>
+      <p>Roserdorf un lâche conspirateur!... non.... jamais....</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Tu hésites ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf</speaker>
+      <stage>de même.</stage>
+      <p>Mais. . . . qu'est-ce qu'un conspirateur? rien autre qu'un monstre, qui ne marche que dans
+       les ténèbres , qui n'ose frapper que dans l'ombre . quand son ennemi sommeille... Pourquoi
+       ne.... Ah !... le trahir. . . . profiter.... non.... c'est une bassesse !</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Roserdorf !</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF</speaker>
+      <stage>de même.</stage>
+      <p>Cependant... s'il n'est aucun autre moyen...</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Roserdorf !</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Affreuse extrémité !</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN</speaker>
+      <stage>s'approchant de lui.</stage>
+      <p>Ne veux-tu plus me répondre ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Je. ... je me consulte.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Roserdorf le devrait-il, lorsqu'il n'est devant lui que le chemin de l'honneur , et celui
+       de la honte ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF</speaker>
+      <stage>secouant la tête.</stage>
+      <p>Hem ! . . .</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Peux-tu balancer un instant entre le crime et la vertu ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF</speaker>
+      <stage>frappé et le fixant.</stage>
+      <p>Entre ? . . .</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Vois d'un côté l'innocence injustement sacrifiée, de l'autre l'orgeuil , la cruauté , je
+       dirai plus, la scélératesse.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF</speaker>
+      <stage>de même, et fortement.</stage>
+      <p>Oui. . . la scélératesse. . . tu viens de me convaincre. . . on doit en effet sacrifier le
+       crime à la vertu... ta main... Maria est sauvée.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Ainsi , tu te détermines ? ...</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>A faire ce dont la seule pensée m'eut fait rougir il y a quelques minutes.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <stage>lui tendant la main.</stage>
+      <p>Je puis compter ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Sur ma promesse. . . . Maria est sauvée !</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <stage>l'embrassant.</stage>
+      <p>Mon cher Roserdorf ! ... A ce soir donc. Plusieurs de mes amis se rassemblent chez moi,
+       pour y pénétrer, n'oublie point ces mots. <stage>( Il les lui dit bas )</stage> . Tu
+       connaîtras nos moyens , tu recevras un emploi, et demain sans doute nous serons tous au
+       comble de nos vœux.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf</speaker>
+      <stage>appuyant.</stage>
+      <p>Oui, demain nous verrons la vertu triompher aux dépens de la perversité !</p>
+      <stage>( Ils sortent ).</stage>
+     </sp>
+     <trailer>Fin du premier Acte.</trailer>
+
+    </div>
+   </div>
+   <div>
+
+
+    <head>ACTE II.</head>
+
+
+    <div>
+
+     <head>SCENE PREMIERE.</head>
+     <stage>(Le Théâtre représente le palais du Czar. Au fond les portes sont ouvertes; des soldats
+      les gardent. Au-delà, on apperçoit des courtisans se promener. Plusieurs officiers sont
+      groupés au milieu de la scène. Une porte à droite est ouverte , on y voit aussi des gardes;
+      Catherine et Menzicoff occupent l'autre côté , et parlent bas. Un instant après le lever du
+      rideau , les gardes près du cabinet portent subitement tes armes. Le groupe d'officiers
+      s'ouvre; chacun d'eux reste immobile , la tète découverte et les regards fixés vers la porte.
+      Catherine et Menzicoff avancent un pas. )</stage>
+
+    </div>
+    <div>
+
+     <head>SCENE II.</head>
+     <stage>Les Précédens, PIERRE , Un Officier.</stage>
+     <stage>( Pierre sort du cabinet suivi d'un officier-général , qui distribue des ordres , aux
+      autres officiers , et s'éloigne après eux, sur un geste du Czar. Celui-ci, prêt de rentrer ,
+      apperçoit Catherine, et s'avance vers elle. )</stage>
+
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Vous ici, princesse? et toi, Menzicoff?</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Quand tous les ordres de l'état se disposent à venir célébrer l'anniversaire d'un jour à
+       jamais mémorable dans nos annales , de celui on Pierre Alexiowitz monta sur le trône, j'ai
+       désiré que mes vœux fussent les premiers présentés à mon auguste époux.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <stage>l'embrasse.</stage>
+      <p>Ils me sont mille fois plus précieux que les démonstrations intéressées de la basse
+       flaterie. . . cher Menzicoff ! <stage>( Il lui tend la main )</stage> . Je ne le confonds
+       point avec cette foule de courtisans : tu es plus l'ami que le ministre de ton maître.
+       <stage>( Menzicoff lui baise la main )</stage> . Que tiens-tu ? le rapport.</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>J'ai l'honnear de le présenter à Votre Majesté.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre</speaker>
+      <stage>prend le papier sans l'ouvrir.</stage>
+      <p>Tous mes ordres ont été exécute ?</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>Tous.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>il les fixe.</stage>
+      <p>Mes seuls, mes vrais amis, répondez avec franchise: croyez-vous que les moyens que
+       j'emploie, soient les plus certains pour élever mon empire au rang que la nature semble lui
+       avoir destiné?</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>Si le ciel accorde à Votre Majesté le tems nécessaire pour accomplir ses nobles et vastes
+       dessins , la Russie parviendra au plus haut degré de gloire et de bonheur.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Je le pense ainsi que Menicoff.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Pourquoi donc multiplie-t-on les obstacles sur mes pas? pourquoi ne trouvai-je qu'amertume
+       et chagrin pour prix de mes pénibles travaux ?</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>C'est que le peuple ne connaît jamais ses véritables intérêts; c'est qu'il faut souvent
+       même employer la force pour le contraindre à devenir heureux.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <stage>souriant.</stage>
+      <p>Si les hommes devenaient également justes et sages, ils n'auraient plus besoin d'être
+       gouvernés.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Puisse le ciel opérer ce miracle ! le plus beau jour de ma vie serait celui où je
+       descendrais de mon trône, pour aller au milieu de la foule prendre part au bonheur gênerai...
+       . Mais, voyons le rapport. <stage>( Il lit et s'échauffe par degré )</stage> Quoi !.. les
+       Strélitz.</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>On a remarqué des mouvements, des rassemblemens secrets.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>lisant.</stage>
+      <p>Maria Ossacow à Moscou ! où l'a-t-on conduite ?</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>Elle est dans une salle du palais. Dès hier, je fus instruit de son arrivée; j'ai donné des
+       ordres, et ce matin on s'est emparé d'elle.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>plus en colère.</stage>
+      <p>Maria dans cette ville , malgré ma défense et la mort qui l'attend.</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>Suivant toute apparence, son retour était attendu par les Strélitz , que je soupçonne
+       mediter une nouvelle révolte.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>emporté.</stage>
+      <p>Pour la quatrième fois!... où sont les conspirateurs? conduis-moi au milieu d'eux , je
+       veux...</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>MENZICOFF,</speaker>
+      <stage>cherchant à l'appaiser.</stage>
+      <p>Que Votre Majesté daigne se calmer, je n'ai point encore de certitude , mais....</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>CATHERINE ,</speaker>
+      <stage>voulant aussi détourner l'attention de Pierre.</stage>
+      <p>Sir, l'arrivée de Maria peut être un événement fort simple, et sans....</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>marchant avec agitation.</stage>
+      <p>C'est donc pour des ingrats que je sacrifie ma vie et mon repos !... Si je passais mes
+       jours dans la molesse et l'inactivité, si j'abandonnais les rênes de l'état à qui voudrait
+       s'en saisir, ah ! sans doute je serais adoré!... et... pourquoi ne tiendrais-je pas cette
+       conduite?.... Qu'ont fait mes prédécesseurs? ils signaient quelques ukases, s'occupaient
+       parfois un moment à parler des intérêts de l'empire; s'entouraient de flatteurs qui
+       s'empressaient de caresser leurs caprices Pourquoi ne pas les imiter? ils étaient Czars tout
+       aussi bien que moi.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Ils ne furent point créateurs d'un grand peuple, d'une puissante monarchie.</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>Ils ne furent point généralement aimés et admirés.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Aimé ! si je l'étais en effet , les Strélitz oseraient-ils , pour la quatrième fois ,
+       attenter à mes jours?</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Jugerez-vous du plus grand nombre, par les sentimens de quelques factieux ?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Le plus grand nombre me hait , parce que je l'arrache à l'assoupissement auquel, depuis si
+       long-tems, il s'abandonne avec complaisance, dont les papes et les nobles voudraient
+       prolonger la durée , car le réveil blesse leurs intérêts.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Si tous les Russes ne sont point encore assez éclairés pour apprécier vos travaux, croyez
+       que bientôt....</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Oui, après ma mort, lorsque plus civilisés et plus instruits, ils seront montés au rang des
+       premières puissances de l'Europe, ils reconnaîtront, ils sentiront tout ce que Pierre aura
+       fait pour eux, mais jusque-là... <stage>(à Menzicoff. )</stage> Fais venir Maria.</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>Un vieux Strélitz est aussi entre les mains de vos gardes, il s'est présenté, il veut,
+       dit-il, vous instruire d'un secret important.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Fais venir Maria. <stage>(Menzicoff sort.)</stage></p>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCENE III.</head>
+     <stage>PIERRE, CATHERINE.</stage>
+
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Je l'ai répété cent fois, ces traîtres ne m'accorderont pas un instant de repos.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Pouvait-on attendre autre chose d'un corps qui, depuis long-tems, dictait des loix à ses
+       empereurs , et que vous fîtes rentrer dans le néant.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Quelle noble entreprise aurais-je pu former pour la gloire de mon peuple , si, faible pacha
+       , je m'étais laissé gouverner par ces nouveau janisaires?</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Accoutumés, il est vrai, à s'entendre nommer les premières troupes de l'empire, rien
+       n'égalait leur orgeuil.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Ils étaient braves , sans doute , mais fiers, indociles ; et la force d'une armée consiste
+       autant dans la discipline que dans son courage. Je saurai les vaincre , ces audacieux
+       rebelles; ils apprendront que leur maître n'est point un homme faible, qui n'ose parler que
+       du fond de son palais, et défendu par une garde nombreuse.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Au nom du ciel, seigneur! ....</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Quoi?</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Vous n'exposerez point des jours si précièux.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Ce n'est qu'en les hasardant que je puis faire honorer le Czar, Il est plus digne de pitié
+       que de respect, celui qui n'est le premier de son empire que par son nom et le faste qui
+       l'entoure. Les Strélitz ont du courage, le mien seul peut les subjuguer.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Ce sont des furieux , altérés de sang, pour qui la vie n'est rien , que pouvez-vous leur
+       opposer?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Moi ! mais apprenez une nouvelle faiblesse que j'aurai sans doute à me reprocher. Depuis
+       plus d'un mois j'ai écrit en Sibérie qu'on rendit la liberté à Ossacow , ce chef révéré des
+       factieux.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Quel motif? ...</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Dans toutes ses dépêches , le commandant me parlait en sa faveur. Soumis et résigné il ne
+       conservait pas, disait-il , le plus faible espoir d'obtenir sa liberté, et ce fut ce qui me
+       décida à la lui rendre ; il pouvait me croire ou timide ou cruel, et nul homme ne doit avoir
+       cette opinion de Pierre Alexiovitz.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Si ce chef revient, l'arrivée de son épouse et les projets des séditieux pouraient en
+       effet. . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Oui. . . il semble que ces événemens tiennent l'un à l'autre, cependant cela ne saurait
+       être. Nul homme à Moscou ne peut savoir ce que j'ai fait pour Ossacow ; moi-même je ne dois
+       apprendre qu'aujourd'hui si mes ordres ont été exécutés , et quel chemin il a pris..... au
+       surplus le tems nous instruira, paraissons ne rien savoir , que l'emploi de cette journée
+       demeure tel qu'il a été réglé. Allez princesse , allez rejoindre votre Cour.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Votre Majesté me promet de ne point exposer sa personne auguste?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Je te promets de la faire respecter. <stage>(Elle veut lui baiser la main, il l'embrasse de
+       nouveau ; elle sort.)</stage></p>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCENE IV.</head>
+
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>seul, se promène , les bras croisés.</stage>
+      <p>Non. . .non. . . je ne me servirai point de secours étrangers pour dissiper ce nouvel
+       orage.</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>SCENE V.</head>
+     <stage>PIERRE, MENZICOFF, MARIA.</stage>
+
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>On amène Maria.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Laisse-nous.</p>
+      <stage>(Menzicoff s'éloigne au-delà des portes , Maria reste au fond.)</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène VI.</head>
+     <stage>PIERRE, MARIA.</stage>
+
+     <sp who="#TDP2761_6">
+      <speaker>PIERRE,</speaker>
+      <stage>sévère et l'observant</stage>
+      <p>Approche, Maria. . . quel motif t'a conduite à Moscou?</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <p>Le désir de voir mon fils.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Et pour satisfaire ce désir, tu n'as pas craint d'exposer les jours.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Votre majesté en a tellement avili le prix, que dans l'excès même de ma misère , je n'ai
+       rien de moins précieux.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Croyais-tu demeurer inconnue, ou comptais-tu sur ma clémence.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Je croyais demeurer inconnue.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Comment pouvais-tu l'espérer dans cette ville que tu as si souvent parcourue, et dans
+       laquelle ton indiscrétion s'est permis les éclats qui ont provoque ton arrêt.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Vos soldats étrangers ne connaissent point mes traits, et aucun Russe ne m'aurait
+       trahie.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Tu le crois? . . . Toujours le même orgeuil, toujours la même confiance dans l'amour que le
+       peuple vous portait autrefois. C'est cette confiance qui vous donnait la hardiesse punissable
+       de blâmer si hautement les actions de votre maître.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Celui qu'on opprime a quelques droits de se plaindre.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>cherchant à se contenir.</stage>
+      <p>Ma conduite vous parait donc à tous bien injuste?</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Oui, bien injuste.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>prêt à s'emporter.</stage>
+      <p>Maria! ne sais-tu point où peut te conduire ton audace?</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>A l'échafaut.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>PIERRE ,</speaker>
+      <stage>la fixant et bien amèrement.</stage>
+      <p>Ah ! . . Les Strélitz sont encore nombreux et puissans.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Cette raillerie amère est indigne du Czar.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>s'emportant.</stage>
+      <p>Une raillerie! . . tu sais que c'est une vérité , et sur laquelle se fondent tes
+       espérances.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA,</speaker>
+      <stage>levant les yeux au ciel.</stage>
+      <p>Des espérances !</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Tu en conserve de criminelles.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria.</speaker>
+      <p>Moi ?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>J'en suis instruit.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>O Czar ! pourquoi me faire plus coupable que je ne le suis eu effet ? ces soins sont
+       superflus : par mon entrée seule en cette ville , ma tête appartient à tes boureaux.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre ,</speaker>
+      <stage>se contenant davantage.</stage>
+      <p>Je le sais. <stage>( la fixant et reprenant son amertume. )</stage> Cependant si je fais
+       exécuter mon arrêt, ne dois-je point craindre de voir les redoutables Strélitz essayer de
+       m'en punir.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA,</speaker>
+      <stage>se contraignant pour ne point parler.</stage>
+      <p>Ah!</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre ,</speaker>
+      <stage>de même.</stage>
+      <p>Tu n'ose exprimer ta pensée, Maria? parles!</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria,</speaker>
+      <stage>de même.</stage>
+      <p>Parler !</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre ,</speaker>
+      <stage>plus fort.</stage>
+      <p>Je l'exige.</p>
+      <stage>(Le geste de Maria exprime un sentiment d'indignation , qu'elle cherche à étouffer.)
+       Plus fort encore.</stage>
+      <p>Je l'ordonne.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria,</speaker>
+      <stage>ne pouvant plus se contenir.</stage>
+      <p>Tu l'ordonnes ! tu veux que je mérite l'arrêt qui me condamne, tu provoque la vérité, eh !
+       bien , je vais la dire. .. . Un tyran seul peut se jouer de la victime dans le sang de
+       laquelle il est pret de s'abreuver. <stage>( Pierre fait un geste menaçant et terrible.
+       )</stage> Qui a fait naître dans ton sein cette haine contre le nom d'Ossacow ? Jamais encore
+       on n'y avait joint une épithète outrageante. Tu as détruit ma famille, tu as versé avec
+       profusion tous les maux sur nos têtes; des libres même frémiraient à l'aspect des souffrances
+       de mon époux , et de celles qui déchirent mon cœur. Tu es notre souverain, notre juge; nous
+       n'avons pour nous défendre contre toi que les loix de l'humanité et les droits de la nature ,
+       seules barrières que la divinité ait posées entre le despote et ses esclaves; si tu veux les
+       franchir, pourquoi feindre de revêtir le manteau de la justice ? approche ouvertement le
+       poignard à la main , et massacre à-la-fois, moi, mon époux, <stage>( elle pleure )</stage> et
+       mon malheureux fils.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre</speaker>
+      <stage>bien sombre.</stage>
+      <p>Maria !</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria.</speaker>
+      <stage>pleurant.</stage>
+      <p>Mon fils , mon Féodor !</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre</speaker>
+      <stage>de même,</stage>
+      <p>Eh bien !</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria,</speaker>
+      <stage>avec l'abandon du désespoir.</stage>
+      <p>Est-il coupable, parce que je suis sa mère? <stage>( à genoux. )</stage> O Czar! tu me vois
+       à tes-pieds ; contente-toi de mon sang, et daigne épargner cette innocente victime.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <stage>brusque et sombre.</stage>
+      <p>Q'il vienne.</p>
+      <stage>( Maria se relève effrayée. Pierre fait à Menzicoff le signe d'avancer. )</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène VI.</head>
+     <stage>Les Précédons , MENZICOFF.</stage>
+
+     <sp who="#TDP2761_6">
+      <speaker>Pierre</speaker>
+      <stage>à Menzicoff.</stage>
+      <p>Qu'on amène Féodor.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria,</speaker>
+      <stage>avec effroi, et arrêtant Menzicoff.</stage>
+      <p>Arrêtez..... Qu'ordonne-tu , barbare ?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <stage>de même. ( à Menzicoff)</stage>
+      <p>Eh bien, demeure. <stage>( a Maria. )</stage> C'est toi que je charge de le conduire
+       ici.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria</speaker>
+      <stage>de même.</stage>
+      <p>Le conduire !... pour le rendre témoin de mon supplice!.. Ah! cet affreux spectacle !. .
+       Dieu! grand Dieu!...</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <stage>emporté.</stage>
+      <p>Cette femme ! <stage>( sans éclat, mais sombre. )</stage> Sors , et si tu ne veux pas
+       m'amener ton fils , dispose de ton sort et du sien , comme tu le jugeras convenable. <stage>(
+       Maria le fixe avec égarement, il poursuit à Menzicoff.)</stage> Maria Ossacow est libre.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria,</speaker>
+      <stage>égarée.</stage>
+      <p>Libre !</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Que sans nul obstacle elle puisse se rendre partout où elle voudra.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria,</speaker>
+      <stage>de même.</stage>
+      <p>L'ai-je bien entendu ? suis-je effectivement libre?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Sors pour t'en assurer.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria,</speaker>
+      <stage>avec ardeur.</stage>
+      <p>Et Feodor?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <stage>écrit un mot et le lui donne.</stage>
+      <p>Avec cet ordre on lui permettra de te suivre.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Et mon époux ?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Ton ! . . . c'en est assez. . . . vas.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Assez pour votre Majesté, mais non pour moi, qui suis privée de tout. . . avant de hazarder
+       une prière, souffrez qu'à vos genoux je confesse le seul crime dont je me sois rendue
+       coupable.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>vivement et attentif.</stage>
+      <p>Eh bien?</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>J'ai cru le Czar inexorable , altéré de sang et de vengeance. ... il ne l'est point.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>ému , et la relevant.</stage>
+      <p>Il ne le fut jamais.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Non , jamais !.. il me rend la liberté à l'instant où je croyais marcher à la mort , quelle
+       espérance cet excès de bonté ne peut-il pas me laisser concevoir. . . loin de moi le souvenir
+       de mes malheurs, et de ma profonde misère...</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre ,</speaker>
+      <stage>au mot de misère s'écrie.</stage>
+      <p>Ah!</p>
+      <stage>(Il fixe les vêtemens de Maria, lève les yeux au ciel. )</stage>
+      <p>Vas, et hâte-toi de m'amener ton fils.</p>
+      <stage>(Elle baise ses mains avec ardeur.)</stage>
+      <p>Qu'elle sorte par cette issue dérobée. (<hi>Menzicoff la guide.</hi>)</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène VIII.</head>
+
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>encore ému.</stage>
+      <p>Cette famille a peut-être été punie avec trop de sévérité ; je veux l'en dédommager dans
+       Féodor, je veux... <stage>( à Menzicoff qui rentre. )</stage> Eh bien ?</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène IX.</head>
+     <stage>PIERRE, MENZICOFF.</stage>
+
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>Elle s'éloigne en bénissant votre Majesté ; ses pleurs paraissent vous avoir ému?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Si elle n'eût employé que cette arme. . . . mais elle a su m'ofîrir des vérités dont je lui
+       dois le prix. Pourquoi cette foule dans les appartemens.</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>L'auguste Catherine l'a dit à votre majesté : tous les ordres de l'état désirent célébrer
+       l'anniversaire de votre avènement au trône , et vous ronouveller leurs hommages.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre ,</speaker>
+      <stage>vivement.</stage>
+      <p>Qu'ils viennent.</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>Je prends la liberté de vous rappeller, qu'un vieux Strélitz est entre les mains de vos
+       gardes, et veut , dit-il, vous instruire d'un secret important.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Nous l'entendrons après, fais entrer.</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène X.</head>
+     <stage>Les Précédens, CATHERINE , Peuple et Courtisans, qui restent en arrière.</stage>
+
+     <sp who="#TDP2761_8">
+      <speaker>Catherine,</speaker>
+      <stage>à leur tête.</stage>
+      <p>Digne souverain d'un grand peuple, tu vois à tes pieds, non des sujets, mais des fils
+       reconnaissans. Ils ne se bornent point à présenter de vains hommages à leur Empereur ; ils y
+       joignent encore des actions de grace pour tes soins multipliés, tes travaux sans nombre
+       consacres à leur bonheur , et des vœux ardens pour la conversation du plus tendre des
+       pères.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Ils savent m'apprécier, s'ils croyent que mes veilles n'ont d'autre but que leur félicité
+       et la gloire de cet Empire : qu'ils viennent près de moi: un souverain n'est jamais plus
+       grand qu'entouré de ses sujets.</p>
+      <stage>(Menzicoff, par un geste respectueux , invite Pierre à monter sur le trône. Celui-ci y
+       conduit Catherine. Cérémonie, etc. Après la fête, il se fait un grand mouvement à la porte.
+       Les sentinelles veulent s'opposer au passage de Roserdorf, qui , échapé à ses gardes, se
+       précipite à travers la foule, et vient se jeter aux pieds du Czar.)</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène XI.</head>
+     <stage>Les Précédens, ROSERDORF.</stage>
+
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf,</speaker>
+      <stage>se débattant.</stage>
+      <p>Je veux parler à l'Empereur.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Qu'est-ce ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf.</speaker>
+      <p>Grace ! grace !</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Que veux-tu ? qui es-tu ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf.</speaker>
+      <p>Je suis un Strélitz et viens solliciter une grace. Si j'avais pu l'acheter au prix de mon
+       sang, Pierre Alexiowitz ne me verrait point à ses pieds.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Insolent !</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Oui, je sais que la fierté joint à la faiblesse, s'appelle ici de l'insolence.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Au fait.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf.</speaker>
+      <p>J'ai un secret important à révéler à votre majesté, mais-avant de parler, il me faut la
+       promesse qu'on ne me refusera point le prix que j'attache à cette révélation.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Tu oses me faire des conditions, me prescrire.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf,</speaker>
+      <p>Je ne prescris rien , je demande.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Et si je te contrains à parler.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Me contraindre !.. tu le sais, lorsque mes compagnons et moi nous marchions sous tes
+       drapeaux, cent bouches à feu vomissant la mort au milieu de nous, n'ont jamais su nous
+       obliger au plus léger mouvement : penses-tu qu'une simple hache levée sur ma tète puisse
+       m'intimider davantage ?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <stage>emporté.</stage>
+      <p>Audacieux , je. . . .</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Ne te livres point à la colère, elle est aveugle et nous égare : le marché que je viens te
+       proposer n'est avantageux que pour toi seul, car après avoir parlé, je te supplirai de me
+       faire donner la mort pour m'épargner un suicide. Czar ! l'action à laquelle je me suis décidé
+       serait infâme, si elle n'était sublime.</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>Ce malheureux a perdu la raison.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Il ne m'en reste qu'autant qu'il m'en faut pour mettre fin à mon entreprise. <stage>( à
+       Pierre )</stage> . Hâte toi. . . . dans un quart-d'heure il sera peut-être trop tard.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <stage>emporté.</stage>
+      <p>Trop tard ! <stage>( plus calme )</stage> . Sachons la grace que tu implores.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Je ne veux ni de l'or ni des emplois , ce que je demande est un acte de justice, que l'on
+       ne devrait pas même avoir à solliciter de la toute puissance, si de nos jours. . .</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>Imprudent ! . . pardon , sire , mais la brutale insolence de ce malheureux. . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <stage>souriant.</stage>
+      <p>Laisse. <stage>( à Roserdorf ).</stage> Je t'accorde ta démande, parles.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Je compte sur votre parole : mais, sire, je ne puis découvrir mon secret qu'à vous
+       seul.</p>
+      <stage>( Pierre fait signe à tout le monde de se retirer. )</stage>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>Sire songez. . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Quoi ?</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff,</speaker>
+      <p>Cet homme est un Strélitz.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>C'est nommer un honnête homme ; éloigne-toi , le Czar l'ordonne.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>souriant.</stage>
+      <p>Oui , mon ami , je l'ordonne.</p>
+      <stage>( Il fait un nouveau geste, tout le monde sort. )</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène XII.</head>
+     <stage>PIERRE, ROSERDORF.</stage>
+
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Nous voilà seuls, parle.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf,</speaker>
+      <stage>soupirant.</stage>
+      <p>Oui , je vais tenir ma promesse. . . o mon dieu pardonne-moi l'action odieuse dont je suis
+       prêt à me souiller; tu connais mes motifs!</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Eh bien ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf,</speaker>
+      <stage>après un effort pour parler.</stage>
+      <p>Des Strélitz conspirent contre toi.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <stage>le fixe d'abord en silence , puis dit avec mépris.</stage>
+      <p>Et c'est un Strélitz qui vient m'en instruire?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Ne les confond pas tous avec certains factieux, qui en veulent a tes jours; les véritable
+       Strélitz aiment leur prince et ne sont point des assassins; mais tu as raison, le métier que
+       je fais est bien vif ; le motif seul peut me justifier.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>froid.</stage>
+      <p>Après.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Les plans sont dressés , les mesures sont prises, et cette nuit peut être, tu auras
+       vécu.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Cette nuit ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Cette nuit même , plusieurs des chefs se réunissent ce soir chez le plus courageux , pour
+       arrêter l'instant précis oè l'on doit éclater.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Et le nom de ce chef?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>C'est. . . . ah . . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Enfin ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf,</speaker>
+      <stage>après un effort pour parler.</stage>
+      <p>... Si vous pouviez sentir tout ce qu'il m'en coûte pour prononcer. ...</p>
+      <stage>(Il essuie une larme. )</stage>
+      <p>Il y a plus de trente ans que je n'avais pleuré. . . je ne me croyais pas si faible.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Achèveras-tu?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf,</speaker>
+      <stage>avec effort.</stage>
+      <p>Ce chef. . . c'est Suchanin.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Et les autres ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>J'ignore leurs noms ; mais je te l'ai dit : au déclin du jour, ils s'assemblent chez
+       Suchanin. Pour voiler leurs démarches, il donne une grande fête. Au fond de ses jardins ,
+       dans un endroit isolé est une vaste salle disposée pour recevoir les conjurés, qui, à la
+       faveur de la foule et du tumulte s'y rendront sans être remarqués, le mot d'ordre pour y
+       entrer, est. . . <stage>( Il le lui dit bas.)</stage></p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Comment es-tu si bien instruit ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Suchanin lui-même m'a tout appris, en m'invitant de me joindre à lui.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre ,</speaker>
+      <stage>les bras croisés et réfléchissant.</stage>
+      <p>Ainsi, cette nuit. . . .</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf.</speaker>
+      <p>J'ai tout dit, la fidélité, l'honneur, la reconnaissance ont fait de moi un vil
+       dénonciateur; vous ne me refuserez point une récompense achetée à si haut prix.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>froid et méprisant.</stage>
+      <p>Tu as tenu ta promesse , il est juste que je remplisse la mienne.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Accordez-moi donc la liberté de Maria Ossacow.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>PIERRE,</speaker>
+      <stage>étonné.</stage>
+      <p>De Maria?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Oui, ma généreuse protectrice , l'épouse de mon général, mon bienfaiteur et mon ami; il l'a
+       confiée à mes soins, et en le quittant, j'ai juré de la ramener dans ses bras.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Est-ce là tout ce que tu exiges ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Tout,</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Cherches un autre prix , je ne puis avec celui-là m'acquitter envers toi.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf ,</speaker>
+      <stage>effraye.</stage>
+      <p>Grand dieu. . . qu'ai-je entendu !</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>severe.</stage>
+      <p>Maria Ossacow est libre.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>Roserdorf,</speaker>
+      <stage>surpris.</stage>
+      <p>Libre ?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>de même.</stage>
+      <p>Et dans ce moment, elle est dans les bras de son fils,</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Ah! malheureux que je suis!</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Que dis-tu ?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>C'est donc inutilement que je me suis avili!</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Te repentirais-tu d'avoir sauvé ton maître.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Non, Suchanin et ses complices sont des scélérats, je t'ai sauvé de leur fureur, j'ai fait
+       mon devoir.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Pourquoi donc ces regrets?</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Eh n'avais-je pas cent moyens pour le remplir, ce devoir sacré? ne pouvais-je pas te faire
+       prévenir du danger, sans te nommer les coupables ? eu les menaçant de tout découvrir , ne
+       pouvais-je pas intimider les conspirateurs, et les forcer d'abandonner leurs funestes
+       dessins? je ne me dégradais point à mes propies yeux, en trahissant un secret confié à ma
+       foi; je ne livrais point au supplice des hommes coupables sans doute , mais que la réflexion
+       et le repentir pouvaient encore rendre à la vertu.... Ah!... je suis un miserable....</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>PIERRE,</speaker>
+      <stage>appelant.</stage>
+      <p>Gardes !</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène XIII.</head>
+     <stage>Les précédons, un OFFICIER, gardes.</stage>
+
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Veillez sur cet homrme , sa tête me répondra de la vérité de son récit.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Plut au ciel que ce fût une imposture ! crois que je donnerais mon sang pour épargner le
+       tien : c'est ainsi qu'a toujours pensé Roserdorf ; et son malheureux général si cruellement
+       ment persécuté par toi, n'a jamais cessé de partager ses sentimens. Quoique tu ordonnes de
+       mon sort, je bénirai les coups, si ton arrêt me délivre d'une existence que ma dernière
+       action me rendra désormais trop difficile à supporter.</p>
+      <stage>( on l'emmène ).</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène. XIV.</head>
+
+     <sp who="#TDP2761_6">
+      <speaker>PIERRE,</speaker>
+      <stage>seul.</stage>
+      <p>Serai-je toujours ainsi méconnu , haï du plus grand nombre de mes sujets ; moi qui ne
+       respire que pour travailler à leur bonheur !.. . Quelle est donc la punition des tyrans, et
+       quelle sera ma récompense ?</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène XV.</head>
+     <stage>PIERRE, MENZICOFF.</stage>
+
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>Un courrier apporte cette dépêche.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>PIERRE.</speaker>
+      <p>Ah , ah ! du commandant de Tobolks. <stage>( il lit )</stage></p>
+      <p>« Peu d'instans après avoir reçu sa liberté, Ossacow a pris en tout hâte le chemin de
+       Moscou. Il ne serait point étonnant qu'il y arrivât aussitôt l'avis que vous donne de son
+       départ le plus humble, etc.»</p>
+      <p>Fais , ordonnes à tous les officiers qui commandent aux portes de la ville , d'examiner
+       avec la plus scrupleuse exactitude tous ceux qui entreront. Si Ossacow paraît , qu'on le
+       saisisse; si des Strélitz se présentent , qu'ils soient arrêtés; que le conseîl de guerre
+       s'assemble , que toutes les troupes prennent les armes , que quatre compagnies de mes gardes
+       se tiennent prêtes à envelopper la maison de Suchanin quand j'en donnerai l'ordre ; vas et ne
+       perd pas un instant.</p>
+      <stage>( Menzicoff sort. )</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène XXI.</head>
+
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>seul.</stage>
+      <p>Que l'on me taxe ou non de témérité. c'est une résolution prise , et je remets mon sort aux
+       mains du Tout-Puissant. II faut enfin terminer cette lutte fatigante; il faut qu'on estime en
+       moi l'homme et non le souverain : pour atteindre ce but, je veux vaincre seul, ou succomber
+       glorieusement.</p>
+     </sp>
+     <trailer>Fin du second Acte.</trailer>
+    </div>
+   </div>
+   <div>
+
+    <head>ACTE III</head>
+    <stage>Le Théâtre représente un Salon dans les Jardins de Suchanin.</stage>
+
+
+    <div>
+
+     <head>Scène PREMIERE.</head>
+
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN</speaker>
+      <stage>seul.</stage>
+      <p>Féodor ne vient point.... Je ne puis me défendre d'une terreur secrète , en voyant
+       approcher l'instant qui doit changer mon sort et celui de la Russie . . L'arrestation de
+       Roserdorf m'inquiète, l'âurait-on fait parler ! Mais non, le salut de Maria lui fait une loi
+       de garder le silence. . . Tous nos compagnons sont arrivés, le retard seul de Féodor nous
+       tient encore dans l'inaction. . . pour m'assurer de lui plus fortement et hâter ses pas, je
+       voulais le faire instruire du sort de sa mère, mais il m'a été impossible. . . n'entends-je
+       pas ? . . . oui. . . c'est lui. . . c'est lui même.</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène II.</head>
+     <stage>SUCHANIN, FEODOR.</stage>
+
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Tu me vois, Suchanin, exact au rendez-vous, mais dévoré de l'inquiétude la plus
+       cruelle.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Qu'est-ce, ami ?</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Ma mère ! . .</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Eh bien ?</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Je n'ai pu la rejoindre.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin,</speaker>
+      <stage>froidement.</stage>
+      <p>Maria ? . . .</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Un instant après m'être séparé de toi, j'ai rencontré Roserdorf au desespoir, courant comme
+       un insensé ; vainement j'ai voulu l'interroger, je n'ai pu en obtenir que quelques paroles
+       entrecoupées, qui m'ont fait craindre qu'elle ne fut arrêtée ; il m'est échappé , et depuis
+       j'ai parcouru tout Moscou sans rien apprendre d'elle. . .</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <stage>(à part).</stage>
+      <p>Profitons du moment. <stage>( haut ).</stage> Il est inutile de te rien cacher, Féodor, ta
+       mère n'a pu se soustraire à la surveillance du despote.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Grand Dieu!</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Il l'avait remise un instant en liberté ; mais se repentant bientôt de cet acte de justice,
+       à peine atteignait-elle les portes du palais, qu'il l'a fait arrêter de nouveau.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Ah! Suchanin , volons à son secours!</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Que prétends-tu ?</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Délivrer ma mère, ou marcher avec elle à l'échafaud.</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Pour la délivrer, il faut attendre....</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Attendre!.... quand un glaive est suspendu sur sa tête.... Non... si tu refuses de
+       m'accompagner, je vais seul....</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <stage>(l' arrêtant).</stage>
+      <p>Imprudent!... tu vas te perdre sans la servir. Nos amis sont dispersés dans les jardins, je
+       cours les rassembler, je les amène , je te place au milieu d'eux, et, réunis, nous marchons
+       avec la certitude du succès. Les sentimens qui t'animent m'assurent que tu te montreras le
+       digne fils d'Ossacow. <stage>( à part en sortant )</stage> Il est à moi.</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène III.</head>
+
+     <sp who="#TDP2761_4">
+      <speaker>Feodor,</speaker>
+      <stage>seul.</stage>
+      <p>Le digne fils d'Ossacow !.... O Maria! oui, je serai digne de mon père, je saurai
+       t'arracher à tes bourreaux: bientôt tu me seras rendue, je le sens aux transports qui
+       m'enflamment ; l'espoir de briser tes fers saura me rendre capable des plus nobles
+       efforts,</p>
+      <stage>(Il apperçoit Pierre dans le fond. )</stage>
+      <p>Voilà sans doute un des conjurés.</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène IV.</head>
+     <stage>FEODOR, PIERRE, couvert dun manteau grossier.</stage>
+
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>parcourant de l'œil le salon.</stage>
+      <p>Personne encore !</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Ne cherches-tu point ici Suchanin ?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>le fixant.</stage>
+      <p>Lui-même. Voici l'heure désignée pour notre réunion , et je suis surpris de voir cette
+       salle encore déserte.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Elle va cesser de l'être; nos braves ne tarderont point à s'y rendre.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>de même.</stage>
+      <p>Par quel hasard te trouvai je au milieu d'eux, ton âge ne te permet point d'avoir appartenu
+       au corps des Strelitz.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Mon père les a souvent guidés à la victoire.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>de même et plus vivement.</stage>
+      <p>Ton père?</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Noble chef de ces vaillans soldats, souvent à leur tête il a fait trembler les ennemis des
+       Moscovites.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>de même.</stage>
+      <p>Tu serais Féodor ? le fils d'Ossacow?</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Son fils et son vengeur. Suchanin m'a flatté qu'à la faveur de mon nom , vous daigneriez
+       m'associer à vos nobles desseins.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>sombre, tirant de son sein des tablettes sur lesquelles il écrit.</stage>
+      <stage>(A part.)</stage>
+      <p>Féodor Ossacow parmi les rebelles, à l'instant où ma folle clémence ! . . Maria,
+       m'aurait-elle trompé !.. non, ses accents étaient ceux delà douleur et de la vérité.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>D'où nait donc cet air sombre? . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>à part.</stage>
+      <p>Pourquoi donc ce jeune homme ? . . peut-être à l'insçu de sa mère et séduit par des
+       scélérats. . . .</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Regretterais-tu de me voir partager vos périls et l'honneur qui vous attend ?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Je. . . . je regrette en effet que si jeune encore on t'ait fait prendre part à une
+       entreprise aussi périlleuse.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Et pourquoi n'en braverais-je pas les dangers , puisque je dois en partager les fruits!
+       n'eussai-je point ce motif, l'amour de la gloire suffisait seul pour m'engager a partager les
+       lauriers que vous allez ceuillir.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>cherchant à lire dans ses yeux.</stage>
+      <p>Des lauriers! ... tu pense qu'il en croit dans les champs de la rébellion ?</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR,</speaker>
+      <stage>surpris et piqué.</stage>
+      <p>Que dites-vous! quoi! c'est un compagnon de Suchanin , qui ose nommer ainsi nos généreux
+       projets ?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>même et appuyant.</stage>
+      <p>Où donc est cette générosité ? en est - il a aiguiser mille poignards pour frapper un seul
+       homme ? et dans quel moment encore ! ce n'est point, quand les armes à la main , il défend
+       ses jours et peut faire courir quelques risques à ceux qui les attaquent. . . non. . . c'est
+       dans le silence de la nuit, lorsqu'enseveli dans une sécurité profonde, l'infortuné n'offre
+       qu'une victoire facile, et présente la gorge aux couteaux de ses assassins.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR,</speaker>
+      <stage>ému et décontenancé.</stage>
+      <p>Strélitz!</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>ne cessant point de le fixer, et sans humeur.</stage>
+      <p>Tu pâlis.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR,</speaker>
+      <stage>(de même.)</stage>
+      <p>Et c'est ici, dans cet instant. . . que tu ne crains pas de me tracer cet odieux
+       tableau.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>lent et toujours les yeux sur lui.</stage>
+      <p>Odieux ? oui. . . . bien odieux. .. . mais, calme-toi, jeune homme. ... je voulais
+       l'éprouver, et savoir si tes pas sont bien affermis dans le nouveau sentier qu'on veut te
+       faire parcourir.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>Feodor ,</speaker>
+      <stage>encore troublé.</stage>
+      <p>Si tu m'y vois chanceler. . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>de même..</stage>
+      <p>C'est assez . . . ainsi nous pouvons être certains qu'oubliant que Pierre est ton maître ,
+       ton protecteur, qu'il a pris soin de ta jeunesse, tu n'hésiteras point à lui plonger un
+       poignard dans le sein.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR,</speaker>
+      <stage>sans assurance.</stage>
+      <p>S'il est mon maître, il abusa de ses droits ; en prenant soin de mon enfance, il n'a rempli
+       qu'un devoir indispensable, puisqu'il m'avait ravi les auteurs de mes jours : je puis donc
+       l'attaquer sans remords ; non comme le vif meurtrier que tu peignais à l'instant, mais
+       ouvertement, et en exposant ma vie pour venger mes outrages.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Bien ! bien , Féodor , excuse une défiance!...</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>Feodor ,</speaker>
+      <stage>sa raffermissant.</stage>
+      <p>Ma jeunesse la justifiait peut-être; mais, rassure-toi, Strelitz, tu me verras digne de mes
+       nouveaux compagnons.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Je les entends, je crois ?</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Oui, ils viennent, guidés par Suchanin.</p>
+      <stage>( Pierre remonte , et se mêle parmi les conjures qui arrivent. Quand ils se placent, il
+       avance vers l'extrêmité du Théâtre. )</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène V.</head>
+     <stage>Les Précédens, SUCHANIN, et peu-à-peu tous les conjurés, dont Suchanin présente
+      seulement les chefs à Féodor.</stage>
+
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN,</speaker>
+      <stage>à Féodor.</stage>
+      <p>Tu vois tous mes amis : celui-ci est l'intrépide Dorouski ; voilà Talski, puis Pédrowitz.
+       <stage>( D'autres entrent. )</stage> Approche, Ladonska, brave Belzoski, et toi,
+       Duchanin.</p>
+      <stage>( A mesure qu'il les nomme . Pierre , dans un coin et un peu tourné , leur jette un
+       coup-d'ceil , et écrit leurs noms sur ses tablettes , qu'il remet ensuite dans son sein.
+       )</stage>
+      <p>Voilà l'élite de nos chefs. <stage>( Aux Strélitz )</stage> Et vous, Strélitz , vous avez
+       souvent montré le désir de voir un Ossacow à votre tête , voici le dernier rejeton de cette
+       famille illustre. Ainsi que vous, il a vu ses parens et ses ainis victimes de notre commun
+       oppresseur ; ainsi que vous, il veut les venger, ou périr.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Oui, Strélitz! . . . Jeune et sans expérience, Féodor n'ose encore vous nommer ses frères,
+       mais il est votre compagnon d'infortune; les mêmes souffrances, la même haine contre notre
+       tyran , la même ardeur à le punir nous réunit en ce moment ; par tous les maux dont mon père
+       est injustement accablé, je jure de combattre et de mourir avec tous. Mon bras n'a point
+       encore porté les armes, mais je suis Russe et né des Ossacow ! que celui de vous qui me verra
+       pâlir à l'aspect du trépas, m'en punisse à l'instant ! Courage, fidélité , constance , voilà
+       tout ce que je puis vous offrir. Si vous voulez un chef qui ne sache que combattre à votre
+       tête , vous le trouverez en moi ; cherchez ailleurs si vous attendez de lui davantage. Vous
+       voyez que par ma confiance , je réponds doublement à la vôtre : sur un seui mot de ce brave
+       <stage>( il désigne Suchanin )</stage> , je me livre a vous tout entier, et je remets
+       aveuglement entre vos mains le sort des auteurs de mes jours , le mien , mes espérances, mon
+       honneur et ma vie.</p>
+      <stage>( Pierre, qui l'a toujours fixé, montre une sorte de satisfaction en l'écoutant ;
+       lorsque Suchanin parle, au contraire, son air est sombre, et il se contraint à peine.
+       )</stage>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin,</speaker>
+      <stage>radieux.</stage>
+      <p>Vous l'entendez, amis, reconnaissez à ses discours le fils de notre illustre chef. Ne
+       perdons plus un tems précieux , et que cette nuit même, notre tyran expie toutes ses
+       injustices. Darouski , et toi, Duchanin , rendez-vous à Wéserlow , vous v trouverez Amilka :
+       il attend mes ordres pour faire approcher les braves qu'il a réunis. Toi, Toloski, et toi,
+       Pédrowitz, à Zorn , vous rencontrerez Christiern , chargé de la même mission , et prêt de
+       même à nous seconder. Partez! ... Au moment où la cloche frappera minuit, que l'attaque
+       commence de toutes parts. Féodor, Ladouska et moi, suivis des Strélitz qui sont à Moscou ,
+       nous irons chercher Pierre jusqu'au fond de son palais ; à votre arrivée , vous me verrez
+       chargé de sa dépouille, voler au-devant de vos pas.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>PIERRE,</speaker>
+      <stage>qui ne peut plus se contenir, avec un sourire amère et les dents serrées.</stage>
+      <p>Tu promets beaucoup , Suchanin !</p>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>SUCHANIN.</speaker>
+      <p>Je promets . . . <stage>( Il fixe Pierre , et le reconnaît. )</stage> Dieu! grand Dieu! . .
+       . c'est lui! . . . c'est lui-même! . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>jetant son manteau , un sabre d'une main, un pistolet de l'autre, avançant gravement,
+       et d'un ton sombre.</stage>
+      <p>Oui, c'est moi ! c'est Pierre Alexiowitz !</p>
+      <stage>( Il se fait un mouvement parmi les conjurés, les uns marquent de la surprise , les
+       autres de l'effroi. On entend murmurer par-tout : le Czar !... le Czar !... )</stage>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre</speaker>
+      <stage>les observe un instant en silence, puis dit bien froidement.</stage>
+      <p>Ma présence vous étonne... je m'éloigne... mais tremblez!</p>
+      <stage>(Il fait un pas; Suchanin, le sabre levé, veut lui fermer le passage et le frapper.
+       )</stage>
+     </sp>
+     <sp who="#TDP2761_3">
+      <speaker>Suchanin.</speaker>
+      <p>Tu ose encore menacer . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>d'un ton terrible. ( II lâche son coup de pistolet.)</stage>
+      <p>Et punir ! . . .</p>
+      <stage>( Suchanin tombe dans les bras de ses amis. Quelques Strélitz. tirent leurs sabres ;
+       Pierre les fixe , et dit avec éclat. )</stage>
+      <p>Lâches conspirateurs ! vous voyez votre chef à mes pieds, qui osera prendre sa defense !
+       <stage>(Il parcourt la scène avec fureur.)</stage> Il est au milieu de vous , ce Czar dont
+       vous méditiez la perte! . . . Commencez par un régicide l'exécution de vos infâmes projets !
+       frappez, si vous l'osez ! . . . Je n'ai d'autres secours ici que mon bras et mon courage,
+       d'autre témoin que dieu, qui est votre juge el le mien ; frappez, mais songez que le sang de
+       votre souverain odieusement versé , trouveras des milliers de vengeurs. <stage>(Il s'enflamme
+       davantage.)</stage> Pour ia quatrième fois vous cherchez de prétendus avantages dans la
+       rebellion et la ruine de voire patrie. . . . Misérables ! . . . votre valeur éprouvée contre
+       nos ennemis m'avait inspiré pour vous quelqu'estime ; vos indignes complots me prouvent que
+       vous ne méritez que le mépris le plus profond.</p>
+      <stage>( Quelques Strélitz indignes font un mouvement, Pierre avance vers eux.</stage>
+      <p>Vains efforts! les yeux de l'éternel sont fixés sur nous. Il est arrêté dans la sagesse de
+       ses décrets, qui de vous ou de moi doit succomber aujourd'hui.</p>
+      <stage>( On entend un bruit de tambour un peu éloigné. )</stage>
+      <p>Entendez , traîtres ! vetre heure est arrivée.</p>
+      <stage>( Il s'éloigne gravement, en les fixant avec mépris ; ils semblent se disposer à le
+       suivre. )</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène VII.</head>
+     <stage>( A l'instant où Pierre est prêt de la porte , Catherine s'élance dans le salon , suivie
+      de Menzicoff le sabre à la main, et d'une foule de soldats. Les Strélilz sont consternés.
+      )</stage>
+
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Où est-il ? où est-il ? ô mon auguste époux !</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>il redescend et d'un ton froid et sévère.</stage>
+      <p>Madame, qui vous a mandée dans ces lieux? et vous Menzicoff, vous avais-je ordonné? . .
+       .</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>La princesse informée des dangers auxquels votre Majesté s'exposait, m'a fait un devoir. .
+       . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Votre devoir est de n'obéir qu'à moi seul.</p>
+     </sp>
+     <sp who="#TDP2761_8">
+      <speaker>Menzicoff.</speaker>
+      <p>J'ai pensé. . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Silence !</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Que votre Majesté pardonne. . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>toujours sérieux mais moins sec.</stage>
+      <p>Je desire. madame, qu'à l'avenir on ne fasse point plus que je n'ordonne. . . . vous le
+       voyez. . . . mes jours ne courent aucuns dangers , veuilliez m'attendre dans les jardins.
+       <stage>( à Menzicoff. )</stage> Accompagnez la princesse. Que mes soldats. restent et
+       attendent mes ordres.</p>
+      <stage>(Catherine et Menzicoff sortent. )</stage>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène VII.</head>
+     <stage>Les Précédens, sans Catherine et Menzicoff.</stage>
+
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <stage>( Il se promène un instant en silence , en observant tons ceux qui l'entourent. II tire
+       ses tablettes , y rature quelque chose , et les donne à un officier. )</stage>
+      <p>Portez ces tablettes au conseil assemblé. <stage>(L' officier sort; à un second. )</stage>
+       Rendez-vous au palais et conduisez ici les deux prisonniers qui y sont détenus.
+       <stage>(L'officier sort; aux gardes. )</stage> Soldats ! emparez-vous de ces rebelles, et
+       gardez-les à l'extérieur. <stage>(Ils obéissent. Féodor veut suivre , Pierre l'arrête d'un
+       geste. )</stage> Demeure, Féodor.</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène VIII.</head>
+     <stage>PIERRE, FEODOR.</stage>
+
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>les bras croisés et fixant Féodor , dont les yeux sont baissés et la contenance humble;
+       après un silence.</stage>
+      <p>Eh bien! Féodor! te voilà seul avec ce tyran, auquel tu portes autant de haine; que t'a-t
+       il fail pour la mériter ?</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>Feodor ,</speaker>
+      <stage>sans changer de position et d'une voix troublée.</stage>
+      <p>Vous me le demandez ? . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Et j'attends ta réponse.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Vous m'avez ravi mes parens , ma fortune et mon état.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>de même.</stage>
+      <p>Avant de m'accuser et de prononcer sur ma conduite , as-tu cherche à connaître les motifs
+       qui m'ont guidés ?</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>Feodor ,</speaker>
+      <stage>de même.</stage>
+      <p>Pouvait-il en exister pour perdre le plus honnête homme de votre empire, le plus fidèle de
+       vos serviteurs, le plus brave de vos soldats?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>de même.</stage>
+      <p>Ainsi , tu crois que Pierre est assez ennemi de lui-même, connaît assez peu ses véritables
+       intérets, pour chercher son bonheur dans l'infortune de ses sujets? . . . A peine sorti de
+       l'adolescence, tu oses porter un jugement sur ton maître mûri par l'âge , l'étude et les
+       travaux. . . Jeune insensé. . . je veux bien descendre jusqu'à me justifier. . . Le
+       licenciement d'un corps indissipliné était un sacrifice généralement reconnu nécessaire au
+       repos de la Russie ; ton père, loin de seconder mes desseins , fit tous ses efforts pour en
+       arrêter l'exécution , et par sa conduite, il nourrit l'audace des Strelitz et leur penchant à
+       la révolte : ta mère se permit les discours les plus séditieux. Leurs aveux mêmes
+       justifièrent leur exil; j'aurais désiré leur pardonner , mais Czar , je fus contraint de les
+       punir : eh bien! que peux-tu me répondre ? tu garde le silence.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Ah ! si le sentiment qui m'animait a égaré ma raison, il est trop grand , trop noble , pour
+       que je puisse un instant regretter la vie. Je mourrai pour avoir voulu sauver les auteurs de
+       mes jours.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Ainsi, te renfermant dans un froid égoïsme, tu persistes à ne considérer que ta famille et
+       toi ; tu ne vois pas tous les maux que tu pouvais causer à ta patrie.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Le fils d'un homme banni par son souverain , a-t-il encore une patrie? tous les liens qui
+       devaient l'attacher à la terre qui l'a vu naître, ne sont-ils pas rompus dès cet instant. Je
+       voulais mourir ou me venger.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Te venger, ingrat ! et de qui ? de ton Empereur, qui écoutant moins les devoirs d'une sage
+       politique, que le besoin de la clémence, brisait les fers de Maria et rappellait Ossacow de
+       son exil.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Que dites-vous ? quoi, mon père !</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Entrait peut-être à Moscou au moment même où ta main parricide allait se baigner dans mon
+       sang : je n'attendais que son arrivée pour vous réunir tous les trois, et vous rendre des
+       biens qu'une juste sévérité vous avait ravis.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Grand dieu! qu'ai-je entendu, ah ! combien je suis coupable ! . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Oui tu l'es, et bientôt tu en recevras le châtiment.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Je le mérite et j'y suis résigné. <stage>( Il apperçoit Maria ).</stage> Ma mère ! ciel !
+       mon crime l'aurait-il entraînée dans l'abime que je viens d'ouvrir sous mes pas ?</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène IX.</head>
+     <stage>Les Précédens, MARIA, ROSERDORF emmené par un Officier.</stage>
+
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Approche, Maria, ce matin, tu me demandais Féodor: regarde, le voilà.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria,</speaker>
+      <stage>dans les bras de Féodor.</stage>
+      <p>Mon fils !</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Oui, prodigue-lui les témoignages de ta tendresse il en est digue en effet.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Comment ?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Sais-tu où j'ai appris à le connaître, ce fils si cher? c'est au milieu des traîtres qui en
+       voulaient à mes jours.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Lui ? grand dieu ! malheureux , qu'as-tu fait ?</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>Je voulais terminer votre infortune.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Par le plus horrible des forfaits, ah malheureux Ossacow ! quel coup pour ton cœur. . . tu
+       n'y survivras pas.</p>
+     </sp>
+     <sp who="#TDP2761_4">
+      <speaker>FEODOR.</speaker>
+      <p>J'ai comblé ses malheurs et les votres, pourrez-vous me pardonner.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Infortuné, en es-tu moins mon fils. <stage>( Elle le serre dans ses bras ; un officier
+       remet un papier au Czar. )</stage></p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Que l'on amène les prisonniers , et priez la princesse de se rendre en ces lieux. <stage>(
+       L'officier sort. )</stage> Maria , je regrette que le jour où tu revois ton fils, soit marque
+       par un événement aussi funeste, et que je ne puisse en adoucir l'amertume.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>O mon fils!</p>
+     </sp>
+    </div>
+    <div>
+
+     <head>Scène X.</head>
+     <stage>Les Précédens , CATHERINE, MENZICOFF, les Conjurés ramenés par les Gardes.</stage>
+
+     <sp who="#TDP2761_6">
+      <speaker>PIERRE</speaker>
+      <stage>va au-devant de son épouse , lui donne la main , etc.</stage>
+      <p>Vous le voyez, madame, nul danger ne menace voire époux; il ne lui reste plus qu'à
+       récompenser et punir. . . <stage>( A tous, )</stage> Le conseil assemblé condamne à la mort
+       tous les chefs de la conspiration ; Féodor seul n'est point compris sur la liste fatale, son
+       nom ne s'y trouvait pas. Maria , c'est toi-même qui va prononcer sur son sort, qu'a-t-il
+       mérité?</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>MARIA.</speaker>
+      <p>Quoi, sire , vous voulez. . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Parle.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria ,</speaker>
+      <stage>au désespoir se précipitant aux pieds du Czar.</stage>
+      <p>O Czar ! vois une mère à les pieds, te supplier. . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>l'interrompant avec force.</stage>
+      <p>Réponds, je te l'ordonne.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Barbare! si tu contraints la mère à juger son fils, où ce jeune infortuné trouvera-t-il un
+       ami qui le défende, qui le plaigne, qui puisse implorer sa grace ?</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre,</speaker>
+      <stage>très-ému.</stage>
+      <p>Oui , tu as raison : si Maria prend ma place, il est juste qu'un autre remplisse la sienne,
+       et l'impératrice voudra bien se charger de ce soin.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>Quoi ! sire.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Je dois à votre cœur les plaisirs d'un bienfait, pour vous dédommager de ce qu'à votre
+       arrivée , mon emportement a pu vous faire souffrir. ... la grace de Féodor est dans vos
+       mains.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine,</speaker>
+      <stage>avec explosion.</stage>
+      <p>Qu'il la reçoive! et qu'il soit à jamais votre plus zélé défenseur.</p>
+     </sp>
+     <sp who="#TDP2761_9">
+      <speaker>Maria et Feodor.</speaker>
+      <p>Ah ! sire !</p>
+      <stage>( Ils tombent tous deux aux pieds du Czar. )</stage>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Que ta joie soit complette , Maria, avec ton fils, je te rends ton époux.</p>
+     </sp>
+     <sp who="#TDP2761_2">
+      <speaker>Maria.</speaker>
+      <p>Grand dieu! ... il reverrait sa patrie? . . .</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Il est libre , et bientôt il sera dans tes bras. <stage>( aux Strélitz. )</stage> Et vous,
+       soldats de Suchanin, vous l'avez entendu, la hache est levée sur vos têtes coupables. . . .
+       rassurez-vous cependant, la mort de votre chef suffit à ma vengeance: pour la quatrième fois
+       j'annule l'arrêt qui vous condamne; ma clémence peut-être va vous encourager a de nouveaux
+       forfaits; mais ce pardon est le dernier, si vous oubliant encore. . . .</p>
+     </sp>
+     <sp who="#TDP2761_10">
+      <speaker>Les Strélitz,</speaker>
+      <stage>à genoux.</stage>
+      <p>Jamais , jamais.</p>
+     </sp>
+     <sp who="#TDP2761_1">
+      <speaker>ROSERDORF.</speaker>
+      <p>Non , jamais ! nous mourrons tous pour toi, car tu es digne de nous commander.</p>
+     </sp>
+     <sp who="#TDP2761_7">
+      <speaker>Catherine.</speaker>
+      <p>O Pierre ! ô mon héros.</p>
+     </sp>
+     <sp who="#TDP2761_6">
+      <speaker>Pierre.</speaker>
+      <p>Puissiez-vous tenir vos promesse ! le souverain et le peuple ne forment qu'une même famille
+       : c'est seulement par un amour réciproque, un mutuel soutien , qu'ils peuvent espérer le
+       bonheur et mériter l'estime et l'admiration des peuples de la terre.</p>
+      <stage>( Il étend les mains sur eux ; tous sont courbés devant lui : Catherine et Menzicoff
+       lèvent les mains au ciel, La toile baisse sur ce Tableau. )</stage>
+     </sp>
+    </div>
+   </div>
+   <trailer>FIN.</trailer>
+   <trailer>De l'Imprimerie de HOCQUET ET Comp. , rue du Faubourg Montmartre , no. 4, au coin du
+    Boulevard.</trailer>
+  </body>
+ </text>
+</TEI>

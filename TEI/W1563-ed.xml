@@ -1,0 +1,2308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W1563">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jocrisse-maître et Jocrisse-valet: TEI edition (Wicks no. 1563)</title>
+    <author/>
+    <respStmt>
+     <resp>Original transcription by </resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI conversion by </resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor> The Digital Parisian Stage Corpus. GitHub.
+     https://github.com/grvsmth/theatredeparis </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images downloaded from <ref
+     target="https://books.google.com/books?id=x8JoAAAAcAAJ"/>.</p>
+    <p>HTML transcription downloaded from <ref
+     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/1563Jocrisse.html"
+     >https://github.com/grvsmth/theatredeparis</ref></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc> <change when="2023-07-21">Hand-edited</change>  
+   <change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>JOCRISSE-MAÎTRE ET JOCRISSE-VALET, COMÉDIE, EN UN ACTE ET EN PROSE, </titlePart>
+     <titlePart> Représentée pour la première fois sur le Théâtre des Variétés-Panoramas , le 29
+      Octobre 1810. </titlePart>
+    </docTitle>
+    <titlePart>Prix : 1 franc 25 cent.</titlePart>
+
+    <byline>Par <docAuthor>M. SEWRIN.</docAuthor></byline>
+    <docImprint> A PARIS, Chez Mme MASSON, Libraire, Éditeur de Musique et de Pièces de Théâtre ,
+     rue de l'Échelle, No. 10, au coin de celle St.-Honoré. </docImprint>
+    <docDate>1810</docDate>
+   </titlePage>
+   <castList>
+    <head>PERSONNAGES.</head>
+    <castItem><role>JOCRISSE-Maître, sous le nom de M. Duval ;</role><actor> M. Brunet.
+     </actor></castItem>
+    <castItem><role>JOCRISSE-Valet ;</role> <actor>M. Pothier. </actor></castItem>
+    <castItem><role>JAVOTTE , femme de Jocrisse Maître, sous le nom de Mme. Duval</role>
+     <actor>M.lle. Grange. </actor></castItem>
+    <castItem><role>FANCHETTE, Servante chez Jocrisse Maître ; </role><actor>M.lle.
+     Aldégonde.</actor></castItem>
+    <castItem><role> M. DUMONT, homme riche, âgé de 50 à 60 ans ; </role><actor>M.
+     Blondin.</actor></castItem>
+   </castList>
+   <set>
+    <p>La Scène se passe à Paris chez Jocrisse-Maître. </p>
+   </set>
+   <div>
+    <head>AVIS. </head>
+    <p>Il n'y a d'Édition avouée par l'Auteur, que celle dont les Exemplaires sont signés par
+     l'Editeur. Il poursuivra les Contrefacteurs, conformément à la loi. </p>
+   </div>
+  </front>
+  <body>
+   <div>
+
+    <head>SCÈNE PREMIÈRE.</head>
+
+    <sp who="#TDP1563_1">
+     <speaker>FANCHETTE,</speaker>
+     <stage>arrangeant le Salon.</stage>
+     <p>O mon Dieu! j'ons déjà servi bien des maîtres; mais je n'en ons pas encore vu comme celui
+      que j'sers maintenant. J'ons beau balayer, épousseter , arranger , au bout d'un quart-d'heure
+      tout est en désordre , et cent fois par jour il faut recommencer la même chose. Heureusement
+      qu'il est riche , car il casse , il brise tout. Veut-il remonter sa pendule ? crac . c'est
+      l'grand ressort qui part ; Veut-il écrire ? pan ! c'est une belle écritoire de porcelaine qui
+      tombe par terre; enfin c'est la ruine d'une maison qu'un homme comme ça. Stapendant faut lui
+      rendre justice , il a un bon cœur ; il n'est pas fier : c'est pas comm' sa femme. Sa femme !
+      oh ! c'est bien différent.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE II.</head>
+    <stage>FANCHETTE , JOCRISSE-VALET.</stage>
+
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.,</speaker>
+     <stage>à la porte.</stage>
+     <p>Peut-on entrer ?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette,</speaker>
+     <stage>retournant.</stage>
+     <p>Qui est là ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet ,</speaker>
+     <stage>s'avançant.</stage>
+     <p>C'est moi. Nest-c' pas ici chez monsieur,... <stage>( avec surprise. )</stage> Ah , ah!</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette,</speaker>
+     <stage>de même.</stage>
+     <p>Eh, eh!</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Mamselle, permettez que j'vous dévisage.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>J'ons vu c'te face là queuq' part.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>N'êtes-vous pas Fan....</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>N'es-tu pas Joc...</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Oui, Jocrisse.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Et moi, Fanchette.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Nous avons servi-..</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Dans la même maison.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Chez Monsieur Gratin , traiteur.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Rue de l'Arbre-Sec...</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>A cinq sous l'plat, c'est ça.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Ah! mon pauvre garçon, comm' te voilà maigri ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Bah! fallait m'voir il y a trois mois, j'étais transparent ; on m'aurait compté les
+      côtes....</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Et que viens-tu faire ici ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Je viens pour me remplumer.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Comment ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Oui , j'ai vu par les Affiches qu'on cherchait un bon domestique, et me v'là.......avec des
+      certificats de mœurs.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Quoi ! c'est pour entrer ici que tu t'présentes ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrissse- Valet</speaker>
+     <p>Pardinne, tiens, regarde plutôt. <stage>(Il lui montre les affiches. )</stage> « On demande
+      un domestique , et caetera, et caetera. » Les conditions qu'il faut, et puis : « S'adresser à
+      M. Duval, rue de l'Arbalêtre.......» et j'suis venu comme un trait.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Peut-être que tu t'en retourneras de même.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Est-c'que l'bourgeois n'y est pas ?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Non , mais c'est égal.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Ah ça ! eh ! dis donc, Fanchette, ne vas pas me desservir. D'abord , s'i faut être
+      interligent, tu sais que....</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Oui, je sais que tu es d'une gaucherie sans pareille.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>S'il faut du zèle, tu conviendras que....</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Que tu es d'une paresse.... ah !</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>S'i faut êtr' sobre, par exempe.... j'nai qu'à me montrer.... <stage>( Il montre l' ampleur
+      de sa veste. )</stage> Il est clair que je l'suis.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Est-c'que tu t'serais corrigé de ta gourmandise ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Oui, et ben drôlement, va. Un jour que M. Gratin était malade, on lui avait préparé une
+      médecine , v'là-t-i pas que j'prends ça pour du chocolat. J'l'avale comme un petit pâté, ah!
+      Fanchette.... ça m'a guéri d'être gourmand.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>J'en doute. J'voulons bien te promettre de parler pour toi à monsieur Duval, mais...</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Oui, oui, je t'entends. Tu lui cacheras tous mes petits défauts, et en revanche, moi je
+      n'lui dirai rien des tiens.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Comment, des miens ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Ah! dam, t'en avais!... et j'dis qui comptaient! T'étais curieuse, bavarde, intéressée ,
+      hum! c'n'est pas pour faire ton éloge, mais tu n'valais guère mieux que moi. Combien d'fois tu
+      m'laissais la cuisine et l'salon sur l'dos pour aller avec certain monsieur Picard, ce gros
+      normand... qui te menait à la petite Pologne.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Imbécille!</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Oui, j'l'étais; mais j'te tiens quitte d'tout ça, pourvu que tu m'aide à entrer ici. Dis
+      moi, c'est-i un bon enfant, ton maître ?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Ah ! j't'en réponds.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>C'est une bonne pâte ?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Excellente !</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Tant mieux! Malgré çà , je m'suis mis sur mon quant-à-moi, afin qu'il n'croye pas qu'on est
+      à ça près d'ses pièces.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Est-c'que c'est là toute ta garde-robe ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet</speaker>
+     <p>Ma foi, à peu près. J'avais une veste à manches cul-d'bouteille ; j'l'ai vendue, il y a
+      trois jours, rue d'la Verrerie.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Te v'là joliment callé !</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Oh! j'ai encore un bel habit prune de monsieur, et des culotes abricots de c't'année.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Eh bien, tu n'les as pas mis ?..</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Si fait; j'les ai mis... en gage pour un mois chez un brocanteur qui prête à la petite
+      semaine.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Malheureux!</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Quoiq'çà, n'en dis rien. Dans tous l'z'états, vois-tu , fanchette, vaut mieux faire envie
+      qu'pitié. J'suis gueux comme un rat d'église, mais fier comme un rat de cave. Une bonne
+      condition , d'l'économie et d'la conduite, je reviendrai sur l'eau.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Ou tu te noyeras tout-à-fait.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Bah ! laisse donc ; il y a une providence ; y en a z'une. Si j'venais à me noyer, on
+      m'tendrait la main. P'têt' ben qu'on m'ferait comm' j'ai fait. Sais-tu qu'une fois j'ons sauvé
+      la vie à un homme ?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Toi ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Moi... moi!... Y a d'çà... oh oui, il ya ben çà... six mois environ... C'était un jour à
+      près d'minuit, qu'i faisait sombre comm' dans un four, derrière le Louvre ; j'passais, un bon
+      gourdain dans la main , de cornouïer avec des nœuds d'épines... V'là qu'j'entends, d'une voix
+      étouffée : « A moi !... Au voleur !... A l'assassin !...— Ouf ! j'en frissonne rien qu'd'y
+      penser! J'suis un peu poltron , d'mon naturel.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>C'est vrai.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Eh bien, je n'sais comment ça s'fit; en m'sauvant du côté par-où j'croyais qu'il n'y avait
+      pas d'danger, v'là justement que je m'trouve nez-à-nez en face d'deux grands coquins... O dieu
+      ! les vilaines figures! J'les vois encore comme j'vois la tienne ! Ils avaient six pieds au
+      moins.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Et tu recules ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Non, la peur me rendit brave. J'tombis dessus à coups redoublés. Eh allons donc ! Eh allons
+      donc !.. V'lan.... v'lan... à droite! à gauche!... Et j'criais!... et j'battais!... Y aurait
+      dû en avoir au moins une bonne douzaine d'tués sur la place.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Il n'y en eût que deux ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Deux! Il n'y en eût pas du tout. Les voleurs étaient décampes que j'battais encore. C'est
+      égal, quoiq' cà , ils avaient pris leur cou à leurs jambes, et c'est tout ce qu'i fallait.
+      Quand l'pauvre diable qu'on tenait à la gorge se vit le chifflet libre , t'entends ben qu'i
+      n's'amusa point à compter des pauses ; il gagnit au large...</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Sans te remercier ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>J'crais ben : i n'a eu que l'tems de m'dire : Vot' nom, monsieur, vot' demeure ?... Et moi,
+      s'tilà de lui répondre : Jocrisse, monsieur, Jocrisse, rue de l'Arbre sèche. J'nous sommes
+      séparés et bonsoir, je n'l'ons plus revu.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Et tu n'as jamais su qui ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Jamais. J'l'ons pourtant vu d'assez près pour le reconnaître si j'l'avions rencontré queuq'
+      part. C'est un homme qui pouvait avoir... au reverbère... de cinquante à soixante ans .. il
+      avait d'la poudre ou bien des cheveux blancs.... et puis un joli habit verd avec des galons
+      tout autour d'or... Au resse, quoiq' çà m'fait ? Sais-tu c'que j'y ons gagné ? c'est qu'ça m a
+      donné du cœur ; et depuis ce tems-là, j'irais sans rien craindre dans des rues, la nuit, ous
+      qu'il n'y aurait personne.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>C'est toujours quelque chose.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Mais ton bourgeois n'rentre pas. En l'attendant, j'vas profiter d'çà pour voir une aut'
+      maison qu'on m'a indiquée. C'est pas que j'veuille manger à deux rateliers , mais t'entends
+      ben qu'i n'faut pas s'trouver par terre entre deux selles, je galoppe bien vite, et dans une
+      demi-heure je reserai ici.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Une demi-heure ? Oh oui, i sera sûrement rentré.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Si tu l'vois avant moi, mijote-le, Fanchette.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>I suffit, vas , j'te protégerai.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>C'est çà , protège-moi. J'te donnerai des épingues ou un pot d'vin aux premiers gages
+      touchés. Adieu donc, à tantôt. .....</p>
+     <stage>(Il sort par la porte du fond)</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE III.</head>
+
+    <sp who="#TDP1563_1">
+     <speaker>FANCHETTE, seule.</speaker>
+     <p>Ce pauvre Jocrisse! Au fait, c'était un bon garçon, et à ben prendre , je n'serais pas
+      fâchée que monsieur Duval le prît.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE IV.</head>
+    <stage>FANCHETTE, JOCRISSE- Maître, sous le nom de monsieur Duval.</stage>
+    <stage>(Il a conservé ses cheveux et sa même frisure, des culottes rouges, des bas de soie avec
+     des grands coins brodés , deux longues chaînes de montre. Enfin , il faut que , sous le costume
+     d'un homme aisé , on retrouve la figure , le ton, les manières et la simplicité de
+     Jocrisse.</stage>
+
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître,</speaker>
+     <stage>entrant par le côté droit, et avec son habit tout abimé de poussière.</stage>
+     <p>Comm' me v'la fait !</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>FANCHETTE.</speaker>
+     <p>O mon dieu ! not' maître, où vous êtes vous fourré ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>C'est-un sort !... je viens d'm'étaler sur la place aux veaux... J'ai tombé les quatre fers
+      en l'air... Heureusement ce n'est que d'la poussière... Donne-moi quelques coups ...</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette,</speaker>
+     <stage>prend une baguette , et le frappe sur les bras.</stage>
+     <p>Oui, not' maître.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Qeuq'-tu fais donc ? qeuq'-tu fais ?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>FANCHETTE.</speaker>
+     <p>Je bats votre habit.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>T'es bonne, toi, par exempe! c'est moi qu'tu bats! j'te dis de m'donner quelques coups... de
+      brosse.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette,</speaker>
+     <stage>le brossant.</stage>
+     <p>Ah ! que n'parliez-vous ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Eh ! tu frappais toujours... Je suis sûr que j'en ai les bras tout noirs.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette,</speaker>
+     <stage>riant.</stage>
+     <p>Bah ! ça n'sera rien.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Voyez donc c'te rieuse ! elle se gausse encore de moi !</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette ,</speaker>
+     <stage>brossant toujours.</stage>
+     <p>Et que venez-vous d'faire à la place aux veaux ? de voir queuq' bêtes ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Non , c'n'était pas l'jour. Je viens d'chez monsieur de la Ruine, mon architecte, pour c'te
+      petite maison de la rue Clopin.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Comment , mon cher maître, vous voulez entrer aux petites maisons ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Qu'est-c'qui t'parle d'ça ? J'en veux faire bâtir , j'te dis , mais j'crais que j'y
+      renoncerai. Monsieur de la Ruine veut m'faire une maison à trois étages ; ça m'coûterait trop.
+      J'li ai signifié qu's'i n'voulait pas supprimer le premier et le second, bernique! y n'y
+      aurait rien d'fait.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Ah ! vous vous contenteriez d'un troisième seulement ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Laisse donc... j'li cherche noise, c'est exprès , afin qu'i m'plante là... car j'en ai fait
+      un des plans, moi , et qui vaut mieux que l'sien.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Vraiment!</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Oui, je veux te l'montrer à toi, parsque t'as du taque, et qu'tu m'diras si j'ai d'lestoque.
+      <stage>(Il déroule un grand papier, large d'un pied et de deux aunes au moins de longueur ,
+      attaché à chaque extrémité à un petit bâton rond. Sur ce papier est un plan de maison très-mal
+      fait. Chaque pièce est tracée séparément. )</stage> Tiens , tiens bon c'bout là.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette,</speaker>
+     <stage>déroulant le plan avec lui.</stage>
+     <p>Ah ! mon Dieu , queu longueur !</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Oh ! tu n'y es pas encore. Tout y est, jusqu'au toit et l'coq qui sera dessus pour indiquer
+      le vent.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Et c'est vous qui avez barbouillé tout ça ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Barbouillé! dis donc peinturé.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>FANCHETTE.</speaker>
+     <p>Je n'vous savais pas tant d'talent.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Bah ! quand j'étais petit, j'faisais des images sur tous les livres.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette,</speaker>
+     <stage>examinant le plan.</stage>
+     <p>Qu'est-c'que c'est que ce quarré tout noir ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Ça ? c'est la cave. On y va avec une chandelle, Vienn' ensuite la cour, le puits, et
+      cœtera.... Vlà la chambre où qu'tu coucheras dans les combes.... Voici la mienne d'où qu'ma
+      femme appellera avec une sonnette , drelin , drelin , drelin, si elle se trouvait mal dans la
+      nuit et ous'qu'on lui donnerait de l'eau de Colonne.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>FANCHETTE.</speaker>
+     <p>Vous avez pourvu à tout à c'qu'i m'paraît.... Mais l'escalier ? je n'vois point
+      d'escalier.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Comment, d'escalier !</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>FANCHETTE.</speaker>
+     <p>Oui, pour monter en haut ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>S'rait-i dieu possible ! j'aurais oublié l'escalier ! en v'là ben d'une autre ! t'as, ma
+      foi, raison....eh bien, voilà mon plan en plan ! <stage>(Il le roule. )</stage></p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Tenez, achetez une maison toute bâtie, ça n'vous coûtera ni architèque, ni plan, ni
+      rien.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Au fait, tiens , j'en avais une en vue , rue du Chat qui pêche , j'y retournerai... A propos
+      , Fanchette , j'ai demandé par les petites affiches un domestique pour toi.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Pour moi ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Oui, pour t'aider, parsque t'as trop d'besogne ici.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Que vous êtes bon.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>S'il en vient, tu m'leux feras parler, entends-tu ?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Monsieur, il en est déjà venu un.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Ouidà.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>FANCHETTE.</speaker>
+     <p>Que j'connais d'ancienne réputation.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>A-t-i des répoodans ?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>J'en réponds ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>En c'cas dis y qu'i s'présente, je suis à ses ordres.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>C'est ben lui, monsieur , qui sera aux vôtres.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>C'est c'que j'voulais dire. <stage>( à part. )</stage> C'que c'est que l'habitude!
+      pauv'Jocrisse, quoiq'tu sois riche , t'oublies toujours que t'es t'un maître. <stage>( haut.
+      )</stage> Et ma femme, Fanchette ? ma femme ! il n'lui est rien arrivé dans mon absence ?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Non , monsieur ; madame travaille dans sa chambre... à c'que vous savez bien.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Ah!... ah oui, j'entends.... Fanchette , Fanchette!</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Vous soupirez ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>C'est d'joie et d'inquiétude.... Songe-tu qu'i n'y a pus qu'six mois ?... dans six mois je
+      serai père ! rien qu'en y pensant ça m'donne des chatouillemens d'cœur. Dis donc, j'voudrais
+      qu'ça soit une p'tite fille.... c'est pus gentil qu'un garçon.... ça babille, Ça babille....
+      «Papa , mon bon papa , donne-moi ça.... ta ta ta , ta ta ta....» O mon dieu! j'aurais voulu
+      être p'tite fille ; moi, j'sis sûr qu'à un an j'aurais parlé , parlé.... comme l'carillon de
+      la Sainte-Maritaine.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Mais il y a des instans, monsieur, où qu'vous avez ben l'air d'être d'not' sèque.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>C'est vrai, j'suis queuq' fois un peu Javotte, et quand i s'agît d'en dégoiser , j'damerais
+      l'pion à ma femme.... En parlant d'Javotte, la voici ; laisse-nous, j'te donne campo pour le
+      quart-d'heure.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE V.</head>
+    <stage>Les Mêmes, JAVOTTE, d'une élégance ridicule.</stage>
+
+    <sp who="#TDP1563_4">
+     <speaker>Javotte ou Madame Duval.</speaker>
+     <stage>( Elle entre, par le côté gauche, et en voyant Fanchette avec son mari, elle s'avance en
+      colère. )</stage>
+     <p>Sortez , p'tite perronnelle.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>FANCHETTE,</speaker>
+     <stage>à part.</stage>
+     <p>Eh! mon dieu , sur quelle herbe a-t-elle marché !</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>J'vous dis d'sortir.... Quand vous avez fini votre ouvrage, vous n'avez qu'faire ici.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>FANCHETTE,</speaker>
+     <stage>s'en allant.</stage>
+     <p>Là, là, madame ; on n'veut pas accaparer vot' mari.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Accaparer, accaparer.... l'impertinente !</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE VI.</head>
+    <stage>JOCRISSE-MAITRE, JAVOTTE.</stage>
+
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Dam! c'est qu'tu la traites. ..</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte.</speaker>
+     <p>Taisez-vous. Vous êtes toujours avec c'te fille ! Que faisiez-vous ? que disiez vous ?
+      Répondez, répondez. . .</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>C'te fille! Mais elle est à mon service comme au tien. Ne vas-tu pas faire la femme jalouse,
+      à présent ? ça t'irait bien.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Moi jalouse! d'une domestique ? Pour qui me prenez-vous ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>D'une domestique! Tiens, ma femme, i n'faut pas faire la fière; sans c'te fortune qui m'est
+      venue du ciel comme une bénédiction , j'n'aurions été jamais qu'Jocrisse, et toi qu'Javotte,
+      cuisinière. J't'ai épousée, grâce à qui ? grâce à qu'est-ce ? grâce au magot qui m'est tombé
+      des nuées! Tu vois donc que c'te fille, dont tu fais fi peut trouver demain , comme toi ,
+      queuq' Creusus qui la mettra à l'égale d'nous. Ainsi, n'méprisons personne, c'ti-ci a plus,
+      c'ti-là a moins, l'hasard fait tout , mais souviens-toi qu'en tout état on...</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Eh bien, quoi ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Qu'en tout état on... on peut être honnête, enfin !</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte ,</speaker>
+     <stage>pleurant.</stage>
+     <p>Allez, monsieur , vous n'défendriez pas si bien Fanchette, si vous n'preniez pas tant
+      d'intérêt à elle.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Tu t'mets martel en tête, n'y a pas d' bon sens !</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Vous n'avez des yeux qu' pour elle.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Veux-tu pas que j' sois borgne ou aveugle ?</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE,</speaker>
+     <stage>pleurant.</stage>
+     <p>C'est assez à présent que j'sois vot' femme pour qu' vous ne pensiez plus à moi.
+      <stage>(Elle se jette dans un fauteuil.)</stage></p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Qu'diantre! tu méchante pouille là bien inutilement! j' vois qu't'as mis ton bonnet d'
+      travers à c' matin , je n' veux pas t' riposter, ça n'en finirait pas.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE ,</speaker>
+     <stage>se trouvant mal.</stage>
+     <p>Oye ! oye ! oye ! . . j'étouffe !</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Maman !... ma petite maman!... ne t' fais pas du mal par plaisir. <stage>( Il lui frappe
+      fortement dans la main. )</stage> Ah mon dieu ! elle a les mains fraides comme d' la glace !
+      .. <stage>( II appelle )</stage> Fanchette ! Fanchette !</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE,</speaker>
+     <stage>brusquement.</stage>
+     <p>Pourquoi la rappellez-vous ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>JOCRISSE-Maître.</speaker>
+     <p>Pour te faire revenir.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE,</speaker>
+     <stage>levant tout-à-coup.</stage>
+     <p>Je suis revenue.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>JOCRISSE-Maître ,</speaker>
+     <stage>courant à son secrétaire</stage>
+     <p>Attends , attends, un peu d'eau d'milice.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte.</speaker>
+     <p>Je n'en ai pas besoin.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>JOCRISSE-Maître.</speaker>
+     <p>J'en dois avoir là dans l'sequertaire... <stage>(il cherche.)</stage></p>
+     <p>Allons, plus on s'depêche , moins on va vite... <stage>(il cherche , et jette par terre tout
+      ce qui est dans le secrétaire, dès livres y des papiers, des vestes , des culottes , une
+      écritoire , des souliers, du linge, etc ' )</stage> Où diantre est la bouteille ?</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Je n'en ai pas besoin , vous dis-je ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse , Maître,</speaker>
+     <stage>trouvant la bouteille.</stage>
+     <p>Ah ! la v'là ! à présent qu'i n'en faut pus!</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Gardez votre eau d'milice.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse, Maître.</speaker>
+     <p>C'est bon quand on est sujet aux.... Comment qu'vous apellez ça , vous autres ? aux vap....
+      aux vapeurs.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE,</speaker>
+     <stage>en colère.</stage>
+     <p>Aux vapeurs! j'ai des vapeurs , moi ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>J'te dis pas qu't'en as, mais trois gouttes, c'est délicieux , avec un peu d'sucre.</p>
+     <stage>( tout en gesticulant, il répand l'eau de la bouteille sur Javotte , ensuite il tire un
+      morceau de sucre de sa poche , l' arose d' eau de mélisse , et l'avale lui-même. )</stage>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Vous n'avez que des choses amères à me dire.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Allons, j'te parle d'sucre et t'apelle ça des choses amères !... Javotte un peu d'douceur !
+      si queuquun venait , te v'la rouge comme un coq , on dirait que j't'ai battue.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>En c'eas envoyez-moi c'te Fanchette, que je n'puis souffrir.</p>
+    </sp>
+   </div>
+   <div>
+    <head>SCÈNE VII</head>
+    <stage>JAVOTTE, JOCRISSE-Maître, JOCRISSE-Valet.</stage>
+
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>entrouvant la porte du fond.</stage>
+     <p>Ohé, la maison ! y a-t-il du monde là ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître ,</speaker>
+     <stage>bas à Javotte.</stage>
+     <p>Tiens, tu-vois bien, v'là des visites qui nous viennent... Allons, sèche tes yeux, qu'on
+      n'voye pas que t'as pleurniché. <stage>(il échauffe ses mains avec son haleine et les passe
+      ensuite sur les yeux de Javotte.)</stage></p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>entrant.</stage>
+     <p>J'vous d'mande ben pardon , si je n'me fais pas annoncer. C'est moi , me v'là.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Entrez, entrez, monsieur, nous sommes visibles. <stage>(Il lui présente une chaise.
+      )</stage> Donnez-vous la peine d'vous asseoir.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>voulant s'asseoir.</stage>
+     <p>Vous êtes trop honnête</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître,</speaker>
+     <stage>retirant la chaise , de manière que l'autre tombe par terre.</stage>
+     <p>Ah! attendez , voici putôt un fauteuil. . . .</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>à terre.</stage>
+     <p>Oye ! oye-! oye !</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>JOCRISSE-Maître.</speaker>
+     <p>Eh! bien, qu'est-c'qui vous arrive donc ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>JOCRISSE-Valet.</speaker>
+     <p>C'n'est rien, je m'suis assis par terre.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>JOCRISSE-Maître.</speaker>
+     <p>J'vous disais d'attendre.... que j'allais vons donner un fauteuil.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Voulez-vous plutôt me donner la main.... que j'me relève ?... à moins que-vous n'aimiez
+      mieux vous asseoir comme moi.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>JOCRISSE-Maître.</speaker>
+     <p>Non, nous causerons aussi bien d'bout. <stage>( Il l'aide à se relever.)</stage> Dites-moi à
+      présent c'qui m'procure l'honneur et l'avantage d'vous voir, n'ayant pas, à c'que j'présume,
+      stilà d'être connu de vous ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Vous êtes, je crois, le maître d'chez vous ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>JOCRISE-Maître.</speaker>
+     <p>Oui, et v'la Javotte....</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte,</speaker>
+     <stage>bas à son mari.</stage>
+     <p>Qu'est-c'que vous dites donc , Javotte !</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>JOCRISSE-Maître.</speaker>
+     <p>Madame Duval, mon épouse, que j'vous présente.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>JOCRISSE-Valet.</speaker>
+     <p>Vous pouvez vous vanter, monsieur, d'avoir là les grâces.... en personne.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte,</speaker>
+     <stage>flattée, bas à son mari.</stage>
+     <p>Vois-tu ? vois-tu ? les grâces en personne !</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>JOCRISSE-Valet.</speaker>
+     <p>I n'faut voir madame qu'une fois pour juger qu'elle réunit la douceur.... et la bonté.... à
+      la.... délicatesse et à la.... noblesse des sentimens... certainement.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte,</speaker>
+     <stage>bas à son mari.</stage>
+     <p>La noblesse! la délicatesse ! vous n'm'en avez jamais dit autant.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Des complimens! mais c'est d'la graine de niais ça , ma femme.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Et j'vois qu'si j'ai l'bonheur de plaire à madame , je n'voudrai pus chercher aieurs.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître ,</speaker>
+     <stage>à part.</stage>
+     <p>Chercher aieurs! queq'i veut dire ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>J'nai pas besoin , je crois, d'vous informer qui j'suis , regardez si je vous conviens , et
+      j'suis votre homme, à la minute.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Notre homme... ma femme.... ah!... j'y suis.... c'est vous, j'gage, qu'êtes le domes....</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Tique , que vous avez demandé.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître ,</speaker>
+     <stage>à part.</stage>
+     <p>Tiens, moi qui lui faisais des politesses comme à une paire d'amis.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Mamselle Fanchette a dû vous dire....</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître,</speaker>
+     <stage>très-haut.</stage>
+     <p>Beaucoup d'mal de vous. <stage>( bas à Jocrisse-valet.)</stage> Beaucoup de bien : c'est
+      exeprès pour qu'vous plaisiez à ma femme qui déteste Fanchette. <stage>( très-haut. )</stage>
+      Oui , elle m'a prévenu que vous n'pourriez pas nous convenir.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte.</speaker>
+     <p>Fanchette a dit ça ?... je l'arrête.... je l'prends à mon service.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître ,</speaker>
+     <stage>à part.</stage>
+     <p>J'en étais sûr.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte.</speaker>
+     <p>Tenez, mon ami... voilà six francs d'arrhes... et allez chercher vot' paquet.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>s'en allant d'abord puis revenant ensuite.</stage>
+     <p>Madame , excusez. ... vous avez cru me donner six francs , mais c'nest qu'une pièce de
+      trente sous.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>C'est égal, je vous retiens.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître ,</speaker>
+     <stage>reprenant la pièce de 30 sous.</stage>
+     <p>Un moment! un moment! que diable ! ma femme, je n'pouvons pas acheter com' ça chat en
+      poche... Laissera moi que je l'interroge. . . Éloignez-vous un peu , mon ami . . tenez-vous
+      là. . . à une distance respectable et répondez : quel âge avez-vous ? <stage>(a part.)</stage>
+      Non, il faut le tutoyer. <stage>( haut. )</stage> Quel âge as-tu ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>taut ne parlant tire une poire de sa poche et s'apprête à la manger.</stage>
+     <p>Monsieur, j'aurai vingt-trois ans le 2 novembre, je suis né le jour des morts.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Qu'est-ce' que tu mords ? . . .</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>N'faites pas attention, monsieur, c'est une poire que j' gardais pour la soif.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître ,</speaker>
+     <stage>la lui ôtant des mains.</stage>
+     <p>Donnez, donnez , mon ami, on n'mange pas devant les maîtres. . . c' n'est pas l'usage. . . à
+      la bonne heure un maître, il peut manger devant ses domestiques. <stage>( Il mange lui-même la
+      poire. )</stage> Eh , dieu me pardonne ! c'est un bon chrétien ! . . <stage>(parlant tout en
+      mangeant.)</stage> Dis-moi, sais-tu faire un peu de cuisine ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>De cuisine ? je crois bien. On n'a pas été pour rien trois ans chez l'traiteur de la rue de
+      l'arbre-séche.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Rue d'l'arbre-séche ! nous y avons demeuré.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Ah ! vous y avez demeuré aussi! . . Eh bien, c'est ma dernière maison. . . j'y étais adoré ,
+      parce que j'inventias beaucoup d'sauces.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Sais-tu faire la barbe ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Voyez comme j'suis rasé !</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Tu connais le service de la table ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>La table ! c'est mon fort ! je vous enleve une assiette avant même que voua sachiez ce qu'il
+      y a dessus.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>C'est bien pour les qualités. Voyons pour les défauts. Dis-moi, tu n'avales pas le vin
+      d'Espagne pour de la poison ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Non, monsieur.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Tu ne laisse pas envoler les serins ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Oh ça ! . . excepté que quand la cage ouverte...</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>C'est différent, i n'y aurait pas de ta faute. Tu n'casses pas la porceline ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Casser! casser! ce sont des malheurs ça, monsieur, qui n'arrivent jamais qu'par accident. Je
+      n'réponds pas de la casse.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Vous en repondrez ici , mon ami.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Tenez , là-dessus, j'vais vous parler avec franchisse, j'n'ai pas la main gauche à droite. .
+      Si j'avais la main droite à gauche, je ferais tout c'que j'voudrais d'mes doigts.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître,</speaker>
+     <stage>à sa femme.</stage>
+     <p>Il est franc.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Il a du bon. J'l'ai jugé d'un coup-d'œil, il m'convient.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Vrai ? il t'a donné dans l'œil ?... si je l'prends, aurons-je la paix ?</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Oui, quand vous aurez renvoyé Fanchette.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>C'te pauvre fille !... Eh ! bien , tiens, i n'est rien que je n'sacrifisse pour vivre en
+      bonne union, c'est dit, j'la renvoirai. <stage>(à Jocrisse-Valet. )</stage> Mon ami, allez à
+      l'antichambre , tes gages courent d'aujourd'hui, soyez sage; fidèle, laborieux; songes,
+      sur-tout, que madame Duval, que vlà, est ici pus maîtresse que moi, et qu'si tu lui manques,
+      je n'te manquerai pas. Allez , n...i...ni.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse- Valet.</speaker>
+     <p>Monsieur, à quelle heure souperez-vcus ce soir ?</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Comme à l'ordinaire.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>A huit heures , en bons bourgeois.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Si c'était un effet d'vot' complaissance , pour aujourd'hui seulement , d'avancer vot'
+      souper d'une coupe d'heure ou deux.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Pourquoi ça ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>C'est que , j'm'en vas vous dire , j'n'ai encore ni déjeûné, ni dîné, et je m'sens des
+      tiraillemens d'estomach. J'ai tant couru , tant fatigué...</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Eh bien ; va t'coucher.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>C'est ça... qui dort dîne , mettez-vous à ma place, vous verrez comm' ça restaure.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître,</speaker>
+     <stage>à Javotte.</stage>
+     <p>C'est vrai, faut avoir pitié d'ses semblabes... Quand j'étais jocrisse...</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>croyant qu'on l'appelle.</stage>
+     <p>Monsieur ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Nous souperons, dresque l'souper sera prêt.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>s'en allant.</stage>
+     <p>En c'cas , soyez tranquille , il le sera bientôt, j'en réponds, je vas à la cuisine pour
+      tout hâter.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte ,</speaker>
+     <stage>le rappellent.</stage>
+     <p>Mon garçon.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>revenant.</stage>
+     <p>Not' bourgeoise ?</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte.</speaker>
+     <p>Dis à Fanchette de venir... Et n'm'appelle plus not' bourgeoise, entends-tu, mon ami ? ça
+      sent le petit peuple... dis : madame.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>s'en allant par la gauche.</stage>
+     <p>Oui, not' bourgeoise, je dirai madame.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE VIII.</head>
+    <stage>JOCRISSE-Maître , JAVOTTE.</stage>
+
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Eh! bien, es-tu contente ?</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte.</speaker>
+     <p>Non, pas encore. J'vous connais , vous n'avez pas d'caractère, Fanchette pleurera ,
+      s'désolera , vous n'aurez pas le courage de lui donner son compte , j'm'en charge, moi, et
+      j'vous ordonne de n'plus vous mêler de rien.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Eh! mon dieu, tiens , sois tranquille , je n'bougerai pas plus qu'une borne.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCÈNE IX.</head>
+    <stage>les Mêmes, JOCRISSE-VALET.</stage>
+
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <stage>Il entre chargé de tout ce qui est nécessaire au service de La table, comme nappe,
+      serviettes , bouteilles , pain , couverts et assiettes. Il parait embarrassé de tout ce qu'il
+      porte,</stage>
+     <p><stage>( A Javotte. )</stage> Madame , v'là Fanchette qui va venir... <stage>(à
+      Jocrisse-Maître. )</stage> Regardez donc si je n'ai pas l'air d'un buffet.... Je suis chargé
+      comme un mulet , not' maître... Voulez-vous m'débarrasser un peu ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Pourquoi porte-tu tant d'choses à la fois ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>C'est pour aller plus vite... Oh ! là, là , dépêchez-vous donc , v'là qu'ça dégringole !...
+      <stage>( une partie des assiettes tombe. )</stage></p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Il est bien tems!</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte.</speaker>
+     <p>O ciel ! ma vaisselle de terre de pipe.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître ,</speaker>
+     <stage>riant.</stage>
+     <p>Ah ! ah, ah, ah, ah, ah , ah, ah, ah.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Vous riez ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Ça m'rappelle le tems ousq... ah ! ah, ah,ah, ah.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Oh! queu bonheur , queu bonheur, il n'y en a que six de cassées!... les morceaux en sont
+      bons... demain je guette cet homme qui crie dans les rues : à raccomoder la faïence... Deux ou
+      trois attaches de six blancs, et i n'y paraîtra plus rien.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>C'est d'ta faute aussi.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>D'ma faute, ah! not' maître, c'est d'la vôtre, j'vous disais de m'aider.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>JOCRISSE-Maître ,</speaker>
+     <stage>prenant de ses mains les assiettes qui restent.</stage>
+     <p>Tiens, regarde, moi, si j'portais une pile d'assiettes...</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Ah! oui, mais et puis les bouteilles, le pain... <stage>(Il place le tout sur les bras de
+      son maître. )</stage></p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse- Maître.</speaker>
+     <p>Eh qeuq'çà m'fait ? .. je n'serais pas si embarrassé... <stage>( Il marche à grands pas avec
+      un air d'aisance , Jocrisse-valet le suit.)</stage> Vois-tu , j'irais comm'ça aux quatre coins
+      de Paris... <stage>( En se retournant, il se heurte rudement contre Jocrisse-valet, et le
+      reste des assiettes s'échappe de ses mains. )</stage></p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>riant.</stage>
+     <p>Patatra... Ah! ah , ah, ah, ah, ah, ah.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte,</speaker>
+     <stage>en colere.</stage>
+     <p>Allons, courage, à merveille.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Vous voyez ben, not' maître, que j'suis aussi habile que vous.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Mais non, c'est toi qui t'es jette dans moi.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte.</speaker>
+     <p>Ah, que vous m'impatientez !</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Dites-donc, la bourgeoise prend la mouche.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Ne faut-il pas encore que j'sois contente d'vos sottises ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Sottises! not' maître , c'est pour vous c'paquet-là.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Pour moi ; c'est bien pour toi, et tu vas demander pardon à ma femme.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Pardon.... Oh !...</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Oui, monsieur , pardon.... <stage>( à part et en tirant sa tabatière. )</stage> Faut qu'à
+      ces gens-là j'leux y apprenne à mon tour c'que c'est que l'insubordination.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>familièrement et prenant du tabac dans la boëte de son maître.</stage>
+     <p>Vous prenez donc du tabac, not' maître ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Oui, monsieur; mais qu'est c'que vous faites donc ?... vous prenez du tabac dans ma
+      tabatière.... est-c'que c'est poli ?...</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>remettant sa prise dans la boëte.</stage>
+     <p>Oh !... le v'là.... <stage>( Jocrisse-Maître ferme la boéte et tient fortement pinces les
+      doigts de Jocrisse- Valet qui jette les hauts cris. )</stage></p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Allons, obéissez bien vite ,ou je....</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>C'est dur pourtant de demander pardon quand on est innocent.... <stage>( à Javotte.
+      )</stage> Madame, je....</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Ah !... laissez ce garçon-là tranquille , je l'tiens quitte de ses excuses.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Eh bien , à la bonne heure !</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Moi , j'veux qu'il apprenne à vivre.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Je n'demande pas mieux, car je meurs de faim.... mais v'là Fanchette qui va sûrement....</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE X.</head>
+    <stage>Les Mêmes, FANCHETTE,</stage>
+
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>On dit que madame veut m'parler.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Oui, avancez, mademoiselle.... Il y a assez long-tems que vous m'comptez pour zéro dans la
+      maison.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Moi, madame....</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Suffit, point de répliques. Combien vous est-il dû d'gages ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <stage>à part.</stage>
+     <p>Comment ? est-c' qu'a va la renvoyer ?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Mais, madame....</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Combien vous est-i dû d' gages ?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Trois mois, madame.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <stage>la payant.</stage>
+     <p>Les voici.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître ,</speaker>
+     <stage>bas à sa femme.</stage>
+     <p>Donne li en quatre.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Taisez-vous.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Ah! c'est-à-dire que vous me mettez à la porte , et vous croyez peut-être que j'allons nous
+      arracher les cheveux de désespoir ? ben du contraire. O dieu, que j'sis donc contente de
+      n'être plus à vot' service !</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Allez, et que je n'vous revoye pas davantage chez moi.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Mais voyez-donc un peu , j'vous compte pour zéro ; l'biau dommage ! v'là-t-i pas une ben
+      grande dame !</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>L'impertinente ! <stage>( à son mari. )</stage> Et vous qui l'écoutez , vous ne répondez
+      pas ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Moi ! t'as ordonné que je n'me mêle de rien.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte,</speaker>
+     <stage>brusquement.</stage>
+     <p>Sortez.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Là , là , tout doux! Modérez-vous, madame Javotte, j'vous conseille d'prendre des airs.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Vous osez encore....</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>voulant appaiser Fanchette.</stage>
+     <p>Fanchette ! Fauchette !</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <stage>lui donnant un soufflet.</stage>
+     <p>Tais-toi, toi!... c'est toi qui m'susplantes , je vois ça ; viens m'demander ma protection ,
+      comptes-y. <stage>(à Javotte)</stage> Au resse, j'vous fais mon compliment du biau sujet
+      qu'vous avez là; c'est un joli garçon! méchant, menteur , paresseux, gourmand , brise-tout, et
+      bête !... bête comme Jocrisse enfin, c'est tout dire, adieu. <stage>( Elle sort. )</stage></p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XI.</head>
+    <stage>JAVOTTE, JOCRISSE-Maître, JOCRISSE-Valet.</stage>
+
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître ,</speaker>
+     <stage>s'emportant.</stage>
+     <p>Bête comme Jocrisse !</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <stage>de même.</stage>
+     <p>Bête comme jocrisse î</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Insolente !</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Arrogante!</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Bête comme jocrisse!</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Bête comme jocrisse! j'vous d'mande un peu, monsieur , si c'est vrai ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Non, certainement, jocrisse n'a jamais eu l'air d'une bête.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Elle a bien fait d'partir, quoiq'ça.... c'est qu'jocrisse , tout jocrisse qu'il est, l'y
+      aurait ben répondu... je n'lui disais rien, moi, je n'vois pas pourquoi qu'ell' m'apostrophe.
+      Vous entendez bien , not' maître, que si j'm appelle jocrisse, c'est pas ma faute; c'est pas
+      moi qui m'a balisé.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse - Maître ,</speaker>
+     <stage>surpris.</stage>
+     <p>Queq'tu dis donc, toi ? tu t'appelles jocrisse ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Vraiment oui.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Oh ! par exempe , v'là du nouveau, du curieux !... <stage>( à Javotte.)</stage> Ma femme ,
+      si ça allait être un cousin !</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte.</speaker>
+     <p>Eh laissez-moi, tout c'que vous faites est à l'envers du bon sens. Je sors aussi, car vous
+      m'exposeriez peut-être encore à rougir devant c'te nouvelle figure.</p>
+     <stage>(Elle s'en va en colère.)</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XII.</head>
+    <stage>JOCRISSE-Maître , JOCRISSE-Valet.</stage>
+
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Tout retombe sur moi! Elle s'attire des scènes, et faut que j'paye les pots cassés.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>C'te nouvelle figure! Qu'elle est drôle, la bourgeoise! tout-à-l'heure j'li plaisais , à
+      présent elle trouve que j'ai une nouvelle figure... Elle tourne donc comme une girouette ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Non , non , elle est comm' çà d'puis qu'elle sait qu'tu t'appelles Jocrisse.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Ah! elle n'aime pas c'nom-là peut-être... Si j'avais su çà, moi, j'li aurais dit que
+      j'm'appelais autrement.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>C'est qu'elle a connu aut' fois un Jocrisse...</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>J'entends ; un garnement, un imbécille... Mais c'n'est pas moi... c'n'est pas moi. .</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître ,</speaker>
+     <stage>à part.</stage>
+     <p>Diantre soit d'toi , va; comme i m'arrange! <stage>(haut)</stage> Mon ami, avant d'te
+      prendre , j'aurais dû en effet savoir ton nom , et l'pays dont t'es t'original.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Je suis d'Asnières, notre maître.... Ici, près Paris, derrière Montmartre.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>D'Asnière! Et de quelle branche de Jocrisse es-tu ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>De quelle... branche ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Oui, de quelle souche ? Est-tu un Jocrisse du côté paternel, maternel, ou tanternel ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Ma fine, j'sais tout bonnement que j'm'appelle Jocrisse Criquet comme mon père.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître,</speaker>
+     <stage>à part.</stage>
+     <p>Criquet! Nous n'avions point d'Criquets dans not' famille.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Pourquoi donc qu'vous demandez comm' çà ma généralogie ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>C'est que j'veux savoir si par hazard tu n'serais pas un parent de c'Jocrisse.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Ah! de c'mauvais sujet en question ? Non, ma postérité à moi est connue depuis ben des
+      siècles, j'ons été brav' et honnêtes de père en fils, c'est dans l'sang, et comm' vous
+      l'savez, bon chien chasse de race.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître,</speaker>
+     <stage>à part.</stage>
+     <p>Décidément, j'vois qu'nous n'sommes pas cousins. . . Tant mieux.</p>
+     <stage>(On entend frapper à la porte du fond.)</stage>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Not maître, on frappe.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>J'vas voir qu'est-ce.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Oui, allez.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître,</speaker>
+     <stage>revenant.</stage>
+     <p>C'est un monsieur ben habillé.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Eh bien, dites y qu'il entre... et n'jasez pas trop long-tems, entendez-vous, not' maître ?
+      J'vas voir si la broche tourne.</p>
+     <stage>(Il s'en va par la gauche , et monsieur Dumont entre par le fond.)</stage>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XIII.</head>
+    <stage>JOCRISSE-Maître, M. DUMONT,</stage>
+
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Monsieur Duval ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>C'est moi.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Ah! monsieur... <stage>( Il le salue. )</stage></p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître,</speaker>
+     <stage>rendant le salut.</stage>
+     <p>Monsieur... <stage>(Il offre une chaise que l'autre refuse.)</stage></p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Vous ne me reconnaissez pas ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Ma foi , non.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Vous ne me rappelez pas. . . . Voyez, examinez-moi</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Je ne me rappelle de rien.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>A vous dire vrai, je ne vous remets point non plus; mais il est possible que la circonstance
+      fâcheuse où nous nous sommes trouvés tons deux, l'heure à laquelle cela s'est passé....
+      l'obscurité de la nuit. . .</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Diab' m'emporte, monsieur, si je sais c'que vous voulez dire.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>C'est bien vous qui vous appelez monsieur Duval ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Oui... Duval... Si on veut, pourtant.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. Dumont.</speaker>
+     <p>Je n'ignore point que vous portez ce nom-là depuis peu... j'ai pris des informations
+      exactes, auparavant vous; vous nommiez Jocrisse</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître,</speaker>
+     <stage>étonné.</stage>
+     <p>D'où diantre...</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Vous demeuriez rue de l' Arbre-sec.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>C'est vrai.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Entre nous, vous n'étiez pas très-bien partagé du côté de la fortune ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Ma foi, puisque vous savez tout, n'y a pas moyen d'vous cacher queuq' chose.... c'est encore
+      vrai.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. Dumont.</speaker>
+     <p>Mais quand on est brave garçon comme vous, on mérite de prospérer.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Mon dieu, j'n'ai pas eu grand' peine, ça m'est venu en dormant. Un beau matin, il entre un
+      homme dans ma chambre que je n'connaissais pas. —C'est vous, dit-il, qu'êtes monsieur
+      Jocrisse ? — Oui, que j'dis. — Eh bien , qu'i m'dit, dit-il, je suis chargé de vous remettre
+      ça. — là-dessus, il pose sur ma table un p'tit sac d'cuir avec une lettre... La lettre, la
+      v'là, j'l'ai toujours sur moi. <stage>(Il la tire de sa poche, et la montre )</stage> Mais
+      vous entendez bien que j'étais pus pressé d'ouvrir le sac que la lettre; je l'ouvre, et
+      j'vois...des louis d'or! Ah, queu son! J'les compte en long, ça faisait tout l'tour de ma
+      chambre... Il y en avait mille!... J'ouvre la lettre ensuite, croyant qu'on s'était trompé, et
+      j'lis : <stage>(Il ouvre la lettre, et lit.)</stage> « Monsieur Jocrisse est prié de vouloir
+      bien accepter cette somme, c'est un faible à-compte sur ce que lui doit un de ses meilleurs
+      amis... » Et point d'sinature , vous voyez... Ne sachant où l'trouver, cet ami-là, j'nai pas
+      pu l'aller remercier comme de jusse , mais c'est égal, j'li ons gardé ma reconnaissance.. ad
+      vitam œternam.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Allons, je vois avec plaisir que cet argent ait été si bien placé, car vous vous êtes
+      marié ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Avec Javotte.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Vous paraissez heureux ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Oui, mais quoiqu'çà, j'ai toujours gardé mes habits d'Jocrisse : ils sont là-haut dans un
+      coffre. Je m'suis dit : c'te fortune , s'tilà qui me l'a donnée peut aussi m'l'ôter, et s'il
+      fallait rendosser la casaque, j'l'aurions toute prête au besoin.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Vous n'avez pas de fierté, c'est bien.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Pas pu fier que ça , moi, mou dieu non , mais c't ami qui m'a écrit cette lettre , vous
+      l'connaissez donc, vous, monsieur ?</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT,</speaker>
+     <stage>riant.</stage>
+     <p>Je le crois , puisque c'est moi-même.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître</speaker>
+     <p>C'est vous ? Ah! dieu , j'vas dire à ma femme qu'à vienne vous embrasser.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT,</speaker>
+     <stage>riant.</stage>
+     <p>Je le veux bien. Je ne serai pas fâché de connaître la compagne de celui à qui je dois ma
+      fortune et ma vie.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Comment, vous m'devez vot' fortune, dit' donc que c'est moi qui vous dois la mienne.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XIV.</head>
+    <stage>Les Mêmes, FANCHETTE.</stage>
+
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette,</speaker>
+     <stage>entrant avec un air contrit.</stage>
+     <p>Not' maitre ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Que m'voulez-vous, Fanchette ? Allez, j'sis à causer avec monsieur.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>C'est qu'avant d'partir, je voudrais bien...</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Tout-à-l'heure, tout-à-l'heure.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. Dumont.</speaker>
+     <p>Pourquoi ? que je ne vous gêne point.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>C'est que, j'm'en vas vous conter ça , c'est un'fille que nous mettons à la porte.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Ah! elle parait bien affligée... Si sa faute n'est point grave, je vous demande sa
+      grâce.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Je n'demande pas mieux , moi, mais touchez-en un mot à Javotte.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Allez, mon enfant, j'arrangerai cela, moi.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Grand merci, monsieur... <stage>( Elle se retire un peu en arrière. )</stage></p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Mon cher ami, je veux que tout le monde soit heureux chez vous.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Vous êtes bien bon.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Eh! non, je ne suis que juste et reconnaissant; quand je songe encore au danger que j'ai
+      couru , et au courage avec lequel vous m'avez délivré...</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Au courage !</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette ,</speaker>
+     <stage>qui a écouté.</stage>
+     <p>Au danger. <stage>( Elle redouble d'attention. )</stage></p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse - Maître,</speaker>
+     <stage>à part.</stage>
+     <p>Je n'y suis pas.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Imaginez-vous , mon cher ami, que ce malheureux soir, je venais de retirer mes fonds de chez
+      un banquier, j'avais sur moi un porte-feuille qui renfermait toute ma fortune.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Ce malheureux soir... Eh! bien, vrai, c'est du grec pour moi, j'y perds mon latin.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Allons , allons , pourquoi feindre ? c'est inutile. Oui, un soir... à minuit.. derrière le
+      Louvre ..</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette,</speaker>
+     <stage>plus attentive.</stage>
+     <p>Qu'entends-je ?</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Ces deux brigands qui m'ont assailli...</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette,</speaker>
+     <stage>vivement.</stage>
+     <p>C'est lui! <stage>(très-vite.)</stage> Monsieur, c'est vous qu'avez été attaqué par des
+      voleurs ?</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Oui.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Un queuqu'un qui passait est venu à vot' secour ?...</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Oui.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Et vous a sauvé la vie ?</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Oui, oui, et voilà... <stage>( Il montre Jocrisse-Maître. )</stage></p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette,</speaker>
+     <stage>courant vers la porte, et criant.</stage>
+     <p>Jocrisse, Jocrisse , Jocrisse!... <stage>( revenant vers Dumont. )</stage> Ah! monsieur,
+      vous allez le voir... <stage>( retournant vers la porte , et appellant de toutes ses forces.
+      )</stage> Jocrisse, Jocrisse , Jocrisse !</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT,</speaker>
+     <stage>étonné.</stage>
+     <p>Que signifie ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître ,</speaker>
+     <stage>stupéfait.</stage>
+     <p>La drôle d'histoire !</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCÈNE XV.</head>
+    <stage>Les Mêmes , JOCRISSE- Valet.</stage>
+
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>accourant avec un gigot rôti sur un grand plat.</stage>
+     <p>Queq'y a ? j'ai cru que la maison tombait.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Eh ! arrive donc vite, malheureux , arrive donc vite.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Me v'là ! laissez moi mettre le fricot sur la table.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette,</speaker>
+     <stage>le tirant par le pan de sa veste.</stage>
+     <p>Il s'agit bien d'ça vraiment... Avance, avance, regarde, reconnais-tu c'monsieur ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>O ciel!... Restez comm' ça... Tournez-vous un peu... de profil... et l'habit verd ! ...
+      C'est lui, c'est mon homme !</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Son homme !</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>à Dumont étonné.</stage>
+     <p>Vous n'me remettez pas ? — Vot' nom , monsieur , vot' demeure ? — Jocrisse , monsieur ,
+      Jocrisse , rue d'l'arbre-sèche... Et ces deux grands coquins ? V'lan ! v'lan ! Est-c'que vous
+      avez oublié comme j'vous les ai étrillés ?</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. Dumont,</speaker>
+     <stage>à Jocrisse-Maître.</stage>
+     <p>Ah! ça , mais, vous m'avez donc trompé ? Ce n'est donc pas vous qui êtes Jocrisse ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>C'est moi , c'est parbleu bien moi!</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Oh! j'vous réponds qu'c'est lui.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître,</speaker>
+     <stage>à part.</stage>
+     <p>Oh! là, là, quel déchet.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. Dumont,</speaker>
+     <stage>à Jocrisse-Maître.</stage>
+     <p>Expliquez-moi , du moins.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>C'est que trop clair à présent... j'étions deux , et demeurions tous deux dans la même
+      rue.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Deux, mais non.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Mais si; c'que tu n'sais pas, c'qu'i faut que tu sache, c'est que j'm'apelle Jocrisse comme
+      toi.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>J'entends ... et vous avez reçu la récompense destinée à ce brave garçon.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître,</speaker>
+     <stage>désolé.</stage>
+     <p>C'est-i ma faute ? voyez.... est-c'que la lettre n'était pas à mon adresse ?</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Comment! vous êtes aussi un Jocrisse, not' maître ?</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Eh oui, mon ami, j'en suis un ! Le nom de Duval ne m'appartient pas pus qu'à toi; c'est
+      celui d'un ancien maître que j'servais et j'l'ai pris pour faire honneur à ma nouvelle
+      fortune.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Un moment ! gardez le nom , si vous voulez; mais l'argent, ça m'appartient.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Ah! queu déboire! queu déboire! Javotte! Javotte ! que vas-tu devenir ? Allons ben vite lui
+      apprendre c'te téribe catastrophe. <stage>( Il sort. )</stage></p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XVI.</head>
+    <stage>FANCHETTE , M. DUMONT , JOCRISSE-Valet.</stage>
+
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Je reste tout stupéfait ! comment, mon pauvre garçon , c'est toi....</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Oh! c'est bien moi! i n'y a pas le pus p'tit doute là-dessus.... tenez, voyez putôt, v'là
+      encore la veste que j'avais quand.... et puis vous devez bien me reconnaître à ma dégaine.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT,</speaker>
+     <stage>riant.</stage>
+     <p>Oh ? oui, maintenant que je suis sur la vote, je me rappelle.... que je suis fâché de la
+      méprise ! au reste, ce n'est pas la faute non plus de ce pauvre diable , je ne puis en vouloir
+      qu'à mes gens qui, sans prendre des renseignemens plus exacts, lui ont remis la somme que je
+      te priais d'accepter.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>La somme! ah ça! elle était donc bonne c'te somme-là ?</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Oh! c'était un faible à-compte.... mille louis en or.</p>
+    </sp>
+    <sp who="#TDP1563_6">
+     <speaker>Fanchette et Jocrisse-Valet.</speaker>
+     <p>Mille louis !</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Tu m'avais sauvé quatre cents mille francs et j'espérais faire plus encore pour toi.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Mille louis ! mais savez-vous que c'est un joli denier ça... Comment donc que j'vais faire
+      pour les r'avoir ?... d'puis six mois qu'il est après, il doit avoir fait un fier trou au
+      magot.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Que veux-tu ? c'est un malheur sans doute ; mais qui n'est pas irréparable.</p>
+    </sp>
+   </div>
+   <div>
+
+    <head>SCENE XVII et dernière.</head>
+    <stage>Les précédens, JOCRISSE-Maître, en veste de Jocrisse-valet, JAVOTTE , mise aussi plus
+     simplement.</stage>
+
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître ,</speaker>
+     <stage>dans le fond, à sa femme. Il tient dans sa main le sac de cuir qui contenait les
+      louis.</stage>
+     <p>Allons, console-toi.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>JAVOTTE.</speaker>
+     <p>Ah mon pauvre Jocrisse !</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>Oui, pauvre... Mais c'est égal, faut leux prouver que l'bien d'autrui n'nous a jamais
+      tentés. Avance, Javotte, de la résination.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet,</speaker>
+     <stage>se retournant, et appercevant Jocrisse-Maitre.</stage>
+     <p>Tiens, comme le v'là déguisé !</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Et sa femme ? O mon dieu ! elle n'a plus l'air si fière.</p>
+    </sp>
+    <sp who="#TDP1563_4">
+     <speaker>Javotte,</speaker>
+     <stage>s'avançant, et avec douceur.</stage>
+     <p>Non , Fanchette; je suis fâchée de c'qui s'est passé tantôt entre nous.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Bah! Est-ce que vous pensez encore à ça, not'bourgeoise ? J'li ai bien pardonné l'soufflet
+      qu'elle m'a campé sur la joue, et qui était dru, j'en réponds.</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette</speaker>
+     <p>Oh ! j'n'ai pas pus d'rancune que toi.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître, </speaker>
+     <stage>s'avançant</stage>
+     <p>Tenez, monsieur Jocrisse, le v'la c'boursicot! Les v'là, ces malheureux jaunets qui
+      m'avaient fait tant d'plaisir! J'ai mis la main dans l'sac, c'est vrai; j'en ons mangé trois
+      cents vingt sept , i n'y en a pus que six cents soixante-treize, ça fait je n'sais pas combien
+      d'mille francs, vous compterez çà vous-même. J'vous demande qu'une grâce ; vous v'là riche; si
+      vous voulez, j'resterons à mon tour en service chez vous jusqu'à c'que j'ayons payé avec mes
+      gages ce qui manque aux <hi>quibus</hi>.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet, </speaker>
+     <stage>avec une sensibilité comique</stage>
+     <p>Eh bien , voilà un trait... vrai... qui m'casse les bras et les jambes !</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître.</speaker>
+     <p>J'vous demande aussi la place de cuisinière pour Javotte, puisqu'il faut qu'all' retourne en
+      condition , n'séparez pas du moins deux époux qui ont juré de s'aimer à la vie , à la
+      mort !</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet, </speaker>
+     <stage>attendri</stage>
+     <p>Tiens, cet autre! le v'là qui m'fait quasi pleurer!</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître</speaker>
+     <p>Du resse , tout c'qui est ici est à vous. L'appartement, les meubles, la vaisselle cassée...
+      et jusqu'à un plan d'maison que j'voulais faire bâtir avec vot' argent: j'vous abandonne tout;
+      et j'vous jure, quoique j'ayions repris la veste d'doméstique, que j'n'en serions pas pus
+      trisse.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT, </speaker>
+     <stage>reprenant le sac que Jocrisse-valet s'apprêtait à mettre dans sa poche, et le donnant à
+      Jocrisse-maître.</stage>
+     <p>Non, non, mon garçon! Garde tout ce que tu as, je te le donne... <stage>( à Jocrisse-valet
+      qui est resté tout ébahi. )</stage> Et c'est moi qui me charge de ta fortune.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître, </speaker>
+     <stage>transporté.</stage>
+     <p>O ciel!...</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Eh bien, tenez, monsieur... je n'sais pas vot' nom, n'importe... Vous m'tirez là une fière
+      épine du pied , car j'n'aurions jamais eu l'courage d'garder à moi seul c'q'il m'rendait d'si
+      bonne volonté.</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Je suis charmé de son desintéressement, et je ne veux pas le rendre victime d'une erreur
+      dont il n'est point la cause.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître</speaker>
+     <p>C'est donc bien à moi, pour c'te fois ci ?</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT.</speaker>
+     <p>Oui.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître</speaker>
+     <stage>sautant de joie.</stage>
+     <p>Ah! Javotte, je suis léger comme une plume maintenant.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet, </speaker>
+     <stage>à Fanchette avec un grand sérieux.</stage>
+     <p>Fanchette, avez-vous une inclination?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Pourquoi ça? non.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Bien sûr, vous n'avez pas d'inclination? en c'cas, voyez, monsieur se charge de ma fortune,
+      me v'là bon parti, vous plais-je? répondez oui z'ou non?</p>
+    </sp>
+    <sp who="#TDP1563_1">
+     <speaker>Fanchette.</speaker>
+     <p>Oui.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>Oui! je t'époouse, à demain la noce. <stage>( à M. Dumont. )</stage> Et si vous voulez avoir
+      l'honneur d'en être.....</p>
+    </sp>
+    <sp who="#TDP1563_5">
+     <speaker>M. DUMONT, .</speaker>
+     <stage>riant</stage>
+     <p>Oui, c'est moi qui ferai dresser le contrat.</p>
+    </sp>
+    <sp who="#TDP1563_6">
+     <speaker>Fanchette et Jocrisse-Valet.</speaker>
+     <p>Grand merci, monsieur.</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître</speaker>
+     <p>Touche-là.... j'étions tous deux jocrisses sans l'savoir, je n'somm' pas parens, mais
+      resterons amis jusqu'au dernier vivant. <stage>( au public. )</stage> « Messieurs....</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet, .</speaker>
+     <stage>de même</stage>
+     <p>„ Messieurs....</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître</speaker>
+     <p>„ Voulez-vous que j'vivons long-tems....</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet.</speaker>
+     <p>„ long-tems....</p>
+    </sp>
+    <sp who="#TDP1563_3">
+     <speaker>Jocrisse-Maître, .</speaker>
+     <stage>faisant le signe d'applaudir</stage>
+     <p>„ Çà n'dépend que de vous.</p>
+    </sp>
+    <sp who="#TDP1563_2">
+     <speaker>Jocrisse-Valet, .</speaker>
+     <stage>de même</stage>
+     <p>„ Çà n'dépend que de vous.</p>
+    </sp>
+    <trailer>FIN.</trailer>
+   </div><trailer>
+    De l'Imprimerie de P. NOUHAUD , rue du Petit-
+    Carreau , N.⁰ 32.</trailer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,2686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2701">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le singulier mariage, folie vaudeville anecdotique, en un acte et en vers libres ...: TEI
+     edition (Wicks no. 2701)</title>
+    <author>B.Dupont de Lille</author>
+    <respStmt>
+     <resp>Original transcription by </resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI conversion by </resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor> The Digital Parisian Stage Corpus. GitHub.
+     https://github.com/grvsmth/theatredeparis </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images downloaded from <ref
+     target="http://www.google.com/books?id=AndsAtBQxpkC"/>.</p>
+    <p>HTML transcription downloaded from <ref
+     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2701singulier.html"
+     >https://github.com/grvsmth/theatredeparis</ref></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc>
+   <change when="2023-07-22">Hand-edited</change>
+<change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>Le Singulier Mariage, </titlePart><titlePart>Folie vaudeville anecdotique,
+       en un acte et en vers libres,</titlePart></docTitle>
+      
+      <byline>Par <docAuthor>B. DUPONT DE LILLE</docAuthor>.</byline>
+    <titlePart>Représentée, pour la première fois, à Paris, sur le Théâtre des
+Jeunes-Artistes, le 24 Nivôse an IX de la République Française.</titlePart> <docImprint>A PARIS, Chez FAGES, Libraire, rue Meslé, No. 25. et boulevard
+ Saint-Martin, No 26, vis-à-vis le Théâtre des
+Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
+   </titlePage>
+   <castList>
+    <head>PERSONNAGES ARTISTES</head>
+    <castItem><role>Madame BENOIT, veuve et riche Fermière.</role><actor>Laisné.</actor></castItem>
+    <castItem><role>ELIZANDRE, sa fille, âgée de 17 ans.</role><actor>Granger,
+     cad.</actor></castItem>
+    <castItem><role>MAURICE, garçon de ferme de Me. Benoit.</role><actor>Lié.</actor></castItem>
+    <castItem><role>LINDOR, jeune homme riche, voyageant.</role><actor>Thénard.</actor></castItem>
+    <castItem><role>FRONTIN, Valet de Lindor.</role><actor>Minet.</actor></castItem>
+    <castItem><role>MARGOT, vieille tireuse de Cartes.</role><actor>Fabre.</actor></castItem>
+    <castItem><role>GRIPAR, Notaire.</role><actor>Auguste.</actor></castItem>
+   </castList>
+   <set> <p>La Scène se passe dans un village de France, sur la frontière.</p>
+   </set>
+   <div>
+    
+    <head>COUPLET D'ANNONCE.</head>
+    <stage>Air : Mes chers enfans, pourriez-vous m'enseigner.</stage>
+    <l>On sait qu'hymen a le don de charmer,</l><l> Jeunes et
+     vieux; fou, comme sage;</l><l> Aussi voit-on, chaque jour, se former</l><l> Plus d'un singulier
+      Mariage.</l><l> L'Auteur, de celui-ci,</l><l> Désire faire ici,</l><l> Ce soir, une étrange alliance
+       :</l><l> Mais, de vous dépend son bonheur ;</l><l> Car, l'objat qui flatte son cœur,</l><l> C'est
+        votre fille.... l'Indulgence.</l></div>
+  </front>
+  <body>
+   
+     <stage>Le Théâtre représente une campagne riante : à gauche est la ferme de madame Benoit, au
+      devant de laquelle est un berceau ; une table et quelques chaises sont dessous le berceau.
+      Vis-à-vis, de l'autre côté, est un petite pavillon, d'une architecture simple ; auprès, un
+      groupe d'arbres avec un gazon. Dans le fond, une rivière.</stage>
+ 
+   <div>
+    
+     <head>SCENE PREMIERE.</head>
+    
+    <sp who="#TDP2701_1">
+     <speaker>MAURICE</speaker>
+     <stage>sortant de la Ferme, en marchant lentement.</stage>
+     <stage>Air : Ah! Colinette, de la Clochette.</stage>
+     <l>Ah ! queu martyre.... hélas ! bons dieux !</l>
+     <l> Ce que c'est que d'être amoureux !</l>
+     <l> Ça vous chagrin'.... ça vous tourmente....</l>
+     <l> Ça vous rend triste.... langoureux....</l>
+     <l> Et l'on est toujours dans l'attente,</l>
+     <l> De s'voir un brin moins malheureux.</l>
+     <l> Ah ! queu martyre, etc.</l>
+     <l>Tranquillement, quand je sommeille,</l>
+     <l> L'plaisir me fait parfois du bien....</l>
+     <l> Tout à coup, v'là que je m'réveille,</l>
+     <l> Croyant l'tenir..,. et je n'tenons rien.</l>
+     <l> Ah ! queu martyre, etc.</l>
+     <l>Qu'il s'est fait en mon cœur un fameux r'mu' ménage !</l>
+     <l> Ce pauvre cœur n'a plus qu'un seul désir.</l>
+     <l> Qu'est donc devenu mon courage ?</l>
+     <l> A travailler, j'avions tant de plaisir!</l>
+     <l> Maintenant, ventregué ! j'n'ons plus d'goût à l'ouvrage....</l>
+     <l>La nuit, comme le jour, je n'pouss' plus qu'un soupir.</l>
+     <l> Je n'voulons point, pourtant, qu'l'amour ainsi m'maîtrise;</l>
+     <l> J'voulons êtr' libre, enfin.... et voirment, je l'serons,</l>
+     <l> Parc'que c'que j'voulons je l'faisons.</l>
+     <l> D'être amoureux, ma foi, c'est un' grande sottise.</l>
+     <l> Ça vous ôt' la gaieté, le sommeil, l'appétit....</l>
+     <l> En retour, ça vous baill' la jaunisse....</l>
+     <l> Comme un coucou, ça vous maigrit.</l>
+     <l> Pour peu qu'ça dur' queuqu' tems, c'en est fait de Maurice !</l>
+     <l> Il en perdra, je crois, l'esprit.</l>
+     <stage>Air : Il pleut, il pleut, bergère.</stage>
+     <l>On prétend qu'on d'vient bête,</l>
+     <l> Quand on a de l'amour ;</l>
+     <l> Pour moi, je m'sens tout bête,</l>
+     <l> D'puis que j'cède à l'amour.</l>
+     <l> Pour ne pas être bêtes,</l>
+     <l> Jeun' gens, fuyez l'amour....</l>
+     <l> Mais, combien d'homm' sont bêtes,</l>
+     <l> Sans avoir de l'amour.</l>
+     <l>D'autre part, on chantonne,</l>
+     <l> Qu'amour baille d'l'esprit, A plus d'un' bell' personne,</l>
+     <l> Qui, souvent, manqu' d'esprit.</l>
+     <l> Bien des sots, qu'chacun fronde,</l>
+     <l> Ont, du moins, l'bon esprit</l>
+     <l> De dire, à tout le monde,</l>
+     <l> Qu'ils ont beaucoup d'esprit.</l>
+     <l>Mais, c't'amour dont je m'plains, qui m'a rendu si tendre...</l>
+     <l> Qui l'a fait naître, en moi ? c'est mam'zelle Elizandre !</l>
+     <l> Et, pour comble de maux.... pour surcroit de malheur !</l>
+     <l> Je n'possédons point l'art de toucher son p'tit cœur....</l>
+     <l> Que ferai-je donc pour lui plaire ?</l>
+     <l> J'y réfléchirons.... Chut.... Voici madam' sa mère.</l>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE II.</head>
+     <stage>Madame BENOIT, MAURICE</stage>
+    
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Te voilà, mon garçon ?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Oui dà , madam', me v'là.</l>
+     <l> J'vous souhaitons l'bon jour.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Qu'est-ce que tu fais-la?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Pas grand' chose, j'vous jure.</l>
+     <l> Je pensois à votr' fille.... à l'amour que j'endure ;</l>
+     <l> Je m'disois, à part moi, qu'c'est un furieux tintoin,</l>
+     <l> D'aimer quelqu'un qui n'vous aim' point.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>C'est un peu de ta faute.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Ah ! ben.... c'est y possible ?</l>
+     <l> Lorsque je faisons tout pour rendr' votr' fill' sensible ;</l>
+     <l> Lorsque j'ons des égards.... mille soins complaisans ;</l>
+     <l> Lorsque j'lui témoignons tout' l'ardeur que je r'sens ;</l>
+     <l> Lorsque le long du jour.... enfin, suffit, madame....</l>
+     <l> Pour n'être point touché de mon cruel tourment,</l>
+     <l> De mes chagrins.... Il faut n'avoir pas d'ame !...</l>
+     <l> Et mam'zelle Elizandre, en manque assurément.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Mon cher, j'ai d'ta souffrance un regret bien sincère.</l>
+     <l> Tes soins ont quelque prix.... mais, à la vérité,</l>
+     <l> On s'y prend mieux encor, pour plaire à la beauté.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>La beauté, qui n'sent rien, est comme une statue.</l>
+     <l> A l'admirer, tandis qu'on s'évertue,</l>
+     <l> Le marbre reste froid et n'est point r'connoissant</l>
+     <l> De l'hommage flatteur qu'tout un chacun lui rend.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>J'aim' ta comparaison.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>La statu', c'est vot' fille</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Je voudrois, pourtant bien, te voir de la famille.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>J'vous r'mercions de vot' bonn' volonté.</l>
+     <l> Et moi, j'voudrions ben vous appeler bell-mère !</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>A l'amour près, tu sais tout faire ;</l>
+     <l> T'as d'l'entend'ment, de la capacité ;</l>
+     <l> Du zèle, de l'activité ;</l>
+     <l> Un'petit brin d'esprit, quelque peu de gaieté...</l>
+     <l> C'est par rapport à ça, que j'veux d'toi pour mon gendre</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Vous avez ben de la bonté.</l>
+     <l> Ah ! pour le devenir, que n'dois-j' pas entreprendre !</l>
+     <l> Mais dit'-moi donc, avec sincérité, Comment pourrai-j' m'y prendre ?</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>J'admire ta naïveté;</l>
+     <l> Un' femme ira-t-elle t'apprendre</l>
+     <l> C'que tu dois faire en pareil cas ?</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Dites toujours....</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Ça n'se peut pas.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <stage>Air : Ça n'se peut pas.</stage>
+     <l>Madam' Benoit, j'vous en conjure,</l>
+     <l> A mes désirs, daignez céder !</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Ça n'se peut pas.... je te l'assure.</l>
+     <l> Eh mais ! l'amour doit t'inspirer.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Hélas ! vous me déchirez l'ame....</l>
+     <l> Pourquoi donc ainsi me r'fuser ?</l>
+     <l> A-t-on vu jamais une femme,</l>
+     <l> Se faire prier pour parler ?</l>
+     <stage>(bis.)</stage>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>La femme qui sait vivre, est prudente, discrète,</l>
+     <l> Mon cher ami, quand il le faut.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Oh ! la discrétion n'est point votre défaut.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Moi, s'lon l'occasion , et c'n'est point un' sornette,</l>
+     <l> Je suis muette autant qu'un enfant qui n'dit mot.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>C'est un grand phénomèn' qu'une femme muette !</l>
+     <l> Et ce phénomèn'-là, se rencontre rar'ment.</l>
+     <l> D'en finir, il seroit, c'tapendant, nécessaire....</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>A ma fille, pour toi, je parlerai.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Voirment,</l>
+     <l> Parlez-lui donc, et terminons l'affaire.</l>
+     <stage>Air : Ah! de quel squvenir affreux : des Visitandines.</stage>
+     <l>Hélas ! je n'demandons pas mieux,</l>
+     <l> Qu'd'épouser votre aimable fille ;</l>
+     <l> Ell' seule est l'objet de mes vœux ;</l>
+     <l> Je la trouvons douce et gentille ;</l>
+     <l> Lui plaire, incontestablement,</l>
+     <l> M'causeroit une joi' parfaite !</l>
+     <l> Allons, j'vas m'donner'du mouv'ment,</l>
+     <l> Mais, pour que ça marche rond'ment,</l>
+     <l> Dam' ! faut aussi qu'ell' s'y prête.</l>
+     <stage>bis.</stage>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>C'est sûr.... et j'lui dirai qu'ell' te r'çoive, à présent,</l>
+     <l> Comm' son futur époux.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>C'est penser sagement.</l>
+     <l> Elizandre aim' les fleurs... j'vas au jardin, tout d'suite,</l>
+     <l> Lui cueillir un bouquet charmant !</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Oui, mon garçon ; cours au plus vite....</l>
+     <l> Et r'viens l'lui présenter ; mais, j'dis, là, galamment.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Laissez-moi fair', not' bonn' maîtresse.</p>
+     <stage>( Il sort par le pavillon. )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE III.</head>
+    
+    <sp who="#TDP2701_2">
+     <speaker>Madame BENOIT</speaker>
+     <stage>seule.</stage>
+     <l>Pour ma fille, Maurice a beaucoup de tendresse ;</l>
+     <l> Mais, elle ne sauroit le payer de retour.</l>
+     <l> On ne command' pas à l'amour,</l>
+     <stage>Air : Du Jaloux malgré lui.</stage>
+     <l>Sans qu'on le veuille, c'dieu suprême,</l>
+     <l> Prompt'ment de nous vient s'emparer ;</l>
+     <l> Il ne nous laisse pas de même ;</l>
+     <l> Tout est contraint de lui céder,</l>
+     <l> A sa mère, fille prépare</l>
+     <l> Bien des tracas.... bien du dégoût;</l>
+     <l> Car, lorsqu'un' fois l'amour l'égaré,</l>
+     <l> On ne peut plus en v'nir à bout.</l>
+     <stage>bis.</stage>
+     <l>J'n'ai pas ce r'proche à faire à ma chère Elizandre ;</l>
+     <l> Elle paroit n'être sensible à rien :</l>
+     <l> Mais, je saurai lui faire entendre</l>
+     <l> Qu'il faut, à dix-sept ans....</l>
+     <l> Justement, elle vient.</l>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE IV</head>
+     <stage>ELIZANDRE, Madame BENOIT.</stage>
+    
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <p>Bon jour, ma mere.</p>
+     <stage>( elle l'embrasse. )</stage>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Eh, quoi ! déjà levée ?</p>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <p>Il est doux de jouir d'un' belle matinée. !</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>C'est vrai ; le tems est beau : ça donn' de la gaieté.</l>
+     <l> Il nous faudra, c'matin, déjeûner à l'ombrage.</l>
+     <l> Qu'en dis-tu ?</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <l>J'y consens..., d'ailleurs, vot' volonté</l>
+     <l> Est une loi pour moi.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoît.</speaker>
+     <l>C'est ainsi qu'un' fill' sage,</l>
+     <l> Doit, sans cesse, penser.</l>
+     <l> A propos, mon enfant,</l>
+     <l> J'ai quelque chose d important</l>
+     <l> À te communiquer.</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <p>Ma mère, j'vous écoute.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Ton bonheur est parfait, sans doute?</p>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <stage>tendrement</stage>
+     <p>Auprès de vous, j'n'ai rien à désirer.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Malgré cela, j'veux encor l'augmenter,</l>
+     <l> En te donnant, aujourd'hui même,</l>
+     <l> Un tendre époux.</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <stage>avec quelque surprise</stage>
+     <p>A moi ?</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Certain'ment, à toi-même.</l>
+     <l> C't'époux est jeune, aimable.... et par-dessus, il t'aime</l>
+     <l> A la folie ! Eh, bien !</l>
+     <l> Que penses-tu de ça ? Tu ne me réponds rien ?</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <stage>baissant les yeux</stage>
+     <p>Ma mèr'.... c'est que....</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>C'est que... Te v'là toute honteuse,</l>
+     <l> Cet époux est ton fait : tu seras bienheureuse ;</l>
+     <l> J'ose te l'assurer. Mais, qu'est-ce? as-tu besoin</l>
+     <l> De t'chagriner pour ça ? j'vais t'parler en bonn'mere,</l>
+     <l> Ecoute moi. Tu sais, ma fille, ou tu n'sais point</l>
+     <l> Que l'père de Maurice, étoit ami d'ton père ;</l>
+     <l> Étroitement liés d'une amitié sincère,</l>
+     <l> Ils faisoient leur plaisir de ce doux sentiment !</l>
+     <l> Or, ils prirent rengagement,</l>
+     <l> Pour se rapprocher d'avantage,</l>
+     <l> D'unir, un jour, en mariage,</l>
+     <l> Leurs enfans ; mon époux, avant que de mourir,</l>
+     <l> A cet engagement, m'força de consentir ;</l>
+     <l> Je lui promis de n'avoir point d'autre gendre</l>
+     <l> Que l'fils de son ami. Tu vois, mon Elizandre,</l>
+     <l> Que je ne peux faire autrement,</l>
+     <l> Que d'remplir, ponctuellement,</l>
+     <l> Cette solemnelle promesse,</l>
+     <l> En te donnant Maurice, pour mari.</l>
+     <l> Comm' ta félicité, cependant, m'intéresse,</l>
+     <l> Tu va m'ouvrir ton âme et m'déclarer, ici,</l>
+     <l> Tes sentimens secrets.</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <l>Quoique je sois en age,</l>
+     <l> Ma mère, d'entrer en ménage,</l>
+     <l> Je vous dirai franchement,</l>
+     <l> Que pour le mariage,</l>
+     <l> Je ne me sens aucun penchant.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit</speaker>
+     <p>Seroit-il vrai ?</p>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <p>C'est la vérité même.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Ton coeur, encor, seroit indifférent ?</p>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <p>Ma mère... il ne l'est point.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit</speaker>
+     <p>Comment ! Il aime donc?</p>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <stage>avec sentiment</stage>
+     <p>Ce n'est que vous qu'il aime !</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <stage>Air : Du Vaudeville de l'amour'filial,</stage>
+     <p>Ma fille, cet amour bien doux,</p>
+     <l>Procure une ivresse infinie !</l>
+     <l> Mais, plus encor, ce qui charme la vie,</l>
+     <l> C'est un amant... c'est un sensible époux!</l>
+     <l> Quand plus d'une fillette grille,</l>
+     <l> De se donner au dieu d'hymen ;</l>
+     <l> Toi, pourrois-tu former le sot dessein,</l>
+     <l> A dix-sept ans, de rester fille ?</l>
+     <stage>bis.</stage>
+    </sp>
+    <spGrp>   <stage>ensemble</stage>
+     <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Quand plus d'une fillette grille,</l>
+     <l> De se donner au dieu d'hymen ;</l>
+     <l> Toi, pourrois-tu former le sot dessein,</l>
+     <l> A dix-sept ans, de rester fille.</l>
+     <stage>bis.</stage>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <l>Quand plus d'une fillette grille,</l>
+     <l> De se donner au dieu d'hymen ;</l>
+     <l> A dix-sept ans, j'puis former le dessein</l>
+     <l> D'rester encor quelque tems fille.</l>
+     <stage>bis</stage>
+    </sp></spGrp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>L'aveu que tu me fais, m'est cher, sans contredit ;</l>
+     <l> Cependant, rester fille, est chose trop pénible,</l>
+     <l> Pour que je n't'invit' pas à prendre un autr' parti.</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <l>Ah ! d'en changer ; il me s'roit impossible,</l>
+     <l> Quant à présent.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Fort bien... tu veux attendre éncor.</l>
+     <l> Et moi, si je prétends que cet hymen se fasse,</l>
+     <l> Pas plus tard qu'aujourd'hui.</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>El1zandre.</speaker>
+     <p>Vraiment, vous auriez tort.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Comme un éclair, la jeuness' passe ;</l>
+     <l> Et fou qui ne sait point sagement l'employer.</l>
+     <l> Allons, il faut te marier.</l>
+     <l> Mons Maurice, est l'époux qui te convient.</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <l>Ma mère...</l>
+     <l> Voulez-vous causer mon malheur ?</l>
+     <l> Voulez-vous, sans pitié, me déchirer le cœur ?</l>
+     <l> Maurice ne sauroit me plaire.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Il te plaira.</p>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <l>Me plaire ? Oh ! non, jamais....</l>
+     <l> Je ne peux le souffrir...</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit:</speaker>
+     <l>Epouse-le, ma chère;</l>
+     <l> Si tu n'laim' pas avant, tu l'aimeras après.</l>
+     <l> Pour dresser le contrat, je cœurs chez mon notaire.</l>
+     <stage>( Elle sort. )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE V.</head>
+    
+    <sp who="#TDP2701_3">
+     <speaker>ELIZANDRE</speaker>
+     <stage>seule.</stage>
+     <l>Hélas ! et c'est ainsi que ma félicité</l>
+     <l> L'intéresse ? Grands dieux ! quelle perplexité.</l>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE VI.</head>
+     <stage>MAURICE,ÉLIZANDRE.</stage>
+    
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>un bouquet à la main.</stage>
+     <p>Serviteur, ma bell' demoiselle.</p>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>ELIZANDRE.</speaker>
+     <p>Votr' servante.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Dite-moi... s'rez-vous toujours cruelle</l>
+     <l> A mon égard ? Votre inflexible cœur,</l>
+     <l> N'p'artag'ra-t-il jamais mon excessive ardeur ?</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <p>Non.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>A l'amour le plus vrai, le plus tendre,</l>
+     <l> Objet de tous mes vœux, daignez enfin vous rendre.</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <p>Non.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>MAURICE.</speaker>
+     <l>A Vous, votre mère, en ce jour, veut m'unir :</l>
+     <l> Daignerez-vous y consentir ?</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <p>Non, non.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Vous régnez sur mon ame !</l>
+     <l> Payes moi de retour, en devenant ma femme.</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <p>Non.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>avec impatience.</stage>
+     <l>Non... et toujours non ! Ventreguense... j'enrage !</l>
+     <l> Mam'zell', répondez-moi quelque chose de plus ?</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <l>N'en exigez peint davantage.</l>
+     <l> Sachez que vos efforts seront tous superflus...</l>
+     <l> J'en suis fâché' pour vous.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>lui présentant son bouquet</stage>
+     <p>Au moins, que cet hommage...</p>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <stage>l'interrompant</stage>
+     <l>Je n'veux pas d'votr' bouquet ; allez l'porter ailleurs.</l>
+     <l> Maurice, mon ami, quand je voudrai des fleurs,</l>
+     <l> De notre potager, je sais l'chemin, peut-être.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>à lui-même.</stage>
+     <l>Elle est bonne et mauvaise à la fois... et jarni !</l>
+     <l> Tout en m'désespérant, ell' m'appell' son ami.</l>
+     <stage>( haut. )</stage>
+     <l>C'que vous fait'-là, mam'zelle, à coup sûr, est ben traitre.</l>
+     <l> Pourquoi si cruell'ment refuser mon bouquet ?</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <p>Pourquoi ?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <p>Oui, dà ! pourquoi ?</p>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <p>Parce que cela me plaît</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Parce que cela vous plaît... la belle conséquence !</l>
+     <l> Morguenne ! on prend toujours , quoiqu'avec répugnance ;</l>
+     <l> Et l'on n'afflige point, par d'injustes refus,</l>
+     <stage>(Elizandre s'éloigne.)</stage>
+     <l>Un jeune homme comm' moi. Quoi ! vous n'm'écoutez plus?</l>
+     <l> Mam'zelle, il faut avoir un peu de complaisance...</l>
+     <l> On laisse, de sa bouche, échapper un douceur,</l>
+     <l> Qui me fait entrevoir qu'vous m aimez d'tout votr' cœur.</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <l>Je ne sais pas mentir ; je déteste l'mensonge,</l>
+     <l> Et je fuis les menteurs... L'illusion d'un songe,</l>
+     <l> Peut-ell', d'ailleurs, nous rendre heureux ?</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <p>Mais, voua n'm'aimez donc point ?</p>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <p>Je n'aime pas encore.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Jugez quel contre-tems... et moi, je vous adore !</l>
+     <l> Par ainsi, mam'zelle, je veux</l>
+     <l> Qu'vous m'adoriez de d'même... et ça, dans la minute.</l>
+     <l> Alors, entre nous deux, g'n'y aura plus de dispute.</l>
+     <l> Nous serons toujours ben d accords,</l>
+     <l> Allons, fait'-vous un' douce violence ;</l>
+     <l> Répondez à mes vœux, cédez à mes transports...</l>
+     <l> Et qu'votre amour, du mien, devienn' la récompense.</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <stage>gaiement.</stage>
+     <p>Ça n'peut pas prendre.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Mais, vous n'avez qu'à l'vouloir ;</l>
+     <l> Ça dépend d'vous...</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <p>De moi? cela n'se peut... Bon soir.</p>
+     <stage>( Elle sort. )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE VII</head>
+    
+    <sp who="#TDP2701_1">
+     <speaker>MAURICE</speaker>
+     <stage>brusquement</stage>
+     <p>Bon jour.</p>
+     <stage>( à part. )</stage>
+     <l>Oh ! la petite ingrate !..</l>
+     <l> A m'chagriner, je crois qu'ell' prend plaisir.</l>
+     <l> C'est une jeune chatte</l>
+     <l> Qui n'sait qu'égratigner, quoiqu' douc'ment on la flatte.</l>
+     <l> Avec tout ça, pourtant, que vais-je devenir ?</l>
+     <l> Mon cher petit bouquet, tu n'as point fait fortune&#x99;</l>
+     <l> Je n'ai plus besoin d'toi... va-t-en... tu m'importune.</l>
+     <stage>( Il le jette au loin, avec un mouvement de dépit. )</stage>
+     <l>Ah ! que ne puis-je ainsi m'défair' de mon amour...</l>
+     <l> Que ne puis-je oublier le sexe sans retour !</l>
+     <stage>Air : On doit de ma tournure ; de Claudine.</stage>
+     <l>Sexe maudit ! sexe aimable !</l>
+     <l> Sexe qui nous fait la loi...</l>
+     <l> On te donneroit au diable,</l>
+     <l> Si l'on pouvoit s'passer d'toi.</l>
+     <l> Douces, bonnes et méchantes ;</l>
+     <l> Femm' causent peine et plaisir...</l>
+     <l> Dociles et contrariantes ;</l>
+     <l> Oui, les femmes sont si changeantes,</l>
+     <l> Qu'on n'sauroit les définir.</l>
+     <stage>bis.</stage>
+     <l>Je n'dirons pas, comm' certain philosophe,</l>
+     <l> Que la meilleur' femme n'vaut rien ;</l>
+     <l> Assurément, un' pareille apostrophe,</l>
+     <l> N'est pas d'un homm' sensé : mais, moi, j'dirons fort bien,</l>
+     <l> Que quelques soient les femm',</l>
+     <l> je d'vons vivre avec elles,</l>
+     <l> Et leur passer des défauts que ; souvent,</l>
+     <l> Ell' ne doivent qu'à nous. S'il en est de cruelles ;</l>
+     <l> S'il en est dont le cœur est vicieux et méchant :</l>
+     <l> Certes, il en est aussi dont l'caractèr' charmant</l>
+     <l> Embellit, chaque jour , notre triste existence...</l>
+     <l> Et procure, à nos sens, plus d'une jouissance !</l>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE VIII.</head>
+     <stage>Madame Benoit, Maurice.</stage>
+    
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Comment! Maurice, encor ici ?</l>
+     <l> T'ès-tu présenté d'vant ma fille ?</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Comm' de coutum' jai réussi,</l>
+     <l> Madam' Benoit ; je n's'rai pas d'la famille.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Mon cher garçon , je te promets bien qu'si.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Ell' m'aim' furieus'ment, votr' demoiselle ; aussi,</l>
+     <l> Sans presque me répondre, ell' m'a quitté ben vite.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Avec le tems, elle t'aimera.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Madam'Benoit, croyez-vous ça?</l>
+     <l> J'veux, pour m'tranquilliser, en êtr' certain tout d'suite.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Que f'ras-tu donc pour le savoir, nigaud ?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Ce que,j'ferai ? je cours chez la vieille Margot,</l>
+     <l> Me fair' dir' ma bonne aventure :</l>
+     <l> Margot lit dans l'av'nir... et sa science est sûre.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>C'est d'la grain' de niais... là d'dans peux-tu donner ?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Les cartes disent vrai ; chacun s'les fait tirer ;</l>
+     <l> C'est la mode, à présent.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Tout ça n'est qu'imposture.</l>
+     <l> Riant des préjugés, c'est au fond de son cœur,</l>
+     <l> Que l'honnête homme lit son bien ou son malheur.</l>
+     <l> Pens'-tu donc que Margot, puisse te satisfaire ?</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Je n'en saurions douter. .</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Reviens de ton erreur.</l>
+     <l> Je vais te raconter un tour que fit mon père,</l>
+     <l> Au sujet d'un' pareill' sorcière.</l>
+     <l> » Je connois le passé, le présent, l'avenir ;</l>
+     <l> Disoit-elle à tout l'monde, en faisant la grimace...</l>
+     <l> » Je sais tout calculer et tout approfondir.</l>
+     <l> » Tu n'es qu'une menteuse... une vieille bécace,</l>
+     <l> » Lui répliqua mon père. Allons, sache d'viner ?</l>
+     <l> » C'qui, tout à l'heur', va t'arriver.</l>
+     <l> » Eh bien! devine donc ? En mem' tems, sur sa face,</l>
+     <l> » Il lui campe un fameux soufflet.</l>
+     <l> » As-tu deviné ça ? « Tout un chacun, de rire</l>
+     <l> Aux éclats, de c'singulier trait.</l>
+     <l> Déconcertée, alors, la vieille se retire,</l>
+     <l> En se promettant bien de connoître les gens,</l>
+     <l> Avant d'leur débiter ses cont' zimpertinens.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>La pauvre femme !</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>A Margot, je t'assure,</l>
+     <l> Que j'en f'rois bien autant.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Jarni ! pas d'souffléture...</l>
+     <l> Ça n'serviroit à rien ; allons , j'vas y courir.</l>
+     <l> Èh ! mais, je n'me tromp'pas... c'est elle que j'vois v'nir</l>
+     <l> Par ici... Notr' maitresse,</l>
+     <l> Ne dites rien à l'objet d'ma tendresse,</l>
+     <l> De c'que j'vais faire, entendez-vous ?</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Je n'en parlerai pas... je t'en fais la promesse.</l>
+     <l> Je rentre.</l>
+     <stage>( Madame Benoit rentre chez elle. )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE IX.</head>
+     <stage>MAURICE, MARGOT.</stage>
+    
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>appelant.</stage>
+     <p>Mer' Margot.</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot</speaker>
+     <stage>se détournant.</stage>
+     <p>Qu'est-c' que c'est ?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>l'amène sur l'avant-scène y et lui dû mystérieusement.</stage>
+     <l>Entre nous,</l>
+     <l> J'ons besoin, dans c'moment, d'votr' petit ministère.</l>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <p>Je vous suis dévouée.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Ah ! ça, vous s'rez sincère.</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <p>Je ne trompe jamais.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>On m'a dit le contraire.</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <p>C'est à tort.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Je le crois.</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot</speaker>
+     <stage>avec emphase.</stage>
+     <l>Mon art est si certain,</l>
+     <l> Qu'on en voit les effiets du jour au lendemain.</l>
+     <stage>Air : De la Pipe de tabac ; du Petit Matelot.</stage>
+     <p>Je vous proteste que mes cartes,</p>
+     <l>Sont l'miroir de la vérité ;</l>
+     <l> Fort souvent, nous devons aux cartes,</l>
+     <l> Notr' malheur, notr' prospérité.</l>
+     <stage>bis.</stage>
+     <l>Le pouvoir magique des cartes,</l>
+     <l> Certes, à nul autre n'est égal</l>
+     <l> Je ne parle qu'd'après les cartes,</l>
+     <l> Et dis le bien, comme le mal.</l>
+     <stage>bis.</stage>
+     <l>Dans mes cartes, jeune fillette,</l>
+     <l> Voit si son amant est constant;</l>
+     <l> Jeun' garçon, qu'l'amour inquiette,</l>
+     <l> S'il est chéri bien tendrement.</l>
+     <stage>bis.</stage>
+     <l>Femme voit, si son mari l'aime ;</l>
+     <l> Si toujours elle lui plaira...</l>
+     <l> Et l'époux jaloux voit, de même,</l>
+     <l> S'il est ou non... et caetera.</l>
+     <stage>bis.</stage>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>J'vous pairai ben, Margot ; par conséquent, je pense</l>
+     <l> Que vous allez me traiter loyal'ment.</l>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Maurice.</speaker>
+     <l>Soyez tranquille... en conscience,</l>
+     <l> Vous en aurez pour votre argent.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Nous verrons ça.</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <p>Vous s'rez content.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Allons, approchez de c'te table...</l>
+     <l> A votre aise, étalez-vous-là,</l>
+     <stage>Margot s'assied sur une chaise, vis-à-vis de la table ; elle met ses lunettes, et tire
+      un feu de cartes de sa poche.)</stage>
+     <p>Puisse l'amour m'être enfin favorable !</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot</speaker>
+     <stage>battant les cartes.</stage>
+     <p>Attention.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>s'asseyant auprès d'elle. V'là; que m'y v'là.</stage>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>MARGOT.</speaker>
+     <stage>Air : De ma tendresse inquiète ; de Claudine.</stage>
+     <l>Mon cher garçon, au plus vite,</l>
+     <l> De la main gauche, coupez.</l>
+     <stage>Il coupe.</stage>
+     <l>Avec ordre il faut, ensuite,</l>
+     <l> Que mes signes soient rangés.</l>
+     <stage>( Margot bat de nouveau les cartes, et Maurice recoupe. )</stage>
+     <l>Le sort, au hasard, les jette,</l>
+     <l> Et les place sous ma main.</l>
+     <l> C'est en vain que l'on projette...</l>
+     <l> Ah ! tout dépend du destin.</l>
+     <stage>bis.</stage>
+     <stage>( Margot examine, et compte tes cartes qu'elle a rangées sur la table. )</stage>
+     <p>Vous êtes amoureux.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>C'est vrai.</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <l>D'un' jeun' personne,</l>
+     <l> Qui n'vous aim' pas du tout.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>C'est encor vrai, ma bonne.</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>MARGOT.</speaker>
+     <p>On veut vous la faire épouser.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Oui, C'est très-vrai.</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <l>Mais, la jeune fille s'oppose</l>
+     <l> A cet engagement.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>C'est vrai... c'est ben la chose.</l>
+     <l> Puis-je espérer qu'pour prix de mon amour,</l>
+     <l> Je s'rons aimé de ma maitresse un jour ?</l>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <p>Jamais.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Jamais!</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <l>Ell' forme, dans sa tête,</l>
+     <l> Des projets de grandeur. Son cœur est aux abois,</l>
+     <l> Dans c't'instant même. Ell' ne se croit pas faite</l>
+     <l> Pour épouser un simple villageois.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Qu'est-ce donc qu'il lui faut ?</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <l>Mais, un riche bourgeois...</l>
+     <l> Un homme de mérite... Aussi, votr' mariage</l>
+     <l> N'aura point lieu, mon cher ; certain beau personnage</l>
+     <l> Doit arriver...</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>avec humeur.</stage>
+     <p>Que m'fait ce personnage-là ?</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot</speaker>
+     <l>Beaucoup : car, tout ici m'présage,</l>
+     <l> Qu'à votre place il épous'ra</l>
+     <l> La future...</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>donnant un grand coup de poing sur la table.</stage>
+     <p>Jarni ! si j'étions sûr de ça !</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot</speaker>
+     <p>Rien n'est plus sûr...</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>levant brusquement.</stage>
+     <p>Vous radotez : sans doute...</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot</speaker>
+     <p>Je ne radote point... L'épouseur est en route.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>impatienté</stage>
+     <l>Vous radotez, vous dis-je... et je n'crois nullement</l>
+     <l> A tous vos sots discours...</l>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <l>Voyez cet insolent,</l>
+     <l> Qui prétend que j'radote...</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Allez vous-en au diable,</l>
+     <l> Avec vos cartes...</l>
+     <stage>( il jette les cartes par terre. )</stage>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot</speaker>
+     <stage>se levant.</stage>
+     <p>Mais... it faut m'payer...</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Ma foi,</l>
+     <l> J'en serions ben fâché, sorcière abominable !</l>
+     <l> Ainsi que fit le pèr' de madame Benoit,</l>
+     <l> Un jour, à certain' vieill' carcasse ;</l>
+     <l> J'suis tenté d'vous bailler, sur votre laide face,</l>
+     <l> Un soufflet...</l>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot</speaker>
+     <stage>avec colère.</stage>
+     <l>Un soufflet... à moi ?</l>
+     <l> Impertinent ! vous auriez cette audace !..</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Comme une et deux font trois.</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <l>Il me faut, à présent,</l>
+     <l> De l'argent.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>J'en ont pas...</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <l>Crains mon ressentiment...</l>
+     <l> Et sur-tout ma-béquille.</l>
+     <stage>( Elle court après Maurice, en le menaçant.)</stage>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>se sauvant.</stage>
+     <p>Oh ! j'nons pas peur, voiraient...</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot.</speaker>
+     <p>De ma fureur, tu n'es pas quitte... Va , va, j't'attraperai dans un autre moment.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE X.</head>
+     <stage>Les PRÉCÉDENS, Madame BENOIT.</stage>
+    
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <stage>(à Margot.)</stage>
+     <l>Que veut dir' tout ce bruit? Qu'on détalle, au plus vite,</l>
+     <l> Ou je vais, de ce pas, chez le Juge du lieu,</l>
+     <l> Porter ma plainte...</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Oui, courons-y tous deu,</l>
+     <l> Madam' Benoit... c'te vieill' simpiternelle,</l>
+     <l> Depuis une heure m'ensorcelle,</l>
+     <l> Que c'n'est rien de le dire...</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Alles vous-en, Margot.</p>
+    </sp>
+    <sp who="#TDP2701_4">
+     <speaker>Margot</speaker>
+     <l>J'm'en vais... mais, tôt ou tard, je m'veng'rai de ce sot...</l>
+     <l> Il se repentira du tour qu'il vient de m'faire.</l>
+     <stage>( Elle sort, après avoir ramassé ses cartes. )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XI</head>
+     <stage>MAURICE, Madams BENOIT.</stage>
+    
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Ouf! je n'pouvows revenir de ma colère...</l>
+     <l> Hélas ! si vous saviez ce que Margot m'a dit ?</l>
+     <l> De vous le répéter, il n'est point nécessaire ;</l>
+     <l> Ça me feroit tourner l'esprit.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Ma fille est dans l'chagrin...</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <l>J'en suis fâché pour elle :</l>
+     <l> Aussi, qu'a-t-ell' besoin d'tant faire la cruelle?</l>
+     <l> Pourquoi n'répond-ell' pas à mon sincère amour ?</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoît.</speaker>
+     <l>Ell' ne s'ra pas long-tems sans t'payer de retour.</l>
+     <l> Je te le jure, sur mon ame ;</l>
+     <l> En attendant, demain, ma fill' sera ta femme.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <l>C'est ça... Faut en finir. Moi, j'vous l'on déjà dit;</l>
+     <l> Je n'demandons pas mieux qu'd'ètre son p'tit mari.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit</speaker>
+     <stage>montrant le pavillon.</stage>
+     <l>Vous établirez votr' ménage,</l>
+     <l> Dans ce corps de logis ; il est vaste et charmant.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Nous y serons fort bien, je gage.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Je le vais disposer ; toi, viens, dans un moment,</l>
+     <l> M'y trouver, si tu veux.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Volontiers.</p>
+     <stage>( Madame Benoît entre dans le pavillon. )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE XII.</head>
+     <stage>MAURICE, seul.</stage>
+     <l>Qu'elle est bonne</l>
+     <l> C'te madame Benoit ! mèr' Margot, certainement,</l>
+     <l> Vous en aurez menti... J'épouserai céant.</l>
+     <l> Aussi , que, comme moi, le ciel vous le pardonne.</l>
+     <stage>Air : De la contredanse l'Elisée.</stage>
+     <l>Pour Maurice, jarnigoi !</l>
+     <l> Quel précieux avantage...</l>
+     <l> C'est d'main qu'il épous', ma foi,</l>
+     <l> La fille d'madam' Benoit.</l>
+     <l> Oui, je l'aimons à la rage!</l>
+     <l> Elle est riche, belle et sage...</l>
+     <l> Ces qualités-là... je croîs ,</l>
+     <l> S'trouvent rar'ment tout d'un' fois,</l>
+     <l> Pour Maurice, etc.</l>
+     <l>Ah ! quel heureux mariage ;</l>
+     <l> Il me semble être en ménage...</l>
+     <l> J'aurons, de c'joli minois ,</l>
+     <l> Un... deux enfans... même trois.</l>
+     <stage>( Il danse. )</stage>
+     <l>Pour Maurice, jarnigoi,</l>
+     <l> Quel précieux avantage !</l>
+     <stage>( Elizandre paroit. )</stage>
+     <l>C'est d'main qu'il épous' ma foi,</l>
+     <l> La fille d'madam' Benoit.</l>
+     <l>Dev'nu' ma femme, il faudra qu'elle m'aime...</l>
+     <l> Ou ben, ell' me dira pourquoi ;</l>
+     <l> Ell' ne me fera point la loi...</l>
+     <l> En pratique j'mettrois plutôt certain système...</l>
+     <stage>( Il fait le geste de battre. )</stage>
+     <l>Oui ; mais, avec tout ça, j'oublions d'déjeuner...</l>
+     <l> Sans plus perdre de tems, courons nous restaurer.</l>
+     <stage>( Il entre dans la ferme. )</stage>
+    
+   </div>
+   <div>
+    
+     <head>SCÈNE XIII</head>
+    
+    <sp who="#TDP2701_3">
+     <speaker>ELIZANDRE</speaker>
+     <stage>seule, tenant un petit rouet.</stage>
+     <p>Au! que je suis infortunée !</p>
+     <stage>( elle va s'asseoir sur le gazon, et met le rouet devant elle: )</stage>
+     <l>Pauvre Elizandre! est-tu donc condamnée</l>
+     <l> A prendre pour époux, un villageois obscur,</l>
+     <l> Dont cependant l'amour est pur ;</l>
+     <l> Mais, qui n'a point pour lui cett' tournure agréable,</l>
+     <l> Ce langage flatteur, cet air vraiment aimable;</l>
+     <l> Ce visage charmant ; ce maintien dégagé ,</l>
+     <l> Que possèdent les gens d'un rang plus distingué.</l>
+     <l> Et puis faloir toujours demeurer au village ;</l>
+     <l> N'avoir pour tout' société ,</l>
+     <l> Que celle d'un mari, justement détesté !</l>
+     <l> Àh ! cet hymen cruel me f'ra mourir, je gage ,</l>
+     <l> S'il faut qu'il soit contracté.</l>
+     <l> Voyons, occupons-nous ; l'tems qu'on donne à l'ouvrage,</l>
+     <l> Ramène dans nos sens quelque peu de gaieté.</l>
+     <stage>( elle chante , en faisant tourner son rouet. )</stage>
+     <stage>Air : Je suis le dieu de Cithère.</stage>
+     <l>En secret, mon cœur murmure...</l>
+     <l> Et sans cesse je gémis ;</l>
+     <l> Dois-je accuser la Nature,</l>
+     <l> D'l'état obscur où je suis?</l>
+     <l> Voit-on la rose nouvelle ,</l>
+     <l> Briller au fond d'un ravin ?</l>
+     <l> Non , non ; cette fleur si belle,</l>
+     <l> N'est bien qu'en un beau jardin.</l>
+     <stage>( elle s'arrête. )</stage>
+     <l>Je n'puis surmonter ma tristesse...</l>
+     <l> Un objet chimérique occupe mes esprits ;</l>
+     <l> Malgré moi, j'y songe sans cesse.</l>
+     <l> Il est habitant de Paris.</l>
+     <l> Riche; on voit, à sa suite , et les jeux et les ris.</l>
+     <l> Il vient, par hasard, dans c'village,</l>
+     <l> Et me demande en mariage.</l>
+     <l> De son amour pressant, ma main devient le prix.</l>
+     <l> Si ce pouvoit n'être pas un' chimère...</l>
+     <l> Si cet être idéal, dont mon cœur est épris,</l>
+     <l> V'noit réell'ment, ainsi, terminer ma misère ?</l>
+     <l> Que je serois heureuse ! Ah ! n'comptons point là-dessus...</l>
+     <l> Et le bonheur, pour moi, n'existe plus !</l>
+     <stage>( Elle se remet à travailler. )</stage>
+     <stage>Air : De la Femme difficile à vivre.</stage>
+     <l>J'ai vu la pompe et la richesse,</l>
+     <l> De cette ville, asile des plaisirs ;</l>
+     <l> Où la folle et vive jeunesse ,</l>
+     <l> Peut, à son gré, contenter ses désirs.</l>
+     <stage>bis.</stage>
+     <l>Dans c'pays qu'arrose la Seine,</l>
+     <l> Les hommes sont doux et galans ;</l>
+     <l> Et la beauté toujours y règne,</l>
+     <l> Au milieu d'un peuple d'amans.</l>
+     <stage>bis.</stage>
+     <l>A l'âge de quinze ans , j'ai fait, avec ma mère,</l>
+     <l> Un voyage a Paris ; et depuis ce moment,</l>
+     <l> Je forme des projets qu'une raison sevère,</l>
+     <l> Condamne, assurément.</l>
+     <l> Dans ce hameau , qu'on soit laide ou jolie ,</l>
+     <l> On n'fait tant seul'ment pas attention à vous.</l>
+     <l> Si je pouvois passer ma vie,</l>
+     <l> A Paris, avec un époux ?</l>
+     <l> Mon sort, hélas ! seroit bien doux !</l>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XIV.</head>
+     <stage>ELIZANDRE, travaillant ; LINDOR, en habit de voyage; FRONTIN, en postillon.</stage>
+    
+    <sp who="#TDP2701_5">
+     <speaker>Frontin</speaker>
+     <stage>entrant subitement, ainsi que Lindor.</stage>
+     <p>Voyagerons-nous donc encor long-tems ? J'enrage !</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <stage>appercevant Elizandre.</stage>
+     <p>Frontin, la belle enfant !</p>
+     <stage>( bas. )</stage>
+     <p>Calme-toi, mon ami...</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Oh ! je suis tout calmé...</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <stage>s'étant arrêté.</stage>
+     <l>Calme-toi ; nous voici</l>
+     <l> Au terme de notre voyage.</l>
+     <l> Quel minois enchanteur ! d'honneur, j'en suis ravi !</l>
+     <l> Vois ; contemple les graces,</l>
+     <l> Sous ce feuillage.</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin</speaker>
+     <stage>regardant.</stage>
+     <l>Oh, oh ! c'est un morceau friand,</l>
+     <l> Digne d'un potentat !</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <l>Vraiment,</l>
+     <l> L'amour nous conduit sur ses traces...</l>
+     <l> Et le malicieux enfant,</l>
+     <l> Veut me dédommager, sans doute,</l>
+     <l> Des peines qu'il m'a fait endurer.</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin</speaker>
+     <stage>gaiement.</stage>
+     <l>Notre route,</l>
+     <l> Enfin , est donc finie ?</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <l>Ah! le minois piquant!</l>
+     <l> Quel teint de lys et quel air innocent !</l>
+     <l> Quels yeux ! quels traits ! Frontin, sur ma parole,</l>
+     <l> Je crois déjà , que j'en raffole !</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Vous plaisantez.</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <p>Non , non ; je puis te l'affirmer.</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Quoi ! si subitement ?</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <p>Paix ! Je vais l'aborder.</p>
+     <stage>( il approche d'Elizandre )</stage>
+     <p>Permettez-moi, mademoiselle...</p>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <stage>affec effroi.</stage>
+     <p>Ah ! mon dieu!</p>
+     <stage>(elle s'enfuit précipitamment.)</stage>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin</speaker>
+     <stage>riant.</stage>
+     <l>Peste ! la donzelle</l>
+     <l> Est farouche... et peut-être encor moins que cruelle.</l>
+     <stage>( à Lindor. )</stage>
+     <l>Si son aspect vous parut enchanteur,</l>
+     <l> De même , il n'en est pas chez elle ;</l>
+     <l> Car votre aspect, ma foi, vient de lui faire peur.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <l>Bah ! timidité naturelle</l>
+     <l> Au village, mon cher ; au village, une belle</l>
+     <l> Unit à ses attraits, modestie et candeur ;</l>
+     <l> Enfin, ce sentiment d'une austère pudeur...</l>
+     <l> Et que ne possède point celle</l>
+     <l> Qui respire, à Paris , un souffle corrupteur.</l>
+     <l> Mais, sans plus différer, entre dans la chaumière...</l>
+     <l> Et t'informe...</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Qui! moi?</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <p>Toi.</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Je n'en veux rien faire.</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <p>Pourquoi donc?</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin</speaker>
+     <l>Ce n'est pas ainsi,</l>
+     <l> D'abord, qu'il faut s'y prendre;</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <p>Vas toujours...</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Mais, daignez...</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <stage>l'interrompant.</stage>
+     <p>Je ne veux rien entendre;</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XV.</head>
+     <stage>Les précédens , Madame BENOIT, sortant du papillon:</stage>
+    
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <stage>continuant.</stage>
+     <l>Ah ! madame... à propos, vous vous offrez ici.</l>
+     <l> Un ange vient de m'apparoître...</l>
+     <l> Un enfant admirable ! extrêmement joli !</l>
+     <l> Je veux savoir, de vous, qui cet enfant peut être.</l>
+     <l> Parlez.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Cette demande a droit de m'étonner.</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <p>Instruisez-moi, daignez me contenter...</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Cela, dites-moi donc, est-il bien nécessaire ?</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <l>Assurément. Il faut me satisfaire.</l>
+     <l> Cette beauté demeure, apparemment,</l>
+     <l> Dans ce logis ? car , a l'instant,</l>
+     <l> Elle vient d'y rentrer. Est-elle fille, ou femme ?</l>
+     <l> A-t-elle des parens ? Sont-ils riches, madame ?</l>
+     <l> Quel caractère ont-ils ? Peut-on les aborder ?</l>
+     <l> Que sont-ils ? que font-ils ? Ah ! d'honneur, sur mon âme...</l>
+     <l> Vous commencez à m'impatienter...</l>
+     <l> Mais, répondez-moi donc ? Pour dieu, daignez parler...</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Que me demandez-vous ?</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <l>Je brûle de connoître</l>
+     <l> L'objet divin qui, dans mon cœur,</l>
+     <l> A l'instant vient de faire naître</l>
+     <l> Un sentiment doux et flatteur</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Le tour n'est pas mauvais ! La plaisante manière</l>
+     <l> D'acoster les passans... La chose est singulière...</l>
+     <l> Je ne puis revenir de mon étonnement.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <stage>montrant le rouet, qui est reste près du banc de gazon.</stage>
+     <l>Cet objet étoit là... fait, en tout, pour me plaire...</l>
+     <l> Mais, encore une fois, cédez à ma prière !</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Cet abord est extravagant.</l>
+     <l> On ne vient point, ainsi, demander brusquement,</l>
+     <l> Dans un village où l'on met pied à terre,</l>
+     <l> Quels sont, des gens , l'état, le caractère ;</l>
+     <l> Ce qu'ils font ; ce qu'ils ne font pas...</l>
+     <l> Moi, je prétends que , dans ce cas...</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <stage>l'interrompant.</stage>
+     <stage>Air : De la fanfare de Saint-Cloud.</stage>
+     <l>Madame , point de morale...</l>
+     <l> Je ne veux faire aucun mal :</l>
+     <l> Je quitte la capitale,</l>
+     <l> Où Cupidon m'est fatal :</l>
+     <l> Dans cette ville infernale,</l>
+     <l> Le sexe est léger, banal...</l>
+     <l> Or, je cherche une vestale,</l>
+     <l> Au cœur sensible et loyal.</l>
+     <stage>(Ici, Elizandre écoute de la porte de la ferme ; ce qu'elle fait de moment à autre.
+      )</stage>
+     <l>J'ai cent mille francs de rente,</l>
+     <l> Et j'en donne la moitié</l>
+     <l> A la femme intéressante,</l>
+     <l> Qui deviendra ma moitié.</l>
+     <l> Pardon, si je vous acoste</l>
+     <l> D'un air aussi cavalier...</l>
+     <l> Mais, c'est que j'arrive, en poste,</l>
+     <l> En ce lieu, pour épouser.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>V'là qui s'appell' parler; dans cette conjoncture,</l>
+     <l> On peut s'expliquer clairement.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <stage>avec impatience.</stage>
+     <p>Eh bien ?</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit</speaker>
+     <l>Eh bien ! de cette chère enfant,</l>
+     <l> De ce chef-d'œuvre d'la Nature...</l>
+     <l> C'est moi qui suis la maman.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <p>Quoi ! franchement.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>J'en suis très-sûre.</p>
+     <stage>Air : De la clef forée.</stage>
+     <l>Dès-lors, j'puis vous faire entrevoir</l>
+     <l> Quelques traits de mon Elizandre ;</l>
+     <l> Elle est belle sans le savoir ;</l>
+     <l> Elle est bonne sans le prétendre :</l>
+     <l> Caractère aimable et charmant ;</l>
+     <l> Toujours uni... jamais bizarre.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <l>Une telle femme est, vraiment,</l>
+     <l> Un trésor aujourd'hui bien rare</l>
+     <stage>Madame Benoit, Lindor, Frontin.</stage>
+     <l>Une telle femme est, vraiment,</l>
+     <l> Un trésor aujourd'hui bien rare ! /</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Le cœur plein d'ingénuité ;</l>
+     <l> Discrète et modeste à l'extrême :</l>
+     <l> Oui, je le dis , sans vanité.</l>
+     <l> Ma fille est l'innocence même.</l>
+     <l> Elle n'est point, assurément,</l>
+     <l> Capricieuse ni bizarre.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <l>Ah ! femme pareille est, vraiment,</l>
+     <l> Une chose aujourd'hui très-rare.</l>
+     <stage>TOUS TROIS.</stage>
+     <p>Oui, femme pareille, etc.</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <stage>vivement,</stage>
+     <l>Votre fille est mon fait... sans plus de verbiage,</l>
+     <l> Je prétends l'épouser demain.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Vous me paraissez fait pour ce charmant hymen.</l>
+     <l> Puissiez-vous , dans ce cas, ne pas prétendre en vain.</l>
+     <l> Il me seroit flatteur de voir ce mariage</l>
+     <l> S'effectuer. D'abord, moi, j'y donne les mains,</l>
+     <l> Si ma fille y consent ; obtenez son suffrage.</l>
+     <l> Sans aller par quatre chemins,</l>
+     <l> Vous lui convenez mieux que c'benêt de Maurice,</l>
+     <l> Pour lequel ell' n'a point de goût.</l>
+     <l> Je la lui destinois... mais, je viendrons à bout</l>
+     <l> De l'éconduire. Il faut que je vous introduise</l>
+     <l> Dans ma maison, où vous pourrez loger...</l>
+     <l> Venez, je vous en prie...</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <l>Allez toujours, madame ;</l>
+     <l> Nous vous suivons... Sur-tout, faites-nous préparer</l>
+     <l> Une collation.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Je vais tout disposer.</p>
+     <stage>( Elle rentre. )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XVI.</head>
+     <stage>LINDOR, FRONTIN.</stage>
+    
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <l>Tu dieu ! comme la bonne dame,</l>
+     <l> A pris feu, tout d'un coup ! je sais votre projet,</l>
+     <l> Mon cher maître... et pourtant, en moi-même, je pense</l>
+     <l> Que la raison, dans cette circonstance,</l>
+     <l> Guidera votre cœur.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <stage>avec enthousiasme.</stage>
+     <p>Qu'il est beau ce portrait!</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <l>Ce portrait est flatté... vous le verrez , j'espère ,</l>
+     <l> Dans un moment.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <p>De la sorte, il me plait.</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <l>Femme facile et complaisante,</l>
+     <l> Cette mère , en disant que sa fille est charmante,</l>
+     <l> Douce, modeste... et sur-tout, innocente,</l>
+     <l> De vous séduire a trouvé le secret.</l>
+     <l> Et vous n'êtes point assez sage,</l>
+     <l> Pour repousser ce pernicieux langage ?</l>
+     <l> De la séduction, connoissez mieux le trait.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <p>Je ne t'écoute point... cesse ton bavardage.</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <stage>Air : On compteroit les Mamans.</stage>
+     <l>Oui, ce langage est imposteur ;</l>
+     <l> On veut vous séduire, vous dis-je :</l>
+     <l> N'allez-vous pas croire, d'honneur,</l>
+     <l> Qu'il existe un pareil prodige ?..</l>
+     <l> Habile à savoir se masquer,</l>
+     <l> Femme est un compte indéchiffrable,</l>
+     <l> C'est un ange pour vous charmer...</l>
+     <l> Pour vous tourmenter, c'est un diable,</l>
+     <stage>bis.</stage>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <l>Tu traites mal le sexe féminin,</l>
+     <l> Mon cher ; tu ne sais pas juger le cœur humain.</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <l>J'avoue, ici, mon extrême ignorance,</l>
+     <l> Sur ce point délicat.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <l>Les femmes , mons frontin,</l>
+     <l> Ont des droits à notre indulgence !</l>
+     <stage>Air : Comment goûter quelque repos.</stage>
+     <l>Du Créateur, chef-d'œuvre heureux !</l>
+     <l> Sortant des mains de la Nature ;</l>
+     <l> La beauté porte une ame pure,</l>
+     <l> Un cœur sensible, généreux :</l>
+     <l> Sachant lui donner, avec l'âge,</l>
+     <l> Sentimens doux et vertueux ;</l>
+     <l> Pour son bonheur, l'homme, des dieux,</l>
+     <l> Eût perfectionné l'ouvrage ?</l>
+     <stage>bis.</stage>
+     <l>Mais, non ; la trop foible beauté ,</l>
+     <l> N'a, de l'homme, dans son enfance,</l>
+     <l> Qu'un exemple d'intolérance,</l>
+     <l> De vices , d'immoralité,</l>
+     <l> Bientôt, elle met en usage</l>
+     <l> Les leçons qu'elle prit de lui...</l>
+     <l> Hélas ! des femmes, aujourd'hui,</l>
+     <l> Tous les défauts sont notre ouVrage ! bis.</l>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XVII</head>
+     <stage>Les precedens, MAURICE.</stage>
+    
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>endimanché et grotesquemënt coiffe.</stage>
+     <l>Quoique j'sois, du hameau , le plus joli garçon ,</l>
+     <l> Pour plaire à mon objet, j'viens d'faire un brin d'toilette.</l>
+     <l> Ça n'messied pas. Que vois-je ? auprès de la maison,</l>
+     <l> Que font ces deux min' là ? jarni ! ça m'inquiette...</l>
+     <l> Seroit-ce l'épouseur, dont m'a parlé, tantôt,</l>
+     <l> Ç'te vieill' sorcière de Margot ?</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin</speaker>
+     <stage>à Lindor.</stage>
+     <p>Voilà, je crois , notre Maurice.</p>
+     <stage>( à Maurice. )</stage>
+     <p>Dis-moi, donc, mon ami ?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Qu'y a-t-'il pour votr' service?</l>
+     <l> Non , n'leur répondons pas... n'soyons point si prévenant.</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Es-tu de ce logis ?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Qu'est-qu'ça vous embarasse ?</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Nous voulons le savoir... un motif... très-pressant...</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Oui, da! vous n'saurez rien,</p>
+     <stage>(apart.)</stage>
+     <l>comme il a l'air cocasse</l>
+     <l> Avec son motif...</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Mais...</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>l'interrompant.</stage>
+     <p>Quoi, mais?</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Réponds nous donc.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Je ne le voulons point. Eh ! qui diable vous êtes,</l>
+     <l> Pour m'fair', de butte en blanc , un'pareill'question ?</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <l>Nous sommes des gens du bon ton ;</l>
+     <l> Des gens, infiniment honnêtes.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Cela se peut; mais, c'tapendant,</l>
+     <l> Permettez que la d'sus, j'vous dis' mon sentiment.</l>
+     <stage>Air : Ainsi jadis un grand Prophète.</stage>
+     <l>Vous m'paroissez des gens honnêtes ;</l>
+     <l> Mais, point du tout, d'honnêtes gens.</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Comment, maraud ?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>continuant.</stage>
+     <l>Ils sont galans, les gens honnêtes ;</l>
+     <l> Ils sont probes, les honnêt' gens.</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Une telle insolence !</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>continuant.</stage>
+     <l>Oh ! j'aime fort les gens honnêtes ;</l>
+     <l> J'aime encor mieux, les honnêt' gens.</l>
+     <l> Il est beaucoup de gens honnêtes ;</l>
+     <l> Mais, il est très-peu d'honnêt' gens.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <p>Il n'a point tort, en concience.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XVIII.</head>
+     <stage>Les Précédens, Madame BENOIT.</stage>
+    
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit</speaker>
+     <stage>à Lindor.</stage>
+     <p>Citoyen, tout est prêt.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>à part.</stage>
+     <p>Il se sont déjà vu ?</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <p>Nous vous suivons, madame.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Entrez.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>bas.</stage>
+     <p>Ah ! j'suis perdu !</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin</speaker>
+     <stage>à Maurice.</stage>
+     <p>Au revoir, l'honnête homme.</p>
+     <stage>( Madame Benoit, Lindor et Frontin, entrent dans la ferme. )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE XIX</head>
+     <stage>Maurice, seul.</stage>
+     <l>Oh ! la chienn' d'aventure!</l>
+     <l> Viendroient-ils, tout exprès , pour m'enl'ver ma future ?</l>
+     <l> Margot, auroit-elle raison ?</l>
+     <l> Si l'on m'jouoit c'tour là, dès cet instant, je jure</l>
+     <l> De mettre l'feu dans la maison !</l>
+     <l> Jamais, je ne pourrais supporter cette injure !</l>
+     <l> Ventreguenne ! il n'y f'roit pas bon !</l>
+     <l> Quand on m'manque d'respect... c'est que j'suis un luron ,</l>
+     <l> Qui n'se mouch' pas du pied. Mais, quoi! dans cette affaire ,</l>
+     <l> Qu'ai-je à craindre ? n'ai-j' point la parole d'la mère ?</l>
+     <l> Et la bonne madam' Benoit,</l>
+     <l> N'est point faite , jarni ! pour me manquer de foi...</l>
+     <l> Maugré tout ça... c'tidé' n'me tranquillise guère;</l>
+     <l> Et voici la raison pourquoi.</l>
+     <stage>Air. : Enfant du goût et du génie.</stage>
+     <l>Chacun court après la richesse ;</l>
+     <l> Pour l'attraper, chacun n'prend pas</l>
+     <l> La route d'la délicatesse :</l>
+     <l> Un ch'min plus sûr guide leurs pas.</l>
+     <l> Aujourd'hui , c'est chose commune,</l>
+     <l> De voir des gens , pleins d'impudeur,</l>
+     <l> Sacrifier , à la fortune,</l>
+     <l> La vertu, la bonn' foi, l'honneur.</l>
+     <stage>bis.</stage>
+     <l>La mère d'Elizandre,</l>
+     <l> N'me voudroit-ell' plus pour son gendre ?</l>
+     <l> Et parc'que c't'étranger paroit plus rich' que moi,</l>
+     <l> Me l'préféreroit-elle, en ce jour, jarnigoi ?</l>
+     <l> Sans badiner, cela s'pourroit ben faire...</l>
+     <l> Ai mon dieu! que chargent cause d'mal sur la terre!</l>
+     <stage>Air : C'est aussi comm' ça que pense : Club des bonnes gens.</stage>
+    <lg> <l>Mère, par fois sacrifie,</l>
+     <l> Sans nul sentiment,</l>
+     <l> Sa fille, aimable et chérie,</l>
+     <l> Au maudit argent !</l>
+     <l> Fillette, jeune et jolie,</l>
+     <l> Au maudit argent...</l>
+     <l> Souvent aussi sacrifie,</l>
+     <l> Son fidèle amant.</l>
+     <stage>ter.</stage></lg><lg>
+     <l>N'écoutant que là folie,</l>
+     <l> Jeune homme imprudent,</l>
+     <l> Quitte maitresse chérie,</l>
+     <l> Pour c'maudit argent.</l>
+     <l> Chaque mortel sacrifie,</l>
+     <l> Au maudit argent,</l>
+     <l> Tous les instans de sa vie...</l>
+     <l> Repos consolant.</l>
+      <stage>ter.</stage></lg><lg>
+     <l>Le cœur plein de perfidie ,</l>
+     <l> Citoyen méchant,</l>
+     <l> Trahit honneur et patrie ,</l>
+     <l> Pour c'maudit argent.</l>
+     <l> La Nature est avilie...</l>
+     <l> L'crime est triomphant... Par l'insigne frénésie</l>
+     <l> De c'maudit argent.</l>
+       <stage>ter.</stage></lg><lg>
+     <l>A présent, chose inouie !</l>
+     <l> On voit l'intrigant,</l>
+     <l> Dont grande est l'effronterie,</l>
+     <l> Regorger d'argent...</l>
+     <l> Et l'homme qu'a du génie ;</l>
+     <l> L'homme bienfaisant,</l>
+     <l> Qu'accompagn' la modestie ,</l>
+     <l> Seuls, manquent d'argent.</l></lg>
+     <l>Tout en jasant, comm' ça, j'perdons ici mon tems...</l>
+     <l> Vite, allons voir, un peu, ce qu'ils font là dedans.</l>
+     <stage>( Il va pour entrer dans la ferme, lorsque madame Benoit en sort avec précipitation :
+      ils se heurtent. )</stage>
+    
+   </div>
+   <div>
+    
+     <head>SCÈNE XX.</head>
+     <stage>Madame BENOIT,MAURICE.</stage>
+    
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>se frottant le nez.</stage>
+     <l>Prenez donc garde à c'que vous faite...</l>
+     <l> Vous m'avez cassé l'nez...</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit, à part.</speaker>
+     <l>Ah ! ma joie est parfaite !</l>
+     <l> Quel excellent parti !</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Vous avez l'air content,</l>
+     <l> Madam' Benoit.. Dit'moi donc,, à l'instant,</l>
+     <l> Quel est cet étranger ?</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoît.</speaker>
+     <l>C'est an homme, fort riche,</l>
+     <l> Habitant de Paris... jeune, aimable, loyal...</l>
+     <l> Possédant des talens...</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Tout ça m'est fort égal.</l>
+     <l> N'viendroit-il pas ici pour me faire une niche,</l>
+     <l> Cet homme-là, par hazard ?</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Il ne te veut point d'mal ;</l>
+     <l> Bien au contraire...</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Ah ! ça... j'trouv' fort original</l>
+     <l> Qu'il s'installe chez vous...</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Mon cher ami Maurice,</l>
+     <l> Nous devons des égards, accueil hospitalier,</l>
+     <l> A ceux qui peuv' nous rend' service</l>
+     <l> Par leurs biens , leur crédit...</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>C'est! un aventurier.</p>
+     <stage>Air : Réveillez-vous belle endormie.</stage>
+     <l>Tout son bien est peut-être en herbe ;</l>
+     <l> Trompeur cherche à séduir' d'abord...</l>
+     <l> Et puis , vous; savez le proverbe : Que tout ce qui luit n'est pas or.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Va, va, ceci n'doit point t'donner martel en tête ;</l>
+     <l> Avec moi, song' plutôt aux apprêts de la fête.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Aux apprêts de fe fête ?</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Eh ! oui, certainement.</l>
+     <l> Pour mettre fin à ton tourment ,</l>
+     <l> Nous allons, ce matin, conclure ton affaire.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>avec joie.</stage>
+     <p>Bon!</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Mon garçon , cours vite chercher l'notaire.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <p>L'notaire ?</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Enfin, Elizandre consent</l>
+     <l> A s'marier.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>sautant de plaisir,</stage>
+     <p>Est-il possible !</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Son cœur est devenu sensible.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Puisqu' c'est ainsi, comptez sur mon empressement...</l>
+     <l> Je cours, je vole , et je r'viens promptement.</l>
+     <stage>( Il va pour sortir. )</stage>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Ecout' donc, écout' donc, Maurice?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>revenant.</stage>
+     <p>Eh ben ?</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Tu remettras la lettre que voilà</l>
+     <l> Au notaire.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>A quoi bon ?</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>C'est afin qu'il remplisse</l>
+     <l> Tous les articles du contrat.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>prenant la lettre.</stage>
+     <p>Oh ! ça suffit.</p>
+     <stage>( Il sort en courant. )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XXI.</head>
+     <stage>Madame BENOIT, ELIZANDRE, LINDOR, FRONTIN.</stage>
+    
+    <sp who="#TDP2701_6">
+     <speaker>Lindor,</speaker>
+     <stage>à Elizandre.</stage>
+     <l>Mes biens, ma fortune, mon être...</l>
+     <l> Tout est à vous , trop séduisant objet !</l>
+     <l> Je rends grace au hasard qui me fit vous connoître.</l>
+     <l> Si j'obtiens votre cœur, mon bonheur est parfait !</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <stage>avec candeur.</stage>
+     <p>Vous l'avez obtenu.</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <l>Vous serez donc ma femme ?</l>
+     <l> Je le redis encor, vous captivez mon ame...</l>
+     <l> Et de vous rendre heureuse est mon premier désir !</l>
+     <l> Avec moi ; pour ma terre, on vous verra partir</l>
+     <l> Demain, j'espère , après le mariage.</l>
+     <l> Mais, je vais vous entretenir</l>
+     <l> De la cause de mon voyage.</l>
+     <l> Héritier de grands biens, dans le printems de l'âge</l>
+     <l> Je cherchai le bonheur; mon cœur voulut jouir</l>
+     <l> Des rares voluptés que Paris sait offrir :</l>
+     <l> Séduit... même enivré par d'agréables songes,</l>
+     <l> Je croyois posséder ce bonheur tant vanté ;</l>
+     <l> Et si souvent chèrement acheté.</l>
+     <l> Hélas ! je ne trouvai que de rians mensonges,</l>
+     <l> Au lieu de la réalité.</l>
+     <l> Lassé d'être trompé par des femmes perfides,</l>
+     <l> D'encens et d'or , uniquement avides ;</l>
+     <l> Par des amis ingrats... et qui n'avoient pour guides</l>
+     <l> Qu'un sordide intérêt, qu'un orgueil déhonté,</l>
+     <l> Que dépravation et qu'immoralité ;</l>
+     <l> Et pour lesquels je fis d'énormes sacrifices !</l>
+     <l> Dupe de mon bon cœur ; n'ayant aucun plaisir</l>
+     <l> Qui ne soit aussi-tôt suivi d'un repentir ;</l>
+     <l> Me voyant entouré de cent sortes de vices ;</l>
+     <l> En butte aux traits de la malignité ;</l>
+     <l> Exposé, chaque jour, aux nombreux artifices ,</l>
+     <l> D'un intrigant adroit, d'une vile beauté...</l>
+     <l> Je résolus de fuir cette taverne impure ,</l>
+     <l> Où l'homme méconnoît les loix de la Nature,</l>
+     <l> De la raison et de la vérité ,</l>
+     <l> Pour encenser l'erreur et l'imposture ;</l>
+     <l> Où le riche , à ses pieds, foule l'humanité ;</l>
+     <l> Où tout n'est que folie... où rien n'est respecté;</l>
+     <l> Et d'aller, sur le champ, de village en village,</l>
+     <l> Pour chercher une femme , à la fois belle et sage,</l>
+     <l> Qui méconnut l'attrait de la perversité ;</l>
+     <l> Dont la candeur, dont la bonté,</l>
+     <l> Dont l'innocence, enfin, soient le simple héritage ;</l>
+     <l> Et qui n'eut point d'autre langage,</l>
+     <l> Que le langage heureux de l'ingénuité.</l>
+     <l> Je l'ai trouvé, je crois, cet objet souhaité !</l>
+     <l> De cet objet charmant, qu'aurai seul en partage;</l>
+     <l> Que, tous les jours, j'aimerai d'avantage...</l>
+     <l> Je tiendrai ma félicité !</l>
+     <l> Et son bonheur , aussi, deviendra mon ouvrage !</l>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin</speaker>
+     <stage>à madame Benoit.</stage>
+     <l>Frontin , il faut partir. — Fort bien ; je suis tout prêt.</l>
+     <l> Et sans avoir le tems de faire aucun paquet,</l>
+     <l> Nous nous fourons, sans nous rien dire,</l>
+     <l> Au fond d'un bon cabriolet.</l>
+     <l> Mais, citoyen Lindor, où faut-il vous conduire ?</l>
+     <l> Lui demandai-je, alors. — Va toujours devant toi.</l>
+     <l> Tout en jurant de ne savoir pourquoi,</l>
+     <l> De Saint-Denis, je prens la route ;</l>
+     <l> Arrivés - là, sans que Lindor, s'en doute,</l>
+     <l> On change de chevaux. Frais et de bon aloi ,</l>
+     <l> Nous voilà, donc, tous deux, à galopper en poste...</l>
+     <l> D'un train... d'un train. A chaque station,</l>
+     <l> Moi, je fais, à Lindor , la même question :</l>
+     <l> Où faut-il vous conduire ? et Lindor , me riposte,</l>
+     <l> Va toujours devant toi. N'est-ce pas beau cela,</l>
+     <l> De voyager, toujours, sans savoir où l'on va ?</l>
+     <l> Nous arrivons, pourtant, dans ce riant village.</l>
+     <l> A peine descendu... Mon cher maître , apperçoit,</l>
+     <l> De loin, solus un épais feuillage,</l>
+     <l> Jeune tendron... gentil minoi...</l>
+     <l> Il s'arrête, tout court... et de notre voyage,</l>
+     <l> Le but, vous le voyez, doit être un mariage,</l>
+     <l> Assez singulier, sur ma foi !</l>
+     <l> Mais, cependant, qui nous apprête,</l>
+     <l> A tous, contentement et paisible honneur !</l>
+     <l> Madame Benoit... à la fête ,</l>
+     <l> Je prétends m'en donner, parbleu, de tout mon cœur !</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Vous aimez donc, la joie?</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin</speaker>
+     <stage>gaiement.</stage>
+     <l>Oh ! je vous en assure !</l>
+     <l> Et surtout, cette joie, enfant de la nature !</l>
+     <stage>Air : Nous nous marierons Dimanche.</stage>
+     <l>Le jour et la nuit,</l>
+     <l> Sans aucun souci,</l>
+     <l> Je danse, je ris , je chante ;</l>
+     <l> Moi, je prends fort bien</l>
+     <l> Le tems comme il vient ;</l>
+     <l> De tout mon ame est contente.</l>
+     <l> Naïf plaisir,</l>
+     <l> Sait embellir</l>
+     <l> Ma vie !</l>
+     <l> Par le besoin,</l>
+     <l> Elle n'est point</l>
+     <l> Suivie :</l>
+     <l> Ma foi, le bonheur</l>
+     <l> Habite en mon cœur,</l>
+     <l> Avec l'aimable folie !</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>C'est très-bien fait à vous. J'aime aussi la gaieté...</l>
+     <l> Mais, quelqu'un, en chantant, arriv' de ce côté.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>dans le lointain.</stage>
+     <l>Pour Maurice , jarnigoi,</l>
+     <l> Quel précieux avantage !</l>
+     <l> C'est d'main, qu'il épous' ma foi,</l>
+     <l> La fille d' madam' Benoit.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Dans un moment, le pauvre diable , déchantera.</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Pour lui , c'est fort désagréable !</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE XXII ET DERNIERE.</head>
+     <stage>Les précédens, MAURICE ; peu à près, GRIPAR.</stage>
+    
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Me v'l'à madam' Benoit,</p>
+     <stage>(il s'arrête.)</stage>
+     <p>Oh, oh! quell' société.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>T'as l'air d'en être épouvanté.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Pas du tout, pas du tout. Mons Gripar, le notaire...</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Eh bien?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Eh ben ! il me suit par derrière.</l>
+     <l> Comme il marche très-lentement,</l>
+     <l> Ne voulant point l'gêner, j'suis accouru devant.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>C'est agir en garçon prudent.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>bas.</stage>
+     <l>Mais, que fait donc c'jeune homme, auprès de votre fille ?</l>
+     <l> Est-c' qu'il voudroit de d'même entrer dans la famille ?</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Nigaud ! prend-t-on , à la fois deux époux ?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Non. J'croyons, maugré ça, qu'il lui fait les yeux doux...</p>
+     <stage>( haut et avec humeur: )</stage>
+     <l>C'te familiarité commence à me déplaire !</l>
+     <l> Fait' les finir...</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Est-c' que tu s'rois jaloux?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Je l'suis beaucoup, ma cher' bell' mère !</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Ça n'est pas bien, Maurice; un mari, qu'est galant,</l>
+     <l> A sa femme, laisse tout faire,</l>
+     <l> Sans témoigner l'plus p'tit mécontentement.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <p>Oh, c'est bon à Paris... ici, c'est différent.</p>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <p>Voilà maître Gripar.</p>
+    </sp>
+    <sp who="#TDP2701_7">
+     <speaker>Gripar</speaker>
+     <stage>un rouleau de papier sous le bras.</stage>
+     <l>Je me rends, au plus vite,</l>
+     <l> Vers vous ? de mon devoir, sans cesse, je m'acquite</l>
+     <l> Avec exactitude, et j'y mets tous mes soins.</l>
+     <stage>( Indiquant Elizandre et Lindor. )</stage>
+     <p>Bon, voici les futurs conjoints;</p>
+     <stage>( Indiquant Frontin et Maurice, )</stage>
+     <l>Et j'apperçois, aussi, là bas, les deux témoins.</l>
+     <l> Il ne s'agit, alors , dans cette conjoncture,</l>
+     <l> Que d'apposer chacun sa signature</l>
+     <l> Au bas de ce contrat.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <l>Signons donc , pour conclure,</l>
+     <l> Mes amis.</l>
+     <stage>( On signe. )</stage>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>gaiement.</stage>
+     <p>Oui, c'est ça... Ventreguenne ! signons.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit</speaker>
+     <stage>à Maurice.</stage>
+     <p>Sign' ton nom sans t'tromper.</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>d'un air d'importance.</stage>
+     <p>Oh ! j'savons l'ortographe.</p>
+     <stage>Il signe.</stage>
+     <p>Là... Maurice... avec pataraphe.</p>
+    </sp>
+    <sp who="#TDP2701_7">
+     <speaker>Gripar.</speaker>
+     <l>Des clauses et conditions,</l>
+     <l> Moi, je vais vous donner lecture.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Ce s'roit mal à propos, j'connoissons ma future.</p>
+    </sp>
+    <sp who="#TDP2701_7">
+     <speaker>Gripar.</speaker>
+     <l>Votre future, à vous ? ceci me paroît fort.</l>
+     <l> C'est celle, mon ami, du citoyen Lindor.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>C'est celle de Lindor ? En voici ben d'un autre,</l>
+     <l> Barbouilleur de papier ! vous faites l'bon apôtre ;</l>
+     <l> A ce qu'il me paroît ? C'est moi qui suis l'époux,</l>
+     <l> Mons le notaire, entendez-vous ?</l>
+    </sp>
+    <sp who="#TDP2701_7">
+     <speaker>Gripar.</speaker>
+     <p>Vous vous trompez... Voyez...</p>
+     <stage>(il lui montré le contrat)</stage>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>stupéfait.</stage>
+     <p>Qu'ell' trahison infâme !</p>
+     <stage>( à Lindor. )</stage>
+     <p>Fi ! qu'c'est vilain à vous, d'm'enl'ver ainsi ma femme...</p>
+     <stage>( avec sentiment. )</stage>
+     <l>De l'aimer plus que moi, j'faisois tout mon bonheur !</l>
+     <l> Et voilà donc le prix de ma constante ardeur ?</l>
+     <l> Ah ! mon dieu ! de chagrin, j'crois qu'j'allons rendre l'ame!</l>
+     <stage>( Il tombe, sans connoissance, dans les bras de Me. Benoit )</stage>
+    </sp>
+   <spGrp>
+     <head>QUINQUÉ.</head>
+    <sp who="#TDP2701_9"> <speaker>Lindor, Me. Benoit, Gripar, Elizandre, Frontin.</speaker>
+    <stage>Air : Tu n'auras pas petit poliçon.</stage>
+     <l>Mon cher Maurice, calmez-vous...</l>
+     <l> Séchez vos larmes ;</l>
+     <l> Cessez vos allarmes.</l>
+     <l> De ce malheur , consolez-vous :</l>
+     <l> D'une autre vous serez l'époux.</l>
+</sp>    
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Elizandre , hélas !</l>
+     <l> Ne vous aimoit pas ;</l>
+     <l> Ce n'est point le cas</l>
+     <l> De prendre une femme.</l>
+    </sp>
+    <sp who="#TDP2701_8">
+     <speaker>Lindor , Frontin , Gripar.</speaker>
+     <l>Sot, est le mari</l>
+     <l> Qui s'engage ainsi ;</l>
+     <l> Car, après , madame</l>
+     <l> Se venge de lui.</l>
+    </sp>
+    <sp who="#TDP2701_9">
+     <speaker>Tous cinq.</speaker>
+     <l>Mon cher Maurice ,</l>
+     <l> calmez-vous...</l>
+     <l> Séchez vos larmes ;</l>
+     <l> Cessez vos allarmes.</l>
+     <l> De ce malheur, consolez-vous.</l>
+     <l> D'une autre vous serez l'époux.</l>
+    </sp></spGrp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>revenant à lui.</stage>
+     <l>Vous m'avez tous trompé... Vous, vous sur-tout, madame...</l>
+     <l> Qui m'répétiez toujours qu'votr' fill' seroit ma femme !</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <stage>avec bonté.</stage>
+     <p>Nous adoucirons votre sort.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit</speaker>
+     <p>Reviens à la raison...</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>débattant.</stage>
+     <p>Non ! j'veux m'donner la mort!</p>
+     <stage>Air : Une vieille qui roupille. ( à madame
+      Benoit. )</stage>
+     <l>D'ma mort, vous serez coupable ?</l>
+     <l> Vit-on jamais chos' semblable?</l>
+     <l> De ce trait abominable !</l>
+     <l> Comment pouvoir me venger?</l>
+     <l> Ah ! de dépit... de colère !</l>
+     <l> J'cours me j'ter dans la rivière...</l>
+     <stage>( il court et s'arrête. )</stage>
+     <l>Mais, non ; j'n'en voulons rien faire...</l>
+     <l> Car, je n'savons pas nager.</l>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <p>Vivez, mon cher ami !</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>J'vivrai, la chose est sûre.</l>
+     <l> Aux poissons, je n'veux pas servir de nourriture...</l>
+     <l> Car, après, je pourrions, fort ben m'en repentir.</l>
+     <l> A quoi m'serviroit de mourir ?</l>
+     <stage>( Ricanant. )</stage>
+     <l>Je n'suis pas si dindon. J'trouv'rons, p't'être une autr' belle,</l>
+     <l> Qui, sachant mieux m'apprécier,</l>
+     <l> Ne f'ra pas ainsi la cruelle.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Tu pourras, avec elle,</l>
+     <l> Alors, te marier.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Me marier? qui, moi? je r'nonce au mariage...</l>
+     <l> Je renonce au sexe... à l'amour ;</l>
+     <l> Je ne veux plus aimer... je n'veux plus d'esclavage !</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Tu changeras d'langage, un jour,</l>
+     <l> Lorsqu'à tes vœux, un' femm' sera propice;</l>
+     <l> Lorsqu'ell' te comblera de ses tendres faveurs.</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <p>C'est si joli d'aimer, mon cher petit Maurice!</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Tiens, à présent, v'là qu'ell' m'dit des douceurs...</l>
+     <l> Mamzelle ! Il est ben tems.</l>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre</speaker>
+     <l>J'regrette, croyez-moi,</l>
+     <l> En approuvant votre tendresse,</l>
+     <l> D'n'avoir pû vous donner ma foi;</l>
+     <l> Mais, de mon coeur , j'n'ai pas été maîtresse;</l>
+     <l> A soi-même, on n'peut fair' la loi.</l>
+     <l> Ainsi , n'm'en voulez pas ; je ne suis point coupable ;</l>
+     <l> De c'qui vous arrive, aujourd'hui,</l>
+     <l> Maurice ; si Lindor, m'eût paru moins aimable,</l>
+     <l> J'vous aurois pris pour mon mari.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Eh ! qu'avait-il besoin de débarquer ici?</l>
+     <l> J'nous serions ben passé de sa visite.</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Et puis, avec plaisir, un' bonn' mère , s'acquite</l>
+     <l> Du soin d'rendre heureux ses enfans,</l>
+     <l> En couronant leurs sentimens ,</l>
+     <l> Quand la raison les légitime.</l>
+     <l> On pourra bien me faire un crime,</l>
+     <l> De c'que j'ai faussé mes sermens;</l>
+     <l> Mais, je n'me crois pas si blâmable,</l>
+     <l> D'n'avoir suivi qu'la nature et mon cœur.</l>
+     <l> Dans tous les cas, un' mère est excusable,</l>
+     <l> Lorsque d'sa fill' chérie elle fait le bonheur.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Tout ça m'paroit fort raisonnable.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Tu trouves donc que nous avons raison ?</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Oui ; mais, c'qui m'désespère... et m'fait donner au diable,</l>
+     <l> C'est que j'soyons contraint d'rester encor garçon...</l>
+     <l> Tandis que j'croyois ben, avec jeune tendron,</l>
+     <l> Passer demain, un' nuit fort agréable !</l>
+     <l> Comm' ça fait mal au cœur ! ah ! mon dieu ! queu guignon!</l>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Ce malheur-là, Maurice, est réparable...</l>
+     <l> Tiens, si tu veux de moi...</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <p>Vous, ma femme ?</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Tout d'bon.</l>
+     <l> Imitons leur exemple.</l>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>après avoir considéré madame Benoit</stage>
+     <p>Eh ben ! je n'dis pas non.</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor</speaker>
+     <stage>à Maurice.</stage>
+     <p>Ainsi, vous oublierez vos chagrins... Tout s'oublie.</p>
+     <stage>( à Frontin. )</stage>
+     <l>Quant à moi, je n'oublierai point</l>
+     <l> De prendre un autre train de vie.</l>
+     <l> Femme vertueuse et jolie ,</l>
+     <l> Est un trésor qui demande du soin,</l>
+     <l> Quand on en veut jouir... sans compagnie.</l>
+     <stage>Air : Oui y mon cher Favart, à tes yeux.</stage>
+     <l>Sans être jaloux, ni quinteux ,</l>
+     <l> Je prétends veiller sur ma femme ;</l>
+     <l> Plus de bals, de fêtes , de jeux ,</l>
+     <l> Tout cela corrompt une femme :</l>
+     <l> Pour mes amis, point de pitié...</l>
+     <l> D'eux tous, j'éloignerai ma femme ;</l>
+     <l> Car, ces messieurs. par amitié,</l>
+     <l> Souvent, vous soutient votre femme.</l>
+     <stage>bis.</stage>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>soupirant.</stage>
+     <p>Margot, m'l'avoit ben dit qu'on m'coup'roit l'herb' sous l'pié!</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Vraiment, le tour est impayable !</p>
+    </sp>
+    <sp who="#TDP2701_1">
+     <speaker>Maurice</speaker>
+     <stage>riant.</stage>
+     <p>Aussi, je n'l'avons pas payé.</p>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <p>Mes bons amis , gaiement, allons nous mettre à table.</p>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <p>Et dans l'jus de Bacchus, que l'chagrin soit noyé.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>VAUDEVILLE.</head>
+     <stage>Air : Du Vaudeville des Visitandines.</stage>
+    
+    <sp who="#TDP2701_1">
+     <speaker>Maurice.</speaker>
+     <l>Je l'déclarons... et j'suis sincère;</l>
+     <l> Je croyois épouser fort bien ;</l>
+     <l> Mais , voilà comme sur la terre,</l>
+     <l> On ne peut répondre de rien :</l>
+     <stage>bis.</stage>
+     <stage>au public.</stage>
+     <l>Que votre indulgence applaudisse</l>
+     <l> A c'mariage singulier ;</l>
+     <l> Et de ce qu'il vient d'essuyer,</l>
+     <l> Cela consolera Maurice.</l>
+     <stage>bis.</stage>
+    </sp>
+    <sp who="#TDP2701_6">
+     <speaker>Lindor.</speaker>
+     <l>Fidelle épouse et tendre amie,</l>
+     <l> Fera le bonheur de Lindor !</l>
+     <l> Loin de excès de la folie,</l>
+     <l> Il va mieux éeployée son ôor ;</l>
+     <stage>bis.</stage>
+     <l>Plaisirs vrais, félicité pure,</l>
+     <l> Pour nous existent ici bas ;</l>
+     <l> Mais où les trouve-t-on ? hélas !</l>
+     <l> C'est dans le sein de la nature.</l>
+     <stage>bis.</stage>
+    </sp>
+    <sp who="#TDP2701_2">
+     <speaker>Madame Benoit.</speaker>
+     <l>Beauté, vanité , vont ensemble ;</l>
+     <l> Ainsi donc, à jeune beauté ,</l>
+     <l> On peut pardonner, ce me semble,</l>
+     <l> Un petit grain de vanité :</l>
+     <stage>bis.</stage>
+     <l>Dans l'aisance, dans la misère,</l>
+     <l> Comme dans le faste des cours,</l>
+     <l> Quelque soit son état, toujours,</l>
+     <l> L'homm' cherche à sortir de sa sphère.</l>
+     <stage>bis.</stage>
+    </sp>
+    <sp who="#TDP2701_5">
+     <speaker>Frontin.</speaker>
+     <l>A mes yeux, la plus belle femme,</l>
+     <l> Assurément, est moins que rien;</l>
+     <l> Si la vertu n'est dans son ame,</l>
+     <l> Si l'innocence n'est son bien.</l>
+     <stage>bis.</stage>
+     <l>Au village, par intervale ,</l>
+     <l> On trouve attraits, joints aux vertus ;</l>
+     <l> Mais, à Paris, soins superflus...</l>
+     <l> C'est la pierre philosopale.</l>
+     <stage>bis.</stage>
+    </sp>
+    <sp who="#TDP2701_3">
+     <speaker>Elizandre.</speaker>
+     <l>J'aspirois à d'venir grand' dame,</l>
+     <l> Et mes projets furent heureux ;</l>
+     <l> Dans ce monde, plus d'une femme,</l>
+     <l> Forme, en secret les mêmes vœux;.</l>
+     <stage>bis.</stage>
+     <stage>(Au Public.)</stage>
+     <l>L'Auteur aspiroit à vous plaire ;</l>
+     <l> Citoyens , s'il a réussi,</l>
+     <l> Qu'vos applaudissemens , ici,</l>
+     <l> L'excitent encore à mieux faire.</l>
+     <stage>bis.</stage>
+    </sp>
+    <sp who="#TDP2701_9">
+     <speaker>Tous.</speaker>
+     <l>L'Auteur aspiroit à vous plaire ;</l>
+     <l> Citoyens, s'il a réussi,</l>
+     <l> Qu'vos applaudissemens, ici,</l>
+     <l> L'excitent encore à mieux faire.</l>
+     <stage>bis:</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>FIN.</head>
+    
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -8,6 +8,13 @@
  <!-- TODO
   multiple speeches
  -->
+ 
+ <!-- convert xhtml to tei (first pass)
+  
+  nb output is not valid
+  
+    lb42 : July 2923 -->
+ 
  <xsl:output xpath-default-namespace="http://www.tei-c.org/ns/1.0"/>
  
  <xsl:variable name="today">
@@ -30,17 +37,20 @@
   <xsl:value-of select="document('/home/lou/Public/theatredeparis/TEI/napoleonicSample.xml')//*:row[*:cell[@n='2'] eq $idno]/*:cell[@n='6']"/>
  </xsl:variable>
 
+<!-- copy everything by default so that anything unexpected will be in wrong namespace -->
  <xsl:template match="/ | @* | node()">
   <xsl:copy>
    <xsl:apply-templates select="@* | node()"/>
   </xsl:copy>
  </xsl:template>
 
- <xsl:param name="wicks">9999_</xsl:param>
-
+<!-- copy html head as comment in case it contains anything useful -->
+ 
 <xsl:template match="h:head">
  <xsl:comment><xsl:value-of select="."/></xsl:comment>
 </xsl:template>
+ 
+ <!-- create TEI element and populate the teiHeader with whatever is available -->
  
 <xsl:template match="h:html">
  <xsl:message><xsl:value-of select="concat('Converting ',$inputFile, ' from ', $sourceURL, ' to W', $idno)"/></xsl:message>
@@ -57,13 +67,13 @@
       <xsl:value-of select="document('/home/lou/Public/theatredeparis/TEI/napoleonicSample.xml')//*:row[*:cell[@n='2'] eq $idno]/*:cell[@n='4']"/>
      </xsl:otherwise> 
      </xsl:choose></author>
-    <respStmt><resp>Original transcription by </resp><name>Angus B. Grieve-Smith</name></respStmt>
-     <respStmt><resp>TEI conversion by </resp><name>Lou Burnard</name></respStmt>
+    <respStmt><resp>HTML version by </resp><name>Angus B. Grieve-Smith</name></respStmt>
+     <respStmt><resp>TEI version by </resp><name>Lou Burnard</name></respStmt>
     </titleStmt>
     <publicationStmt><distributor> The Digital Parisian Stage Corpus. GitHub. https://github.com/grvsmth/theatredeparis
     </distributor></publicationStmt>
-    <sourceDesc><p>Original page images downloaded from <ref target="{$sourceURL}"/>.</p>
-     <p>HTML transcription downloaded from <ref target="{$inputURL}">https://github.com/grvsmth/theatredeparis</ref></p>
+    <sourceDesc><p>Original page images available from <ref target="{$sourceURL}"/>.</p>
+     <p>HTML transcription available from <ref target="{$inputURL}">https://github.com/grvsmth/theatredeparis</ref></p>
    </sourceDesc>
    </fileDesc>
    <revisionDesc>
@@ -72,13 +82,16 @@
   </teiHeader>
  <text> 
   <front>
+   <!-- provide skeletal tags for the titlepage -->
     <titlePage>
 <docTitle> <titlePart> <xsl:comment><xsl:value-of select="h:body/h:p"/></xsl:comment>
  </titlePart></docTitle> 
      <byline><docAuthor></docAuthor></byline> 
      <docImprint></docImprint></titlePage>
+ <!-- assume that a table will contain cast list -->
    <xsl:apply-templates select="h:body/h:table"/>
    </front>
+  <!-- then process the body -->
   <xsl:apply-templates select="h:body/h:div"/>
  </text></TEI>
 </xsl:template> 
@@ -104,6 +117,9 @@
   </castItem>
  </xsl:template>
  
+ <!-- assume either h3 or h2 is used to mark scene divisions
+     and create div structure accordingly -->
+ 
  <xsl:template match="h:div[matches(@class,'[cC]ontent')]">
   <body xmlns="http://www.tei-c.org/ns/1.0">
    <xsl:for-each-group select="*" group-starting-with="h:h3|h:h2">
@@ -116,29 +132,32 @@
   </body>
  </xsl:template>
 
+ <!-- any kind of h is a heading -->
+ 
  <xsl:template match="h:h4|h:h3|h:h2|h:h1">
   <head xmlns="http://www.tei-c.org/ns/1.0">
    <xsl:apply-templates/>
   </head>
  </xsl:template>
 
+<!-- but not for fw which we suppress -->
  <xsl:template match="h:p[@class='heading']"/>
- <!-- only present in one text: could be fw but not useful -->
+ <!-- only present in one text anyway  -->
  
+ 
+ <!-- do page breaks if marked -->
  <xsl:template match="h:p[@class='pagenum']">
   <pb xmlns="http://www.tei-c.org/ns/1.0" n="{.}"/>
-  <!--<xsl:if test="following-sibling::h:p[1][matches(@class,'char\d')]">
-   <xsl:apply-templates select="following-sibling::h:p[1]" mode="keep"/>
-  </xsl:if>-->
- </xsl:template>
+  </xsl:template>
  
+ <!-- para level stage directions -->
  <xsl:template match="h:p[@class eq 'stage']">
   <stage xmlns="http://www.tei-c.org/ns/1.0">
    <xsl:apply-templates/>
   </stage>
  </xsl:template>
  
- 
+ <!-- speaker tags -->
  <xsl:template match="h:p[starts-with(@class, 'charn')]">
   <speaker xmlns="http://www.tei-c.org/ns/1.0">
     <xsl:attribute name="n">
@@ -148,7 +167,8 @@
    </speaker>
  </xsl:template>
 
-
+<!-- speech: if it contains a br assume it's in verse -->
+ 
  <xsl:template match="h:p[matches(@class, 'char\d+')]">
   <xsl:choose>
    <xsl:when test="h:br">
@@ -167,6 +187,7 @@
     <l xmlns="http://www.tei-c.org/ns/1.0"><xsl:value-of 
      select="h:i/h:br[position() eq last()]/following-sibling::text()[1]"/></l>
    </xsl:when>
+ <!-- otherwise it's in prose -->
    <xsl:otherwise>
     <p xmlns="http://www.tei-c.org/ns/1.0">
      <xsl:apply-templates/>
@@ -175,6 +196,8 @@
   </xsl:choose>
  </xsl:template>
 
+<!-- should be phrase level didascalie -->
+ 
  <xsl:template match="h:span[@class eq 'sstage']">
   <stage xmlns="http://www.tei-c.org/ns/1.0">
    <xsl:apply-templates/>
@@ -188,6 +211,7 @@
  </xsl:template>
  
  
+ <!-- suppress some formatting clutter -->
  <xsl:template match="h:sup">
   <xsl:apply-templates/>
  </xsl:template>

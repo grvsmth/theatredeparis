@@ -1,4 +1,4 @@
-<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" ><teiHeader><fileDesc> <titleStmt> <title>ELTeC lav repository</title></titleStmt><extent><measure unit="files">31</measure></extent> <publicationStmt><p>Unpublished test file</p></publicationStmt><sourceDesc><p>Automatically generated source driver file</p> </sourceDesc> </fileDesc>   <revisionDesc><change when="2022-10-05">refreshRepo script run</change></revisionDesc></teiHeader>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" ><teiHeader><fileDesc> <titleStmt> <title>ELTeC lav repository</title></titleStmt><extent><measure unit="files">31</measure></extent> <publicationStmt><p>Unpublished test file</p></publicationStmt><sourceDesc><p>Automatically generated source driver file</p> </sourceDesc> </fileDesc>   <revisionDesc><change when="2022-10-05">refreshRepo script run</change></revisionDesc></teiHeader>
  
 <xi:include href="W0012-ed.xml"/>
 <xi:include href="W0023-ed.xml"/>
@@ -17,4 +17,4 @@
 <xi:include href="W2701-ed.xml"/>
 <xi:include href="W2761-ed.xml"/>
 <xi:include href="W2838-ed.xml"/>
-</teiCorpus>
+</TEI>

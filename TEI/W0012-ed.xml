@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W12">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W12">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -20,11 +19,8 @@
      https://github.com/grvsmth/theatredeparis </distributor>
    </publicationStmt>
    <sourceDesc>
-    <p>Original page images downloaded from <ref
-     target="http://gallica.bnf.fr/ark:/12148/bpt6k56253685"/>.</p>
-    <p>HTML transcription downloaded from <ref
-     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/12labsinthe.html"
-     >https://github.com/grvsmth/theatredeparis</ref></p>
+    <p>Original page images downloaded from <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k56253685"/>.</p>
+    <p>HTML transcription downloaded from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/12labsinthe.html">https://github.com/grvsmth/theatredeparis</ref></p>
    </sourceDesc>
   </fileDesc>
   <revisionDesc>
@@ -57,7 +53,7 @@
    </set>
    <div type="preface">
     <head>COUPLET D'ANNONCE.</head>
-    <head type="air">AIR : Vaud, d'Arlequin-Afficheur.</head>
+    <stage type="air">AIR : Vaud, d'Arlequin-Afficheur.</stage>
     <l>II n'est plus de nouveaux sujets,</l>
     <l> On épuise tout pour vous plaire ;</l>
     <l> Pour mettre du sel aux couplets</l>
@@ -130,7 +126,7 @@
     <l> Que nous offre la volupté</l>
     <l> En vain je vois sur une assiète</l>
     <l> Ce qui réveille l'apetit</l>
-    <pb/>
+    <pb n="5"/>
     <l> Moi, par goût je préfère au fruit</l>
     <l> Les roses du teint de Jeannette.</l>
     <sp who="#TDP12_2">
@@ -162,7 +158,7 @@
     <sp who="#TDP12_2">
      <speaker>HORTENCE.</speaker>
      <p>Je veux le guérir de ce défaut . . . Mais il
-      <pb/>faut que vous et Jeannette me secondiez ...</p>
+      <pb n="6"/>faut que vous et Jeannette me secondiez ...</p>
     </sp>
     <sp who="#TDP12_3">
      <speaker>NICAISE.</speaker>
@@ -198,7 +194,7 @@
      <speaker>HORTENCE.</speaker>
      <p>Tu n'aimes donc pas Nicaise ?</p>
     </sp>
-    <pb/>
+    <pb n="7"/>
     <sp who="#TDP12_4">
      <speaker>JEANNETTE.</speaker>
      <p>Si fait, madame. Je l'aimerais encore mieux sans le proverbe: qui se marie fait bien, mais
@@ -232,7 +228,7 @@
      <speaker>NICAISE.</speaker>
      <p>Voilà qui est bon, mais je ne saurai jamais faire le médecin.</p>
     </sp>
-    <pb/>
+    <pb n="8"/>
     <sp who="#TDP12_2">
      <speaker>HORTENCE.</speaker>
      <p>Rien de plus facile : on prend une démarche grave, on tate le poul avec un air pensif, on
@@ -273,7 +269,7 @@
      <speaker>HORTENCE.</speaker>
      <l>Allez , allez , Jeannette,</l>
      <l> Punissons un gourment ,</l>
-     <pb/>
+     <pb n="9"/>
      <l> Surtout soyez discrette</l>
      <l> Jusques au dénouement.</l>
     </sp>
@@ -310,7 +306,7 @@
     <l>Vous boirez l'absinthe </l>
     <l>Pour me divertir. </l>
     <l>Quoique je suis bonne, &amp;c.</l>
-    <pb/>
+    <pb n="10"/>
    </div>
    <div type="scene">
     <head>SCÈNE IV.</head>
@@ -353,7 +349,7 @@
     </sp>
     <stage type="set">Elle sort.</stage>
    </div>
-   <pb/>
+   <pb n="11"/>
    <div type="scene">
     <head>SCÈNE V.</head>
     <stage type="set">HORTENCE. FLANCHET.</stage>
@@ -386,7 +382,7 @@
     <l> Que votre ensemble est léger</l>
     <l> Lorsque je vous vois paraître</l>
     <l> Avec ce minois fripon</l>
-    <pb/>
+    <pb n="12"/>
     <l> Je vois que c'est à mon maître</l>
     <l> Que je donne une leçon.</l>
     <sp who="#TDP12_2">
@@ -424,9 +420,9 @@
      <speaker>HORTENCE.</speaker>
      <p>L'Hortantia . . . C'est le nom d'une fleur qui nous vient de la Chine.</p>
     </sp>
-    <pb/>
+    <pb n="13"/>
     <sp who="#TDP12_3">
-     <speaker>NICAISE, <hi>furtivement</hi>.</speaker>
+     <speaker>NICAISE, .</speaker><stage type="inline">furtivement</stage>
      <p>Madame ... Madame ...</p>
     </sp>
     <sp who="#TDP12_5">
@@ -471,7 +467,7 @@
       faut que je m'informe si on a fait une commission que j'avais recommandée ... <stage>( elle
       appèle )</stage> Jeannette ... Jeannette ...</p>
     </sp>
-    <pb/>
+    <pb n="14"/>
    </div>
    <div type="scene">
     <head>SCÊNE VII</head>
@@ -498,7 +494,7 @@
      <p>Ah, Bath! Madame, qui voulez-vous qui touche à cela ...</p>
     </sp>
     <sp who="#TDP12_5">
-     <speaker>FLANCHET <hi>à part</hi>.</speaker>
+     <speaker>FLANCHET .</speaker><stage type="inline">à part</stage>
      <p>Ah, mon dieu !... Qu'elle catastrophe !..</p>
     </sp>
     <sp who="#TDP12_4">
@@ -506,14 +502,14 @@
      <p>Et puis, il ne sont peut-être pas si dangereux ...</p>
     </sp>
     <sp who="#TDP12_5">
-     <speaker>FLANCHET <hi>inquiet</hi>.</speaker>
+     <speaker>FLANCHET .</speaker><stage type="inline">inquiet</stage>
      <p>Cela ne tuerait peut-être pas un homme.</p>
     </sp>
     <sp who="#TDP12_2">
      <speaker>HORTENCE.</speaker>
      <p>Si fait... Si fait... Si vous voulez nous allons continuer...</p>
     </sp>
-    <pb/>
+    <pb n="15"/>
     <sp who="#TDP12_5">
      <speaker>FLANCHET.</speaker>
      <p>Je vous avoue que je me suis guère en train aujourd'hui...</p>
@@ -537,7 +533,7 @@
       peut avoir goûté.</p>
     </sp>
     <sp who="#TDP12_2">
-     <speaker>HORTENCE <hi>à part</hi>.</speaker>
+     <speaker>HORTENCE .</speaker><stage type="inline">à part</stage>
      <p>Nous le tenons. <stage>[ haut. ]</stage> Oh ! il n'y a personne d'assez gourmant pour cela
       dans da maison.</p>
     </sp>
@@ -552,7 +548,7 @@
     <sp who="#TDP12_2">
      <speaker>HORTENCE.</speaker>
      <p>Je ne vous prierai pas aujourd'hui de me
-      <pb/> faire repeter d'autre pas que celui de l'Hortentia ... Mais demain ...</p>
+      <pb n="16"/> faire repeter d'autre pas que celui de l'Hortentia ... Mais demain ...</p>
     </sp>
     <sp who="#TDP12_5">
      <speaker>FLANCHET.</speaker>
@@ -590,16 +586,16 @@
      <p>Non pas trop ... Ils ne contenaient qu'un carteron d'arsenic.</p>
     </sp>
     <sp who="#TDP12_5">
-     <speaker>FLANCHET <hi>haut</hi>.</speaker>
+     <speaker>FLANCHET .</speaker><stage type="inline">haut</stage>
      <p>Aye, Aye !.. Je suis mort... La douleur m'étouffe ...</p>
     </sp>
-    <pb/>
+    <pb n="17"/>
     <sp who="#TDP12_2">
-     <speaker>HORTENCE <hi>feignant la surprise</hi>.</speaker>
+     <speaker>HORTENCE .</speaker><stage type="inline">feignant la surprise</stage>
      <p>Quoi! Vous en auriez mangé?</p>
     </sp>
     <sp who="#TDP12_5">
-     <speaker>FLANCHET <hi>désespéré</hi>.</speaker>
+     <speaker>FLANCHET .</speaker><stage type="inline">désespéré</stage>
      <p>Je n'en ai pas laissé une miette ...</p>
     </sp>
     <sp who="#TDP12_2">
@@ -643,7 +639,7 @@
      <speaker>FLANCHET.</speaker>
      <p>De la chaussée d'Antin...</p>
     </sp>
-    <pb/>
+    <pb n="18"/>
     <sp who="#TDP12_2">
      <speaker>HORTENCE.</speaker>
      <p>Vous me faites penser à une chose . . . Je suis fachée de n'avoir pas dit à Jeannette de
@@ -680,7 +676,7 @@
     <head>SCÊNE IX.</head>
     <stage type="set">JEANNETTE. FLANCHET. HORTENCE.</stage>
     <sp who="#TDP12_3">
-     <speaker>NICAISE, <hi>en médecin</hi>.</speaker>
+     <speaker>NICAISE, .</speaker><stage type="inline">en médecin</stage>
      <p>Madame, voici, monsieur le docteur.,</p>
     </sp>
     <sp who="#TDP12_4">
@@ -691,7 +687,7 @@
      <speaker>HORTENCE.</speaker>
      <p>Arrivez vîte, monsieur, nous avons besoin de vos services...</p>
     </sp>
-    <pb/>
+    <pb n="19"/>
     <sp who="#TDP12_5">
      <speaker>FLANCHET.</speaker>
      <p>Aye ! Je n'en puis plus! ..</p>
@@ -705,7 +701,7 @@
      <p>Je ne suis point une jolie femme, monsieur, et je n'ai point de vapeurs.</p>
     </sp>
     <sp who="#TDP12_3">
-     <speaker>NICAISE <hi>à Flanchet</hi>.</speaker>
+     <speaker>NICAISE .</speaker><stage type="inline">à Flanchet</stage>
      <p>Ah ! C'est de vous dont il s'agit !.. Voyons votre pouls.</p>
     </sp>
     <sp who="#TDP12_2">
@@ -737,7 +733,7 @@
      <speaker>NICAISE.</speaker>
      <p>Monsieur, il y a pour votre état qui est très-allarmant, deux espèces de remèdes.</p>
     </sp>
-    <pb/>
+    <pb n="20"/>
     <sp who="#TDP12_5">
      <speaker>FLANCHET.</speaker>
      <p>Donnez-les-moi, tous deux, je vous prie.</p>
@@ -786,7 +782,7 @@
      <stage type="set">( elle sert à boire. )</stage>
      <p>Tout plein...</p>
     </sp>
-    <pb/>
+    <pb n="21"/>
     <sp who="#TDP12_5">
      <speaker>FLANCHET.</speaker>
      <p>Comment il faut que j'avale tout cela.</p>
@@ -832,7 +828,7 @@
      <speaker>FLANCHET.</speaker>
      <p>Je ne me rappelle que des pêches et de quelques fonds de bouteilles...</p>
     </sp>
-    <pb/>
+    <pb n="22"/>
     <sp who="#TDP12_2">
      <speaker>HORTENCE.</speaker>
      <p>Le Malaga ...</p>
@@ -846,7 +842,7 @@
      <p>Voyez-vous comme il avoue tout ... Eh bien ! On nous soupçonnait pourtant...</p>
     </sp>
     <sp who="#TDP12_3">
-     <speaker>NICAISE, <hi>se découvrant</hi>.</speaker>
+     <speaker>NICAISE, .</speaker><stage type="inline">se découvrant</stage>
      <p>Et on rompait notre mariage pour nous punir des fautes de monsieur.</p>
     </sp>
     <sp who="#TDP12_5">
@@ -876,7 +872,7 @@
      <speaker>NICAISE.</speaker>
      <p>Tout réussit aujourd'hui, au gré de mes désirs...</p>
     </sp>
-    <pb/>
+    <pb n="23"/>
     <sp who="#TDP12_5">
      <speaker>FLANCHET.</speaker>
      <p>Je ne ferai plus le gourmant, je le jure... Mais , quelle diable de boisson m'avez-vous donc
@@ -918,7 +914,7 @@
      <l> Car le commerce est un jardin</l>
      <l> Ou l'on trouve aussi de l'absinthe.</l>
     </sp>
-    <pb/>
+    <pb n="24"/>
     <sp who="#TDP12_4">
      <speaker>JEANETTE.</speaker>
      <l>Un jeune auteur pour quelques vers</l>
@@ -931,7 +927,7 @@
      <l> Où l'on trouve beaucoup d'absinthe.</l>
     </sp>
     <sp who="#TDP12_2">
-     <speaker>HORTENCE <hi>au public</hi>.</speaker>
+     <speaker>HORTENCE .</speaker><stage type="inline">au public</stage>
      <l>Notre Auteur n'a fait ces couplets,</l>
      <l> Que peut lui lancer la satire ;</l>
      <l> Et vous serez dans son jardin</l>

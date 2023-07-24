@@ -44,7 +44,7 @@
     <docImprint>1814, A PARIS, Chez VENTE, Libraire, Boulevard des Italiens, 7, près la rue Favart,
      1814.</docImprint>
    </titlePage>
-   <div type="liminal">
+   <div type="preface">
     <head>A SON ALTESSE ROYALE MONSIEUR, Comte d'Artois.</head>
     <p> Monseigneur, Votre Altesse Royale daigne donc accepter la dédicace de quelques scènes
      villageoises, de quelques couplets naïfs , inspirés par une circonstance fortunée et l'amour de
@@ -81,7 +81,7 @@
      Maison. Une porte à la droite des Acteurs, à la seconde coulisse. Au lever de la toile, on voit
      ça et là plusieurs sacs pleins de farine.</stage>
 
-   <div>
+   <div type="scene">
 
     <head>SCENE PREMIERE.</head>
     <stage>MICHAU, Paysans et Garçons meuniers.</stage>
@@ -148,7 +148,7 @@
      <l> Emportons chacun notre sac.</l>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE II</head>
 
@@ -196,7 +196,7 @@
      </lg>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE III. MICHAU, SUZETTE.</head>
 
@@ -400,7 +400,7 @@
      <p>Holà ! hée !</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE IV.</head>
     <stage>Les Précedens, MARIANNE, LUBIN, COLAS.</stage>
@@ -473,7 +473,7 @@
      <stage>( Il sort ).</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE V.</head>
     <stage>Les précédens hors MICHAU.</stage>
@@ -544,7 +544,7 @@
      <p>Qu'est-ce qu'y dit donc ?</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>QUATUOR.</head>
 
@@ -652,7 +652,7 @@
      <stage>( Il sort ).</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCÊNE VI.</head>
     <stage>Les Mèmes, hors COLAS</stage>
@@ -700,7 +700,7 @@
      <stage>( Il sort. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE VII</head>
     <stage>MARIANNE, SUZETTE.</stage>
@@ -808,7 +808,7 @@
      <stage>( Elles s'embrassent.)</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE VIII.</head>
     <stage>Les Mêmes, LUBIN.</stage>
@@ -900,7 +900,7 @@
      <stage>( Suzette pose sa corbeille sut la tablé devant la chaise de Henri IV. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>S C E N E I X.</head>
     <stage>Les mêmes, Michau</stage>
@@ -943,7 +943,7 @@
      <p>Pas possible. Ce Colas vous tient bien au cœur, madame ma sœur,</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCÈNE X.</head>
     <stage>Les mêmes, COLAS.</stage>
@@ -1010,7 +1010,7 @@
      <p>T'as raison, Sois tranquille; J'arrangerons ça.</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>RONDE.</head>
 

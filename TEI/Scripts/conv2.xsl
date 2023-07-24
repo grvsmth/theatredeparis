@@ -8,13 +8,17 @@
  
  <xsl:output xpath-default-namespace="http://www.tei-c.org/ns/1.0"/>
  
-
+ <!-- convert xhtml to tei (second pass)
+  
+    lb42 : July 2923 -->
+ 
  <xsl:template match="/ | @* | node()" >
   <xsl:copy>
    <xsl:apply-templates select="@* | node()"/>
   </xsl:copy>
  </xsl:template>
-
+<!-- within each div group by speaker, wrap group in an sp element to make it valid,
+     and transfer speaker identifier to sp/@who  -->
  <xsl:template match="body/div"> 
   <div xmlns="http://www.tei-c.org/ns/1.0">
    <xsl:for-each-group select="*" group-starting-with="speaker">              
@@ -27,10 +31,11 @@
   </div>
  </xsl:template>
  
- 
+ <!-- suppress speaker/@n as we have moved it to sp/who -->
  <xsl:template match="t:speaker/@n"/>
  
- <xsl:template match="t:speaker[t:stage]">
+ <!-- stage not permitted within speaker so move it -->
+  <xsl:template match="t:speaker[t:stage]">
   <speaker xmlns="http://www.tei-c.org/ns/1.0"> <xsl:value-of select="text()"/></speaker>
   <xsl:copy-of select="t:stage"/>
  </xsl:template>

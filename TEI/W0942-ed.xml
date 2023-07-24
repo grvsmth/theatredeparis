@@ -1,0 +1,2067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W0942">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Esope chez Xantus: TEI edition (Wicks no. 942)</title>
+    <author>Tarenne de Laval</author>
+    <respStmt>
+     <resp>HTML version by </resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI version by </resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <p> The Digital Parisian Stage Corpus is distributed from a GitHub
+     repository at <ref target="https://github.com/grvsmth/theatredeparis"/>
+      </p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images available from <ref
+     target="https://books.google.com/books?id=YoiCpnfdCmYC"/>.</p>
+    <p>HTML transcription available from <ref
+     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/942esope.html"
+     >https://github.com/grvsmth/theatredeparis</ref></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc>
+   <change when="2023-07-24">Hand edited</change>
+   <change when="2023-07-24">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>ÉSOPE CHEZ XANTUS , COMEDIE-VAUDEVILLE EN UN ACTE, </titlePart>
+    </docTitle>
+    <byline>Par le Citoyen MARTIGNAC. </byline>
+    <titlePart>Représentée , pour la première fois , à Paris , au Théâtre du Vaudeville, le 4
+     Ventôse an 9.</titlePart>
+    <docImprint> A PARIS, Au Magasin de pièces de Théâtres, rue des Prêtres Saint
+     Germain-l'Auxerrois , no. 44 , en face de l'Eglise. </docImprint>
+    <docDate>An IX.</docDate>
+   </titlePage>
+   <castList>
+    <head>PERSONNAGES. ACTEURS</head>
+    <castItem><role>ESOPE , Phrygien,</role><actor>Les Cns Carpentier.</actor></castItem>
+    <castItem><role>XANTUS , Professeur,</role><actor>Hypolite.</actor></castItem>
+    <castItem><role>XANTIPPE , sa femme,</role><actor>Mde Bodin.</actor></castItem>
+    <castItem><role>LESBIA , leur fille ,</role><actor>Mde Henri.</actor></castItem>
+    <castItem><role>CLITOPHON , amant de Lesbia,</role><actor>Albert.</actor></castItem>
+    <castItem><role>MARSÈS , jardinier,</role><actor>Lenoble.</actor></castItem>
+    <castItem><role>ELÈVES ,</role><actor/></castItem>
+    <castItem><role>ESCLAVES.</role><actor/></castItem>
+   </castList>
+   <set>
+    <p>La Scene est à Samos, chez le Philosophe Xantus.</p>
+   </set>
+   <div type="preface">
+    <head>APOLOGUE D' ANNONCE.</head>
+    <lg>
+     <l>PRAXITELLE était mort. Les Grecs dans la douleur</l>
+     <l> Regrettaient que, pendant sa vie,</l>
+     <l> Le ciseau d'un savant Sculpteur</l>
+     <l> N'eût point gravé son image chérie.</l>
+     <l> Enflâmé d'une noble ardeur ,</l>
+     <l> Encor tout plein de cette image,</l>
+     <l> Un jeune homme entreprit l'ouvrage</l>
+     <l> Sans autre guide que son cœur.</l>
+     <l> Il retraça les traits de Praxitelle ;</l>
+     <l> Et quoique ce faible portrait</l>
+     <l> Fût peu digne de son nodéle,</l>
+     <l> Le peuple Grec fut satisfait</l>
+     <l> Et lui sut bon gré de sou zèle.</l>
+    </lg>
+    <lg>
+     <l>Si vous voulez aider l'auteur</l>
+     <l> A faire de sa faible une histoire réelle ,</l>
+     <l> Laissez-le se charger du rôle du Sculpteur ,</l>
+     <l> Esope sera Praxitelle.</l>
+     <l> Quant à ces Grecs bons, indulgens ,</l>
+     <l> Qui , même au défaut des talens ,</l>
+     <l> Savent gré de la bonne envie ,</l>
+     <l> Prenez leur râle quelque tems,</l>
+     <l> Car c'est à vous qu'il le confie.</l>
+    </lg>
+    <p>Cet Apologue n'ayant pas pu être dit à la première représentation, l'auteur y substitua le
+     couplet d'annonce suivant :</p>
+    <stage>AIR d'Arlequin Afficheur.</stage>
+    <lg>
+     <l>Esope parut à la cour,</l>
+     <l> Et de là s'en vint à la ville ;</l>
+     <l> Il vient chez Xantus en ce jour,</l>
+     <l> Le trajet est plus dificile.</l>
+     <pb n="4"/>
+     <l> S'il s'égarait, pardonnez-lui,</l>
+     <l> Car notre voyageur timide.</l>
+     <l> Dans son voyage d'aujourd'hui</l>
+     <l> N'a pas Boursault pour guide.</l>
+    </lg>
+   </div>
+  </front>
+  <pb n="5"/>
+  <body>
+
+
+   <head>ÉSOPE</head>
+   <head>CHEZ XANTUS, VAUDEVILLE EN UN ACTE.</head>
+
+   <div type="scene">
+
+    <head>SCÈNE PREMIÈRE:</head>
+    <stage>XANTIPPE, LESBIA.</stage>
+
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Non , Lesbia, jamais je ne souffrirai que la fille de la plus riche héritière de Samos et du
+      premier philosophe de la Grèce , devienne l'épouse d'un homme sans fortune, sans érudition,
+      d'un simple élève de son père.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Ces considérations-là peuvent-elles être de quelque poids, pour l'épouse du premier
+      philosophe de la Grèce. J'ai mieux profité que vous des leçons de Xantus.</p>
+     <stage>( No. i. ) AIR : On compterait les Diamans.</stage>
+     <l>Moi qui gravai dans mon esprit</l>
+     <l> Les grands principes de mon père,</l>
+     <l> Je le sens , la raison me dit</l>
+     <l> Que je fais ce que je dois faire</l>
+     <l> Je suis en tout point lés avis</l>
+     <l> Que nous a dicté sa sagesse.</l>
+     <l> Mon choix vous prouve mon mépris</l>
+     <l> Pour le rang et pour la richesse.</l>
+    </sp>
+    <pb n="6"/>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Puisque le défaut dé fortune ne vous suffit pas et qu'il faut vous rendre compte des motifs,
+      je vous dirai que le peu de savoir, d'éloquence de votre protégé, rendent votre union
+      impossible.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Ah ! madame, vous ne l'avez pas entendu comme moi. Il est des momens où le disciple semble
+      surpasser le maître; par exemple.</p>
+     <stage>( No. 2. ) AIR : J'ai vu partout dans mes voyages.</stage>
+     <l>Déjà, dès l'âge le plus tendre ,</l>
+     <l> A ses disciples chaque jour</l>
+     <l> J'entends Xantus, sans le comprendre ,</l>
+     <l> Dire ce que c'est que l'amour ;</l>
+     <l> Malgré son éloquence extrême ,</l>
+     <l> Le maître n'en vint pas à bout...</l>
+     <l> L'élève n'eut qu'à dire : J'aime ,</l>
+     <l> Et ce mot seul m'expliqua tout.</l>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Ce raisonnement peut plaire à Xantus, auprès de qui tout ce qui est argument, réussit; mais
+      à mon égard, je ne vous conseille pas de vous servir de pareilles raisons.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Clitophon aurait, je l'avoue , peu de titres à votre reconnaissance , si je ne lui avais que
+      cette obligation , mais il m'a rendu meilleure en me rendant sensible ; il m'a donné une piété
+      plus fervente que toutes les savantes démonstrations de mon père.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Et comment s'y est-il pris, mademoiselle ?</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Bien simplement :</p>
+     <pb n="7"/>
+     <stage>( No. 3. ) air : Vaudeville de Chaulieu.</stage>
+     <l>Embrasé des feux du génie ,</l>
+     <l> Xantus, prochant la piété ,</l>
+     <l> Nous a peint avec énergie</l>
+     <l> L'amour de la Divinité.</l>
+     <l> Clitophon sans art, sans image ,</l>
+     <l> Frappe mieux mes sens et mon cœux ;</l>
+     <l> En me faisant chérir l'ouvrage ,</l>
+     <l> Il me fait adorer l'auteur.</l>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPP.</speaker>
+     <p>A merveille ! votre père sera bien récompensé de la belle idée qu'il a eue de vous faire
+      assister à ses leçons de logique ; il sera charmé , sur-tout , des leçons que son élève se
+      charge de donner à sa fille et de la soumission qu'il lui inspire pour ses volontés.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Mais madame, mon père voudra bien remarquer que depuis que je connais Clitophon , j'ai
+      toujours montré plus de docilité, plus d'obéissance qu'auparavant.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>C'est ce que vous voudrez bien lui prouver a lui-même ; tenez le voici qui rentre.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE II</head>
+    <stage>XANTUS , XANTIPPE , LESBIA.</stage>
+
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Venez, Xantus , m'aider à féliciter votre fille sur son respect pour les ordres de sa mère
+      et les vôtres.</p>
+    </sp>
+    <pb n="8"/>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>De quoi s'agit-il , Lesbia ? de quoi se plaint Xantippe?</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>D'une chose que je ne suis plus la maîtresse d'empêcher, seigneur ; de mon amour pour
+      Clitophon.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Ne vous ai-je pas dit que cette union ne pouvait se faire! J'aime Clitophon, je l'avoue;
+      mais la fille de Xantus......</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Et de Xantippe,</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Ne peut appartenir à un jeune homme sans fortune et sans réputation ; et de plus , je ne
+      vous cache point que je suis mécontent de lui. Lorsqu'il arriva d'Amorium pour étudier sous
+      moi, il était appliqué , attentif ; et maintenant il l'est beaucoup moins; D'ailleurs, la
+      hardiesse qu'il a de vous engager à me désobéir , me fait perdre beaucoup de ma prévention en
+      sa faveur.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE</speaker>
+     <p>Comment! mais Lesbia est prête à vous prouver, par un très-beau raisonnement , j'imagine ,
+      qu'elle n'a jamais été si soumise et si docile que depuis qu'elle l'écoute.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Un raisonnement ? Dites , mon enfant; dites. Vous raisonnez donc, ma Lesbia ? Vous profitez
+      des leçons de votre père, c'est fort bien ; dites .</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Mon père.....</p>
+     <stage>( Xantippe fait un mouvement d'impatience. )</stage>
+    </sp>
+    <pb n="9"/>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <stage>( No. 4. ) air: Vaudeville des deux Veuves.</stage>
+     <l>Xantippe, laissez librement</l>
+     <l> Raisonner notre chère fille ;</l>
+     <l> En prononçant un argument</l>
+     <l> Elle est mille fois plus gentille.</l>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <l>Faire ainsi raisonner, seïgneur,</l>
+     <l> Un enfant déjà peu traitable ,</l>
+     <l> C'est le rendre plus raisonneur ,</l>
+     <l> Sans le rendre plus raisonnable.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Rapportez-vous-en à moi pour rectifier ses idées. Parlez, Lesbia.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Eh bien, vous allez voir si j'ai tort.</p>
+     <stage>( No. 5 ) air : Vaudeville de oui eu non.</stage>
+     <l>A vos séances tous jours</l>
+     <l> Je manquais par quelque finesse ,</l>
+     <l> Vous m'accusiez aussi toujours</l>
+     <l> De négligence et de paresse.</l>
+     <l> Vos prières et vos raisons</l>
+     <l> Eprouvaient de la résistance</l>
+     <l> Depuis qu'il vient à vos leçons</l>
+     <l> Je n'ai plus manqué de séance.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Fort bien, fort bien. Votre principe est bien un peu faux, mais ce sont d'excellentes
+      dispositions pour la philosophie. Cependant , faites-moi le plaisir de ne plus parler de ce
+      mariage, et rapportez-vous-en à moi pour le choix d'un époux.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Oui, votre père s'y connaît.</p>
+    </sp>
+    <pb n="10"/>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Sans doute; mais parlons d'autre chose. C'est le meilleur moyen de se distraire.</p>
+     <stage>( No. 6. ) AIR : du Chapitre second.</stage>
+     <l>L'esprit a bien plus d'un ressort</l>
+     <l> Qui sert à bien plus d'un ouvrage ;</l>
+     <l> Quand l'un agit avec effort ,</l>
+     <l> On en met un autre en usage.</l>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA,</speaker>
+     <l>Mais le cœur est bien différent :</l>
+     <l> S'il souffre , rien ne le délasse,</l>
+     <l> Alors qu'il n'a qu'un sentiment</l>
+     <l> Qui remplit seul toute la place.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>C'est assez, Lesbia ; songez à ce que je vous ai dit. Xantippe, je me suis acquitté da votre
+      commission au-delà de votre espérance et de la mienne.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Avez-vous enfin fait achat d'un esclave que je vous demande depuis si long-temps ?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Précisément. Mais si vous avez eu des reproches à me faire pour les retards , j'espère
+      n'avoir que des remerciemens sur le choix.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Est-il donc si merveilleux , et serait-il bien possible qu'une fois dans la vie, vous
+      eussiez fait quelque chose de bien pour moi ?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Ah ! vous serez vous-même étonnée. C'est vraiment un homme rare. Ma chère Xantippe, tu ne
+      t'attendais pas, je t'assure, à cette galanterie de ma part.</p>
+    </sp>
+    <pb n="11"/>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Mais où donc est-il ce prodige de perfection, ce phénix ?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Il est là qui attend tes ordres. Mais pour ne pas te frapper trop vivement, je crois qu'il
+      faut te préparer un peu en te faisant son portrait.</p>
+     <stage>( No. 7. ) AIR : Nous nous marierons Dimanche.</stage>
+     <l>Peins toi trait pour trait</l>
+     <l> L'homme le mieux fait</l>
+     <l> Qui soit dans la Grèce entière ;</l>
+     <l> Le corps élancé ,</l>
+     <l> Bien droit , bien placé ,</l>
+     <l> La démarche noble et fière ;</l>
+     <l> Des cheveux blonds</l>
+     <l> Tombant en ronds</l>
+     <l> Par terre ;</l>
+     <l> Deux jolis yeux</l>
+     <l> Bien grands , bien bleus ;</l>
+     <l> Ma chère ,</l>
+     <l> Puis de ce portrait ,</l>
+     <l> Quand tu l'auras fait....</l>
+     <l> Figure-toi le contraire.</l>
+     <p>Approche , Esope, qu'on t'admire.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE III</head>
+    <stage>Les mêmes, ESOPE.</stage>
+
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Le voilà!</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Quelle horreur! grands dieux !</p>
+    </sp> <pb n="12"/>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker><stage>riant.</stage>
+     <p>Oh ! la plaisante figure !</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>En vérité, ceci passe la raillerie. Je vous ferai voir qu'on ne se joue pas ainsi d'une
+      femme comme moi.</p>
+     <stage>( No. 8. ) AIR des Trembleurs.</stage>
+     <l>C'est trop loin pousser l'audace ,</l>
+     <l> Et je vous le dis en face ,</l>
+     <l> Depuis long-temps je suis lasse</l>
+     <l> Et me plains avec raison :</l>
+     <l> Je ne fais plus nulle grace ,</l>
+     <l> Je quitte aujourd'hui la place ,</l>
+     <l> Ou t'exige qu'on la chasse</l>
+     <l> Dans l'instant de ma maison.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS,</speaker>
+     <p>Appaisez-vous, Xantippe; je le renverrai si vous voulez.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Certainement, je le veux.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Vous avez tort. Vous êtes mère de famille, je pourrais vous être plus utile qu'un autre.</p>
+     <stage>( No. 9. AIR des Bossus.</stage>
+     <l>Depuis long-tems, quand ils font les méchans ,</l>
+     <l> Des loups , des ours, on fait peur aux enfans ;</l>
+     <l> Mais quand on a quelque lutin chez soi</l>
+     <l> A qui le loup ne cause plus d'effroi ,</l>
+     <l> Pour l'effrayer on lui parle de moi,</l>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LE8BIA.</speaker>
+     <p>Oh ! la plaisante créature !</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>M'amener un pareil monstre !</p>
+    </sp><pb n="13"/>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Fâchez-vous bien ; et vous, riez de tout votre cœur. Mais quand vous vous serez bien fâchée,
+      vous vous en lasserez, et vous ne vous fâcherez plus; et vous, quand vous aurez bien ri, vous
+      finirez par ne plus rire, et cependant je n'aurai pas cessé d'être laid. D'ailleurs, écoutez
+      cet apologue.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Voyons, voyons.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Parle, je t'écoute.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Vous êtes bien le maître d'écouter cet impertinent esclave. Pour moi, je me retire dans mon
+      appartement, et je n'en sors pas qu'il n'ait quitté ma maison.</p>
+     <stage>( Elle sort. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE IV. </head>
+    <stage>ESOPE, XANTUS, LESBIA;</stage>
+
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Ne crains rien, je l'appaiserai.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Tant mieux pour vous.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Voyons ton apologue.</p>
+    </sp><pb n="14"/>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <l>Un jour , sur la place publique</l>
+     <l> Où le grand marché se tenait,</l>
+     <l> Un jeune esclave marchandait</l>
+     <l> Un melon d'une espèce unique ,</l>
+     <l> Jaune comme un beau citron,</l>
+     <l> Bien allongé, bien fait, bien rond,</l>
+     <l> D'une grosseur démesurée,</l>
+     <l> Chaque côte bien séparée ;</l>
+     <l> Bref, c'était le plus beau melon</l>
+     <l> Que l'on eût vu dans la contrée</l>
+     <l> Depuis plus d'un siècle, dit-on.</l>
+     <l> Fier de porter à sa maîtresse</l>
+     <l> Le roi des fruits,</l>
+     <l> Notre esclave enchanté s'empresse</l>
+     <l> De faire prix.</l>
+     <l> Ensuite, au fond de la boutique ,</l>
+     <l> Il va pour la gent domestique,</l>
+     <l> Parmi tous , choisir le plus laid.</l>
+     <l> Il en prend un bossu , difforme,</l>
+     <l> Galeux , raboteux , contrefait,</l>
+     <l> Et-couvert d'une peau conforme</l>
+     <l> A la forme,</l>
+     <l> De l'autre, un contraste parfait.</l>
+     <l> Marché conclu, notre esclave au plus vite</l>
+     <l> Revient au logis du patron.</l>
+     <l> Chacun admire le melon ,</l>
+     <l> Et pour le manger on invite</l>
+     <l> Tous les amis de la maison.</l>
+     <l> Or, quand la table fut servie ,</l>
+     <l> Et le monde autour rassemblé ,</l>
+     <l> Le melon en tranche étalé ,</l>
+     <l> Se transporte en cérémonie.</l>
+     <l> Eh bien ! ce beau fruit si vanté ,</l>
+     <l> Si cher , si bien fait , si têté ,</l>
+     <l> Fut trouvé par la compagnie ,</l>
+     <l> Bien prévenue en sa faveur ,</l>
+     <l> Sans goût, sans parfum , sans saveur.</l>
+     <l> Et l'objet de la raillerie ,</l>
+     <l> Que, par pure plaisanterie,</l>
+     <l> Le maître avait fait apporter ,</l>
+     <l> Et qu'on s'avisa de goûter ,</l>
+     <l> Se trouva doux , mûr , agréable,</l>
+     <l> Et fit les honneurs de la table.</l>
+    </sp><pb n="15"/>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Fort bien, fort bien; mais sais-tu qu'il est très-à-propos ton apologue?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Comment donc ! je suis tout étonné de tout ce que j'entends ! Qui diable se serait douté
+      qu'il y avait quelque chose de bon là-dedans !</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>C'est précisément ce que dit l'esclave , lorsqu'il vit que l'intérieur de son vilain melon
+      valait mieux que celui de l'autre. Cela ne m'étonne pas de la part d'un homme sans expérience,
+      qui juge sur ce qu'il voit d'abord et ne va pas plus avant ; mais vous ,</p>
+     <stage>( No. 10. ) AIR : Femmes voulez-vous éprouver.</stage>
+     <l>Pourquoi penser que rien de beau</l>
+     <l> Ne peut sortir d'un corps informe ,</l>
+     <l> Le coloris de ce manteau</l>
+     <l> Provient d'un insecte difforme</l>
+     <l> La perle qui pare ce front,</l>
+     <l> Vient d'une chétive coquille ;</l>
+     <l> Souvent le plus beau papillon</l>
+     <l> Sort de la plus laide chenille.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Qu'en dis-tu , Lesbia ?</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Je dis que je ne le trouve plus si laid, et qu'il me semble qu'il commence lui-même à
+      devenir un peu papillon.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Il est bien dommage que Xantippe ne l'ait point entendu; je gage que ce dernier raisonnement
+      l'aurait raccommodée avec Esope , malgré sa grande colère.</p>
+    </sp><pb n="16"/>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Non, ce n'était point contre mon esprit qu'elle était si furieuse , puisque je n'avais pas
+      encore parlé; c'est contre ma figure, et regardez-moi bien : elle n'a pas changé, je suis
+      toujours aussi laid que tout-à-l'heure.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>C'est vrai, tu n'es pas beau; mais enfin , je l'engagerai à t'écouter les yeux fermés.
+      D'ailleurs, comme tu parais avoir l'esprit juste, je consentirai peut être à t'admettre à mes
+      leçons, et sous un maître tel que moi, avec des dispositions, tu feras quelque chose; je vais
+      plaider ta cause auprès de Xantippe.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Attendez que sa fureur soit passée ; autrement, ce serait peine perdue. La colère est comme
+      la surdité , toutes les deux empêchent également d'entendre.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Sois tranquille; Xantus n'a besoin de conseil ni sur l'une , ni sur l'autre maladie : il
+      connaît également le cœur et le corps humain.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE V.</head>
+    <stage>ÉSOPE, LESBIA.</stage>
+
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Vous connaissez votre mère ; croyez-vous qu'il obtienne d'elle pour moi, la faveur de rester
+      près de vous ?</p>
+    </sp><pb n="17"/>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Je n'oserais pas te le promettre ; cependant je l'espère. Je dis je l'espère, car je
+      commence à le désirer ; je voudrais que tu restasses avec nous; tu me ferais rire au-moins.
+      Hélas ! depuis quelque tems j'ai tant de chagrin ! j'ai bien besoin de quelqu'un qui me fasse
+      rire.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Vous avez du chagrin? tant mieux.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>LESBIA.</speaker>
+     <p>Comment ! tant mieux ?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Oui , vous n'en sentirez que plus vivement le bonheur qui le suivra sans doute.</p>
+     <stage>( No. 11.) AIR : Un jour il est agriculteur. ( de M. Guillaume. )</stage>
+     <l>Pour apprécier les beaux jours ,</l>
+     <l> Il faut avoir vu des jours sombres;</l>
+     <l> Pour faire admirer ses contours ,</l>
+     <l> Un tableau doit avoir des ombres.</l>
+     <l> Flore, dans son brillant jardin ,</l>
+     <l> Orne de fleurs à peine écloses</l>
+     <l> Sème artistement de sa main,</l>
+     <l> Quelques soucis parmi les roses.</l>
+     <p>J'espère que vous ne cueillerez bientôt plus que les dernières, tandis que moi, malheureux !
+      je ne puis connaître que les premières.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Tu as donc aussi des peines, pauvre homme !</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Oh oui ! elles sont de nature à durer peut-être toute la vie. Mes chaînes me pèsent, la
+      servitude me désespère. Mon esprit que la nature forma libre, s'indigne <pb n="18"/> des entraves que ma
+      position met à son essor. Sans ce fond inépuisable de gaieté que je reçus en partage, je
+      maudirais et la vie et les hommes qui me la feraient détester, si, comme disait le bûcheron ,
+      il ne valait pas mieux souffrir que mourir.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Je te plains de tout mon cœur , et d'autant plus sincèrement qu'il y a dans nos positions
+      actuelles beaucoup de rapport.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Du rapport dans nos positions ?</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Oui, beaucoup.</p>
+     <stage>( No. 12. ) AIR : Comment goûter quelque repos.</stage>
+     <l>Le sort entre nous est égal ,</l>
+     <l> Et nous souffrons les mêmes peines ;</l>
+     <l> Je languis aussi dans les chaînes,</l>
+     <l> Esope, je connais ton mal ;</l>
+     <l> Mais tu te plains de l'esclavage,</l>
+     <l> Tes liens font ton désespoir ,</l>
+     <l> Et je souffre de ne pouvoir</l>
+     <l> Resserrer les miens davantage.</l>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Je conçois beaucoup, mieux la différence , que la ressemblance; celle-ci n'existe , je
+      crois, que dans ce point, c'est que notre sort à tous deux , dépend à présent de la même
+      personne ; car je devine qu'il s'agit de quelque union bien désirée a laquelle votre père
+      refuse de consentir.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Tu ne devines que trop juste; et je crains bien que tu ne réussisses pas davantage à obtenir
+      de lui ta liberté, Mais mon père est-il donc ton premier maître?</p>
+    </sp><pb n="10"/>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Non, J'ai déjà été esclave à Ammorium ; et j'aurais été affranchi par les soins d'un brave
+      jeune-homme fils de mon patron...</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>A Ammorium ?...</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Oui ; mon protecteur a été obligé de quitter la maison paternelle, pour aller étudier sous
+      un prétendu philosophe, de cette ville, ce me semble.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>De Samos ?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Je le crois. J'ai été vendu aussitôt après à un marchand d'esclaves, malgré la
+      recommandation contraire qu'avait faite avant son départ le jeune Clitophon.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Clitophon, dis-tu?</p>
+    </sp>
+    <spGrp><sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <stage>( No. 13. ) AIR : Le comédie est un miroir.</stage>
+     <p>C'est le nom de mon bienfaiteur.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>C'est celui de l'amant que j'aime !</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Il voulut faire mon bonheur.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Il veut faire le mien de même.</p>
+    </sp><pb n="20"/>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Son nom que je dis chaque jour...</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <l>Dans nos cœurs est gravé d'avance,</l>
+     <l> Chez moi par la main de l'amour...</l>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Chez moi par la reconnaissance !</p>
+     <p>Comment, vous connaissez Clitophon! C'est lui que vous aimez ? Je le verrai donc ici ?</p>
+    </sp></spGrp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Tout-à-l'heure. Je suis même étonnée qu'il n'y soit pas encore.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE VI.</head>
+    <stage>CLITOPHON, LESBIA, ESOPE.</stage>
+
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>La séance ne commence que dans deux heures, mais je suis venu plutôt pour.... Esope ici
+      !</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Oui, seigneur.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <stage>( No. 14. AIR : Comme toi cela me chagrine (M. Guillaume.)</stage>
+     <l>Enfin , cédant à ma prière,</l>
+     <l> Mon père a donc rempli mes vœux !</l>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <l>Malgré lui-même , votre père</l><pb n="21"/>
+     <l> M'a rendu bien moins malheureux.</l>
+     <l> Je portais mes fers avec peine ,</l>
+     <l> Mais aujourd'hui je les chéris ,</l>
+     <l> Heureux ceux que le sort enchaîne</l>
+     <l> Aux lieux qu'habitent leurs amis !</l>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Quoi ! tu es encore esclave? et de qui ?</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>De mon père.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Ah ! Lesbia ! je vous recommande Esope. Ayez pour lui tous les égards possibles, jusqu'à ce
+      que nous puissions obtenir sa liberté. Il ne prévient pas en sa faveur; mais il fait le
+      contraire de beaucoup d'autres; il tient plus qu'il ne promet.</p>
+     <stage>( No. 15. ) Cet arbre apporté de Provence.</stage>
+     <l>C'est un mélange de merveilles</l>
+     <l> Composé d'étrange façon ;</l>
+     <l> De Midas il a les oreilles</l>
+     <l> Avec tout le goût d'Apollon ;</l>
+     <l> Un immortel, une déesse,</l>
+     <l> L'ont formé de leur docte main ;</l>
+     <l> De Minerve il a la sagesse ,</l>
+     <l> Avec la forme de Vulcain.</l>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Oui , avec cette différence que Vulcain est beaucoup moins laid et Minerve beaucoup plus
+      sage ; que Vulcain fabrique les fers et que je les porte, et que Minerve est respectée de
+      chacun, taudis que chacun se moque de moi.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Oh ! tu sais bien que je ne suis plus de ce nombre ! <pb n="22"/> j'avoue que, j'ai ri de bon cœur quand
+      je t'ai vu, mais je te demande sincèrement pardon.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Ah ! soyez tranquille ! le moral d'Esope aurait trop à faire, s'il voulait se mêler des
+      mauvaises plaisanteries faites sur spn physique ! cela ne m'empêchera pas de vous servir dans
+      vos amours, si je le puis. <stage>( à Clitophon. )</stage> Car je connais déjà vos liaisons ,
+      et vous savez combien je serais heureux , si je pouvais vous être utile.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Hélas! avec la meilleure volonté du monde, je ne vois pas trop ce que tu pourrais faire pour
+      nous.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Ni moi non plus ; mais on ne sait pas ce qui peut arriver. Il n'est pas de petit animal qui,
+      dans l'occasion, ne puisse être bon à quelque chose. Quels sont les motifs du refus de Xantus
+      ?</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Clitophon te le dira. Pour moi, je crains que ma mère ne revienne, et je retourne auprès
+      d'elle. Travaille pour toi et pour nous.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE VI.</head>
+    <stage>ESOPE, CLITOPHON.</stage>
+
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Je vous félicite d'être aimé de cette intéressante enfant. Elle a tout ce qu'il faut pour
+      rendre heureux l'homme qui possédera à-la-fois son cœur et sa main.</p>
+    </sp><pb n="23"/>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Ah! je le sens bien ! Mais dans la crainte ou je suis de ne pas obtenir l'une, la possession
+      de l'autre ne me rend que plus à plaindre.</p>
+     <stage>( No. 16. ) AIR: de gentil Bernard.</stage>
+     <l>Aimer avec amour extrême</l>
+     <l> Sans faire partager ses feux ,</l>
+     <l> Aimer sans être aimé de même.</l>
+     <l> C'est sans doute un tourment affreux.</l>
+     <l> Mais, cher à celle qu'on adore ,</l>
+     <l> La perdre au moment d'être heureux,</l>
+     <l> C'est un mal plus cruel encore ,</l>
+     <l> Puisqu'alors on souffre pour deux.</l>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>Esope.</speaker>
+     <p>Mais pourquoi désespérer ainsi? Y a-t-il donc des obstacles si terribles à cette union?</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Deux , bien difficiles à surmonter ! l'avarice et l'amour-propre.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>C'est bien quelque chose mais il faut savoir tourner à son profit ce qui semble le plus fait
+      pour nous nuire. Je connais déjà les deux faibles de mon nouveau patron. Il m'a donné, en
+      m'achetant. une preuve de son avarice , car il ne m'a pris que parce qu'on m'a laissé-pour
+      soixante oboles.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>C'est un trait de sa logique.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Quant à son amour-propre , son premier mot en a été un échantillon. Il m a demandé ce que je
+      savais. Je lui ai répondu, rien. Eh bien! a-t-il répliqué, en <pb n="24"/>s'adressant au marchand , je le
+      prends , ne fût-ce que pour avoir le plaisir de voir un contraste parfait. Le marchand qui
+      s'était d'abord fâché de ma réponse , m'en a remercié après. Je sais mieux votre métier que
+      vous, lui ai-je dit :</p>
+     <stage>( No. 17. ) Vaudeville de la Soirée orageuse.</stage>
+     <l>Un bon marchand doit avec art</l>
+     <l> Choisir le goût de sa pratique ;</l>
+     <l> Il offre un muet au bavard.</l>
+     <l> Un nouvelliste au politique ;</l>
+     <l> A la dévote un bon croyant ,</l>
+     <l> Un lunatique à l'astronome,</l>
+     <l> Au faux savant, un ignorant...</l>
+     <l> Un honnête homme à l'honnête homme !</l>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Tu as raison.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Je le crois. Mais revenons à nos Affaires ; je dis nos affaires , car je veux qu'elles
+      marchent ensemble , et que le jour de votre bonheur soit celui de ma liberté.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Plut aux dieux que ce fût bientôt !</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Espérez en attendant. L'espérance est la déesse la plus bienfaisante et qui abandonne le
+      moins les malheureux.</p>
+     <stage>( No. 18. ) AIR du Jockey.</stage>
+     <l>Cette divinité sensible,</l>
+     <l> Sait ôter à l'être souffrant,</l>
+     <l> Par l'image d'un bien possible,</l>
+     <l> Le sentiment d'un mal présent.</l>
+     <l> Elle sait, sage, autant qu'humaine ,</l>
+     <l> Avec la lime du désir ,</l>
+     <l> Emousser les traits de la peine,</l>
+     <l> Aiguiser les traits du plaisir.</l>
+    </sp><pb n="25"/>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON-</speaker>
+     <p>C'est une triste ressource !</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Au reste, Xantus va venir m'apporter mon arrêt ; faites une nouvelle tentative.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE VIII.</head>
+    <stage>Les mêmes, XANTUS, XANTIPPE.</stage>
+
+    <sp who="#TDP942_4">
+     <speaker>Xantus.</speaker>
+     <p>Esope, je viens t'annoncer que tu resteras avec nous; Xantippe s'est rendue à mes raisons et
+      consent à te garder ici.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Oui, tu resteras; mais souviens-toi bien que j'exige la plus parfaite obéissance, et que je
+      te dispense dorénavant de tes phrases et de tes fables; à ce prix, je veux bien surmonter ma
+      répugnance à ton égard.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Que ne me renvoyez-vous plutôt? nous y gagnerions tous les deux.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Qu'est-ce que cela signifie ?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Oui, nous y gagnerions; vous, le plaisir de ne plus avoir devant vos yeux un objet
+      désagréable ; moi , celui de ne plus vous en offrir.</p>
+    </sp><pb n="25"/>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>A la bonne heure! vous ici , Clitophon ?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Ah ! ah ! et qui vous amène de si bonne heure ?</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Je viens, seigneur, pour la leçon.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Quelle exactitude ! la leçon ne commencera pas avant deux heures.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>En effet , jamais je ne vous vis si empressé.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>C'est que jamais je n'eus un si ardent désir de m'instruire.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Croyez-vous de bonne foi que l'on soit votre dupe, et que l'on ne connaisse pas bien les
+      motifs de ce beau zèle?</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Madame !.....</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Nous savons tout. Vous ne pensez pas apparemment que je donne ma fille à un homme aussi
+      superficiel que vous.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Ah ! seigneur ! croyez que si je n'acquiers pas des connaissances plus profondes, ce n'est
+      pas faute de bonne volonté ! C'est l'idée même qu'il serait possible que j'obtinsse la main de
+      l'aimable Lesbia , qui me fait oublier les moyens d'y parvenir.</p><pb n="27"/>
+     <stage>( No. 19. ) AIR nouveau.</stage>
+     <l>Je sens qu'un aussi grand honneur</l>
+     <l> N'est pas fait pour un faible élève ;</l>
+     <l> Je sens qu'au niveau de mon cœur ,</l>
+     <l> Il faut que mon esprit s'élève ;</l>
+     <l> Mais malgré mon guide éclairé ,</l>
+     <l> Dans l'instant même où je l'écoute,</l>
+     <l> Je fixe le but désiré ,</l>
+     <l> Et je m'égare dans la route.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Eh bien vous n'aurez plus cet inconvénient-là ; car, à dater d'aujourd'hui, Lesbia
+      n'assistera plus à mes leçons.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Ni à celles que vous prenez la peine de lui donner vous-même; car je viens de lui défendre
+      expressément de s'arrêter un instant avec vous, et j'espère que vous ne lui avez pas encore
+      enseigné la désobéissance à sa mère.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Madame !</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Oh ! vous en êtes bien capable ! Un jeune homme qui a l'audace d'aimer une fille sans l'aveu
+      de sa mère, est capable de tout.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Madame !</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>X A N T I P P E.</speaker>
+     <p>Je sais à quoi m'en tenir ! j'ai assisté aux séances de philosophie, et j'ai-toujours vu
+      qu'au lieu d'écouter votre maître, vous passiez tout le tems à regarder sa fille d'une manière
+      indécente.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Cela est vrai, et cependant :</p><pb n="28"/>
+     <stage>( No. 20. ) AIR : Quand l'Amour naquit à Cythère.</stage>
+     <l>Je ne demande pas sans doute ,</l>
+     <l> Un sacrifice trop coûteux ,</l>
+     <l> En exigeant que l'on m'écoute ,</l>
+     <l> Quand j'enseigne l'art d'être heureux.</l>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <l>Mais de votre doctrine même</l>
+     <l> Clitophon profite bien mieux,</l>
+     <l> Si regardant celle qu'il aime ,</l>
+     <l> Il lit son bonheur dans ses yeux.</l>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>De quoi vous mêlez-vous , impertinent esclave ? vous mériteriez que je vous fisse traiter de
+      manière à vous empêcher d'oublier dorénavant le respect que vous me devez. <stage>( à
+      Clitophon. )</stage> C'est aussi apparemment un de vos ouvrages. Vous allez bientôt soulever
+      nos esclaves contre nous.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Madame !</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Modérez-vous, Xantippe !</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Non , je ne veux pas me modérer , et je trouve fort extraordinaire que vous l'exigiez!</p>
+     <stage>( No. 21. ) AIR : Tarare pompon.</stage>
+     <l>Je ne souffrirai pas</l>
+     <l> Qu'on m'impose silence ,</l>
+     <l> Et de complaisance</l>
+     <l> Enfin mon cœur est las !</l>
+     <l> Pour paraître le maître</l>
+     <l> Vous faites vos efforts,</l>
+     <l> Eh bien ! vous pouvez l'être !</l>
+     <l> Je sors.</l>
+    </sp><pb n="29"/>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE,</speaker>
+     <stage>à part.</stage>
+     <p>Peut-on vouloir être maître des autres, quand on ne l'est pas de soi-même.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS,</speaker>
+     <stage>allant à la porte.</stage>
+     <p>Allez, ma chère Xantippe, appaisez-vous, et songez que l'épouse d'un philosophe ne doit
+      jamais perdre son sang-froid.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON,</speaker>
+     <stage>à Esope.</stage>
+     <p>Tu vois ?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Sortez un instant, et laissez-moi faire.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE XI.</head>
+    <stage>ESOPE, XANTUS.</stage>
+
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Eh bien, Esope, tu vois que je suis le maître, et que , malgré la grande prévention de
+      Xantippe, je suis parvenu à lui persuader de te garder.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Je voudrais bien avoir la même éloquence, et vous faire consentir aussi à l'union de ces
+      deux jeunes gens, qui m'intéressent déjà plus que je ne le puis dire.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Peste ! maître Esope , comme vous y allez ! Il n'y a pas deux heures que vous êtes chez moi,
+      et vous vous mêlez déjà des affaires de ma famille ?</p>
+    </sp><pb n="30"/>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Je ne vous parlerais pas en faveur de cette union , si je ne connaissais assez le jeune
+      Clitophon pour savoir qu'il doit rendre votre fille heureuse.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Oui , Lesbia m'a dit que tu as servi son père. Elle m'a même assuré que tu passes à Ammorium
+      pour un sage.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>N'ayant jamais été maître de mes actions, je n'ai pas pu faire de folies.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Cela est vrai. Mais enfin on dit que tu as du jugement , de la raison , de l'esprit; cela me
+      fait plaisir ; je serais bien aise d'établir une petite lutte entre nous.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Vous commencerez donc par m'affranchir; autrement, il ne peut pas y avoir de lutte.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Pourquoi cela?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <l>Sire lion voulut, un beau matin ,</l>
+     <l> Avec messer renard disputer de vitesse;</l>
+     <l> On devait choisir le terrain ,</l>
+     <l> Le mesurer avec justesse ;</l>
+     <l> Et le lion promettait bien ,</l>
+     <l> Si le renard l'emportait en prestesse ,</l>
+     <l> De reconnaître sa faiblesse ,</l>
+     <l> Malgré son rang de souverain.</l>
+     <l> Tout autre , sûr de la victoire ,</l>
+     <l> Comme le renard l'eût été ,</l>
+     <l> Aurait accepté</l>
+     <l> Le traité.</l>
+     <l> Celui-ci ne voulut point croire</l>
+     <l> A cette grande loyauté :</l><pb n="31"/>
+     <l> Il pensait que la sûreté</l>
+     <l> Valut toujours mieux que la gloire.</l>
+     <l> Il alla donc, avec humilité,</l>
+     <l> Avouer à sa majesté,</l>
+     <l> Qu'il se sentait peu fait pour lutter avec elle ;</l>
+     <l> Et comme un sien ami fidelle</l>
+     <l> Blâmait cette fausse terreur:</l>
+     <l> Ma crainte , lui dit-il est fondée et réelle :</l>
+     <l> Son pied trop lourd n'eût pas été vainqueur;</l>
+     <l> Mais le mien trop léger m'aurait rendu rebelle ;</l>
+     <l> Ce n'est pas du pied que j'ai peur,</l>
+     <l> C'est de la griffe qu'il recelle.</l>
+     <l> La lutte n'est pas de saison</l>
+     <l> Lorsque l'esclave a pour rival son maître ;</l>
+     <l> Il ne peut qu'avoir tort, et le plus grand peut-être</l>
+     <l> Serait celui d'avoir raison.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Il paraît que tu es fort pour les apologues ; mais celui-ci ne prouve rien. Je te permets de
+      bon cœur d'avoir raison aussi souvent que tu pourras.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Oui, à condition que je ne le pourrai jamais. Mais pour me donner une preuve de votre bonne
+      foi, commencez du moins par convenir que rien n'est plus raisonnable que l'union pour laquelle
+      je vous parle.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Ah! t'y voila revenu! mais pour parler de cette union , sais-tu si elle est dans l'ordre des
+      choses possibles, si elle ne blesse pas les convenances ; sais-tu dans quelle famille tu veux
+      voir entrer un jeune-homme sans nom, sans état ?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Dans la famille d'un philosophe.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Mais de quel philosophe !</p><pb n="32"/>
+     <stage>( No. 22. ) AIR du vaudeville de M. Guillaume.</stage>
+     <l>Ceint de laurier , tout rayonnant de gloire,</l>
+     <l> Xantus déja dans la Grèce fameux ,</l>
+     <l> Va dans les fastes de l'histoire</l>
+     <l> Instruire nos derniers neveux.</l>
+     <l> Flambeau du monde , honneur de sa patrie,</l>
+     <l> Chacun dira, célébrant ses vertus,</l>
+     <l> Il eut talens , science , modestie ;</l>
+     <l> Rien n'égala Xantus.</l>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE,</speaker>
+     <stage>souriant.</stage>
+     <p>Voilà ce que diront vos derniers neveux; mais consultez Xantippe, pour savoir si elle en
+      dira autant ?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Malgré le peu de fortune de Clitophon, je l'aurais peut-être préféré ; mais loin qu'il fasse
+      des progrès, je ne l'ai jamais vu moins sage , que depuis qu'il devrait chercher à le devenir
+      davantage.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Oh ! pour cela, ce n'est pas sa faute; prenez-vous-en aux dieux qui le veulent ainsi.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Et qu'ont les dieux de commun , s'il vous plaît , avec ta folié de Clitophon ?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <stage>( No. 23. ) AIR du vaudeville de l'Opéra comique.</stage>
+     <l>Depuis qu'au mont Ida,</l>
+     <l> Paris Choisit la reine de Cythère,</l>
+     <l> Minerve a vu des ennemis</l>
+     <l> Dans l'Amour, comme dans sa mère.</l>
+     <l> Cupidon n'a , depuis ce jour,</l>
+     <l> Jamais pu calmer la déesse ;</l>
+     <l> Et des lieux où paraît l'Amour,</l>
+     <l> S'envole la sagesse.</l>
+    </sp><pb n="33"/>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Contes en l'air !</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>It n'y a que l'hymen qui puisse les mettre d'accord , et d'ailleurs, de quelle nécessité est
+      cette prétendue sagesse dans le ménage.</p>
+     <stage>( No. 24 ) AIR des Petits Montagnards.</stage>
+     <l>Si votre fille vous est chère ,</l>
+     <l> Il faut l'unir à son amant :</l>
+     <l> Il sait aimer comme il sait plaire ;</l>
+     <l> N'est-il donc pas assez savant ?</l>
+     <l> Tel que l'on admire à la ronde ,</l>
+     <l> De sa maison fait le malheur ;</l>
+     <l> C'est l'esprit qu'il faut dans le monde ;</l>
+     <l> Dans le ménage , c'est le cœur.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Je conçois que tes sophismes pourraient éblouir le vulgaire; mais je ne me laisse point
+      aller aussi facilement, et malgré tes efforts, jamais je ne consentirai à donner ma fille à un
+      autre qu'un philosophe , qu'un sage.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Et quel est le sage qui voudra devenir l'époux d'une jeune personne dont il ne pourra avoir
+      le cœur ? Moi, qui suis aussi sage qu'un taure, je m'en garderais bien.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Pauvre esclave, qui veut se vanter d'être sage ! et qui t'a appris à l'être ?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>La raison naturelle , qui m'a appris à distinguer ce qui est bien , de ce qui est mal.</p>
+    </sp><pb n="34"/>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Eh bien ! puisque la raison naturelle t'a enseigné tant de belles choses , réponds - moi. Un
+      de mes disciples m'a prié, hier, de lui dire ce qu'il y a de plus mauvais dans le monde ; je
+      dois lui répondre aujourd'hui, que lui dirai je ?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Ce qu'il y a de plus mauvais ? mais c'est facile. Dites lui que c'est la langue.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Comment la langue ?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>Esope.</speaker>
+     <p>Oui.</p>
+     <stage>( No. 25. ) AIR : Une fille est un oiseau.</stage>
+     <l>La langue est un des fléaux</l>
+     <l> Faits pour accabler le monde ,</l>
+     <l> Elle est la source féconde</l>
+     <l> D'où découlent mille maux ;</l>
+     <l> Par elle l'on s'injurie ,</l>
+     <l> On médit, on calomnie ,</l>
+     <l> On déchire sa patrie</l>
+     <l> Par l'intrigue et les complots ;</l>
+     <l> Par elle on troubie la terre ,</l>
+     <l> On alimente la guerre....</l>
+     <l> Par elle un bavard maudit</l>
+     <l> Sans pitié nous étourdit.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Tu peux avoir raison, Mais le même disciple m'a demandé en même temps ce qu'il y avait de
+      meilleur. Que lui répondrai-je ?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>La langue.</p>
+    </sp><pb n="35"/>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Comment ? et ne viens-tu pas de dire que c'est ce qu'il y a de plus mauvais ?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <stage>Même air.</stage>
+     <l>C'est un présent enchanteur</l>
+     <l> Fait à l'espèce mortelle ;</l>
+     <l> Par elle , d'une cruelle</l>
+     <l> On désarme la rigueur ;</l>
+     <l> De la loi pour l'innocence ,</l>
+     <l> On invoque l'assistance,</l>
+     <l> On console l'indigence ,</l>
+     <l> On célèbre le vainqueur ;</l>
+     <l> On fait la paix par la langue,</l>
+     <l> Par elle on plaît , on harangue....</l>
+     <l> C'est par elle que l'esprit</l>
+     <l> Nous amuse et nous instruit.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS ,</speaker>
+     <stage>à part.</stage>
+     <p>Cet esclave me confond. <stage>( haut. )</stage> Je suis content de tes définitions, et je
+      te promets de te récompenser.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>La meilleure manière serait de m'accorder ma liberté et de consentir au mariage des deux
+      jeunes gens.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Tu es un personnage trop précieux pour qu'on se décide ainsi à se priver de toi ; et quant
+      au mariage, tu sais mes intentions ; au reste , je verrai.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <stage>à part.</stage>
+     <p>Et moi aussi.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>En attendant, tu seras employé aux travaux du jardin ; j'ai fait dire a Marsès, mon
+      jardinier, de venir.</p>
+    </sp>
+   </div><pb n="36"/>
+   <div type="scene">
+
+    <head>SCÈNE X.</head>
+    <stage>MARSÈS, ESOPE, XANTUS.</stage>
+
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>On m'a dit que mon maître me demandait, et je viens savoir ce qu'il y a pour son
+      service.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Je t'ai fait venir , pour te donner un nouveau compagnon. Cet esclave que tu vois-là est
+      destiné à t'aider dans les travaux du jardinage.</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Çà ? et que voulez-vous que j'en fasse ? Il n'est bon qu'à une chose , c'est à remplacer le
+      petit moulin à vent qui était au milieu du jardin pour effrayer les oiseaux , et que le grand
+      vent a cassé.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>C'est toujours quelque chose. Il y a tant de gens qui ne sont bons à rien. D'ailleurs je
+      vaudrai mieux que ton moulin.</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Sûrement, parce que, lorsque les oiseaux s'en approchaient un peu, ils finissaient par
+      s'enhardir et se moquer de lui; au lieu que toi, plus on t'approche et plus tu fais peur.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>C'est que je suis le contraire de beaucoup d'autres, qui sont terribles de loin, et qui ne
+      sont rien moins que cela quand on les regarde de près.</p>
+    </sp><pb n="37"/>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Tu seras bien aise de l'avoir, je t'assure ; il t'amusera.</p>
+     <stage>( No. 26. ) AIR: Le petit mot pour rire.</stage>
+     <l>S'il ne t'est pas d'un grand secours,</l>
+     <l> Tu riras , car il a toujours</l>
+     <l> Quelque bon mot à dire.</l>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <l>Je le prends donc sans différer,</l>
+     <l> Tant de gens nous ont fait pleurer</l>
+     <l> Qu'on doit aimer, les gens qui nous font rire.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Tu t'en charges donc ?</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Oui , seigneur. il a l'air d'un bon diable ; je trouverai à l'employer.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Mais il faut le ménager, entends-tu bien ?</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Oh ! ne craignez rien, je ne le fatiguerai pas trop, j'aurais peur de le déformer.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Ah ça ! puisque nous allons vivre ensemble, dis-moi un peu quel est ton genre de vie ? car
+      il faut que je connaisse.....</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Il est bien simple.</p>
+     <stage>( No 17. ) AIR : Du parlement.</stage>
+     <l>Je suis levé de grand matin</l>
+     <l> Pour travailler au jardinage,</l>
+     <l> Pendant que je suis au jardin ,</l>
+     <l> Ma femme fait notre menage.</l><pb n="38"/>
+     <l>Je sors content, je rentre gai.</l>
+     <l> Le travail ne m'étonne guère.</l>
+     <l> Plus je me trouve fatigué,</l>
+     <l> Plus je jouis de ne rien faire.</l>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Cet homme-là est philosophe. Tu es donc marié ?</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Sans doute , je le suis, et je ne voudrais pas pour bonnes choses ne pas l'être.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Et tu as épousé , apparemment , une femme que tu aimais et dont tu étais aimé.</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Belle question ! comme si l'on pouvait s'épouser sans cela.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Demande à ton maître , il te prouvera que ce n'est pas du tout nécessaire.</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Oh ! je sais bien que le seigneur Xantus prouve tout ce qu'il veut, mais pour cela je ne
+      crois pas qu'il le veuille; ce serait comme s'il entreprenait de prouver que tu es un joli
+      garçon , toi.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>L'un serait plus facile que l'autre, car la beauté n'est qu'affaire de convention, tandis
+      que l'amour est un sentiment réel.</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Parbleu ! puisque nous voilà jeté dans les raisonnement , il faut que je vous prie de
+      m'éclaircir l'esprit <pb n="39"/> sur un point qui m'a toujours intrigué et qui regarde la philosophie
+      comme le jardinage.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Voyons, parle, je te promets de te satisfaire.</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Dites-moi donc pourquoi les herbes et les fleurs que je plante et cultive moi-même , avec le
+      plus grand soin , ne profitent qu'à peine, tandis que les mauvaises herbes que la terre
+      produit d'elle-même, croissent plus vite que je ne voudrais.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS ,</speaker>
+     <stage>hésitant.</stage>
+     <p>Mais... mon cher Marsès... la raison est.... toute simple... et il est... facile de
+      t'expliquer cela. Tu sens bien que cela est ainsi.... parce que.... cela doit-être. Attendu
+      que... la providence... régit tout, et que c'est la providence qui le veut ainsi.</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>La providence ! ah ! c'est donc la providence qui fait ça ? Mais....</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Ne vois-tu pas que cette question n'est pas digne du seigneur Xantus ? et que c'est pour
+      cela qu'il n'y veut pas répondre. S'il veut me le permettre, je vais le faire pour lui.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS ,</speaker>
+     <stage>d'un air contraint.</stage>
+     <p>Voyons, je le veux bien.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Ecoute.</p><lg>
+     <l>Une veuve avait des enfans</l>
+     <l> Qu'elle aimait, comme une mère</l>
+     <l> Certain concours d'évènemens</l><pb n="40"/>
+     <l> Rendit, pour finir une affaire</l>
+     <l> Qui durait depuis trop long-tems,</l>
+     <l> Un second hymen nécessaire ;</l>
+     <l> Celui qui reçut sermens</l>
+     <l> Etait lui-même veuf et père.</l>
+     <l> Les enfans de la femme étaient vilains , ingrats ,</l>
+     <l> Ceux de l'époux bien élevés , aimables ;</l>
+     <l> Elle n'en disconvenait pas ,</l>
+     <l> Et pourtant les égards et les soins délicats ,</l>
+     <l> Les bonbons, les mets agréables,</l>
+     <l> La meilleure placé au repas</l>
+     <l> Etaient toujours pour ses fils véritables.</l>
+     <l> Ceux qu'au contraire elle avait adoptés,</l>
+     <l> Nourris de pain noir et d'eau claire ,</l>
+     <l> Mal vêtus, comme maltraités ,</l>
+     <l> Voyaient , malgré les soins du père,</l>
+     <l> S'engraisser des enfans gâtés ,</l>
+     <l> Ignorans, méchans , entêtés ,</l>
+     <l> Et dont on n'aurait su que faire.</l></lg><lg>
+     <l> C'est ainsi qu'en agit la terre.</l>
+     <l> Elle ne voit qu'avec chagrin</l>
+     <l> Les plantes qu'on la force à nourrir dans son sein ;</l>
+     <l> C'est une famille étrangère</l>
+     <l> Qu'elle repousse avec dédain.</l>
+     <l> A ses propres fruits , au contraire ,</l>
+     <l> Ses biens, ses trésors sont communs ;</l>
+     <l> Elle répand sur eux ses sucs et ses parfums,</l>
+     <l> S'épuise pour les satisfaire ,</l>
+     <l> Elle est marâtre pour les uns</l>
+     <l> Et pour les autres bonne mère.</l></lg>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>C'est ça, mon ami, c'est ça même. Tu as raison. N'est-ce pas, Seigneur?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>C'est fort bien expliqué, et tu dois être content de lui. Esope, ta comparaison est fort
+      juste.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Trouvez-vous ?</p>
+    </sp><pb n="41"/>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Oui, je l'avoue.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Pour Marsès, mais non pas pour un philosophe qui doit savoir que toutes les plantes incultes
+      ou soignées, venues d'elles-mêmes ou déposées exprès, sont des enfans de la terre qui ont tous
+      les mêmes droits et la même part à ses bienfaits. Un pareil sophisme ne peut l'éblouir. Mais
+      il satisfait davantage l'esprit d'un homme peu éclairé, qui ne peut concevoir les grandes vues
+      de la providence, et à qui ce mot ne dit rien.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Cela est vrai. <stage>( à part. )</stage> Cet impertinent esclave a un air de triomphe qui
+      me déplaît.</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Moi qui ne suis pas si savant, j'aime tant ta définition, que je veux te donner les plus
+      belles fleurs de mon jardin.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Donne-les plutôt à ta femme, elle les mérite plus que moi.</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Et pourquoi cela?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>C'est qu'elles lui coûtent plus de peine.</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Bah ! elle n'y travaille pas !</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Non, mais.</p><pb n="42"/>
+     <stage>( No. 28. ) AIR : Ce fut par la faute du sort.</stage>
+     <l>Elle doit voir avec chagrin</l>
+     <l> Les plantes que ta main cultive;</l>
+     <l> Elle doit haïr ton jardin ,</l>
+     <l> Puisque loin d'elle, il te captive;</l>
+     <l> Quand tu vas travailler pour nous,</l>
+     <l> Tu la fuis, et tu la chagrines,</l>
+     <l> Les fleurs qu'élève son époux ,</l>
+     <l> N'ont pour elle que des épines.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>C'est assez. Marsès, indique à Esope son logement, Toi, suis-le, et tu viendras me retrouver
+      ici , j'aurais quelque chose à te dire.</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Allons , viens , j'aurai soin de toi, n'aie pas peur.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Je te suis.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE XI.</head>
+
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <stage>seul.</stage>
+     <p>Ce présomptueux esclave a l'air de me narguer effrontément. Il affecte une supériorité qui
+      me déplaît. --- Il est capable de se croire plus savant que moi! --- Je suis piqué au vif. ---
+      Je veux lui apprendre à qui il a affaire, et lui montrer combien peu je le crains, malgré sa
+      réputation d'Ammorium. <stage>( II va s'asseoir à son bureau. )</stage> Mais ne m'exposais-je
+      pas un peu ? --- Ce misérable esclave semble avoir réponse à tout ! --- Bah! ce n'est que du
+      jargon ! nulle profondeur ! nulle érudition! d'ailleurs j'ai toujours moyen de me <pb n="43"/> tirer
+      d'affaire --- peut-être ne devrais-je pas lutter avec un esclave, mais cet esclave me brave,
+      il faut le confondre.</p>
+     <stage>( Il écrit. )</stage>
+     <stage>( No. 29. ) AIR nouveau , de Doche.</stage>
+     <l>Jamais le Lion généreux ,</l>
+     <l> Des bois monarque dangereux ,</l>
+     <l> N'attaqua le faible reptile ;</l>
+     <l> Mais si le reptile orgueilleux ,</l>
+     <l> Ose, d'un air audacieux,</l>
+     <l> Elever sa tête débile ,</l>
+     <l> Il sourit à son ennemi,</l>
+     <l> Et sans s'émouvoir , sans colère ,</l>
+     <l> Laisse tomber son pied sur lui,</l>
+     <l> Et l'écrase dans la poussière.</l>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE XII.</head>
+    <stage>ESOPE, XANTUS.</stage>
+
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Je reviens, seigneur, comme vous me l'avez ordonné. Auriez-vous quelque heureuse nouvelle à
+      m'apprendre?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Si tu en doutes, ce ne sera pas pour long-tems.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <stage>( No. 30. ) Réveillez-vous , belle endormie.</stage>
+     <l>Des biens , des rangs , d'une autre classe ,</l>
+     <l> Jamais je ne fus envieux,</l>
+     <l> Mais toujours j'enviai la place</l>
+     <l> De celui qui fait un heureux.</l>
+    </sp><pb n="44"/>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS ,</speaker>
+     <stage>se levant.</stage>
+     <p>Doucement ! la chose n'est pas encore faite, il y a une petite condition à remplir qui,
+      certes, ne présentera pas de grandes difficultés à un sage comme toi, mais à laquelle je tiens
+      irrévocablement.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Une condition ?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Oui, cet écrit t'instruira de tout ; je te quitte pour te donner le tems de te préparer ;
+      tout-à-l'heure je t'amènerai des témoins de ton triomphe.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE XIII.</head>
+
+    <sp who="#TDP942_5">
+     <speaker>ESOPE,</speaker>
+     <stage>seul.</stage>
+     <p>Que veut-il dire ? voyons.</p>
+     <p>« Je , Xantus , professeur , sénateur, etc. etc. m'engage par le présent écrit à unir ma
+      fille à Clitophon , et à affranchir l'esclave Esope , à condition que ledit esclave trouvera
+      moyen de me parler à moi, Xantus , d'une chose dont je n'aurais jamais entendu parler. Et pour
+      preuve de ma bonne foi, j'ai signé. »</p>
+     <p>XANTUS.</p>
+     <p>Je vois d'ici le raisonnement du philosophe. On doit me parler de quelque chose que je ne
+      sache pas ; or je sais tout, donc je saurai ce dont on me parlera , ou du moins, si je ne le
+      sais pas, je ferai semblant de le savoir. Eh bien ! faisons , nous, qu'il ne lui reste pas
+      même cette ressource, et usons de ruse , puisqu'il le faut.</p><pb n="45"/>
+     <stage>( No. 31. ) AIR de la Revanche forcée.</stage>
+     <l>Faisons adroitement usage</l>
+     <l> Des armes de notre agresseur,</l>
+     <l> Et tournons à notre avantage</l>
+     <l> Ce qui dut le rendre vainqueur.</l>
+     <l> De son imprudent artifice</l>
+     <l> Punissons la témérité ,</l>
+     <l> Et sous les coups de l'avarice</l>
+     <l> Faisons tomber la vanité.</l>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE XIV.</head>
+    <stage>CLITOPHON, LESBIA, ESOPE.</stage>
+    <stage>( arrivant séparément. )</stage>
+
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Eh bien ! Esope, quelle nouvelle?</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Qu'y a-t-il donc , Esope ? Ma mère se fâche et mon père m'a envoyé en riant pour savoir si
+      tu étais prêt, et pour me charger de te dire qu'il va venir. Il prétend qu'il s'agit de
+      moi.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Oui, sans doute ; votre père a remis la décision de votre sort entre mes mains, et je m'en
+      occupe.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Que veut-il dire?</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Je n'en sais rien. Explique-toi donc?</p>
+    </sp><pb n="46"/>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Que demandez-vous de plus ? Dire que votre bonheur dépend de moi, n'est-ce pas dire que vous
+      serez heureux? Modérez votre impatience, vous allez bientôt tout savoir.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Est-il bien possible, ma chère Lesbia, que nous devions être unis ?</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Je n'ose pas me livrer à cette flatteuse espérance.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE ,</speaker>
+     <stage>se levant.</stage>
+     <p>Oui, vous serez unis, j'ose vous le promettre , et moi je serai libre.</p>
+     <stage>( No. 32 ) AIR des Paroles et la musique.</stage>
+     <l>Le hasard sert mon espérance</l>
+     <l> Au-delà même de mes vœux ;</l>
+     <l> Grace aux soins de la Providence ,</l>
+     <l> Nous allons tous trois être heureux.</l>
+     <l> Le sort , sensible à notre peine ,</l>
+     <l> Va mettre fin à nos malheurs ,</l>
+     <l> Et briser une lourde chaîne</l>
+     <l> Pour en former une de fleurs.</l>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE XV et dernière.</head>
+    <stage>XANTUS , XANTIPPE , ESOPE , LESBIA , CLITOPHON, MARSÈS, Elèves , Esclaves.</stage>
+
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>En vérité , cette dernière folie mérite une punition exemplaire. Depuis dix-huit ans que je
+      vous vois <pb n="47"/> faire tous les jours des sottises , je n'en ai pas encore vu une de cette
+      force-là.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Patience, Xantippe, vous verrez si je suis fou. <stage>( A Esope. )</stage> J'amène, suivant
+      ma promesse, des témoins de ton triomphe , et je viens recevoir ta réponse : est-elle prête
+      ?</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Ah ! mon père ! ce que dit Esope est-il vrai ? Vous ne vous opposez plus à mon union avec
+      Clitophon?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Non, cette union dépend maintenant de lui.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Mais il prétend qu'il n'y a plus d'obstacles.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Ah, seigneur !</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Vous avez l'air bien assurés. Esope est-il donc si certain de son fait ?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTIPPE.</speaker>
+     <p>Je le désirerais de toute mon ame , et je donnerais cent talens pour que cet esclave vous
+      confondît. Cela vous apprendrait peut-être à ne pas faire de pareilles extravagances, et
+      donnerait un bon coup de fouet à cette vanité insupportable qui ne vous fait jamais faire que
+      des sottises.</p>
+    </sp><pb n="48"/>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS..</speaker>
+     <p>Ne craignez rien , Xantippe. Cet air d'assurance ne m'effraie pas. Je suis sûr de moi.</p>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <p>Ne vous y fiez pas, seigneur Xantus. Vous savez qu'il a plus d'esprit qu'il n'est laid ;
+      vous avez vu tout à l'heure comme il m'a expliqué mon affaire.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Je n'y comprends rien.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Ni moi.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS</speaker>
+     <p>Paix ! vous savez ce dont il s'agit; j'ai demandé a Esope de me parler de quelque chose dont
+      je n'aurais jamais entendu parler que par lui.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Cela est vrai, et voici ma réponse.</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Vous croyez donc tout savoir, pauvre homme ! et moi qui ne suis pas grande logicienne , je
+      vous ai fait cent fois des demandes qui sont toujours restées sans réponse.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Un moment de silence, s'il vous plaît. Lisons.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Vous êtes témoins de nos conventions. Lisez.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Je tremble !</p>
+    </sp><pb n="49"/>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Amour ! ne souffre pas que notre espoir soit trompé.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Qu'est ceci? qu'est-ce que cela signifie ? « Je, Xantus, professeur, sénateur, etc.
+      reconnais que mon père, en mourant, est resté débiteur à la famille Clitophon, de la somme de
+      deux mille talens, qui ne lui ont pas été payés, et je m'engagé , par le présent écrit, à lui
+      restituer ladite somme dans le délai de quinze jours. » Que veut dite ce galimathias?</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Comment galimathias ? rien n'est plus clair, ni plus certain ; cet argent a été prêté à
+      votre famille.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Quel conte !</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Et vous le paierez , parce que vous le devez.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Cela est faux!</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Comment, vous niez vos dettes ?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>Xantus.</speaker>
+     <p>Jamais je ne l'ai reconnue.</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Vous oseriez soutenir que vous n'aviez pas connaissance de cette créance de Glitophon ?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Très-certainement</p>
+    </sp><pb n="50"/>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Que vous n'en aviez jamais entendu parler?</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Jamais !</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Jamais ! Donc je suis libre et ces jeunes gens sont époux !</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Comment? que voulez-vous dire? que prétendez-vous?</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Vous faire tenir votre parole. Vous avez perdu et très-bien perdu , infaillible personnage !
+      Vous en passerez par là. Pour moi, j'en suis fort aise , et j'accepte de bon cœur Clitophon
+      pour gendre , ne fût-ce que pour vous contrarier.</p>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <p>Ah ! Madame ! combien je vous dois !</p>
+    </sp>
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <p>Oh! vous ne me devez rien au tout ! ce que j'en fais n'est pas pour vous faire plaisir, je
+      vous assure.</p>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <stage>à part.</stage>
+     <p>Je suis joué, confondu par un esclave !</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA,</speaker>
+     <stage>passant du coté de son père.</stage>
+     <stage>( No. 33. ) AIR de Florian.</stage>
+     <l>Ah ! mon père, votre tourment</l>
+     <l> Me fait plus de mal que les nôtres,</l>
+     <l> Je fuis des bras de mon amant</l>
+     <l> Et je retourne dans les vôtres.</l>
+     <l> Clitophon est cher à mon coeur,</l>
+     <l> Mais j'y renonce pour vous plaire,</l>
+     <l> Quel enfant voudrait d'un bonheur</l>
+     <l> Qui coûte une larme à son père!</l>
+    </sp><pb n="51"/>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Seigneur, je ne vous parle pas de moi ; je suis un étranger qu'il doit-vous être indifférent
+      de perdre ou de garder, mais ces enfans....</p>
+     <stage>( No. 34. ) Air : Lorsque vous verrez un amant.</stage>
+     <l>Seigneur, regardez-les tous deux,</l>
+     <l> C'est vous seul qui causez leur peine,</l>
+     <l> Quand vous pourriez serrer pour eux</l>
+     <l> Les nœuds de la plus douce chaîne;</l>
+     <l> Menez votre fille à l'autel ;</l>
+     <l> Votre cœur tout bas doit vous dire :</l>
+     <l> Auprès de l'amour paternel,</l>
+     <l> Il faut que l'amour-propre expire !</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <p>Eh bien! je me rends. Aussi bien, faut-il toujours finir par là, puisque j'ai perdu ! Je ne
+      le conçois pas encore! ce qu'il y a de bien certain, c'est qu'il a bien fait d'agir d'adresse
+      ! car s'il avait parlé de quelque science, de quelque art que ce pût être, il ne pouvait pas
+      manquer de perdre.</p>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA.</speaker>
+     <p>Mon cher Esope, combien nous te chérirons tous deux!</p>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <p>Aimez-moi, je vous en prie, mais surtout aimez-vous bien.</p>
+     <stage>( No. 35. ) AIR: Dans ce vallon, où du plaisir.</stage>
+     <l>Si vous voulez , jeunes époux,</l>
+     <l> Bénir toujours votre existence,</l>
+     <l> Soyez fidelles , aimez-vous ,</l>
+     <l> Le bonheur est dans la constance;</l>
+     <l> Le joug de l'hymen quelquefois</l>
+     <l> Pèse , et se supporte avec peine,</l>
+     <l> Il faut pour alléger son poids</l>
+     <l> Que l'amour soutienne la chaîne.</l>
+    </sp>
+   </div><pb n="52"/>
+   <div type="vaudeville">
+
+    <head>Vaudeville.</head>
+
+    <sp who="#TDP942_2">
+     <speaker>XANTIPPE.</speaker>
+     <stage>AIR: Vaudeville d'Arlequin Joseph.</stage>
+     <l>En faisant votre esclave maître ,</l>
+     <l> Du sort de votre unique enfant ,</l>
+     <l> Vous nous avez bien fait connaître</l>
+     <l> Jusqu'où va votre jugement.</l>
+     <l> Votre esprit sûr de sa logique ,</l>
+     <l> Ne prévoit pas un revers ,</l>
+     <l> Mais l'amour-propre est un optique</l>
+     <l> Qui nous fait voir tout de travers.</l>
+    </sp>
+    <sp who="#TDP942_4">
+     <speaker>XANTUS.</speaker>
+     <l>J'ai fait peut-être une imprudence,</l>
+     <l> Et je sens que je m'exposais ,</l>
+     <l> Quoiqu'à l'aide de ma science,</l>
+     <l> Je fusse assuré du succès.</l>
+     <l> Mais je n'eus point tort de le faire,</l>
+     <l> Malgré le danger d'un revers :</l>
+     <l> Quand on fait des heureux, ma chère,</l>
+     <l> On n'agit jamais de travers.</l>
+    </sp>
+    <sp who="#TDP942_7">
+     <speaker>MARSES.</speaker>
+     <l>Je pense bien comme vous faites ,</l>
+     <l> Les braves gens sont trop heureux</l>
+     <l> De faire pour les gens honnêtes ,</l>
+     <l> Ce que ceux-ci feraient pour eux.</l>
+     <l> Mais il existe une autre classe ,</l>
+     <l> Sur qui l'on a les yeux ouverts ,</l>
+     <l> Qu'un honnête-homme , quoiqu'en face ,</l>
+     <l> Ne regarde que de travers.</l>
+    </sp>
+    <sp who="#TDP942_6">
+     <speaker>CLITOPHON.</speaker>
+     <l>Chaque dieu descend sur la terre ,</l>
+     <l> M'apporter ses dons les plus doux ;</l>
+     <l> Minerve vous nomme mon père</l>
+     <l> L'amour me nomme son époux.</l>
+     <l> La fortune eût aussi sans doute ,</l>
+     <l> Apporté ses trésors ouverts ;</l>
+     <l> Mais hélas ! elle n'y voit goutte ,</l>
+     <l> Elle aura marché de travers.</l>
+    </sp>
+    <sp who="#TDP942_5">
+     <speaker>ESOPE.</speaker>
+     <l>Souvent la plus belle logique ,</l>
+     <l> Ne sert qu'a prouver une erreur ;</l>
+     <l> Souvent l'argument sans réplique ,</l>
+     <l> N'est qu'un sophisme séducteur</l>
+     <l> Souvent l'esprit le plus lucide,</l>
+     <l> Voit tout les objets a l'envers :</l>
+     <l> C'est en prenant son cœur pour guide</l>
+     <l> Qu'on ne va jamais de travers.</l>
+    </sp>
+    <sp who="#TDP942_3">
+     <speaker>LESBIA ,</speaker>
+     <stage>au public.</stage>
+     <l>D'une bienveillante indulgence,</l>
+     <l> L'auteur tremblant a bien besoin ,</l>
+     <l> Ce portrait qu'il fait sans séance, ,</l>
+     <l> De son grand modèle est bien loin ;</l>
+     <l> Mais du moins, si sa main peu sûre ,</l>
+     <l> L'a faiblement peint dans ses vers ,</l>
+     <l> Il l'a bien peint d'après nature ,</l>
+     <l> Car il l'a fait tout de travers.</l>
+    </sp>
+   </div>
+   <trailer>FIN.</trailer>
+  </body>
+ </text>
+</TEI>

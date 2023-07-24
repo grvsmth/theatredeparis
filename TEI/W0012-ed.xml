@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W12">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W12">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -15,12 +16,13 @@
     </respStmt>
    </titleStmt>
    <publicationStmt>
-    <distributor> The Digital Parisian Stage Corpus. GitHub.
-     https://github.com/grvsmth/theatredeparis </distributor>
+    <p>The Digital Parisian Stage Corpus is distributed on GitHub
+     https://github.com/grvsmth/theatredeparis </p>
    </publicationStmt>
    <sourceDesc>
-    <p>Original page images downloaded from <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k56253685"/>.</p>
-    <p>HTML transcription downloaded from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/12labsinthe.html">https://github.com/grvsmth/theatredeparis</ref></p>
+    <p>Original page images available from <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k56253685">Source gallica.bnf.fr / Bibliothèque nationale de France</ref>
+    </p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/12labsinthe.html">https://github.com/grvsmth/theatredeparis</ref></p>
    </sourceDesc>
   </fileDesc>
   <revisionDesc>

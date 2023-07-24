@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2761">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2761">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -20,11 +19,8 @@
      https://github.com/grvsmth/theatredeparis </distributor>
    </publicationStmt>
    <sourceDesc>
-    <p>Original page images downloaded from <ref
-     target="http://books.google.com/books?id=GGnpR5FuFwYC"/>.</p>
-    <p>HTML transcription downloaded from <ref
-     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2761strelitz.html"
-     >https://github.com/grvsmth/theatredeparis</ref></p>
+    <p>Original page images downloaded from <ref target="http://books.google.com/books?id=GGnpR5FuFwYC"/>.</p>
+    <p>HTML transcription downloaded from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2761strelitz.html">https://github.com/grvsmth/theatredeparis</ref></p>
    </sourceDesc>
   </fileDesc>
   <revisionDesc>
@@ -57,7 +53,7 @@
      Lévéque.</actor></castItem>
     <castItem><role>FEODOR, son Fils.</role><actor>M. Perrin.</actor></castItem>
     <castItem><role>SUCHANIN,</role> <role>ROSERDORF,</role>
-     <roleDesc>Strélitz.</roleDesc>><actor>M. St. Clair.</actor><actor>M.</actor></castItem>
+     <roleDesc>Strélitz.</roleDesc>&gt;<actor>M. St. Clair.</actor><actor>M.</actor></castItem>
     <castItem><role>Deux inconnus.</role><actor/></castItem>
     <castItem><role>Officiers.</role><actor/></castItem>
     <castItem><role>Gardes.</role><actor/></castItem>
@@ -71,14 +67,14 @@
   <body>
 
    <head>LES STRELITZ.</head>
-   <div>
+   <div type="act">
 
     <head>ACTE PREMIER.</head>
     <stage>( Le théâtre représente une place publique; un piédestal entourré d'une grille est au
      fond. Le jour commence à paraître. )</stage>
 
 
-    <div>
+    <div type="scene">
 
      <head>SCENE PREMIERE.</head>
      <stage>MARIA, ROSERDORF.</stage>
@@ -200,7 +196,7 @@
       <stage>(Ils s'éignent. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE II.</head>
 
@@ -227,7 +223,7 @@
        moins terribles. On vient.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE III.</head>
      <stage>SUCHANIN, MARIA, ROSERDORF, ( qui approchent. )</stage>
@@ -520,7 +516,7 @@
       <stage>( Maria et Roserdorf sortent, Suchanin s'éloigne. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE IV.</head>
      <stage>( Des troupes arrivent. Le peuple entre par toutes les issues. On apporte le buste de
@@ -530,7 +526,7 @@
       )</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE V.</head>
      <stage>MARIA , ROSERDORF.</stage>
@@ -598,7 +594,7 @@
       <p>En ne m'en parlant plus et en me permettant de vous les continuer. Voici Suchanin.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE VI</head>
      <stage>Les Précédens, SUCHANIN.</stage>
@@ -628,7 +624,7 @@
       <p>D'abord occupons-nous d'eux , plus tard nous parlerons de notre ancienne amitié.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE VII.</head>
      <stage>Les précédens, FEODOR.</stage>
@@ -735,7 +731,7 @@
       <p>Vous voulez que je ne m'occupe que de moi , tandis que mon père. . . .</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE VIII.</head>
      <stage>Les Précédens.</stage>
@@ -776,7 +772,7 @@
       <stage>( Le sabre à la main , il s'élance à la poursuite du premier homme. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE IX.</head>
      <stage>Les Prècèderts, sans Roserdorf et les deux inconnus.</stage>
@@ -848,7 +844,7 @@
       <stage>( Elle sort. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE X.</head>
      <stage>SUCHANIN, FEODOR.</stage>
@@ -935,7 +931,7 @@
       <stage>(Il sort. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XI.</head>
 
@@ -952,7 +948,7 @@
       <stage>(Il s'éloigne un peu. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XII.</head>
      <stage>SUCHANIN, ROSERDORF.</stage>
@@ -1185,13 +1181,13 @@
 
     </div>
    </div>
-   <div>
+   <div type="act">
 
 
     <head>ACTE II.</head>
 
 
-    <div>
+    <div type="scene">
 
      <head>SCENE PREMIERE.</head>
      <stage>(Le Théâtre représente le palais du Czar. Au fond les portes sont ouvertes; des soldats
@@ -1203,7 +1199,7 @@
       Catherine et Menzicoff avancent un pas. )</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE II.</head>
      <stage>Les Précédens, PIERRE , Un Officier.</stage>
@@ -1376,7 +1372,7 @@
       <p>Fais venir Maria. <stage>(Menzicoff sort.)</stage></p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE III.</head>
      <stage>PIERRE, CATHERINE.</stage>
@@ -1470,7 +1466,7 @@
        nouveau ; elle sort.)</stage></p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE IV.</head>
 
@@ -1481,7 +1477,7 @@
        orage.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE V.</head>
      <stage>PIERRE, MENZICOFF, MARIA.</stage>
@@ -1496,7 +1492,7 @@
       <stage>(Menzicoff s'éloigne au-delà des portes , Maria reste au fond.)</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène VI.</head>
      <stage>PIERRE, MARIA.</stage>
@@ -1676,7 +1672,7 @@
       <stage>( Maria se relève effrayée. Pierre fait à Menzicoff le signe d'avancer. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène VI.</head>
      <stage>Les Précédons , MENZICOFF.</stage>
@@ -1782,7 +1778,7 @@
       <p>Qu'elle sorte par cette issue dérobée. (<hi>Menzicoff la guide.</hi>)</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène VIII.</head>
 
@@ -1793,7 +1789,7 @@
        Féodor, je veux... <stage>( à Menzicoff qui rentre. )</stage> Eh bien ?</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène IX.</head>
      <stage>PIERRE, MENZICOFF.</stage>
@@ -1827,7 +1823,7 @@
       <p>Nous l'entendrons après, fais entrer.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène X.</head>
      <stage>Les Précédens, CATHERINE , Peuple et Courtisans, qui restent en arrière.</stage>
@@ -1852,7 +1848,7 @@
        précipite à travers la foule, et vient se jeter aux pieds du Czar.)</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène XI.</head>
      <stage>Les Précédens, ROSERDORF.</stage>
@@ -1984,7 +1980,7 @@
       <stage>( Il fait un nouveau geste, tout le monde sort. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène XII.</head>
      <stage>PIERRE, ROSERDORF.</stage>
@@ -2187,7 +2183,7 @@
       <p>Gardes !</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène XIII.</head>
      <stage>Les précédons, un OFFICIER, gardes.</stage>
@@ -2206,7 +2202,7 @@
       <stage>( on l'emmène ).</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène. XIV.</head>
 
@@ -2218,7 +2214,7 @@
        quelle sera ma récompense ?</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène XV.</head>
      <stage>PIERRE, MENZICOFF.</stage>
@@ -2242,7 +2238,7 @@
       <stage>( Menzicoff sort. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène XXI.</head>
 
@@ -2257,13 +2253,13 @@
      <trailer>Fin du second Acte.</trailer>
     </div>
    </div>
-   <div>
+   <div type="act">
 
     <head>ACTE III</head>
     <stage>Le Théâtre représente un Salon dans les Jardins de Suchanin.</stage>
 
 
-    <div>
+    <div type="scene">
 
      <head>Scène PREMIERE.</head>
 
@@ -2279,7 +2275,7 @@
        pas ? . . . oui. . . c'est lui. . . c'est lui même.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène II.</head>
      <stage>SUCHANIN, FEODOR.</stage>
@@ -2362,7 +2358,7 @@
        digne fils d'Ossacow. <stage>( à part en sortant )</stage> Il est à moi.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène III.</head>
 
@@ -2377,7 +2373,7 @@
       <p>Voilà sans doute un des conjurés.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène IV.</head>
      <stage>FEODOR, PIERRE, couvert dun manteau grossier.</stage>
@@ -2547,7 +2543,7 @@
        avance vers l'extrêmité du Théâtre. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène V.</head>
      <stage>Les Précédens, SUCHANIN, et peu-à-peu tous les conjurés, dont Suchanin présente
@@ -2652,7 +2648,7 @@
        suivre. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène VII.</head>
      <stage>( A l'instant où Pierre est prêt de la porte , Catherine s'élance dans le salon , suivie
@@ -2700,7 +2696,7 @@
       <stage>(Catherine et Menzicoff sortent. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène VII.</head>
      <stage>Les Précédens, sans Catherine et Menzicoff.</stage>
@@ -2716,7 +2712,7 @@
        geste. )</stage> Demeure, Féodor.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène VIII.</head>
      <stage>PIERRE, FEODOR.</stage>
@@ -2814,7 +2810,7 @@
        mon crime l'aurait-il entraînée dans l'abime que je viens d'ouvrir sous mes pas ?</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène IX.</head>
      <stage>Les Précédens, MARIA, ROSERDORF emmené par un Officier.</stage>
@@ -2874,7 +2870,7 @@
       <p>O mon fils!</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>Scène X.</head>
      <stage>Les Précédens , CATHERINE, MENZICOFF, les Conjurés ramenés par les Gardes.</stage>

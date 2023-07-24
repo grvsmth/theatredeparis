@@ -43,7 +43,7 @@
      Montmartre , le 7 Juin 1808.</titlePart>
     <titlePart> Prix : 1 fr. </titlePart>
     <docImprint>A PARIS, Chez Madame CAVANAGH , Libraire du Théâtre des Variétés, Passage du
-     Panorama , Nç. 5 , près du Boulevard. 1808/.</docImprint>
+     Panorama , No. 5 , près du Boulevard. 1808/.</docImprint>
    </titlePage>
    <castList>
     <head>Personnages. Acteurs./</head>
@@ -53,14 +53,13 @@
      ARMAND.</actor></castItem>
     <castItem><role>NICETTE.</role><actor>Mlle. Montano.</actor></castItem>
     <castItem><role>UN DOMESTIQUE.</role><actor>M. Audry.</actor></castItem>
-
    </castList>
    <set>
     <p>La scène est à Paris, chez M. Dupré.</p>
    </set>
   </front>
   <body>
-
+<pb n="3"/>
 
    <head>LES ACTEURS A L'EPREUVE</head>
 
@@ -132,7 +131,7 @@
     <sp who="#TDP23_3">
      <speaker>POULOT.</speaker>
      <p>De ce que vous m'avez fait attendre.</p>
-    </sp>
+    </sp><pb n="4"/>
     <sp who="#TDP23_1">
      <speaker>DUPRÉ</speaker>
      <stage>apart.</stage>
@@ -200,6 +199,7 @@
      <l> L'annonce de quelque merveille,</l>
      <l> Et l'éloge des médecins</l>
      <l> Tout auprès des morts de la veille;</l>
+     <pb n="5"/>
      <l> Le nom des pièc' qui vont passer,</l>
      <l> Les énigmes qu'on n'peut comprendre,</l>
      <l> Et les domestiq'à placer ,</l>
@@ -276,7 +276,7 @@
     <sp who="#TDP23_3">
      <speaker>POULOT.</speaker>
      <p>Vous croyez p't'être qu'il est indisposé ?</p>
-    </sp>
+    </sp><pb n="6"/>
     <sp who="#TDP23_1">
      <speaker>DUPRÉ.</speaker>
      <p>Quoi ! me tromperait-il ?</p>
@@ -345,7 +345,7 @@
     <sp who="#TDP23_1">
      <speaker>DUPRÉ.</speaker>
      <p>Eh bien! en cas que... Dépêchez vous donc ?</p>
-    </sp>
+    </sp><pb n="7"/>
     <sp who="#TDP23_3">
      <speaker>POULOT.</speaker>
      <p>En cas que je quitte M. Dorval, à cause de sa mort...</p>
@@ -408,7 +408,7 @@
     <sp who="#TDP23_1">
      <speaker>DUPRÉ.</speaker>
      <p>Réellement ? vous en êtes sûr ?</p>
-    </sp>
+    </sp><pb n="8"/>
     <sp who="#TDP23_4">
      <speaker>DROGUANT.</speaker>
      <p>Comme vous dites, je sais cela de la première main.</p>
@@ -489,7 +489,7 @@
     <sp who="#TDP23_4">
      <speaker>DROGUANT.</speaker>
      <p>Comme vous dites, avant de rien donner au malade.</p>
-     <stage>Air : c'est Zéphir plus léger.</stage>
+    <pb n="9"/> <stage>Air : c'est Zéphir plus léger.</stage>
      <l>Moi, j'ai voulu qu'entre nous deux,</l>
      <l> Il prononçât sans plus attendre,</l>
      <l> Et connaisant mon nom fameux ,</l>
@@ -550,9 +550,10 @@
      <speaker>DROGUANT.</speaker>
      <p>Mes entrées à la comédie.</p>
     </sp>
+    <pb n="10"/>
     <sp who="#TDP23_1">
      <speaker>DUPRÉ.</speaker>
-     <p>Quoi ! même quand on donnera <hi>le Médecin malgré lui, le Malade imaginaire ?</hi></p>
+     <p>Quoi ! même quand on donnera <title>le Médecin malgré lui</title>, <title>le Malade imaginaire ?</title></p>
     </sp>
     <sp who="#TDP23_4">
      <speaker>DROGUANT.</speaker>
@@ -609,7 +610,7 @@
      <p>Ce pauvre Dorval est en bonnes mains... Charger un pareil homme de soigner mes acteurs. ce
       serait adroit; quand il aurait entrepris l'un d'eux , je pourrais sur-le-champ en engager un
       autre. Avec tout cela, je n'ai point encore fait de démarches poor me procurer le sujet qu'il
-      me faut. Un autre objet encore m'inquiète, je voudrais trouver le canevas d'une petite pièce
+      me faut. Un autre objet encore m'inquiète, je voudrais <pb n="11"/> trouver le canevas d'une petite pièce
       destinée aux débats de mes nouveaux acteurs... Mettons-nous à déjeuner. Les bonnes idées,
       dit-on , viennent toujours à table. Ne négligeons pas un moyen aussi simple... Labrie !...
       apporte-moi mon déjeuner.</p>
@@ -674,7 +675,7 @@
     <sp who="#TDP23_1">
      <speaker>DUPRÉ.</speaker>
      <p>Monsieur, voici le mien.</p>
-    </sp>
+    </sp><pb n="12"/>
     <sp who="#TDP23_5">
      <speaker>FORSEC.</speaker>
      <stage>se précipitant à table.</stage>
@@ -753,7 +754,7 @@
      <l> Je n'ai pas un goût bien vif,</l>
      <l> Si j'achève la bouteille ,</l>
      <l> Voici quel est mon motif</l>
-     <l> Le vin s'aigrit tout de suite,</l>
+     <pb n="13"/><l> Le vin s'aigrit tout de suite,</l>
      <l> Quand Phébus lance ses traits,</l>
      <l> Et si je le bois si vite ,</l>
      <l> C'est quil ne serait plus frais. </l><stage>( bis. )</stage>
@@ -818,7 +819,7 @@
      <speaker>FORSEC.</speaker>
      <p>Réfléchissez y , je vous prie, je viendrai savoir la réponse à l'heure de votre dîner.</p>
     </sp>
-    <sp who="#TDP23_1">
+   <pb n="14"/> <sp who="#TDP23_1">
      <speaker>DUPRÉ.</speaker>
      <stage>vivement.</stage>
      <p>Pardon, je ne dîne pas chez moi.</p>
@@ -885,7 +886,7 @@
      <p>Aussi z'est-ce un autre sujet qui me conduit z'ici, je sais que Monsieur a entrepris z'un
       spectacle assez conséquent.</p>
     </sp>
-    <sp who="#TDP23_1">
+   <pb n="15"/> <sp who="#TDP23_1">
      <speaker>DUPRÉ.</speaker>
      <p>Eh ! bien ?</p>
     </sp>
@@ -946,7 +947,7 @@
     <sp who="#TDP23_6">
      <speaker>MESURE.</speaker>
      <p>Oui, Monsieur, les acteurs, le public, tout le monde s'en est m'êlé.</p>
-     <stage>Air : <hi>la Parole.</hi></stage>
+     <pb n="16"/><stage>Air : <hi>la Parole.</hi></stage>
      <l>Mes garçons ayant tous le fil,</l>
      <l> Je les avais mis au parterre ,</l>
      <l> J'avais chargé le plus subtil</l>
@@ -1011,7 +1012,7 @@
      <p>J'entends, je vois que vous refusez la pièce sur l'échantillon; il ne me reste plus qu'une
       ressource, j'ai une pantomime dont les chevaux n'ont pas voulu, je vais la porter aux
       chiens.</p>
-     <stage>Air : <hi>la femme est une rose.</hi></stage>
+     <pb n="17"/> <stage>Air : <hi>la femme est une rose.</hi></stage>
      <l>Paris , et la banlieue,</l>
      <l> Viennent les visiter,</l>
      <l> Ils ont toujours la queue,</l>
@@ -1081,7 +1082,7 @@
     <sp who="#TDP23_1">
      <speaker>DUPRÉ.</speaker>
      <p>Comment disparue !</p>
-    </sp>
+    </sp><pb n="18"/>
     <sp who="#TDP23_4">
      <speaker>POULOT.</speaker>
      <p>Eh! oui, elle est, dit-on, partie pour... bien loin !... Pour la Ru...</p>
@@ -1144,7 +1145,7 @@
     </sp>
    </div>
    <div>
-
+    <pb n="19"/>
     <head>SCENE XII, et dernière.</head>
     <stage>Les Mêmes, NICETTE, en jeune paysanne niaise.</stage>
 
@@ -1217,7 +1218,7 @@
      <speaker>DUPRÉ.</speaker>
      <p>Je m'en doutais.</p>
     </sp>
-    <sp who="#TDP23_7">
+    <pb n="20"/> <sp who="#TDP23_7">
      <speaker>NICETTE.</speaker>
      <stage>Air : <hi>c'est un enfant.</hi></stage>
      <l>De c'maîtr' là, vous pouvez m'en croire,</l>
@@ -1282,7 +1283,7 @@
      <speaker>DUPRÉ.</speaker>
      <stage>à part.</stage>
      <p>Allons, décidément je suis joué ; mais voyons jusqu'au bout.</p>
-    </sp>
+    </sp><pb n="21"/>
     <sp who="#TDP23_4">
      <speaker>POULOT</speaker>
      <stage>bas à sa sœur.</stage>
@@ -1347,7 +1348,7 @@
      <p>M. Poulot, vous jouez fort bien l'imbécille. Mais de grace, plus de déguisement; et vous
       gentille Nicette, reprenez vos graces naturelles, et daignez m'apprendre enfin...</p>
     </sp>
-    <sp who="#TDP23_4">
+    <pb n="22"/> <sp who="#TDP23_4">
      <speaker>POULOT.</speaker>
      <p>Cette lettre , Monsieur, vous dira tout, Dorval m'avait chargé de vous la remettre.</p>
     </sp>
@@ -1360,7 +1361,7 @@
       toujours en mettant vos talens à l'épreuve.</p>
     </sp>
    </div>
-   <div>
+   <pb n="23"/><div type="vaudeville">
 
     <head>VAUDEVILLE.</head>
     <stage>Air : de l'Opéra-Comique</stage>

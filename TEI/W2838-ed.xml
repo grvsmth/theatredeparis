@@ -242,7 +242,7 @@
      </sp>
      <sp who="#TDP2838_3 7">
       <speaker>Tatillon.</speaker>
-      <p>Quoi ! vous seriez...... <stage>( lisant l'enseigne. )</stage> <hi>aux bons amis....</hi>
+      <p>Quoi ! vous seriez...... <stage>( lisant l'enseigne. )</stage> <quote>aux bons amis....</quote>
        enseigne touchante , je veux être des vôtres.</p>
       <pb n="7"/>
      </sp>
@@ -1866,8 +1866,8 @@
     <div>
 
      <head>SCENE XI.</head>
-     <stage>CHARLES , CÉCILE , Mad. TATILLON , <hi>( des lettres à la main , se plaçant entr'eux.
-      )</hi></stage>
+     <stage>CHARLES , CÉCILE , Mad. TATILLON , </stage><stage>( des lettres à la main , se plaçant entr'eux.
+      )</stage>
 
      <sp who="#TDP2838_11">
       <speaker>Mad. Tatillon.</speaker>
@@ -2601,7 +2601,7 @@
     <div>
 
      <head>SCENE III.</head>
-     <stage>Les précédens , <hi>hors</hi> Mad. GERVAULT.</stage>
+     <stage>Les précédens , hors Mad. GERVAULT.</stage>
 
      <sp who="#TDP2838_9">
       <speaker>Desjardins.</speaker>
@@ -3973,8 +3973,8 @@
     <div>
 
      <head>SCÈNE VII.</head>
-     <stage>Les précédens , TATILLON <hi>( se plaçant entre madame Gervault et Thomas.
-      )</hi></stage>
+     <stage>Les précédens , TATILLON </stage><stage>( se plaçant entre madame Gervault et Thomas.
+      )</stage>
 
      <sp who="#TDP2838_3">
       <speaker>Tatillon.</speaker>
@@ -4027,7 +4027,7 @@
      </sp>
      <sp who="#TDP2838_1">
       <speaker>Thomas.</speaker>
-      <p>Un joli moyen ! <hi>( à madame Lambert. )</hi> Tâchez de l'éloigner.</p>
+      <p>Un joli moyen ! <stage>( à madame Lambert. )</stage> Tâchez de l'éloigner.</p>
      </sp>
      <sp who="#TDP2838_12">
       <speaker>Mad. Lambert.</speaker>

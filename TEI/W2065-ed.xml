@@ -63,7 +63,7 @@
    </castList>
 
    <set>
-    <p><hi>La scène est à Paris chez M. Roguignard.</hi></p>
+    <p>La scène est à Paris chez M. Roguignard.</p>
    </set>
   </front>
   <body>
@@ -244,8 +244,8 @@ leuse et si impérieuse... car je crois qu'elle tient de tous plus que de moi , 
     <sp who="#TDP2065_1">
      <speaker>Roguignard , .</speaker>
      <stage>ricannant</stage>
-     <p>Oh ! c'est que le tems passé ne revient pas , et que, comme dit le proverbe, <hi>qui refuse
-      , muse.</hi> . . Au reste , je ne vous défends pas d'espérer ; mais je parie contre , et je
+     <p>Oh ! c'est que le tems passé ne revient pas , et que, comme dit le proverbe, <quote>qui refuse
+      , muse.</quote> . . Au reste , je ne vous défends pas d'espérer ; mais je parie contre , et je
       vous exhorte à la patience. C'est à présent la plus utile vertu qui vous reste à
       pratiquer.</p>
     </sp>
@@ -457,8 +457,8 @@ leuse et si impérieuse... car je crois qu'elle tient de tous plus que de moi , 
      <stage>vient par le côté de la rue, il a un habit de paysan, et en demi-deuil; un grand chapeau
       , des guêtres , un bâton à la main y et une gourde en bandoullière</stage>
      <p>Quien ! i n'y a personne dans ste maison ! s'est pourtant ben ici qu'on m'a t'indiqué , une
-      porte grise avec trois fenêtres devant peinturlurées en vert, en face de la <hi>Truie qui
-      file....</hi> Ah! c'est que le monde est à la promenade, appa<pb n="( 11 )"/>
+      porte grise avec trois fenêtres devant peinturlurées en vert, en face de la <title>Truie qui
+      file....</title> Ah! c'est que le monde est à la promenade, appa<pb n="( 11 )"/>
 vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! j'avions peur
       que sa lettre ne fusse une attrape , quand notre magister nous l'a lue , et qu'on nous allait
       rire au né, quand j'aurions demandé ce nom là dans Paris... mais pas du tout, c'est ben vrai,
@@ -603,8 +603,8 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
     </sp>
     <sp who="#TDP2065_2">
      <speaker>Mlle. roguignard.</speaker>
-     <p>Ce n'en est qu'une non plus , et bien courte même ; il ne s'agit que de.prononcer un
-      <hi>oui.</hi></p>
+     <p>Ce n'en est qu'une non plus , et bien courte même ; il ne s'agit que de prononcer un
+      oui.</p>
     </sp>
     <sp who="#TDP2065_4">
      <speaker>Guignolet.</speaker>
@@ -616,7 +616,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <p>En ce cas, mon enfant, vous ne tarderez pas. Sur le bien que j'ai entendu dire de votre
       sagesse et de votre bonne conduite, je me suis déterminée à vous enrichir en vous épousant. Ce
       mariage vous assure les dix mille écus avec ma main. Voilà le marché doublement avantageux que
-      je vous propose ; ainsi, en me disant <hi>oui</hi>, vous aurez l'épouse et les trente mille
+      je vous propose ; ainsi, en me disant <quote>oui</quote>, vous aurez l'épouse et les trente mille
       francs.</p>
     </sp>
     <sp who="#TDP2065_4">
@@ -702,7 +702,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <stage>agréablement</stage>
      <p>Dailleurs , croyez que les bonnes façons que j'aurai pour vous ne vous laisserons pas
       repentir de ce mariage-là. Pensez donc encore aux dix mille écus qui sont au bout du
-      <hi>oui</hi> que je vous demande.</p>
+      oui que je vous demande.</p>
      <pb n="( 16 )"/>
     </sp>
     <sp who="#TDP2065_4">
@@ -710,7 +710,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <stage>à part</stage>
      <p>Saperlotte ! c'est ben ce bon bout-là qui nous détermine. <stage>(haut.)</stage> Allons,
       madame , je taupons à tout, pisque vous le voulez , et je vous disons le pus beau et le pus
-      ferme <hi>oui</hi> que j'ayons jamais prononcé.</p>
+      ferme oui que j'ayons jamais prononcé.</p>
     </sp>
     <sp who="#TDP2065_2">
      <speaker>Mlle. roguignard.</speaker>
@@ -783,7 +783,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
     <sp who="#TDP2065_4">
      <speaker>Guignolet, .</speaker>
      <stage>allant à elle</stage>
-     <p>Madame, pour siner not'nom , ça ne nous est pas si aisé comme de dire <hi>oui</hi> , car de
+     <p>Madame, pour siner not'nom , ça ne nous est pas si aisé comme de dire oui , car de
       tout l'alphabet que j'avons étudié long-tems, je n'avons pu apprendre à lire et à siner que -
       la croix de par dieu qu'est en tête.</p>
     </sp>
@@ -886,7 +886,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <speaker>Guignolet, .</speaker>
      <stage>la regardant toujours de côté sans bouger.</stage>
      <p>Elle ne sait pas encore les titres d'autorité que j'allons avoir dessus elle ; mais c'est
-      égal, i faut toujours tenir note <hi>quant à soi</hi> , et prendre au vis-à-vis d'elle , le
+      égal, i faut toujours tenir note quant à soi , et prendre au vis-à-vis d'elle , le
       ton qui nous convient, <stage>( haut et fièrement. )</stage> Bonjour, mamzelle, queuque vous
       demandez ici ?</p>
     </sp>

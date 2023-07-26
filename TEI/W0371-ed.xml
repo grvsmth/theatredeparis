@@ -27,7 +27,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc>
-   <change when="2023-07-20">Hand edited</change> 
+   <change when="2023-07-20">Hand edited</change>
    <change when="2023-07-20">Header confected</change>
   </revisionDesc>
  </teiHeader>
@@ -35,7 +35,7 @@
   <front>
    <titlePage>
     <docTitle>
-     <titlePart>LA BONNE MAITRESSE, z</titlePart>
+     <titlePart>LA BONNE MAITRESSE, </titlePart>
      <titlePart>COMÉDIE EN UN ACTE EN PROSE; </titlePart>
     </docTitle>
     <byline>Par <docAuthor>Madame de Montanclos</docAuthor>, Auteur de <title>Robert le
@@ -45,8 +45,10 @@
      Bondi, le 18 Messidor, an II. </titlePart>
     <titlePart>Prix : 24 sols. </titlePart>
     <docImprint>A PARIS, Chez Hugelet , Imprimeur, rue des Fossés-St.-Jacques, N° 4, près
-     l'Estrapade , Division de l'Observatoire. AN XII. — 1803.</docImprint>
+     l'Estrapade , Division de l'Observatoire.</docImprint>
+    <docDate> AN XII. — 1803.</docDate>
    </titlePage>
+   <pb n="2"/>
    <castList>
     <head>PERSONNAGES.</head>
     <castItem>Madame D'HERICOURT. </castItem>
@@ -54,12 +56,12 @@
     <castItem>MARIE, Domestique de Madame d'Héricourt. </castItem>
     <castItem>BASILE, Amant de Marie. </castItem>
     <castItem>ANTOINE , père de Basile. </castItem>
-    <castItem>JACQUES, valet de Madame d'Héricout.</castItem>
+    <castItem>JACQUES, valet de Madame d'Héricourt.</castItem>
    </castList>
    <set>
     <p> La scène se passe à Lauzanne. </p>
    </set>
-   <div type="prelim">
+   <div type="preface">
     <p>Je déclare avoir cédé au citoyen HUGELET, imprimeur, la pièce ayant pour titre : La bonne
      Maîtresse , Comédie en un acte et en prose de ma composition; laquelle pièce il peut imprimer,
      vendre et faire vendre en tel nombre d'exemplaires qu'il lui plaira ; me réservant les droits
@@ -71,20 +73,15 @@
     <signed>J. A. Hugelet</signed>
    </div>
   </front>
+  <pb n="3"/>
   <body>
-
-
    <head>La BONNE MAITRESSE, COMÉDIE.</head>
    <stage>Le théâtre représente un salon, un grand cabinet. Il faut que tout y respire une
     simplicité noble et la plus grande propreté, caractère des Genevois et des habitans de Lauzanne.
     — Un secrétaire ouvert est dans une embrasure très-près de l'avant-scène. Madame d'Héricourt est
     assise devant le secrétaire et parait occupée à lire une lettre.</stage>
-
-
    <div>
-
     <head>SCENE PREMIERE.</head>
-
     <sp who="#TDP371_1">
      <speaker>Mme D'HÉRICOURT, </speaker>
      <stage>lisant une lettre.</stage>
@@ -105,17 +102,16 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE II</head>
     <stage>MARIE, JACQUES, Mme D'HÉRICOURT.</stage>
     <stage>( Marie et Jacques entrent en même tems sûr la scène, l'une par la chambre de madame
      d'Hèricourt , l'autre par l'antichambre de l'appartement, et disent ensemble. )</stage>
     <p>Me voilà, madame.</p>
-
     <sp who="#TDP371_1">
      <speaker>Mme D'HÉRICOURT.</speaker>
      <p>Je n'ai pas besoin de vous, Jacques; c'est à Marie que je veux parler.</p>
     </sp>
+    <pb n="4"/>
     <sp who="#TDP371_3">
      <speaker>JACQUES, </speaker>
      <stage>( avec humeur. )</stage>
@@ -183,6 +179,7 @@
      <speaker>Mme D'HÉRICOURT.</speaker>
      <p>C'est la vérité.</p>
     </sp>
+    <pb n="5"/>
     <sp who="#TDP371_3">
      <speaker>JACQUES.</speaker>
      <p>Allons, faut encore que je la remercie, vous verrez ça; mais pourquoi qu'alle ne dit pas là
@@ -208,7 +205,7 @@
      <speaker>Mme D'HÉRICOURT, </speaker>
      <stage>( d'un ton plaisant. )</stage>
      <p>Ah ! ce serait là un de vos plaisirs ? allez , Jacques, retournez à votre ouvrage et
-      guérissez-vous en même tems de voire jalousie, et de vos idées de mariage avee Marie.—
+      guérissez-vous en même tems de votre jalousie, et de vos idées de mariage avee Marie.—
       Allez.</p>
     </sp>
     <sp who="#TDP371_3">
@@ -247,14 +244,13 @@
     <sp who="#TDP371_3">
      <speaker>JACQUES.</speaker>
      <p>He ben, je m'en va.. là.. ô mon dieu ! mon dieu ! <stage>( en s'en-allant )</stage> mais
-      cest égal, je n'y renonce pus, je la voulons et je l'aurais</p>
+      cest égal, je n'y renonce pus, je la voulons et je l'aurai.</p>
     </sp>
    </div>
+   <pb n="6"/>
    <div>
-
     <head>SCENE III.</head>
     <stage>Mme D'HÉRICOURT, MARIE.</stage>
-
     <sp who="#TDP371_2">
      <speaker>MARIE, </speaker>
      <stage>( à part. )</stage>
@@ -321,10 +317,10 @@
     </sp>
     <sp who="#TDP371_2">
      <speaker>MARIE.</speaker>
-     <p>Cela n'aurait-il pas eu l'air de solliciter votre générosité pour eux? ha! s'il avaient été
-      dans le bonheur comme par le passé, je n'aurais pas résisté à l'envie de vous voir satisfaite
-      , est - ce que je ne sais pas que vous n'êtes heureuse que lorsque tout le monde paroît
-      content.</p>
+     <p>Cela n'aurait-il pas eu l'air de solliciter votre générosité
+      <pb n="7"/> pour eux? ha! s'il avaient été dans le bonheur comme par le passé, je n'aurais pas
+      résisté à l'envie de vous voir satisfaite , est - ce que je ne sais pas que vous n'êtes
+      heureuse que lorsque tout le monde paroît content.</p>
     </sp>
     <sp who="#TDP371_1">
      <speaker>Mme D'HÉRICOURT.</speaker>
@@ -380,6 +376,7 @@
      <speaker>Mme D'HÉRICOURT.</speaker>
      <p>Vous avez été élevés ensemble, à ce que je vois.</p>
     </sp>
+    <pb n="8"/>
     <sp who="#TDP371_2">
      <speaker>MARIE.</speaker>
      <p>Oui madame.</p>
@@ -430,7 +427,7 @@
     <sp who="#TDP371_1">
      <speaker>Mme D'HÉRICOURT, </speaker>
      <stage>( en souriant. )</stage>
-     <p>Tu as bien profité de ses conseils, mon enfant, <stage>( a part. )</stage> Hélas! daus nos
+     <p>Tu as bien profité de ses conseils, mon enfant, <stage>( a part. )</stage> Hélas! dans nos
       villes c'est presque l'inverse que l'on enseigne <stage>( haut. )</stage> Dis-moi, Marie,
       Basile doit être bien cher à ses parens ?</p>
     </sp>
@@ -444,6 +441,7 @@
      <speaker>Mme D'HÉRICOURT.</speaker>
      <p>Tu serais donc bien joyeuse si tu te retrouvais avec lui.</p>
     </sp>
+    <pb n="9"/>
     <sp who="#TDP371_2">
      <speaker>MARIE, </speaker>
      <stage>( avec tristesse. )</stage>
@@ -452,10 +450,8 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE IV.</head>
     <stage>Mme D'HÉRICOURT, MARIE, JACQUES.</stage>
-
     <sp who="#TDP371_3">
      <speaker>JACQUES.</speaker>
      <p>Madame, voilà monsieur le syndic qui , sûrement , vient vous faire l'honneur... .. non, ce
@@ -480,10 +476,8 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE V.</head>
     <stage>Mme D'HÉRICOURT, MARIE, JACQUES, LE SYNDIC.</stage>
-
     <sp who="#TDP371_1">
      <speaker>Mme D'HÉRICOURT.</speaker>
      <p>Bon jour , mon cher voisin , je suis à vous dans l'instant. <stage>( a Marie. )</stage>
@@ -505,15 +499,14 @@
     <sp who="#TDP371_3">
      <speaker>JACQUES.</speaker>
      <p>Hé ben, c'est toujours un commandement, cest ce que je voulais.</p>
+     <pb n="10"/>
      <stage>( En s'en allant Jacques fait une moue à Marie, puis il lui sourit et lui tend la main ;
       Marie s'en va sans prendre garde à ces mines , Jacques tape du pied de dépit et sort.)</stage>
     </sp>
    </div>
    <div>
-
     <head>SCENE VI.</head>
     <stage>Mme D'HÉRICOURT, LE SYNDIC.</stage>
-
     <sp who="#TDP371_4">
      <speaker>LE SYNDIC, </speaker>
      <stage>( en riant. )</stage>
@@ -567,6 +560,7 @@
      <p>Hé bien, ce pauvre Antoine est-il libre? Basile n'est-il point engagé? je tremblais que son
       amour filial n'eut été plus actif que mon zèle.</p>
     </sp>
+    <pb n="11"/>
     <sp who="#TDP371_4">
      <speaker>LE SYNDIC.</speaker>
      <p>Rassurez-vous, madame, tout est terminé au gré de vos désirs. Votre bienfaisance a prévenu
@@ -618,11 +612,10 @@
       détaillé de mes fautes, dès que j'aurai pu faire le bien que je désire.</p>
     </sp>
    </div>
+   <pb n="12"/>
    <div>
-
     <head>SCENE VII.</head>
     <stage>Mme D'HÉRICOURT, LE SYNDIC, JACQUES.</stage>
-
     <sp who="#TDP371_3">
      <speaker>JACQUES, </speaker>
      <stage>( un balai à la main. )</stage>
@@ -687,6 +680,7 @@
       mieux mourir le balai à la main que vivre comme un faignant en regardant travailler les
       autres.</p>
     </sp>
+    <pb n="13"/>
     <sp who="#TDP371_4">
      <speaker>LE SYNDIC, </speaker>
      <stage>( en riant. )</stage>
@@ -713,9 +707,7 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE VIII.</head>
-
     <sp who="#TDP371_3">
      <speaker>JACQUES, </speaker>
      <stage>( seul. )</stage>
@@ -736,10 +728,8 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE IX.</head>
     <stage>JACQUES, BASILE.</stage>
-
     <sp who="#TDP371_5">
      <speaker>BASILE, </speaker>
      <stage>regardant partout d'un air inquiet.</stage>
@@ -751,6 +741,7 @@
      <p>Tiens, monsieur ; il est ben honnête ce jeune-homme, <stage>( haut. )</stage> Quoique vous
       voulez , monsieur?</p>
     </sp>
+    <pb n="14"/>
     <sp who="#TDP371_5">
      <speaker>BASILE.</speaker>
      <p>Ne suis-je pas dans la maison de madame d'Héricourt?</p>
@@ -813,6 +804,7 @@
       drès que c'est pour un grand jeune homme comme vous... qu'elle se chagrine, ho! ça sent le
       cousinage de mon pays; et vous ne la verrez pas.</p>
     </sp>
+    <pb n="15"/>
     <sp who="#TDP371_5">
      <speaker>BASILE , </speaker>
      <stage>( avec un dépit concentré. )</stage>
@@ -848,9 +840,7 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE X.</head>
-
     <sp who="#TDP371_3">
      <speaker>JACQUES, </speaker>
      <stage>( seul, en riant aux éclats. )</stage>
@@ -865,10 +855,8 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE XI.</head>
     <stage>Mme D'HÉRICOURT, JACQUES.</stage>
-
     <sp who="#TDP371_1">
      <speaker>Mme D'HÉRICOURT.</speaker>
      <p>Vous avez eu le temps de nétoyer, Jacques, allez et laissez moi seule.</p>
@@ -882,6 +870,7 @@
      <speaker>Mme D'HÉRICOURT.</speaker>
      <p>Hé bien.</p>
     </sp>
+    <pb n="16"/>
     <sp who="#TDP371_3">
      <speaker>JACQUES.</speaker>
      <p>C'est que je voudrions bien rester ici, avec votre permission,</p>
@@ -952,8 +941,9 @@
     <sp who="#TDP371_3">
      <speaker>JACQUES.</speaker>
      <p>Ho! je n'y ai pas fait de mal, je n'en sis pas capable; j'ai ben de la peine à tuer une
-      mouche; mais tenez, je i'ai envoyé dans la cuisine pour l'y faire croquer le marmot, afin
-      qu'il ne fut pas pus chanceux que moi. — C'est pas un crime, n'est-ce pas?</p>
+      mouche; mais tenez, je l'ai envoyé
+      <pb n="17"/> dans la cuisine pour l'y faire croquer le marmot, afin qu'il ne fut pas pus
+      chanceux que moi. — C'est pas un crime, n'est-ce pas?</p>
     </sp>
     <sp who="#TDP371_1">
      <speaker>Mme D'HÉRICOURT, </speaker>
@@ -968,10 +958,8 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE XII.</head>
     <stage>Mme D'HÉRICOURT, MARIE , JACQUES.</stage>
-
     <sp who="#TDP371_2">
      <speaker>MARIE, </speaker>
      <stage>entre toute essoufflée ; une joie excessive doit être peinte dans ses traits.</stage>
@@ -1012,16 +1000,15 @@
      <p>Ce Pauvre Jacques! il t'aime de bonne foi, mais du caractère dont il est , son chagrin ne
       durera guères.</p>
     </sp>
+    <pb n="18"/>
     <sp who="#TDP371_2">
      <speaker>MARIE.</speaker>
      <p>Les voilà , madame, les voilà!</p>
     </sp>
    </div>
    <div>
-
     <head>SCÈNE XIII.</head>
     <stage>Mme D'HÉRICOURT, MARIE, ANTOINE, BASILE.</stage>
-
     <sp who="#TDP371_5">
      <speaker>BASILE , </speaker>
      <stage>en entrant.</stage>
@@ -1079,6 +1066,7 @@
       non seulement est très honnête homme, mais qui, étant de votre commune , prend le plus vif
       intérêt à votre situation.</p>
     </sp>
+    <pb n="19"/>
     <sp who="#TDP371_6">
      <speaker>ANTOINE.</speaker>
      <p>J'ai joint à d'anciens titres d'exemption, l'acte d'adoption de ma fille Marie Herbin; mais
@@ -1115,10 +1103,8 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE XIV.</head>
     <stage>Mme D'HÉRICOURT, ANTOINE, BASILE, MARIE, JACQUES.</stage>
-
     <sp who="#TDP371_3">
      <speaker>JACQUES, </speaker>
      <stage>avec l'air chagrin.</stage>
@@ -1135,8 +1121,9 @@
     <sp who="#TDP371_3">
      <speaker>JACQUES, </speaker>
      <stage>avec une joie niaise.</stage>
-     <p>Tiens! eh madame qui me tutoye pour la premiere fois; ah! vla donc que je monte en grade, hé
-      ben c'est ça de gagné, mais ma fine j'avais besoin de cette fiché de consolation</p>
+     <p>Tiens! eh madame qui me tutoye pour la premiere fois;
+      <pb n="20"/> ah! vla donc que je monte en grade, hé ben c'est ça de gagné, mais ma fine
+      j'avais besoin de cette fiché de consolation</p>
     </sp>
     <sp who="#TDP371_1">
      <speaker>Mme D'HÉRICOURT.</speaker>
@@ -1157,10 +1144,8 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE XV.</head>
     <stage>Mme D'HERICOURT, ANTOINE, BASILE, MARIE.</stage>
-
     <sp who="#TDP371_6">
      <speaker>ANTOINE.</speaker>
      <p>Ce pauvre garçon parait bien affligé.</p>
@@ -1199,13 +1184,12 @@
       bienfaits.</p>
     </sp>
    </div>
+   <pb n="21"/>
    <div>
-
     <head>SCENE XVI.</head>
     <stage>BASILE, MARIE.</stage>
     <stage>( Basile et Marie se regardent un moment sans rien dire, mais leur attitude doit peindre
      l'ivresse du bonheur. )</stage>
-
     <sp who="#TDP371_5">
      <speaker>BASILE.</speaker>
      <p>Mais, dis moi, Marie, n'est ce point un songe que ce qui nous arrive ?</p>
@@ -1266,6 +1250,7 @@
      <stage>embarrassé.</stage>
      <p>Mais dam, que veux tu ?...</p>
     </sp>
+    <pb n="22"/>
     <sp who="#TDP371_2">
      <speaker>MARIE.</speaker>
      <p>Songe qu'une autre que cette Marie, qu'elle a tiré de pire que le tombeau , va avoir pour
@@ -1340,8 +1325,8 @@
     <sp who="#TDP371_2">
      <speaker>MARIE, </speaker>
      <stage>vivement.</stage>
-     <p>Basile , un mariage peut se retarder , mais une marque de reconnaissance, jamais : madame
-      a-t-elle balancé pour nous faire du bien.</p>
+     <p>Basile , un mariage peut se retarder , mais une marque de
+      <pb n="23"/> reconnaissance, jamais : madame a-t-elle balancé pour nous faire du bien.</p>
     </sp>
     <sp who="#TDP371_5">
      <speaker>BASILE, </speaker>
@@ -1375,10 +1360,8 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE XVII.</head>
     <stage>Mme D'HÉRICOURT , ANTOINE , BASILE, MARIE.</stage>
-
     <sp who="#TDP371_1">
      <speaker>Mme D'HÉRICOURT, </speaker>
      <stage>embrassant Marie.</stage>
@@ -1408,14 +1391,13 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE XVIII.</head>
-    <stage>Les Précédons , JACQUES, entrant tout essouflé</stage>
-
+    <stage>Les Précédens , JACQUES, entrant tout essouflé</stage>
     <sp who="#TDP371_3">
      <speaker>JACQUES.</speaker>
-     <p>Ha! j'apporte de belles nouvelles, allez. Plus d'accords, plus de mariage; tout est
-      par-dessus le mont Cenis, le syndic va venir , et vous allez voir , vons allez voir.</p>
+     <p>Ha! j'apporte de belles nouvelles, allez. Plus d'accords, plus de
+      <pb n="24"/> mariage; tout est par-dessus le mont Cenis, le syndic va venir , et vous allez
+      voir , vons allez voir.</p>
     </sp>
     <sp who="#TDP371_1">
      <speaker>Mme D'HÉRICOURT, </speaker>
@@ -1473,14 +1455,13 @@
     </sp>
    </div>
    <div>
-
     <head>SCENE XIX &amp; dernière.</head>
-    <stage>Les Précédons. Le SYNDIC, </stage><stage>avec l'air du trouble et de l'embarras.</stage>
-
+    <stage>Les Précédons. Le SYNDIC, </stage>
+    <stage>avec l'air du trouble et de l'embarras.</stage>
     <sp who="#TDP371_1">
      <speaker>Mme D'HÉRICOURT.</speaker>
-     <p>Ah ! monsieur, hâtez-vous de dissiper nos allarmes ; mais qu'avez-vous ? qui peut causer
-      l'agitation où je vous vois ?</p>
+     <p>Ah ! monsieur, hâtez-vous de dissiper nos allarmes ; mais
+      <pb n="25"/> qu'avez-vous ? qui peut causer l'agitation où je vous vois ?</p>
     </sp>
     <sp who="#TDP371_4">
      <speaker>LE SYNDIC, </speaker>
@@ -1502,7 +1483,8 @@
      <p>Du courage, mes enfans.</p>
     </sp>
     <sp who="#TDP371_4">
-     <speaker>LE SYNDIC, </speaker><stage>avec timidité et sentiment.</stage>
+     <speaker>LE SYNDIC, </speaker>
+     <stage>avec timidité et sentiment.</stage>
      <p>Où est-elle, cette Marie, cette fille vertueuse à laquelle vous prenez tant d'intérêt ; la
       voilà sans doute.</p>
     </sp>
@@ -1552,8 +1534,9 @@
     <sp who="#TDP371_1">
      <speaker>Mme D'HÉRICOURT, </speaker>
      <stage>avec une joie vive.</stage>
-     <p>Voici un des plus beaux jours de ma vie : tenez, mon voisin. voilà le bon Antoine et son
-      fils Basile , vous savez combien tous deux aiment votre nièce?</p>
+     <p>Voici un des plus beaux jours de ma vie : tenez, mon voisin. voilà
+      <pb n="26"/> le bon Antoine et son fils Basile , vous savez combien tous deux aiment votre
+      nièce?</p>
     </sp>
     <sp who="#TDP371_4">
      <speaker>LE SYNDIC.</speaker>
@@ -1603,9 +1586,10 @@
       finit par m'aimer.</p>
      <p><stage>Au Public.</stage> Messieurs, continuez, s'il vous plait, d'avoir des bontés pour
       Jacques , et il croira être du meilleur pays du monde.</p>
-     <stage>FIN.</stage>
     </sp>
    </div>
+   <trailer>FIN.</trailer>
+
   </body>
  </text>
 </TEI>

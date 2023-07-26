@@ -43,6 +43,7 @@
     <docImprint>A PARIS, Chez DELAVIGNE fils, au Cabinet de Lecture, Rue Bourg-l'Abbé, n°. 34, au
      passage de 1 Ancre. 1806. </docImprint>
    </titlePage>
+   <pb n="2"/>
    <castList>
     <head>PERSONNAGES. ACTEURS.</head>
     <castItem><role>GALLET , Epicier à la pointe Saint-Eustache </role><actor>M. Joly
@@ -61,9 +62,8 @@
     <p> La Scène est à Paris , chez Gallet.</p>
    </set>
   </front>
+  <pb n="3"/>
   <body>
-
-
    <head>GALLET, ou LE CHANSONNIER DROGUISTE.</head>
    <stage>Le Théâtre représente un Magasin d'Epiceries.</stage>
 
@@ -99,7 +99,7 @@
      <speaker>Tous en chœur.</speaker>
      <p>Ça n' dur'ra pas toujours.</p>
      <stage>( 4 fois. )</stage>
-    </sp>
+    </sp><pb n="4"/>   
     <sp who="#TDP1178_4">
      <speaker>Panard.</speaker>
      <l>Le mari d'Isabelle</l>
@@ -147,9 +147,10 @@
      <speaker>Panard.</speaker>
      <p>Messieurs, nous nous tuerons à ce métier-là.</p>
      <stage type="air">Air du Vaudeville d'Arlequin Musard.</stage>
-
      <l>La vie humaine est une banque</l>
      <l> Qui succombe par trop de frais ;</l>
+     <pb n="5"/>
+     
      <l>Amis , de peur qu'elle ne manque,</l>
      <l> Calculons bien nos intérêts :</l>
      <l> Que la prudence nous conduise</l>
@@ -192,7 +193,8 @@
     <sp who="#TDP1178_5">
      <speaker>Mad. Gallet,</speaker>
      <p>Ah! je le crois bien: ce sont des gens d'esprit. Aussi quelle différence dans mon commerce ,
-      depuis que j'ai épousé en secondes noces M. Gallet; je ne sais auquel entendre; ma boutique ne
+      depuis que j'ai épousé <pb n="6"/>
+      en secondes noces M. Gallet; je ne sais auquel entendre; ma boutique ne
       désemplit pas.; et l'on ne parle plus dans tout Paris, que de l'épicier de la Pointe
       Saint-Eustache.</p>
     </sp>
@@ -234,7 +236,8 @@
     <sp who="#TDP1178_7">
      <speaker>Michaut.</speaker>
      <p>Ecoutez, Madame Gallet, vous savez qu'il faut que j'ouvre mon cabaret de bonne heure ; mon
-      oncle Moufflard, de Cognac , qui m'a chargé de la vente de ses vins, à Paris, n'entend pas
+      oncle Moufflard, de Cognac , qui m'a chargé de la vente de ses vins, à Paris, <pb n="7"/>
+      n'entend pas
       raillerie là-dessus. Il se fait tard ; j'vas m'coucher : bonsoir la compagnie.</p>
     </sp>
     <sp who="#TDP1178_5">
@@ -278,8 +281,9 @@
     </sp>
     <sp who="#TDP1178_3">
      <speaker>Piron.</speaker>
-     <p>On voit bien que le tin est fini, Panard commence sa morale.</p>
-    </sp>
+     <p>On voit bien que le vin est fini, Panard commence sa morale.</p>
+    </sp><pb n="8"/>
+    
     <sp who="#TDP1178_1">
      <speaker>Gallet</speaker>
      <p>S'il veut qu'on l'écoute, qu'il la mette en chansons.</p>
@@ -321,7 +325,8 @@
     <sp who="#TDP1178_9">
      <speaker>Gallet et Panard.</speaker>
      <p>Voilà bien ( bis ) la Métromanie,</p>
-    </sp>
+    </sp><pb n="9"/>
+    
     <sp who="#TDP1178_1">
      <speaker>Gallet.</speaker>
      <p>Et moi donc, si j'étais assez riche pour quitter le commerce , je ferais bien mieux que vous
@@ -367,6 +372,8 @@
      <l> Fait bien.</l>
      <p>Allons nous coucher.</p>
     </sp>
+    <pb n="10"/>
+    
     <sp who="#TDP1178_1">
      <speaker>Gallet</speaker>
      <p>Bonne nuit ; à demain.</p>
@@ -406,7 +413,7 @@
      <speaker>Mad. Gallet.</speaker>
      <p>Ne t'inquiète pas de ça ; occupe-toi de ta réputation , te dis-je ; je m'occuperai de notre
       fortune ; on ne fait pas bien deux choses à la fois.</p>
-    </sp>
+    </sp><pb n="11"/>
     <sp who="#TDP1178_1">
      <speaker>Gallet.</speaker>
      <stage type="air">Air : La Boulangère a des Écus,</stage>
@@ -444,7 +451,7 @@
      <l> Souvenez-vous-en, souvenes-vous-en:</l>
      <l> Mais à présent, je le vois ,</l>
      <l> Vous avez perdu la voix.</l>
-    </sp>
+    </sp><pb n="12"/>
     <sp who="#TDP1178_1">
      <speaker>GALLET.</speaker>
      <p>Ça reviendra ; ça reviendra.</p>
@@ -482,7 +489,7 @@
      <speaker>GALLET.</speaker>
      <stage type="air">Air : Décacheter sur ma Porte.</stage>
      <p>Ah ! déjà la peur me gagne.</p>
-    </sp>
+    </sp><pb n="13"/>
     <sp who="#TDP1178_3">
      <speaker>PIRON .</speaker>
      <stage>(en dehors)</stage>
@@ -536,7 +543,7 @@
     <sp who="#TDP1178_4">
      <speaker>PANARD</speaker>
      <p>Et j'ai vu le moment où nous couchions à la belle étoile.</p>
-    </sp>
+    </sp><pb n="14"/>
     <sp who="#TDP1178_1">
      <speaker>GALLET.</speaker>
      <p>C'était mal prendre son temps.</p>
@@ -580,7 +587,7 @@
     </sp>
     <sp who="#TDP1178_3">
      <speaker>PIRON.</speaker>
-     <p>Le sommeil n'est pas fait pour noua,</p>
+     <p>Le sommeil n'est pas fait pour noua,</p><pb n="15"/>
      <stage type="air">Air : Nous n'avons qu'un temps à vivre.</stage>
      <l>Sans repos , que l'on se livre</l>
      <l> A la joie , à l'amitié.</l>
@@ -626,7 +633,7 @@
     <sp who="#TDP1178_3">
      <speaker>PIRON.</speaker>
      <p>Sois tranquille. <stage>( Il écrit. )</stage></p>
-    </sp>
+    </sp><pb n="16"/>
     <sp who="#TDP1178_1">
      <speaker>GALLET.</speaker>
      <p>Ah çà, mais es-tu fou, Michaut, avec tes chansons ? que ne dis-tu franchement à ma femme que
@@ -681,6 +688,7 @@
     <sp who="#TDP1178_3">
      <speaker>PIRON.</speaker>
      <p>C'est le meilleur.</p>
+     <pb n="17"/>
      <stage type="air">Air : Avale, avale, avale.</stage>
      <l>La faculté me prêcherait en vain :</l>
      <l> Pour la santé, rien n'est tel que le vin,</l>
@@ -731,7 +739,8 @@
     </sp>
     <sp who="#TDP1178_4">
      <speaker>PANARD.</speaker>
-     <p>Qui peut ta rendre triste? n'es-tu pas cent fois plus heureux que nous ? Tu as un bon
+     <p>Qui peut ta rendre triste? n'es-tu pas cent fois plus <pb n="18"/>
+      heureux que nous ? Tu as un bon
       commerce, c'est avantageux ; une bonne femme, c'est rare ; un bon lit, c'est commode ; une
       bonne table, c'est charmant : de quoi te plains-tu?</p>
     </sp>
@@ -771,7 +780,7 @@
     <sp who="#TDP1178_1">
      <speaker>GALLET.</speaker>
      <p>Que t'est-il donc arrivé de si heureux ?</p>
-    </sp>
+    </sp><pb n="19"/>
     <sp who="#TDP1178_3">
      <speaker>PlRON.</speaker>
      <p>Le directeur de l'Opéra comique , dont le théâtre de Lyon vient de brûler, m'a apporté
@@ -814,6 +823,7 @@
      <l> Qu'un vain délire ;</l>
      <l> Fuis son empire,</l>
      <l> Et ses faveurs.</l>
+     <pb n="20"/>
      <l> Vire saillie</l>
      <l> A la folie</l>
      <l> Parfois s'allie</l>
@@ -855,7 +865,8 @@
      <l>Sur les débris d'un tonneau,</l>
      <l> Thespis , barbouillé de lie ,</l>
      <l> Aux enfans de la Folie</l>
-     <l> Quvrit un chemia nouveau</l>
+     <l> Ouvrit un chemin nouveau</l>
+     <pb n="21"/>
      <l> Père de la Comédie,</l>
      <l> Ce fut à lui que Thalie</l>
      <l> Enseigna, dans une orgie,</l>
@@ -898,7 +909,7 @@
      <l> Qu'avec ferveur nous servons,</l>
      <l> Aime moins les louanges</l>
      <l> Que le bruit des flacons.</l>
-    </sp>
+    </sp><pb n="22"/>
     <sp who="#TDP1178_12">
      <speaker>PIRON, GALLET et PANARD.</speaker>
      <stage>Reprise du premier Air.</stage>
@@ -947,7 +958,7 @@
     <sp who="#TDP1178_3">
      <speaker>PIRON.</speaker>
      <p>Et toi, ne t'est-il pas dû quelque chose à ton étude? et la femme de ton procureur.....</p>
-    </sp>
+    </sp><pb n="23"/>
     <sp who="#TDP1178_1">
      <speaker>GALLET.</speaker>
      <p>Voilà de belles espérances.</p>
@@ -988,7 +999,7 @@
      <p>Eh bien, où donc sont-ils? <stage>( Il se lève. )</stage> Allons, les voilà partis. Çes
       Messieurs ont une jolie conduite. On pardonne encore ça à MM. Piron et Panard, qui sont
       garçons; mais M. Gallet, un homme établi ; il ne songe pas à ses affaires ; M. Agrippard le
-      poursuit ; mon oncle peut arriver; et s'il ne lui paye pas son vin, v'là mon mariage dans
+      poursuit ; mon oncle peut arriver; et s'il ne lui paye pas son vin, v'là mon <pb n="24"/>mariage dans
       l'eau. Ah ! mon dieu ! j'crois que j'entends mademoiselle Suzette.</p>
     </sp>
    </div>
@@ -1034,7 +1045,7 @@
      <stage>(prenant les deux lettres).</stage>
      <p>Eh bien, eh bien, qu'est-ce que c'est donc que ça ? Michaut qui apporte à mon insu dés
       lettres a ma fille ?</p>
-    </sp>
+    </sp><pb n="25"/>
     <sp who="#TDP1178_6">
      <speaker>SUZETTE</speaker>
      <p>Ma mère......</p>
@@ -1079,7 +1090,7 @@
     <sp who="#TDP1178_5">
      <speaker>Mad. GALLET .</speaker>
      <stage>(à part, parcourant les lettres)</stage>
-     <p>Que vois-je, l'écriture de M. Panard et de M. Piron? Je ne me trompe pas : ce sont deux
+     <p>Que vois-je, l'écriture de M. Panard et de M. Piron? <pb n="26"/>Je ne me trompe pas : ce sont deux
       déclarations. Ils aimeraient ma fille ! c'est singulier ; ils ne m'en ont jamais rien dit.
       L'un des deux deviendrait mon gendre! quel honneur pour moi ! Cela est très-différent.
       <stage>(Haut.)</stage> Réjouis-toi, mon enfant, tu es destinée à devenir l'épouse d'un homme
@@ -1118,7 +1129,7 @@
     <sp who="#TDP1178_5">
      <speaker>Mad. GALLET.</speaker>
      <p>Comment ! qu'est-ce qui parle d'eux? tout Paris, Mademoiselle.</p>
-    </sp>
+    </sp><pb n="27"/>
     <sp who="#TDP1178_6">
      <speaker>SUZETTE.</speaker>
      <p>Mais qui a pu vous dire ....</p>
@@ -1163,7 +1174,7 @@
      <speaker>M. MOUFFLARD</speaker>
      <p>Vous ne m'attendiez pas sitôt, n'est-ce pas? j'ai quitté Cognac à l'impromptu. Je faisais
       partir une voiture de marchandises pour Paris ; je me suis dit, un quintal de plus, ç'a n'est
-      pas la mort d'un cheval: je me mets sur deux tonneaux; nous partons; et me voilà. Comment se
+      pas la mort d'un cheval: je me mets sur<pb n="28"/> deux tonneaux; nous partons; et me voilà. Comment se
       porte Gallet ?</p>
     </sp>
     <sp who="#TDP1178_5">
@@ -1205,7 +1216,7 @@
     <sp who="#TDP1178_5">
      <speaker>Mad. GALLET.</speaker>
      <p>Au bon Henri? c'est la nouvelle enseigne que vous avez prise ?</p>
-    </sp>
+    </sp><pb n="29"/>
     <sp who="#TDP1178_13">
      <speaker>M. MOUFFLARD.</speaker>
      <p>Et je m'en applaudis. Mais, la petite Suzette? est-ce qu'on ne pense pas à la marier ?</p>
@@ -1252,7 +1263,7 @@
     <sp who="#TDP1178_5">
      <speaker>Mad. GALLET.</speaker>
      <p>D'une chanson qu'il finit.</p>
-    </sp>
+    </sp><pb n="30"/>
     <sp who="#TDP1178_13">
      <speaker>M. MOUFFLARD.</speaker>
      <p>Ah! c'est différent. <stage>( A part. )</stage> On ne m'a pas trompe.</p>
@@ -1288,7 +1299,7 @@
      <p>Je vois que j'ai bien fait de me mettre en règle. Ah! Monsieur Gallet, vous négligez un état
       utile, pour des folies ; vous laissez protester vos billets ; mais , j'ai obtenu sentence; la
       voici, et si je ne vois pas plus d'ordre chez vous, je la mets à exécution.</p>
-    </sp>
+    </sp><pb n="31"/>
     <sp who="#TDP1178_14">
      <speaker>FRANCISQUE</speaker>
      <stage>(à part).</stage>
@@ -1330,12 +1341,12 @@
      <l>A fixer la foule inconstante</l>
      <l> Pouvais-je ne pas réussir ?</l>
      <l> D'un roi chéri, que chacun vante ,</l>
-     <l> A propoe j'ai su me servir.</l>
+     <l> A propos j'ai su me servir.</l>
      <l> A ses drapeaux avec constance</l>
      <l> Comme la fortune a souri,</l>
      <l> Moi, j'ai placé mon espérance.</l>
-     <l> Sous l'enseigne du </l>
-    </sp>
+     <l> Sous l'enseigne du bon Henri </l>
+    </sp><pb n="32"/>
     <sp who="#TDP1178_14">
      <speaker>FRANCISQUE.</speaker>
      <p>Et le succès a couronné votre entreprise. <stage>( A part. )</stage> C'est M. Collé ,
@@ -1381,7 +1392,7 @@
     <sp who="#TDP1178_14">
      <speaker>Francisque.</speaker>
      <p>J'accepte avec empressement. J'étais sur le point de traiter avec M. Piron......</p>
-    </sp>
+    </sp><pb n="33"/>
     <sp who="#TDP1178_13">
      <speaker>M. MOUFFLARD.</speaker>
      <p>Fi donc! M. Piron? ce nom-là est inconnu parmi nous.</p>
@@ -1432,7 +1443,7 @@
     <sp who="#TDP1178_14">
      <speaker>FRANCISQUE.</speaker>
      <p>Oui, Monsieur, et Dieu merci, les années précédentes, je n'ai point eu à me plaindre de mes
-      recettes.</p>
+      recettes.</p><pb n="34"/>
      <stage type="air">Air : Du petit mot pour rire.</stage>
      <l>Si le public est exigeant,</l>
      <l> J'ai déjà remarqué souvent,</l>
@@ -1480,7 +1491,7 @@
     </sp>
     <sp who="#TDP1178_14">
      <speaker>FRANCISQUE.</speaker>
-     <p>Ne prenez pas cette peine; je reviendra; et j'espère bien que ce ne sera pas la dernière
+     <p>Ne prenez pas cette peine; je reviendra; et j'espère <pb n="35"/> bien que ce ne sera pas la dernière
       affaire que nous ferons ensemble. <stage>( A part , en sortant. )</stage> Ah ! quel bonheur
       pour moi d'avoir rencontré M. Collé !</p>
     </sp>
@@ -1525,7 +1536,7 @@
     </sp>
     <sp who="#TDP1178_1">
      <speaker>GALLET.</speaker>
-     <p>Je veux vous faire trouver avec deux de mes amis, qui vous divertiront. Ce sont bien les
+     <p>Je veux vous faire trouver avec deux de mes amis, qui <pb n="36"/> vous divertiront. Ce sont bien les
       plus drôles de corps... Eh! parbleu, les voici.</p>
     </sp>
     <sp who="#TDP1178_13">
@@ -1573,7 +1584,7 @@
     <sp who="#TDP1178_3">
      <speaker>PIRON.</speaker>
      <p>Et moi donc! il n'était question à Dijon que de son excellente eau de vie.</p>
-    </sp>
+    </sp><pb n="37"/>
     <sp who="#TDP1178_13">
      <speaker>M. MOUFFLARD.</speaker>
      <p>Monsieur est de Dijon ?</p>
@@ -1623,6 +1634,7 @@
     <sp who="#TDP1178_3">
      <speaker>PIRON.</speaker>
      <p>Pourquoi donc ? j'estime beaucoup le commerce , et sur tout l'agriculture.</p>
+     <pb n="38"/>
      <stage type="air">Air : J'aime ce mot de Gentillesse.</stage>
      <l>Ce fut Cérès qui la première,</l>
      <l> Pour le bonheur du genre humain ,</l>
@@ -1668,7 +1680,7 @@
     <sp who="#TDP1178_13">
      <speaker>M. MOUFFLARD.</speaker>
      <p>Voilà un docteur qui me plairait fort.</p>
-    </sp>
+    </sp><pb n="39"/>
     <sp who="#TDP1178_4">
      <speaker>PINARD.</speaker>
      <p>Il ne guérit que les malades d'esprit.</p>
@@ -1715,6 +1727,7 @@
      <stage type="air">Air : Ah ! voilà la Vie, etc.</stage>
      <l>Poursuivre sans cesse</l>
      <l> Les jeux et les ris,</l>
+     <pb n="40"/>
      <l> Passer dans l'ivresse</l>
      <l> Les jours et les nuits :</l>
      <l> Ah ! voilà la vie,</l>
@@ -1764,7 +1777,7 @@
      <speaker>GALLET.</speaker>
      <stage>(à part ).</stage>
      <p>Je tremble. Où diable veut il en venir?</p>
-    </sp>
+    </sp><pb n="41"/>
     <sp who="#TDP1178_13">
      <speaker>M. MOUFFLARD.</speaker>
      <p>On m'avait écrit que votre commerce n'allait pas bien.</p>
@@ -1814,7 +1827,7 @@
     <sp who="#TDP1178_5">
      <speaker>Mad. GALLET.</speaker>
      <p>Mais, il ne peut être mis en comparaison avec les personnes qui se présentent.</p>
-    </sp>
+    </sp><pb n="42"/>
     <sp who="#TDP1178_10">
      <speaker>PIRON et PANARD.</speaker>
      <p>Comment ! Madame Gallet?...</p>
@@ -1871,7 +1884,7 @@
     <sp who="#TDP1178_12">
      <speaker>Tous.</speaker>
      <p>Une sentence !</p>
-    </sp>
+    </sp><pb n="43"/>
     <sp who="#TDP1178_1">
      <speaker>GALLET.</speaker>
      <p>Voilà où nous conduisent vos folies, Madame Gallet.</p>
@@ -1910,12 +1923,12 @@
     </sp>
     <sp who="#TDP1178_5">
      <speaker>Mad. GALLET. </speaker>
-     <p>- en prison?</p>
+     <p>En prison?</p>
     </sp>
     <sp who="#TDP1178_3">
      <speaker>PIRON.</speaker>
      <p>Eh bien ! nous t'y suivrons.</p>
-    </sp>
+    </sp><pb n="44"/>
     <sp who="#TDP1178_1">
      <speaker>GALLET.</speaker>
      <p>Tu en parles bien à ton aise.</p>
@@ -1959,7 +1972,7 @@
      <speaker>Michaut .</speaker>
      <stage>(à M. MOUFFLARD)</stage>
      <p>Mais je vous dis, mon oncle, que je vais leur faire entendre raison.</p>
-    </sp>
+    </sp><pb n="45"/>
     <sp who="#TDP1178_13">
      <speaker>M. MOUFFLARD.</speaker>
      <p>Cela n'est pas possible.</p>
@@ -2003,7 +2016,7 @@
     <sp who="#TDP1178_3">
      <speaker>PIRON.</speaker>
      <p>Ah ! parbleu, c'est mon directeur de l'autre jour !</p>
-    </sp>
+    </sp><pb n="46"/>
     <sp who="#TDP1178_14">
      <speaker>Francisque.</speaker>
      <p>Je ne me trompe pas, c'est M. Piron. Vous me voyez le plus heureux des hommes. Monsieur a eu
@@ -2047,7 +2060,7 @@
     <sp who="#TDP1178_3">
      <speaker>PIRON. .</speaker>
      <stage>(prenant la bourse)</stage>
-     <p>Et moi je les accepte , Monsieur le directeur. Il fous faut une pièce pour l'ouverture de
+     <p>Et moi je les accepte , Monsieur le directeur. Il fous faut <pb n="47"/> une pièce pour l'ouverture de
       votre théâtre, je m'en charge. Toi , Gallet, tu as un billet à payer à M. Moufflard pour du
       vin que j'ai bu; je l'acquitte : tu n'iras pas en prison ; Monsieur ouvrira son théâtre , et
       quant à l'eau-de-vie de M. Moufflard, s'il veut nous l'envoyer, nous nous chargeons de la
@@ -2094,7 +2107,7 @@
     <sp who="#TDP1178_4">
      <speaker>PANARD.</speaker>
      <p>Oui , Madame ; nous étions ses secrétaires.</p>
-    </sp>
+    </sp><pb n="48"/>
     <sp who="#TDP1178_5">
      <speaker>Mad. GALLET.</speaker>
      <p>Mais, qui aurait pu deviner cela ?</p>
@@ -2115,10 +2128,10 @@
     <sp who="#TDP1178_3">
      <speaker>PIRON.</speaker>
      <p>Oui, Monsieur. L'intérêt que je prends à Gallet a échauffé mon imagination ; j'ai trouvé ce
-      qu'il vous faut ; et vous pouvez annoncer à votre théâtre Arlequin Deucalion.</p>
+      qu'il vous faut ; et vous pouvez annoncer à votre théâtre <title>Arlequin Deucalion</title>.</p>
     </sp>
    </div>
-   <div>
+   <div type="vaudeville">
 
     <head>VAUDEVILLE.</head>
     <stage type="air">Air : Vous aimables Fillettes.</stage>
@@ -2140,6 +2153,7 @@
      <l> Au temps passé, l'amour</l>
      <l> Faisait une blessure,</l>
      <l> Qui durait plus d'un jour ;</l>
+     <pb n="49"/>
      <l> Mais les flèches nouvelles ,</l>
      <l> Qu'il a dans son carquois,</l>
      <l> Blessent bien moins les belles </l>
@@ -2184,6 +2198,7 @@
      <l> Le vaudeville heureux</l>
      <l> Se fit connaître en France</l>
      <l> Par ses refrains joyeux.</l>
+     <pb n="50"/>
      <l> Le ton qu'on lui fit prendre</l>
      <l> A fatigué sa voix ;</l>
      <l> Mais Piron doit lui rendre</l>
@@ -2200,9 +2215,9 @@
      <l> Ah ! puissiez-vous , parfois,</l>
      <l> Trouver une étincelle </l>
      <l> De leur feu d'autrefois.</l>
-     <stage>FIN.</stage>
+   
     </sp>
-   </div>
+    <trailer>FIN.</trailer></div>
   </body>
  </text>
 </TEI>

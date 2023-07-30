@@ -194,7 +194,7 @@
     <sp who="#TDP23_3">
      <speaker>POULOT.</speaker>
      <p>Ah ! dame, c'est dans les petites affiches. Comme ce journal là est commode !</p>
-     <stage>Air : <hi>Cinquième édition.</hi></stage>
+     <stage>Air : <title>Cinquième édition.</title></stage>
      <l>On y peut lire tous les matins</l>
      <l> L'annonce de quelque merveille,</l>
      <l> Et l'éloge des médecins</l>
@@ -257,7 +257,7 @@
     </sp>
     <sp who="#TDP23_3">
      <speaker>POULOT ,</speaker>
-     <stage><hi>avec mystère.</hi></stage>
+     <stage>avec mystère.</stage>
      <p>Chut!...</p>
     </sp>
     <sp who="#TDP23_1">
@@ -294,7 +294,7 @@
     <sp who="#TDP23_3">
      <speaker>POULOT.</speaker>
      <p>Non, monsieur, ce sont deux médecins qui l'ont entrepris</p>
-     <stage>Air : <hi>Ca n'se peut pas.</hi></stage>
+     <stage>Air : <title>Ca n'se peut pas.</title></stage>
      <l>A sa façon chacun le traite,</l>
      <l> De son fait aucun n'est certain,</l>
      <l> L'un tât' son pouls , l'autre sa tête ;</l>
@@ -436,7 +436,7 @@
     <sp who="#TDP23_4">
      <speaker>DROGUANT.</speaker>
      <p>Oh ! non.</p>
-     <stage>Air : <hi>du maître d'école.</hi></stage>
+     <stage>Air : <title>du maître d'école.</title></stage>
      <l>Il m'a semblé que ma présence,</l>
      <l> A l'instant redoublait ses maux ,</l>
      <l> Pour calmer un peu sa souffrance ,</l>
@@ -525,7 +525,7 @@
     <sp who="#TDP23_4">
      <speaker>DROGUANT.</speaker>
      <p>Comme vous dites; mais je serai l'homme de la direction :</p>
-     <stage>Air : <hi>de Guillaume.</hi></stage>
+     <stage>Air : <title>de Guillaume.</title></stage>
      <l>Si quelqu'acteur fidèle à sa coutume,</l>
      <l> Feignait de tousser , aussitôt</l>
      <l> Je dirais ce qui vous enrhume ,</l>
@@ -661,7 +661,7 @@
     <sp who="#TDP23_5">
      <speaker>FORSEC.</speaker>
      <p>Monsieur, en fait de repas , j'ai peu d'habitude ; mais :</p>
-     <stage>Air : <hi>j'ai vu partout dans mes voyages.</hi></stage>
+     <stage>Air : <title>j'ai vu partout dans mes voyages.</title></stage>
      <l>Les déjeûners à la fourchette ,</l>
      <l> Ont bien pour moi quelques attraits;</l>
      <l> L'art de bien vivre. à leur recette ,</l>
@@ -732,7 +732,7 @@
     <sp who="#TDP23_5">
      <speaker>FORSEC.</speaker>
      <stage>( achevant les plats tour à tour. )</stage>
-     <stage>Air : <hi>mais ma mère , est-ce que j'sais ça ?</hi></stage>
+     <stage>Air : <title>mais ma mère , est-ce que j'sais ça ?</title></stage>
      <l>A des gens de cette clique</l>
      <l> Pouvez vous vous asservir ?</l>
      <l> Je n'ai point de domestique ,</l>
@@ -788,7 +788,7 @@
     <sp who="#TDP23_1">
      <speaker>DUPRÉ.</speaker>
      <p>Vous vous trompez.</p>
-     <stage type="air">Air : <hi>des Visitandines.</hi></stage>
+     <stage type="air">Air : <title>des Visitandines.</title></stage>
      <l>C'est un bâtard de Melpomène.</l>
      <l> Qui chez moi ne doit pas entrer.</l>
     </sp>
@@ -827,7 +827,7 @@
     <sp who="#TDP23_5">
      <speaker>FORSEC.</speaker>
      <p>Alors demain à votre déjeuner.</p>
-     <stage>Air : <hi>d'Alcibiade.</hi></stage>
+     <stage>Air : <title>d'Alcibiade.</title></stage>
      <l>Oui, c'est à l'heure des repas</l>
      <l> Que les gens sont meilleurs à prendre,</l>
      <l> Ils sont toujours , en pareil cas ,</l>
@@ -903,7 +903,7 @@
      <speaker>MESURE.</speaker>
      <p>Oui, monsieur. Quand j'ai vu de quel pas il allait à la gloire, j'ai dit : ne restons pas
       les jambes croisées.</p>
-     <stage>Air : <hi>d'abord je chante.</hi></stage>
+     <stage>Air : <title>d'abord je chante.</title></stage>
      <l>Ce noble exemple m'entraîne.</l>
      <l> Il est fait pour m'éveiller ;</l>
      <l> Il travaille à perdre haleine,</l>
@@ -947,7 +947,7 @@
     <sp who="#TDP23_6">
      <speaker>MESURE.</speaker>
      <p>Oui, Monsieur, les acteurs, le public, tout le monde s'en est m'êlé.</p>
-     <pb n="16"/><stage>Air : <hi>la Parole.</hi></stage>
+     <pb n="16"/><stage>Air : <title>la Parole.</title></stage>
      <l>Mes garçons ayant tous le fil,</l>
      <l> Je les avais mis au parterre ,</l>
      <l> J'avais chargé le plus subtil</l>
@@ -1012,7 +1012,7 @@
      <p>J'entends, je vois que vous refusez la pièce sur l'échantillon; il ne me reste plus qu'une
       ressource, j'ai une pantomime dont les chevaux n'ont pas voulu, je vais la porter aux
       chiens.</p>
-     <pb n="17"/> <stage>Air : <hi>la femme est une rose.</hi></stage>
+     <pb n="17"/> <stage>Air : <title>la femme est une rose.</title></stage>
      <l>Paris , et la banlieue,</l>
      <l> Viennent les visiter,</l>
      <l> Ils ont toujours la queue,</l>
@@ -1220,7 +1220,7 @@
     </sp>
     <pb n="20"/> <sp who="#TDP23_7">
      <speaker>NICETTE.</speaker>
-     <stage>Air : <hi>c'est un enfant.</hi></stage>
+     <stage>Air : <title>c'est un enfant.</title></stage>
      <l>De c'maîtr' là, vous pouvez m'en croire,</l>
      <l> Le choix n'était pas si nigaud ,</l>
      <l> J'ons lu dans l'enfance une histoire</l>

@@ -96,7 +96,7 @@
      <stage>sortant de la chaumière.</stage>
      <p>Il ne fait pas encore grand jour. Ma mère dort. Si André avait de l'esprit, il viendrait...
       J'ai tant de choses à lui dire.</p>
-     <stage>Air : <hi>Vers le Temple de l'Hymen.</hi></stage>
+     <stage>Air : <title>Vers le Temple de l'Hymen.</title></stage>
      <l>Réveillé par son amour,</l>
      <l> Toujours un amant fidèle,</l>
      <l> Pour venir près de sa belle ,</l>
@@ -104,7 +104,6 @@
      <l> Négligeant ce bon usage ,</l>
      <l> André, ce petit volage,</l>
      <l> Avant notre mariage,</l>
-     <stage>1*</stage>
      <pb n="( 4 )"/>
      <l>Déjà manque au rendez-vous.</l>
      <l> Un pareil oubli m'afflige ;</l>
@@ -122,7 +121,7 @@
 
     <sp who="#TDP2289_2">
      <speaker>ANDRÉ.</speaker>
-     <stage>AIR : <hi>Du Curé de Pomponne.</hi></stage>
+     <stage>AIR : <title>Du Curé de Pomponne.</title></stage>
      <l>Pauvre, mais jamais soucieux ,</l>
      <l> Je cultive la terre;</l>
      <l> Je cultive aussi dans ces lieux</l>
@@ -191,7 +190,7 @@
      <speaker>NICETTE.</speaker>
      <p>Si j'étais ma maîtresse, ça s'rait bien vite fini. Moi je trouve que t'as raison, et qu'on
       prospère toujours quand on est deux et qu'on s'aime bien.</p>
-     <stage>AIR : <hi>Un motif plus puissant, je pense.</hi></stage>
+     <stage>AIR : <title>Un motif plus puissant, je pense.</title></stage>
      <l>Puisque d'une flamme bien pure</l>
      <l> Nos cœurs sont épris tous les deux,</l>
      <l> Faut suivr' la loi de la nature</l>
@@ -224,7 +223,7 @@
      <speaker>ANDRÉ.</speaker>
      <p>Pardine, qu'est-ce qui ne rirait pas ?.... Faut qu'il soit ben fou, à son âge de vouloir
       s'engager dans le régiment des..... maris.</p>
-     <stage>AIR : <hi>Adieu, je vous fuis, bois charmant.</hi></stage>
+     <stage>AIR : <title>Adieu, je vous fuis, bois charmant.</title></stage>
      <l>Il compte au moins ses soixante ans ;</l>
      <l> Il souffre de l'asthme et de la goutte ;</l>
      <l> Il n'lui reste plus qu'deux ou trois dents ;</l>
@@ -242,7 +241,7 @@
     <sp who="#TDP2289_2">
      <speaker>ANDRÉ.</speaker>
      <p>Quoi ! déjà nous quitter ?</p>
-     <stage>AIR : <hi>Du Roi et le fermier.</hi></stage>
+     <stage>AIR : <title>Du Roi et le fermier.</title></stage>
     </sp>
     <sp who="#TDP2289_1">
      <speaker>NICETTE.</speaker>
@@ -320,7 +319,7 @@
     <sp who="#TDP2289_3">
      <speaker>MATOIS, </speaker>
      <stage>il s'est approché d'eux sans bruit, et a été témoin du baiser.</stage>
-     <stage>AIR <hi>: De la découpure.</hi></stage>
+     <stage>AIR <title>: De la découpure.</title></stage>
      <l>Ah ! mamsell' qu'avez-vous fait là ?</l>
      <l> Quoi, c'est à ma face</l>
      <l> Que vous souffrez qu'on vous embrasse!</l>
@@ -480,7 +479,7 @@
     </sp>
     <sp who="#TDP2289_4">
      <speaker>la BARONNE.</speaker>
-     <stage>AIR : <hi>Vaud. de Partie carrée.</hi></stage>
+     <stage>AIR : <title>Vaud. de Partie carrée.</title></stage>
      <l>J'estime en vous un serviteur fidèle ,</l>
      <l> Mais cependant , ici , je m'aperçoi</l>
      <l> Qu'un beauté vous trouble la cervelle,</l>
@@ -513,7 +512,7 @@
     </sp>
     <sp who="#TDP2289_3">
      <speaker>MATOIS.</speaker>
-     <stage>AIR : <hi>De six mois d'absence.</hi></stage>
+     <stage>AIR : <title>De six mois d'absence.</title></stage>
      <l>Le devoir me r'clame ,</l>
      <l> Je vais faire de mon mieux ,</l>
      <l> Pour prouver, madame,</l>
@@ -555,7 +554,7 @@
      <stage>seule.</stage>
      <p>Elle s'en va,.. Quelle bonne dame ! Tous ses vassaux l'aiment comme leur mère.</p>
      <pb n="(12)"/>
-     <stage>Air : <hi>J'apprends qu'un jeune prisonnier.</hi></stage>
+     <stage>Air : <title>J'apprends qu'un jeune prisonnier.</title></stage>
      <l>Chacun de nous, dans ce séjour,</l>
      <l> La chérit, bénit sa présence;</l>
      <l> Elle se glisse chaque jour</l>
@@ -594,7 +593,7 @@
 
     <sp who="#TDP2289_10 (13)">
      <speaker>CHŒUR.</speaker>
-     <stage>AlR : <hi>Verse encor, encor, encor.</hi></stage>
+     <stage>AlR : <title>Verse encor, encor, encor.</title></stage>
      <l>Mes amis, courons, courons, courons,</l>
      <l> Loin de nos pensions</l>
      <l> Le plaisir nous appelle.</l>
@@ -739,7 +738,7 @@
     <sp who="#TDP2289_6">
      <speaker>FÉLIX.</speaker>
      <p>Eh bien ! ayez donc confiance en moi !</p>
-     <stage>AIR : De <hi>Catinat à Saint-Gratien.</hi></stage>
+     <stage>AIR : De <title>Catinat à Saint-Gratien.</title></stage>
      <l>Pour nous tirer de cet état ,</l>
      <l> Il faut mettre tout en usage ,</l>
      <l> </l>
@@ -779,7 +778,7 @@
      <pb n="(16)"/>
      <p>bien cette ferme, ces pommiers, ce colombier , cette cave ?.....Eh ! bien, mes amis ,
       écoutez-moi.</p>
-     <stage>AIR : <hi>On se chagrine trop vite.</hi></stage>
+     <stage>AIR : <title>On se chagrine trop vite.</title></stage>
      <l>Victor, va chercher bien vite</l>
      <l> Des œufs frais au poulaillier ;</l>
      <l> Gustave , abats-moi de snite</l>
@@ -798,7 +797,7 @@
     </sp>
     <sp who="#TDP2289_7">
      <speaker>EUGÈNE.</speaker>
-     <stage>air : <hi>Songez donc que vous êtes vieux.</hi></stage>
+     <stage>air : <title>Songez donc que vous êtes vieux.</title></stage>
      <l>Et moi , mes amis, sans délit,</l>
      <l> Je m'en vais descendre à la cave,</l>
      <l> Je vais vous monter du Volney,</l>
@@ -821,7 +820,7 @@
 
     <sp who="#TDP2289_5 ( 17 )">
      <speaker>LA MÈRE DELORME.</speaker>
-     <stage>AIR : <hi>Ah ! quel scandale abominable.</hi></stage>
+     <stage>AIR : <title>Ah ! quel scandale abominable.</title></stage>
      <l>D'où vient ce bruit et ce tapage</l>
      <l> Que je viens d'entendre à l'instant î</l>
      <pb n="( 17 )"/>
@@ -913,7 +912,7 @@
     <sp who="#TDP2289_3">
      <speaker>MATOIS.</speaker>
      <p>Ce que je suis ?.....Vous allez le savoir.</p>
-     <stage>AIR : <hi>Du vaudeville de M. Guillaume.</hi></stage>
+     <stage>AIR : <title>Du vaudeville de M. Guillaume.</title></stage>
      <l>De ce château , je suis le garde chasse ;</l>
      <l> Je dois sévir contre les braconniers ;</l>
      <l> Ainsi pur punir votre audace ,</l>
@@ -931,7 +930,7 @@
     <sp who="#TDP2289_3">
      <speaker>MATOIS.</speaker>
      <p>Comment ! vous me narguez encore !</p>
-     <stage>AIR :<title> </title><hi>Que d'établissemens nouveaux.</hi></stage>
+     <stage>AIR :<title> </title><title>Que d'établissemens nouveaux.</title></stage>
      <l>De la maîtresse de ce lieu ,</l>
      <l> Je suis le serviteur fidèle.</l>
     </sp>
@@ -1141,7 +1140,7 @@
     <sp who="#TDP2289_6">
      <speaker>FÉLIX.</speaker>
      <p>Non , mais vous n'êtes pas trop rassurée.</p>
-     <stage>AIR : <hi>La bonne aventure.</hi></stage>
+     <stage>AIR : <title>La bonne aventure.</title></stage>
      <l>Vous nous croyez sans argent ,</l>
      <l> Cela vous chagrine ;</l>
      <l> Vous exigez tout comptant,</l>
@@ -1294,7 +1293,7 @@
     <sp who="#TDP2289_1 (25)">
      <speaker>NICETTE , </speaker>
      <stage>se défendant.</stage>
-     <stage>AIR: <hi>Voyez papa Bec comme il en détache.</hi></stage>
+     <stage>AIR: <title>Voyez papa Bec comme il en détache.</title></stage>
      <pb n="(25)"/>
      <l>Quand on m'taquine ,</l>
      <l> Moi, je suis mutine.</l>
@@ -1431,7 +1430,7 @@
      <p>NICETTE.</p>
      <p>Ecoute, André, si tu n'as pas plus de confiance en moi, tu peux t'en aller d'où tu
       arrives.</p>
-     <stage>AIR : <hi>Ma belle est la belle des belles.</hi></stage>
+     <stage>AIR : <title>Ma belle est la belle des belles.</title></stage>
      <l>A moi , je voulons qu'on se fie ;</l>
      <l> Il sait que je suis sans détour.</l>
     </sp>
@@ -1525,7 +1524,7 @@
      <speaker>FÉLIX.</speaker>
      <p>Allons, mes amis, voici le moment décisif.... <stage>( Ils prennent tous leurs
       fusils. )</stage></p>
-     <stage>AIR : <hi>Du ménage de garçon.</hi></stage>
+     <stage>AIR : <title>Du ménage de garçon.</title></stage>
      <l>Montrons une ame peu commune</l>
      <l> Pour surmonter les coups du sort;</l>
      <l> Nons avons tous même fortune,</l>
@@ -1646,7 +1645,7 @@
     <sp who="#TDP2289_6 ( 31 )">
      <speaker>FÉLIX.</speaker>
      <p>Nous rendre ! Nous ne connoissons pas ce mot-là.</p>
-     <stage>AIR : <hi>Vers le temple de l'hymen.</hi></stage>
+     <stage>AIR : <title>Vers le temple de l'hymen.</title></stage>
      <l>Des leçons de la valeur</l>
      <l> Nous nous faisons une étude ,</l>
      <l> Et nous prenons l'habitude</l>
@@ -1815,7 +1814,7 @@
     </sp>
     <sp who="#TDP2289_3">
      <speaker>MATOIS.</speaker>
-     <stage>AIR : <hi>Du vaudeville de Vadé;</hi></stage>
+     <stage>AIR : <title>Du vaudeville de Vadé;</title></stage>
      <l>Vous êtes tous des imprudens ,</l>
      <l> Allons , montrez-vous raisonnables ,</l>
      <l> Plus vous serez obéissans ,</l>
@@ -1906,7 +1905,7 @@
     <head>SCÈNE XXIV et dernière.</head>
     <stage>Madame la baronne de BELVAL , la mère DELORME, FÉLIX , JULES , LÉON, GUSTAVE, VICTOR,
      EUGÈNE, ANDRÉ, NICETTE, MATOIS, LE GREFFIER , LE GARDE CHAMPÊTRE , VlLLAGEOIS.</stage>
-    <stage>AIR : <hi>Brillante Corbeille. ( De la Corbeille d'oranges. )</hi></stage>
+    <stage>AIR : <title>Brillante Corbeille. ( De la Corbeille d'oranges. )</title></stage>
 
     <sp who="#TDP2289_16">
      <speaker>TOUT LE MONDE</speaker>

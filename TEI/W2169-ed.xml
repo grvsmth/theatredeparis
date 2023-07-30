@@ -201,7 +201,7 @@
      <speaker>PAPIRIUS, </speaker>
      <stage>en-dehors.</stage>
      <p>Comment! Que dis-tu, téméraire?</p>
-     <stage>Air du pas redoublé.</stage>
+     <stage>Air <title>du pas redoublé.</title></stage>
      <l>Aux lieux où pour délibérer</l>
      <l> Sont les femmes de Rome ,</l>
      <l> Empêche les vieillards d'entrer ;</l>
@@ -298,7 +298,7 @@
     </sp>
     <sp who="#TDP2169_3">
      <speaker>SEMPRONIE.</speaker>
-     <stage>Air: Oh ! oui, l'homme le plus parfait.</stage>
+     <stage>Air: <title>Oh ! oui, l'homme le plus parfait.</title></stage>
      <p>« Nous ne dirons rien désormais.</p>
     </sp>
     <sp who="#TDP2169_6">
@@ -332,7 +332,7 @@
     <sp who="#TDP2169_6">
      <speaker>Papirius.</speaker>
      <p>Des défauts? Personne, au contraire, ne vous en trouve moins que moi.</p>
-     <stage>Air: Que ta porte, ô ma tendre amie ! ( De lE'ntrevue. )</stage>
+     <stage>Air: <title>Que ta porte, ô ma tendre amie ! ( De lE'ntrevue. )</title></stage>
      <l>« A nos hommages chaque femme</l>
      <l> « A mille titros précieux ;</l>
      <l> « Ses vertus captivent notre ame ,</l>
@@ -405,7 +405,7 @@
     </sp>
     <sp who="#TDP2169_21 ( 11 )">
      <speaker>CHŒUR DE FEMMES.</speaker>
-     <stage>Air de la découpure.</stage>
+     <stage>Air <title>de la découpure.</title></stage>
      <l>« Vite, hâtons notre départ;</l>
      <l> « Courons sans retard</l>
      <l> « Où notre devoir nous appelle :</l>
@@ -444,7 +444,7 @@
      <speaker>JULIE, </speaker>
      <stage>entrant par la porte du fond.</stage>
      <p>Eh ! bon dieu ! où courent ainsi loutes ces femmes ?</p>
-     <stage>AIR: C'est un enfant.</stage>
+     <stage>AIR: <title>C'est un enfant.</title></stage>
      <l>« Quelle est donc la cause soudaine.</l>
      <l> « Qui les fait sortir de ce lieu ?</l>
      <l> « Dans le transport qui les entraîne ,</l>
@@ -522,7 +522,7 @@
      <speaker>JULIE.</speaker>
      <p>Et tu te flattes d'inspirer de la confiance à mon tuteur ? y songes-tu bien?</p>
      <pb n="( 13 )"/>
-     <stage>Air du vaudeville de la Tragédie.</stage>
+     <stage>Air <title>du vaudeville de la Tragédie.</title></stage>
      <l>« Tu sais qu'à nous unir tous deux,</l>
      <l> « Dès long-tems Caton se refuse.</l>
      <l> « D'un arrêt aussi rigoureux ,</l>
@@ -553,7 +553,7 @@
      <speaker>PAPIRIUS.</speaker>
      <p>Je les lèverai tous.</p>
      <stage>DUO.</stage>
-     <stage>Air de Doche.</stage>
+     <stage>Air <title>de Doche.</title></stage>
      <p>Au doux espoir livre ton cœur.</p>
     </sp>
     <sp who="#TDP2169_7">
@@ -633,7 +633,7 @@
     <sp who="#TDP2169_6">
      <speaker>PAPIRIUS.</speaker>
      <p>A vous seule.</p>
-     <stage>AIR: C'est le meilleur homme du monde. ( De M. Guillaume. )</stage>
+     <stage>AIR: <title>C'est le meilleur homme du monde. ( De M. Guillaume. )</title></stage>
      <l>« Un habile médiateur,</l>
      <l> « Usant d'une heureuse prudence ,</l>
      <l> « Dompte la haine et la fureur</l>
@@ -720,7 +720,7 @@
     <sp who="#TDP2169_6 ( 17 )">
      <speaker>PAPIRIUS</speaker>
      <p>Caton ici ? quel bonheur ! quelle allégresse !</p>
-     <stage>AIR: Mon cousin l'allure.</stage>
+     <stage>AIR: <title>Mon cousin l'allure.</title></stage>
      <l>« En ces lieux la raison ,</l>
      <l> « Cher Caton ,</l>
      <l> « Dès long-tems nous délaisse :</l>
@@ -850,7 +850,7 @@
     </sp>
     <sp who="#TDP2169_8">
      <speaker>CATON.</speaker>
-     <stage>AIR: Trouverez-vous un parlement?</stage>
+     <stage>AIR: <title>Trouverez-vous un parlement?</title></stage>
      <l>« Lorsque des hommes corrompus</l>
      <l> « Aux moeurs ne feront plus injure ;</l>
      <l> « Lorsque nos modernes Crésus</l>
@@ -895,7 +895,7 @@
      <speaker>CALPHURNIE.</speaker>
      <p>C'est différent. J'étais tout à l'heure l'épouse de Flaccus, votre parente, la seconde mère
       de votre pupille; je suis maintenant la présidente de l'assemblée des femmes romaines.</p>
-     <stage>AIR: II faut quitter ce que j'adore.</stage>
+     <stage>AIR: <title>II faut quitter ce que j'adore.</title></stage>
      <l>« Puisque le sénat, par prudence ,</l>
      <l> « Vers nous vient de vous députer,</l>
      <l> « Comme de puissance à puissance</l>
@@ -1020,7 +1020,7 @@
      <speaker>CATON.</speaker>
      <p>Je m'y oppose ; j'ai voté contre la loi qui vous permet d'y assister ; je ne veux pas
       paraître l'approuver.</p>
-     <stage>Air des pendus</stage>
+     <stage>Air <title>des pendus</title></stage>
      <l>« Sans vous je me rends au sénat :</l>
      <l> « Dans sa conduite, un magistrat ,</l>
      <l> « Par une lâche complaisance ,</l>
@@ -1055,7 +1055,7 @@
 
     <sp who="#TDP2169_6">
      <speaker>PAPIRIUS.</speaker>
-     <stage>Air de la pipe de tabac.</stage>
+     <stage>Air <title>de la pipe de tabac.</title></stage>
      <p>« Caton sort vraiment en colère.</p>
     </sp>
     <sp who="#TDP2169_1">
@@ -1278,7 +1278,7 @@
     <sp who="#TDP2169_1">
      <speaker>CALPHURNIE.</speaker>
      <p>Deux femmes à un mari !</p>
-     <stage>AIR: Qu'on soit jaloux. ( Du Secret. )</stage>
+     <stage>AIR: <title>Qu'on soit jaloux. ( Du Secret. )</title></stage>
      <l>« O trahison! ô loi fatale!</l>
      <l> « Quoi ! nos époux vont en ce jour,</l>
      <l> « En nous donnant une rivale ,</l>
@@ -1328,7 +1328,7 @@
      <p>Voilà ma mère bien alarmée ; elle ne se doute, guère que la loi qu'elle craint est dictée en
       faveur des femmes par la reconnaissance publique : et que n'ont-elles pas fait pour la mériter
       !</p>
-     <stage>AIR : Dorilas contre moi dès femmes.</stage>
+     <stage>AIR : <title>Dorilas contre moi dès femmes.</title></stage>
      <l>« L'une, à l'époux qu'elle révère,</l>
      <l> « Dans les cachots unit son sort ;</l>
      <l> « Une autre , pour sauver son père ,</l>
@@ -1350,7 +1350,7 @@
 
     <sp who="#TDP2169_24 ( 26 )">
      <speaker>CHŒUR DES CLIENTS.</speaker>
-     <stage>AIR: Honneur, honneur. ( Du Droit du Seigneur. )</stage>
+     <stage>AIR: <title>Honneur, honneur. ( Du Droit du Seigneur. )</title></stage>
      <l>« Louange, éclat</l>
      <l> « An magistrat</l>
      <l> « Soutien du l'état:</l>
@@ -1424,7 +1424,7 @@
     </sp>
     <sp who="#TDP2169_10 ( 27 )">
      <speaker>LE GREFFIER.</speaker>
-     <stage>AIR: Aimé de la belle Ninon.</stage>
+     <stage>AIR: <title>Aimé de la belle Ninon.</title></stage>
      <l>« Les courtisanes d'à présent</l>
      <l> « Vont si modestement vêtues ,</l>
      <pb n="( 27 )"/>
@@ -1455,7 +1455,7 @@
     <sp who="#TDP2169_9">
      <speaker>FLACCUS.</speaker>
      <p>Ah! Papirius, je veux te consulter là-dessus.</p>
-     <stage>AIR: Cet arbre apporté de Provence.</stage>
+     <stage>AIR: <title>Cet arbre apporté de Provence.</title></stage>
      <l>« Qui doit vouer à la justice ?</l>
     </sp>
     <sp who="#TDP2169_6">
@@ -1599,7 +1599,7 @@
     <sp who="#TDP2169_1">
      <speaker>CALPHURNIE.</speaker>
      <p>Aujourd'hui vous devez y aller.</p>
-     <stage>Air du vaudeville d'Abusar.</stage>
+     <stage>Air <title>du vaudeville d'Abusar.</title></stage>
      <p>« Préparez-vous.</p>
     </sp>
     <sp who="#TDP2169_9">
@@ -1664,7 +1664,7 @@
     <sp who="#TDP2169_9">
      <speaker>FLACCUS.</speaker>
      <p>Deux femmes? Non , par Vulcain !</p>
-     <stage>AIR: Ça n'se peut pas.</stage>
+     <stage>AIR: <title>Ça n'se peut pas.</title></stage>
      <l>« Une femme nous est bien chère ;</l>
      <l> « C'est toujours un joli cadeau :</l>
      <l> « Mais pour l'homme qui se modère</l>
@@ -1724,7 +1724,7 @@
       <pb n="( 31 )"/> ainsi tenir les autres en mon pouvoir! — J'ai fait avertir les femmes de se
       rendre ici en diligence — A quoi s'occupent-elles ? Si elles savaient le sort qui les attend !
       — Grand dieu ! un mari pour deux femmes! quel décret !</p>
-     <stage>AIR : Je suis ne natif de Ferrare.</stage>
+     <stage>AIR : <title>Je suis ne natif de Ferrare.</title></stage>
      <l>« Si jamais dans la république</l>
      <l> « On pouvait le mettre en pratique ,</l>
      <l> « Combien un pareil règlement</l>
@@ -1747,7 +1747,7 @@
      <speaker>CANIDIE, </speaker>
      <stage>en entrant.</stage>
      <p>Calphurnie, je sais le secret du sénat.</p>
-     <stage>AIR: Va-t-en voir , etc.</stage>
+     <stage>AIR: <title>Va-t-en voir , etc.</title></stage>
      <l>« D'après le vœu de Caton ,</l>
      <l> « Le sénat peu sage</l>
      <l> « Des jeux de hasard , dit-on,</l>
@@ -1812,7 +1812,7 @@
     <sp who="#TDP2169_1">
      <speaker>CALPHURNIE.</speaker>
      <p>Vous ne savez rien, rien; moi seule j'ai tout découvert: écoutez-moi.</p>
-     <stage>Air de la contredanse du Diable à Quatre.</stage>
+     <stage>Air <title>de la contredanse du Diable à Quatre.</title></stage>
      <stage>MINEUR.</stage>
      <l>« Par la plus noire des trames</l>
      <l> « Le bonheur nous est ravi :</l>
@@ -1910,7 +1910,7 @@
     </sp>
     <sp who="#TDP2169_1">
      <speaker>CALPHURNIE.</speaker>
-     <stage>AIR: Accompagné de plusieurs autres.</stage>
+     <stage>AIR: <title>Accompagné de plusieurs autres.</title></stage>
      <l>« D'après ce découragement ,</l>
      <l> « On reconnaît très-clairement</l>
      <l> « Quelles disgraces sont les vôtres :</l>
@@ -1927,7 +1927,7 @@
     <sp who="#TDP2169_11">
      <speaker>LOQUACIE, </speaker>
      <stage>accourant.</stage>
-     <stage>AIR : A boire ! à boire ! à boire !</stage>
+     <stage>AIR : <title>A boire ! à boire ! à boire !</title></stage>
      <l>« Alerte! alerte ! alerte !</l>
      <l> « Je viens de la découverte :</l>
      <l> « Les femmes courent au sénat,</l>
@@ -2003,7 +2003,7 @@
     </sp>
     <sp who="#TDP2169_9">
      <speaker>FLACCUS.</speaker>
-     <stage>AIR. Daignez m'épargner le reste.</stage>
+     <stage>AIR.<title> Daignez m'épargner le reste.</title></stage>
      <l>« J'ai rencontré près du logis</l>
      <l> « Mille femmes dont les cohortes</l>
      <l> « Couraient, en poussant de grands cris ,</l>
@@ -2033,7 +2033,7 @@
 
     <sp who="#TDP2169_22 ( 36 )">
      <speaker>CHŒUR DE FEMMES.</speaker>
-     <stage>Air: Ran, tan, plan, etc.</stage>
+     <stage>Air: <title>Ran, tan, plan, etc.</title></stage>
      <l>« A vos indignes décrets ,</l>
      <l> « Non , non ! nous ne nous soumettrons jamais.</l>
      <pb n="( 36 )"/>
@@ -2166,7 +2166,7 @@
       fait publiquement, et leur décerne le titre de dames romaines. »</p>
      <stage>( A l'instant, une fanfare se fait entendre, une enseigne se découvre , et laisse lire
       cette inscription environnée d'une couronne de fleurs: HONNEUR AUX DAMES. )</stage>
-     <stage>Air nouveau de Cochet</stage>
+     <stage>Air <title>nouveau de Cochet</title></stage>
      <l>« Vous avez droit à ces honneurs:</l>
      <l> « Un jour on lira dans l'histoire</l>
      <l> « Que l'époque de nos malheurs</l>
@@ -2193,7 +2193,7 @@
      <speaker>PAPIRIUS.</speaker>
      <p>Et les femmes resteront toujours comme elles étaient.</p>
      <stage>VAUDEVILLE.</stage>
-     <stage>Air nouveau de Wicht.</stage>
+     <stage>Air <title>nouveau de Wicht.</title></stage>
     </sp>
     <sp who="#TDP2169_2">
      <speaker>CANIDIE.</speaker>

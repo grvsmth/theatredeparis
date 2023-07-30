@@ -142,7 +142,7 @@
      <speaker>POULOT.</speaker>
      <p>Je vois que vous me prenez pour un autre; je m'appelle Poulot, et chez mon premier maître,
       j'étais cuisinier, sommelier, etc.</p>
-     <stage>Air : de la croisée.</stage>
+     <stage>Air : <title>de la croisée.</title></stage>
      <l>Je m'mêlais d'tout avec esprit ,</l>
      <l> Jamais i n'me fit un reproche ;</l>
      <l> D'abord à la cave il me mit,</l>
@@ -357,7 +357,7 @@
     <sp who="#TDP23_3">
      <speaker>POULOT.</speaker>
      <p>Monsieur voit à ma figure que je suis honnête.</p>
-     <stage>Air : de l'Avare</stage>
+     <stage>Air : <title>de l'Avare</title></stage>
      <l>Monsieur , tout ce que je sais faire</l>
      <l> Je vous l'ai dit en peu de mots ,</l>
      <l> Bientôt vous me prendrez, j'espère ,</l>
@@ -489,7 +489,7 @@
     <sp who="#TDP23_4">
      <speaker>DROGUANT.</speaker>
      <p>Comme vous dites, avant de rien donner au malade.</p>
-    <pb n="9"/> <stage>Air : c'est Zéphir plus léger.</stage>
+    <pb n="9"/> <stage>Air : <title>c'est Zéphir plus léger</title>.</stage>
      <l>Moi, j'ai voulu qu'entre nous deux,</l>
      <l> Il prononçât sans plus attendre,</l>
      <l> Et connaisant mon nom fameux ,</l>
@@ -558,7 +558,7 @@
     <sp who="#TDP23_4">
      <speaker>DROGUANT.</speaker>
      <p>Comme vous dites, Molière ne nous fait pas peur.</p>
-     <stage>Air : Trouverez-vous un Parlement.</stage>
+     <stage>Air : <title>Trouverez-vous un Parlement.</title></stage>
      <l>Malgré lui cet auteur malin</l>
      <l> Nous place au temple de mémoire,</l>
      <l> Une épigramme de sa main</l>
@@ -585,7 +585,7 @@
      <speaker>DROGUANT.</speaker>
      <p>Comme vous dites; je vous laisse mon adresse; Droguant, docteur en médecine, rue du
       Hasard.</p>
-     <stage>Air : une fille est un Oiseau.</stage>
+     <stage>Air: <title>une fille est un Oiseau.</title></stage>
      <l>Si vous daignez m'accepter,</l>
      <l> Sensible à la préférence,</l>
      <l> Je veux par reconnaissance ,</l>
@@ -1102,7 +1102,7 @@
     <sp who="#TDP23_4">
      <speaker>POULOT.</speaker>
      <p>Oui, Monsieur.</p>
-     <stage>Air : on doit soixante mille francs.</stage>
+     <stage>Air : <title>on doit soixante mille francs.</title></stage>
      <l>Ses amis, malgré leur désir,</l>
      <l> Si loin n'iront pas l'applaudir ,</l>
      <l> C'est ce qui la désole; </l>
@@ -1117,7 +1117,7 @@
     <sp who="#TDP23_4">
      <speaker>POULOT.</speaker>
      <p>D'ailleurs , comme dit la chanson de deux sous que je viens d'acheter.</p>
-     <stage>Air : que m'importe ma liberté.</stage>
+     <stage>Air : <title>que m'importe ma liberté.</title></stage>
      <l>Quand le doux primtemps dans nos bois</l>
      <l> Ramène les jeux sur son aile ,</l>
      <l> Doit on au pays des grands froids ,</l>
@@ -1178,7 +1178,7 @@
      <speaker>Nicette</speaker>
      <stage>niaisement.</stage>
      <p>Dame ! c'est d'mon âge...</p>
-     <stage>Air : Lisbeth.</stage>
+     <stage>Air : <title>Lisbeth.</title></stage>
      <l>Lucas qu'est un garçon charmant,</l>
      <l> Plus d'une fois m'a dit : Nicette,</l>
      <l> Pour ce qu'est en fait d'sentiment,</l>
@@ -1252,7 +1252,7 @@
     </sp>
     <sp who="#TDP23_7">
      <speaker>NICETTE.</speaker>
-     <stage>( Ier acte de Créqui. ) Air : de vos bontés , de son amour.</stage>
+     <stage>( Ier acte de Créqui. ) Air : <title>de vos bontés , de son amour.</title></stage>
      <l>L'amour qui fut longtemps heureux</l>
      <l> Dans le sein d'une paix parfaite,</l>
      <l> Pour son malheur formant des nœuds ,</l>
@@ -1364,7 +1364,7 @@
    <pb n="23"/><div type="vaudeville">
 
     <head>VAUDEVILLE.</head>
-    <stage>Air : de l'Opéra-Comique</stage>
+    <stage>Air : <title>de l'Opéra-Comique</title></stage>
 
     <sp who="#TDP23_4">
      <speaker>POULOT.</speaker>

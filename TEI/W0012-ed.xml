@@ -55,7 +55,7 @@
    </set>
    <div type="preface">
     <head>COUPLET D'ANNONCE.</head>
-    <stage type="air">AIR : Vaud, d'Arlequin-Afficheur.</stage>
+    <stage type="air">AIR :<title> </title><title>Vaud, d'Arlequin-Afficheur.</title></stage>
     <l>II n'est plus de nouveaux sujets,</l>
     <l> On épuise tout pour vous plaire ;</l>
     <l> Pour mettre du sel aux couplets</l>
@@ -93,7 +93,7 @@
      <p>II n'y en a pas deux aussi pareils sous la voute céleste des barrières de Paris.</p>
     </sp>
     <pb n="4"/>
-    <stage type="air">Air: Vaud. d'Angélique et Melcourt</stage>
+    <stage type="air">Air: <title>Vaud. d'Angélique et Melcourt</title></stage>
     <l>On ne compte qu'un Cicéron</l>
     <l> Comme on ne compte qu'un Voltaire,</l>
     <l> Pékin ne compte qu'un Caton,</l>
@@ -121,7 +121,7 @@
      <speaker>NICAISE.</speaker>
      <p>Si ce n'est que cela, j'épouse Jeannette, ce n'est point moi qui mange vos fruits.</p>
     </sp>
-    <stage type="air">AIR: Comment goûter quelque repos.</stage>
+    <stage type="air">AIR: <title>Comment goûter quelque repos.</title></stage>
     <l>Non, je ne fus jamais tenté</l>
     <l> Ni du raisin de votre treille,</l>
     <l> Ni d'aucune pêche vermeille</l>
@@ -233,9 +233,9 @@
     <pb n="8"/>
     <sp who="#TDP12_2">
      <speaker>HORTENCE.</speaker>
-     <p>Rien de plus facile : on prend une démarche grave, on tate le poul avec un air pensif, on
+     <p>Rien de plus facile : on prend une démarche grave, on tate le poul avec un air <title>pensif, on
       dit à son malade: montrez-moi votre langue; on fait un mouvement de tête, et quoiqu'on n'aye
-      rien dit du tout, on passe pour un bien savant médecin.</p>
+      rien dit du tout, on passe pour un bien savant médecin.</title></p>
     </sp>
     <sp who="#TDP12_3">
      <speaker>NICAISE.</speaker>
@@ -262,7 +262,7 @@
      <l> Je vais de de pas</l>
      <l> Au gourmant tendre des appats.</l>
     </sp>
-    <stage type="air">Air : On dit qu'a quinze ans</stage>
+    <stage type="air">Air : <title>On dit qu'a quinze ans</title></stage>
     <l>Je vais de ce pas</l>
     <l> Mettre les biscuits sur l'assiète ;</l>
     <l> Je vais de de pas</l>
@@ -288,7 +288,7 @@
     <head>SCÈNE III.</head>
     <stage type="set">HORTENCE, seule.</stage>
     <stage type="set">RONDEAU</stage>
-    <stage type="air">AIR : C'est envain qu'on blâme : du chapître second.</stage>
+    <stage type="air">AIR : <title>C'est envain qu'on blâme : du chapître second.</title></stage>
     <l>Quoique je suis bonne ,</l>
     <l> La raison l'ordonne ,</l>
     <l> Je veux le punir :</l>
@@ -335,7 +335,7 @@
     </sp>
     <sp who="#TDP12_2">
      <speaker>HORTENCE.</speaker>
-     <stage type="air">Air : Avec vous sous le même toit</stage>
+     <stage type="air">Air : <title>Avec vous sous le même toit</title></stage>
      <l>Pourrais-tu soupçonner mon cœur,</l>
      <l> De faire du mal à personne.</l>
      <l> Moi, qui désire le bonheur</l>
@@ -377,7 +377,7 @@
      <p>Je vais vous donner une leçon nouvelle... Celle de l'hiver dernier... Ah! qu'un professeur
       est heureux d'avoir pour écolière, une femme aussi intéressante que vous.</p>
     </sp>
-    <stage type="air">Air : Vaud. du Mameluck.</stage>
+    <stage type="air">Air : <title>Vaud. du Mameluck.</title></stage>
     <l>Oui, dans l'art de la cadence,</l>
     <l> Le goût veut vous engager ;</l>
     <l> Pour l'amour et pour la danse</l>
@@ -397,7 +397,7 @@
      <p>Ah ! Madame que vous faîtes bien de vous perfectionner dans cet art charmant !</p>
     </sp>
     <sp who="#TDP12_2">
-     <stage type="air">Air : Vaud. de la Fille en Loterie.</stage>
+     <stage type="air">Air : <title>Vaud. de la Fille en Loterie.</title></stage>
      <l>La femme plaisait autrefois,</l>
      <l> Par ses vertus, par sa figure,</l>
      <l> Mais aujourd'hui pour faire un choix,</l>
@@ -561,7 +561,7 @@
      <speaker>HORTENCE.</speaker>
      <p>Votre Hôtel ! Il me semble que ce n'est pas ainsi que vous devez nommer votre demeure.</p>
 
-     <stage type="air">Air : Font la cinquième Édition.</stage>
+     <stage type="air">Air : <title>Font la cinquième Édition.</title></stage>
      <l>Quand sous la tante est le guerrer</l>
      <l> L'ivrogne à la cave se loge ,</l>
      <l> Le poète dans le grenier,</l>
@@ -885,7 +885,7 @@
      <p>Un pot d'absinthe... On en trouve à chaque pas qu'on fait dans la vie.</p>
     </sp>
     <stage type="set">VAUDEVILLE.</stage>
-    <stage type="air">Air: Vaud. de Lasthénie.</stage>
+    <stage type="air">Air: <title>Vaud. de Lasthénie.</title></stage>
     <l>Un jeume amant sur un buisson,</l>
     <l> Voit briller la rose nouvelle,</l>
     <l> Il la cueille avec son bouton</l>

@@ -77,7 +77,7 @@ contrefacteurs, conformément à la loi.-->
    <div>
     
     <head>COUPLET D'ANNONCE.</head>
-    <stage type="air">AIR: j'ai vu par-tout, etc.</stage>
+    <stage type="air">AIR: <title>j'ai vu par-tout, etc.</title></stage>
     <l>Fontenelle, ce soir, doit craindre,</l>
     <l> En vous, un censeur irrité;</l>
     <l> Mais les auteurs ont voulu peindre,</l>
@@ -137,7 +137,7 @@ contrefacteurs, conformément à la loi.-->
      <p>N'y pensez donc plus; vous savez bien ce que vous a dit M. de Voltaire, dans le Pauvre
       Diable dont je suis le héros anonyme.</p>
      <pb n="6"/>
-     <stage type="air">AIR: j ‘ai perdu mon âne.</stage>
+     <stage type="air">AIR: <title>j ‘ai perdu mon âne.</title></stage>
      <l>Comme on nous accable!</l>
      <l> Métier détestable!</l>
      <l> Tout confrère, en Apollon,</l>
@@ -179,7 +179,7 @@ contrefacteurs, conformément à la loi.-->
     <sp who="#TDP1127_3">
      <speaker>Rolet.</speaker>
      <p>Hé! qui ne le serait pas?</p>
-     <stage type="air">AIR: ces auteurs de profession, (dans René le sage.)</stage>
+     <stage type="air">AIR: <title>ces auteurs de profession, (dans René le sage.)</title></stage>
      <l>Il sait être l'ami des rois,</l>
      <l> Et ne pas exciter l'envie;</l>
      <l> Il sait allier à la fois</l>
@@ -320,7 +320,7 @@ contrefacteurs, conformément à la loi.-->
     <sp who="#TDP1127_3">
      <speaker>Rolet.</speaker>
      <p>Cela doit-il vous étonner, madame?</p>
-     <stage type="air">AIR: du vaudeville de Décence.</stage>
+     <stage type="air">AIR: <title>du vaudeville de Décence.</title></stage>
      <l>On peut, le premier jour qu'on aime,</l>
      <l> Le premier être au rendez-vous;</l>
      <l> Mais cette exactitude extrême</l>
@@ -357,7 +357,7 @@ contrefacteurs, conformément à la loi.-->
     <sp who="#TDP1127_3">
      <speaker>Rolet.</speaker>
      <p>Ce ridicule, en vous, ne serait qu'un agrément de plus.</p>
-     <stage type="air">AIR: c'est du bien que l'on en dit.</stage>
+     <stage type="air">AIR: <title>c'est du bien que l'on en dit.</title></stage>
      <l>Votre esprit par-tout si vanté,</l>
      <l> D'un succès est la garantie;</l>
      <l> La lyre, aux mains de la beauté,</l>
@@ -441,7 +441,7 @@ contrefacteurs, conformément à la loi.-->
     <sp who="#TDP1127_4">
      <speaker>Madame GEOFFRIN.</speaker>
      <p>Un succès ne pourrait me rassurer encore.</p>
-     <stage type="air">AIR: souvent la nuit quand je sommeille.</stage>
+     <stage type="air">AIR: <title>souvent la nuit quand je sommeille.</title></stage>
      <l>On ne désarme point l'envie;</l>
      <l> Elle s'irrite d'un succès;</l>
      <l> Elle insulte jusqu'au génie:</l>
@@ -495,7 +495,7 @@ contrefacteurs, conformément à la loi.-->
      <p>Eh pourquoi pas? C'est un enfant gâté; il maîtrise l'homme du monde, et le pilosophe s'en
       amuse. Voici ce que je lui fais dire à une jeune fille qui ne veut pas l'écouter. C'est ce
       matin que j'ai composé cela.</p>
-     <stage type="air">AIR: de Teniers.</stage>
+     <stage type="air">AIR: <title>de Teniers.</title></stage>
      <l>Pourquoi me chasser, belle Annette?</l>
      <l> Pourquoi cet excès de rigueur?</l>
      <l> Donnez-moi plutôt, pour retraite,</l>
@@ -517,7 +517,7 @@ contrefacteurs, conformément à la loi.-->
      <speaker>Madame Geoffrin.</speaker>
      <p>Vous avez bien de l'esprit. ... mais je suis de l'avis de Voltaire, qui vous dit, de la part
       du dieu du goût, du public et de la sienne, même pour votre charmant dialogue des morts,</p>
-     <stage type="air">AIR: oui, mon cher Favart, à tes yeux.</stage>
+     <stage type="air">AIR: <title>oui, mon cher Favart, à tes yeux.</title></stage>
      <l>Par-tout, faites-nous retrouver</l>
      <l> L'aimable auteur qui fit les mondes,</l>
      <l> Dont l'esprit sut enjoliver</l>
@@ -618,7 +618,7 @@ contrefacteurs, conformément à la loi.-->
     
     <sp who="#TDP1127_6">
      <speaker>MÉLANIE.</speaker>
-     <stage type="air">AIR: rien n'est si plaisant que la tournure. (de J. Monet).</stage>
+     <stage type="air">AIR: <title>rien n'est si plaisant que la tournure. (de J. Monet).</title></stage>
      <l>JE ne souffrirai pas qu'on m'opprime,</l>
      <l> Et de vos humeurs,</l>
      <l> De vos fureurs,</l>
@@ -875,7 +875,7 @@ contrefacteurs, conformément à la loi.-->
     <sp who="#TDP1127_5">
      <speaker>Fontenelle.</speaker>
      <p>Je veux te l'apprendre.</p>
-     <stage type="air">AIR: si Dorilas.</stage>
+     <stage type="air">AIR: <title>si Dorilas.</title></stage>
      <l>Admirant tout d'un œil tranquille,</l>
      <l> Froids, et ne s'affectant de rien;</l>
      <l> Contents aux champs comme à la ville,</l>
@@ -986,7 +986,7 @@ contrefacteurs, conformément à la loi.-->
     </sp>
     <sp who="#TDP1127_2">
      <speaker>Anonyme.</speaker>
-     <p>AIR: de l'officier de fortune.</p>
+     <stage>AIR: <title>de l'officier de fortune.</title></stage>
      <l>Vous voyez un second lui-même;</l>
      <l> Ainsi vous pouvez me parler.</l>
     </sp>
@@ -1055,7 +1055,7 @@ contrefacteurs, conformément à la loi.-->
     </sp>
     <sp who="#TDP1127_2">
      <speaker>Anonyme.</speaker>
-     <l>AIR: jetez les yeux sur cette lettre.</l>
+     <stage>AIR: <title>jetez les yeux sur cette lettre.</title></stage>
      <l> Nous en avons en porte-feuille;</l>
      <l> Gardez-vous de nous irriter.</l>
     </sp>
@@ -1066,7 +1066,7 @@ contrefacteurs, conformément à la loi.-->
     </sp>
     <sp who="#TDP1127_2">
      <speaker>Anonyme.</speaker>
-     <l>Contre un journal qui va s'éteitidre,</l>
+     <l>Contre un journal qui va s'éteindre,</l>
      <l> C'est être par trop acharné;</l>
      <l> Je vous permettrais de vous plaindre,</l>
      <l> Si vous étiez notre abonné.</l>
@@ -1179,7 +1179,7 @@ contrefacteurs, conformément à la loi.-->
     <sp who="#TDP1127_6">
      <speaker>Mélanie.</speaker>
      <p>Ne vous donnez point la peine de la chercher; je ne l'accepterai pas.</p>
-     <stage>AIR.: malgré quelques traits différents.</stage>
+     <stage>AIR.: <title>malgré quelques traits différents.</title></stage>
      <l>De recevoir un tel écrit,</l>
      <l> Je ne ferai pas l'imprudence.</l>
      <l> Qui peut calculer où conduit</l>
@@ -1243,7 +1243,7 @@ contrefacteurs, conformément à la loi.-->
     <sp who="#TDP1127_6 25">
      <speaker>Mélanie.</speaker>
      <p>Ils en disent tous autant à chaque femme dont ils briguent la conquête!</p>
-     <stage type="air">AIR: contre-danse de la Sauteuse.</stage>
+     <stage type="air">AIR: <title>contre-danse de la Sauteuse.</title></stage>
      <l>Que l'amour</l>
      <l> Du jour,</l>
      <l> Lorsque j'y pense, me fait rire;</l>
@@ -1472,7 +1472,7 @@ contrefacteurs, conformément à la loi.-->
      <p>Des reproches dans celle-ci! «Vous avez oublié un temps bien » doux, Fontenelle, vous ne
       m'aimez plus .... »</p>
      <p>Ses reproches sont fondés.</p>
-     <stage type="air">AIR: d’ Arlequin aux petites maisons.</stage>
+     <stage type="air">AIR: <title>d’ Arlequin aux petites maisons.</title></stage>
      <l>Hélas! pourquoi faut-il qu'on aime,</l>
      <l> Et qu'on aime si peu de temps?</l>
      <l> Si l'on n'est pas toujours le même,</l>
@@ -1714,7 +1714,7 @@ contrefacteurs, conformément à la loi.-->
      <speaker>CHARLES,</speaker>
      <stage>(avec hauteur).</stage>
      <p>Les miens! ... <stage>(avec douceur)</stage>. Eh bien, j'en conviendrai!</p>
-     <stage type="air">AIR: comme j'aime mon Hyppolite.</stage>
+     <stage type="air">AIR: <title>comme j'aime mon Hyppolite.</title></stage>
      <l>Tous mes torts seront pardonnés,</l>
      <l> S'il ne faut que les reconnaître;</l>
      <l> Si l'amour me les a donnés,</l>
@@ -1788,7 +1788,7 @@ contrefacteurs, conformément à la loi.-->
     </sp>
     <sp who="#TDP1127_5">
      <speaker>Fontenelle.</speaker>
-     <stage type="air">AIR: ce fut par la faute du sort</stage>
+     <stage type="air">AIR: <title>ce fut par la faute du sort</title></stage>
      <l>On voit plus d'un couplé fidèle,</l>
      <l> Se brouiller, pour une querelle</l>
      <l> Dont il ignore le sujet.</l>
@@ -1930,7 +1930,7 @@ contrefacteurs, conformément à la loi.-->
      <speaker>Rolet.</speaker>
      <l>Au tragique! quand on a porté l'atteinte la plus sanglante à ma</l>
      <l> réputation. Monsieur Fontenelle, vous allez en juger.</l>
-     <stage type="air">AIR: contre-danse de la Hullin.</stage>
+     <stage type="air">AIR: <title>contre-danse de la Hullin.</title></stage>
      <l>Vous savez qu'on nous annonçait</l>
      <l> Pour ce soir, du neuf chez Thalie;</l>
      <l> Nous prenons, comme on commençait,</l>
@@ -2178,7 +2178,7 @@ contrefacteurs, conformément à la loi.-->
     </sp>
     <sp who="#TDP1127_2">
      <speaker>Anonyme.</speaker>
-     <stage type="air">AIR: des deux Fermiers.</stage>
+     <stage type="air">AIR: <title>des deux Fermiers.</title></stage>
      <l>Mon cher maître, désolez-vous;</l>
      <l> Je reviens de l'académie.</l>
     </sp>
@@ -2284,7 +2284,7 @@ contrefacteurs, conformément à la loi.-->
      <speaker>Rolet.</speaker>
      <p>On vous rendra justice, Fontenelle; la postérité vous appréciera, et c'est ainsi que tous
       ceux qui vous connaîtront parleront de vous.</p>
-     <stage>AIR; Vaudeville de Lasthénie.</stage>
+     <stage>AIR: <title>Vaudeville de Lasthénie.</title></stage>
      <l>Ami constant de la vertu,</l>
      <l> Grand écrivain, poète aimable,</l>
      <l> Toujours au malheur abattu</l>
@@ -2306,7 +2306,7 @@ contrefacteurs, conformément à la loi.-->
     </sp>
     <sp who="#TDP1127_4">
      <speaker>Madame Geoffrin.</speaker>
-     <stage type="air">AIR: du Rémouleur et la Meunière.</stage>
+     <stage type="air">AIR: <title>du Rémouleur et la Meunière.</title></stage>
      <l>Petits emplois, brillantes places,</l>
      <l> Chacun n'y vise que pour soi;</l>
      <l> Tel qui peut obtenir des graces,</l>

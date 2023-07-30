@@ -931,7 +931,7 @@
     <sp who="#TDP2289_3">
      <speaker>MATOIS.</speaker>
      <p>Comment ! vous me narguez encore !</p>
-     <stage>AIR : <hi>Que d'établissemens nouveaux.</hi></stage>
+     <stage>AIR :<title> </title><hi>Que d'établissemens nouveaux.</hi></stage>
      <l>De la maîtresse de ce lieu ,</l>
      <l> Je suis le serviteur fidèle.</l>
     </sp>
@@ -994,7 +994,7 @@
     </sp>
     <sp who="#TDP2289_3">
      <speaker>MATOIS.</speaker>
-     <stage>AIR : Vaud. de la Matrone.</stage>
+     <stage>AIR : <title>Vaud. de la Matrone.</title></stage>
      <l>Un téméraire , Un imprudent,</l>
      <l> Brave maintenant</l>
      <l> Ma colère.</l>
@@ -1162,7 +1162,7 @@
     </sp>
     <sp who="#TDP2289_6">
      <speaker>FÉLIX.</speaker>
-     <stage>AIR : Eh ! ma mère, est-ce que je sais ça.</stage>
+     <stage>AIR : <title>Eh ! ma mère, est-ce que je sais ça.</title></stage>
      <p>Je pairai, foi d'honnête homme.</p>
     </sp>
     <sp who="#TDP2289_5">
@@ -1564,7 +1564,7 @@
     <sp who="#TDP2289_6">
      <speaker>FÉLIX.</speaker>
      <p>Voyez comme en monte en grade en temps de guerre!</p>
-     <stage>AIR: Entends-tu la trompette guerrière. (Canon de Berton.)</stage>
+     <stage>AIR: <title>Entends-tu la trompette guerrière. (Canon de Berton.)</title></stage>
      <l>Mes amis, signalons notre audace ,</l>
      <l> Campons-nous sur cette terrasse</l>
      <l> Bien, en face </l>
@@ -1853,7 +1853,7 @@
     </sp>
     <sp who="#TDP2289_10">
      <speaker>LES ENFANS.</speaker>
-     <stage>AIR : Vaud. de la Journée de garnison.</stage>
+     <stage>AIR : <title>Vaud. de la Journée de garnison.</title></stage>
      <l>Allons,</l>
      <l> Mes amis, défilons ,</l>
      <l> Braves compagnons ,</l>
@@ -2012,7 +2012,7 @@
     </sp>
     <sp who="#TDP2289_6">
      <speaker>FÉLIX.</speaker>
-     <stage>AIR : Du Vaud. du Méléagre champenois.</stage>
+     <stage>AIR : <title>Du Vaud. du Méléagre champenois.</title></stage>
      <l>Loin des Régens</l>
      <l> Des murs du collège,</l>
      <l> De nos congés employons bien le temps ;</l>

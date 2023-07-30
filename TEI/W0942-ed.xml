@@ -89,7 +89,7 @@
     </lg>
     <p>Cet Apologue n'ayant pas pu être dit à la première représentation, l'auteur y substitua le
      couplet d'annonce suivant :</p>
-    <stage>AIR d'Arlequin Afficheur.</stage>
+    <stage>AIR <title>d'Arlequin Afficheur.</title></stage>
     <lg>
      <l>Esope parut à la cour,</l>
      <l> Et de là s'en vint à la ville ;</l>
@@ -125,7 +125,7 @@
      <speaker>LESBIA.</speaker>
      <p>Ces considérations-là peuvent-elles être de quelque poids, pour l'épouse du premier
       philosophe de la Grèce. J'ai mieux profité que vous des leçons de Xantus.</p>
-     <stage>( No. i. ) AIR : On compterait les Diamans.</stage>
+     <stage>( No. 1. ) AIR : <title>On compterait les Diamans.</title></stage>
      <l>Moi qui gravai dans mon esprit</l>
      <l> Les grands principes de mon père,</l>
      <l> Je le sens , la raison me dit</l>
@@ -146,7 +146,7 @@
      <speaker>LESBIA.</speaker>
      <p>Ah ! madame, vous ne l'avez pas entendu comme moi. Il est des momens où le disciple semble
       surpasser le maître; par exemple.</p>
-     <stage>( No. 2. ) AIR : J'ai vu partout dans mes voyages.</stage>
+     <stage>( No. 2. ) AIR :<title> </title><title>J'ai vu partout dans mes voyages.</title></stage>
      <l>Déjà, dès l'âge le plus tendre ,</l>
      <l> A ses disciples chaque jour</l>
      <l> J'entends Xantus, sans le comprendre ,</l>
@@ -175,7 +175,7 @@
      <speaker>LESBIA.</speaker>
      <p>Bien simplement :</p>
      <pb n="7"/>
-     <stage>( No. 3. ) air : Vaudeville de Chaulieu.</stage>
+     <stage>( No. 3. ) air :<title> </title><title>Vaudeville de Chaulieu.</title></stage>
      <l>Embrasé des feux du génie ,</l>
      <l> Xantus, prochant la piété ,</l>
      <l> Nous a peint avec énergie</l>
@@ -256,7 +256,7 @@
     <pb n="9"/>
     <sp who="#TDP942_4">
      <speaker>XANTUS.</speaker>
-     <stage>( No. 4. ) air: Vaudeville des deux Veuves.</stage>
+     <stage>( No. 4. ) air: <title>Vaudeville des deux Veuves.</title></stage>
      <l>Xantippe, laissez librement</l>
      <l> Raisonner notre chère fille ;</l>
      <l> En prononçant un argument</l>
@@ -276,7 +276,7 @@
     <sp who="#TDP942_3">
      <speaker>LESBIA.</speaker>
      <p>Eh bien, vous allez voir si j'ai tort.</p>
-     <stage>( No. 5 ) air : Vaudeville de oui eu non.</stage>
+     <stage>( No. 5 ) air : <title>Vaudeville de oui eu non.</title></stage>
      <l>A vos séances tous jours</l>
      <l> Je manquais par quelque finesse ,</l>
      <l> Vous m'accusiez aussi toujours</l>
@@ -300,7 +300,7 @@
     <sp who="#TDP942_4">
      <speaker>XANTUS.</speaker>
      <p>Sans doute; mais parlons d'autre chose. C'est le meilleur moyen de se distraire.</p>
-     <stage>( No. 6. ) AIR : du Chapitre second.</stage>
+     <stage>( No. 6. ) AIR : <title>du Chapitre second.</title></stage>
      <l>L'esprit a bien plus d'un ressort</l>
      <l> Qui sert à bien plus d'un ouvrage ;</l>
      <l> Quand l'un agit avec effort ,</l>
@@ -346,7 +346,7 @@
      <speaker>XANTUS.</speaker>
      <p>Il est là qui attend tes ordres. Mais pour ne pas te frapper trop vivement, je crois qu'il
       faut te préparer un peu en te faisant son portrait.</p>
-     <stage>( No. 7. ) AIR : Nous nous marierons Dimanche.</stage>
+     <stage>( No. 7. ) AIR : <title>Nous nous marierons Dimanche.</title></stage>
      <l>Peins toi trait pour trait</l>
      <l> L'homme le mieux fait</l>
      <l> Qui soit dans la Grèce entière ;</l>
@@ -386,7 +386,7 @@
      <speaker>XANTIPPE.</speaker>
      <p>En vérité, ceci passe la raillerie. Je vous ferai voir qu'on ne se joue pas ainsi d'une
       femme comme moi.</p>
-     <stage>( No. 8. ) AIR des Trembleurs.</stage>
+     <stage>( No. 8. ) AIR <title>des Trembleurs.</title></stage>
      <l>C'est trop loin pousser l'audace ,</l>
      <l> Et je vous le dis en face ,</l>
      <l> Depuis long-temps je suis lasse</l>
@@ -407,7 +407,7 @@
     <sp who="#TDP942_5">
      <speaker>ESOPE.</speaker>
      <p>Vous avez tort. Vous êtes mère de famille, je pourrais vous être plus utile qu'un autre.</p>
-     <stage>( No. 9. AIR des Bossus.</stage>
+     <stage>( No. 9.) AIR <title>des Bossus.</title></stage>
      <l>Depuis long-tems, quand ils font les méchans ,</l>
      <l> Des loups , des ours, on fait peur aux enfans ;</l>
      <l> Mais quand on a quelque lutin chez soi</l>
@@ -415,7 +415,7 @@
      <l> Pour l'effrayer on lui parle de moi,</l>
     </sp>
     <sp who="#TDP942_3">
-     <speaker>LE8BIA.</speaker>
+     <speaker>LESBIA.</speaker>
      <p>Oh ! la plaisante créature !</p>
     </sp>
     <sp who="#TDP942_2">
@@ -521,7 +521,7 @@
      <p>C'est précisément ce que dit l'esclave , lorsqu'il vit que l'intérieur de son vilain melon
       valait mieux que celui de l'autre. Cela ne m'étonne pas de la part d'un homme sans expérience,
       qui juge sur ce qu'il voit d'abord et ne va pas plus avant ; mais vous ,</p>
-     <stage>( No. 10. ) AIR : Femmes voulez-vous éprouver.</stage>
+     <stage>( No. 10. ) AIR : <title>Femmes voulez-vous éprouver.</title></stage>
      <l>Pourquoi penser que rien de beau</l>
      <l> Ne peut sortir d'un corps informe ,</l>
      <l> Le coloris de ce manteau</l>
@@ -597,7 +597,7 @@
     <sp who="#TDP942_5">
      <speaker>ESOPE.</speaker>
      <p>Oui , vous n'en sentirez que plus vivement le bonheur qui le suivra sans doute.</p>
-     <stage>( No. 11.) AIR : Un jour il est agriculteur. ( de M. Guillaume. )</stage>
+     <stage>( No. 11.) AIR : <title>Un jour il est agriculteur. ( de M. Guillaume. )</title></stage>
      <l>Pour apprécier les beaux jours ,</l>
      <l> Il faut avoir vu des jours sombres;</l>
      <l> Pour faire admirer ses contours ,</l>
@@ -633,7 +633,7 @@
     <sp who="#TDP942_3">
      <speaker>LESBIA.</speaker>
      <p>Oui, beaucoup.</p>
-     <stage>( No. 12. ) AIR : Comment goûter quelque repos.</stage>
+     <stage>( No. 12. ) AIR : <title>Comment goûter quelque repos.</title></stage>
      <l>Le sort entre nous est égal ,</l>
      <l> Et nous souffrons les mêmes peines ;</l>
      <l> Je languis aussi dans les chaînes,</l>
@@ -684,7 +684,7 @@
     </sp>
     <spGrp><sp who="#TDP942_5">
      <speaker>ESOPE.</speaker>
-     <stage>( No. 13. ) AIR : Le comédie est un miroir.</stage>
+     <stage>( No. 13. ) AIR : <title>Le comédie est un miroir.</title></stage>
      <p>C'est le nom de mon bienfaiteur.</p>
     </sp>
     <sp who="#TDP942_3">
@@ -734,7 +734,7 @@
     </sp>
     <sp who="#TDP942_6">
      <speaker>CLITOPHON.</speaker>
-     <stage>( No. 14. AIR : Comme toi cela me chagrine (M. Guillaume.)</stage>
+     <stage>( No. 14. AIR : <title>Comme toi cela me chagrine (M. Guillaume.)</title></stage>
      <l>Enfin , cédant à ma prière,</l>
      <l> Mon père a donc rempli mes vœux !</l>
     </sp>
@@ -819,7 +819,7 @@
      <speaker>CLITOPHON.</speaker>
      <p>Ah! je le sens bien ! Mais dans la crainte ou je suis de ne pas obtenir l'une, la possession
       de l'autre ne me rend que plus à plaindre.</p>
-     <stage>( No. 16. ) AIR: de gentil Bernard.</stage>
+     <stage>( No. 16. ) AIR: <title>de gentil Bernard.</title></stage>
      <l>Aimer avec amour extrême</l>
      <l> Sans faire partager ses feux ,</l>
      <l> Aimer sans être aimé de même.</l>
@@ -882,7 +882,7 @@
      <speaker>ESOPE.</speaker>
      <p>Espérez en attendant. L'espérance est la déesse la plus bienfaisante et qui abandonne le
       moins les malheureux.</p>
-     <stage>( No. 18. ) AIR du Jockey.</stage>
+     <stage>( No. 18. ) AIR <title>du Jockey.</title></stage>
      <l>Cette divinité sensible,</l>
      <l> Sait ôter à l'être souffrant,</l>
      <l> Par l'image d'un bien possible,</l>
@@ -893,7 +893,7 @@
      <l> Aiguiser les traits du plaisir.</l>
     </sp><pb n="25"/>
     <sp who="#TDP942_6">
-     <speaker>CLITOPHON-</speaker>
+     <speaker>CLITOPHON</speaker>
      <p>C'est une triste ressource !</p>
     </sp>
     <sp who="#TDP942_5">
@@ -907,7 +907,7 @@
     <stage>Les mêmes, XANTUS, XANTIPPE.</stage>
 
     <sp who="#TDP942_4">
-     <speaker>Xantus.</speaker>
+     <speaker>XANTUS.</speaker>
      <p>Esope, je viens t'annoncer que tu resteras avec nous; Xantippe s'est rendue à mes raisons et
       consent à te garder ici.</p>
     </sp>
@@ -973,7 +973,7 @@
      <p>Ah ! seigneur ! croyez que si je n'acquiers pas des connaissances plus profondes, ce n'est
       pas faute de bonne volonté ! C'est l'idée même qu'il serait possible que j'obtinsse la main de
       l'aimable Lesbia , qui me fait oublier les moyens d'y parvenir.</p><pb n="27"/>
-     <stage>( No. 19. ) AIR nouveau.</stage>
+     <stage>( No. 19. ) AIR <title>nouveau.</title></stage>
      <l>Je sens qu'un aussi grand honneur</l>
      <l> N'est pas fait pour un faible élève ;</l>
      <l> Je sens qu'au niveau de mon cœur ,</l>
@@ -1008,7 +1008,7 @@
      <p>Madame !</p>
     </sp>
     <sp who="#TDP942_2">
-     <speaker>X A N T I P P E.</speaker>
+     <speaker>XANTIPPE.</speaker>
      <p>Je sais à quoi m'en tenir ! j'ai assisté aux séances de philosophie, et j'ai-toujours vu
       qu'au lieu d'écouter votre maître, vous passiez tout le tems à regarder sa fille d'une manière
       indécente.</p>
@@ -1016,7 +1016,7 @@
     <sp who="#TDP942_4">
      <speaker>XANTUS.</speaker>
      <p>Cela est vrai, et cependant :</p><pb n="28"/>
-     <stage>( No. 20. ) AIR : Quand l'Amour naquit à Cythère.</stage>
+     <stage>( No. 20. ) AIR : <title>Quand l'Amour naquit à Cythère.</title></stage>
      <l>Je ne demande pas sans doute ,</l>
      <l> Un sacrifice trop coûteux ,</l>
      <l> En exigeant que l'on m'écoute ,</l>
@@ -1047,7 +1047,7 @@
     <sp who="#TDP942_2">
      <speaker>XANTIPPE.</speaker>
      <p>Non , je ne veux pas me modérer , et je trouve fort extraordinaire que vous l'exigiez!</p>
-     <stage>( No. 21. ) AIR : Tarare pompon.</stage>
+     <stage>( No. 21. ) AIR : <title>Tarare pompon.</title></stage>
      <l>Je ne souffrirai pas</l>
      <l> Qu'on m'impose silence ,</l>
      <l> Et de complaisance</l>
@@ -1182,7 +1182,7 @@
     <sp who="#TDP942_4">
      <speaker>XANTUS.</speaker>
      <p>Mais de quel philosophe !</p><pb n="32"/>
-     <stage>( No. 22. ) AIR du vaudeville de M. Guillaume.</stage>
+     <stage>( No. 22. ) AIR <title>du vaudeville de M. Guillaume.</title></stage>
      <l>Ceint de laurier , tout rayonnant de gloire,</l>
      <l> Xantus déja dans la Grèce fameux ,</l>
      <l> Va dans les fastes de l'histoire</l>
@@ -1214,7 +1214,7 @@
     </sp>
     <sp who="#TDP942_5">
      <speaker>ESOPE.</speaker>
-     <stage>( No. 23. ) AIR du vaudeville de l'Opéra comique.</stage>
+     <stage>( No. 23. ) AIR <title>du vaudeville de l'Opéra comique.</title></stage>
      <l>Depuis qu'au mont Ida,</l>
      <l> Paris Choisit la reine de Cythère,</l>
      <l> Minerve a vu des ennemis</l>
@@ -1226,13 +1226,13 @@
     </sp><pb n="33"/>
     <sp who="#TDP942_4">
      <speaker>XANTUS.</speaker>
-     <p>Contes en l'air !</p>
+     <p>Contes en l'air <title>!</title></p>
     </sp>
     <sp who="#TDP942_5">
      <speaker>ESOPE.</speaker>
      <p>It n'y a que l'hymen qui puisse les mettre d'accord , et d'ailleurs, de quelle nécessité est
       cette prétendue sagesse dans le ménage.</p>
-     <stage>( No. 24 ) AIR des Petits Montagnards.</stage>
+     <stage>( No. 24 ) AIR <title>des Petits Montagnards.</title></stage>
      <l>Si votre fille vous est chère ,</l>
      <l> Il faut l'unir à son amant :</l>
      <l> Il sait aimer comme il sait plaire ;</l>
@@ -1278,7 +1278,7 @@
     <sp who="#TDP942_5">
      <speaker>Esope.</speaker>
      <p>Oui.</p>
-     <stage>( No. 25. ) AIR : Une fille est un oiseau.</stage>
+     <stage>( No. 25. ) AIR : <title>Une fille est un oiseau.</title></stage>
      <l>La langue est un des fléaux</l>
      <l> Faits pour accabler le monde ,</l>
      <l> Elle est la source féconde</l>
@@ -1387,7 +1387,7 @@
     <sp who="#TDP942_4">
      <speaker>XANTUS.</speaker>
      <p>Tu seras bien aise de l'avoir, je t'assure ; il t'amusera.</p>
-     <stage>( No. 26. ) AIR: Le petit mot pour rire.</stage>
+     <stage>( No. 26. ) AIR: <title>Le petit mot pour rire.</title></stage>
      <l>S'il ne t'est pas d'un grand secours,</l>
      <l> Tu riras , car il a toujours</l>
      <l> Quelque bon mot à dire.</l>
@@ -1404,7 +1404,7 @@
     </sp>
     <sp who="#TDP942_7">
      <speaker>MARSES.</speaker>
-     <p>Oui , seigneur. il a l'air d'un bon diable ; je trouverai à l'employer.</p>
+     <p>Oui , seigneur. il a l'air <title>d'un bon diable ; je trouverai à l'employer.</title></p>
     </sp>
     <sp who="#TDP942_4">
      <speaker>XANTUS.</speaker>
@@ -1422,7 +1422,7 @@
     <sp who="#TDP942_7">
      <speaker>MARSES.</speaker>
      <p>Il est bien simple.</p>
-     <stage>( No 17. ) AIR : Du parlement.</stage>
+     <stage>( No 17. ) AIR : <title>Du parlement.</title></stage>
      <l>Je suis levé de grand matin</l>
      <l> Pour travailler au jardinage,</l>
      <l> Pendant que je suis au jardin ,</l>
@@ -1497,7 +1497,7 @@
     </sp>
     <sp who="#TDP942_4">
      <speaker>XANTUS ,</speaker>
-     <stage>d'un air contraint.</stage>
+     <stage>d'un air <title>contraint.</title></stage>
      <p>Voyons, je le veux bien.</p>
     </sp>
     <sp who="#TDP942_5">
@@ -1564,8 +1564,8 @@
     </sp>
     <sp who="#TDP942_4">
      <speaker>XANTUS.</speaker>
-     <p>Cela est vrai. <stage>( à part. )</stage> Cet impertinent esclave a un air de triomphe qui
-      me déplaît.</p>
+     <p>Cela est vrai. <stage>( à part. )</stage> Cet impertinent esclave a un air <title>de triomphe qui
+      me déplaît.</title></p>
     </sp>
     <sp who="#TDP942_7">
      <speaker>MARSES.</speaker>
@@ -1591,7 +1591,7 @@
     <sp who="#TDP942_5">
      <speaker>ESOPE.</speaker>
      <p>Non, mais.</p><pb n="42"/>
-     <stage>( No. 28. ) AIR : Ce fut par la faute du sort.</stage>
+     <stage>( No. 28. ) AIR : <title>Ce fut par la faute du sort.</title></stage>
      <l>Elle doit voir avec chagrin</l>
      <l> Les plantes que ta main cultive;</l>
      <l> Elle doit haïr ton jardin ,</l>
@@ -1622,21 +1622,21 @@
     <sp who="#TDP942_4">
      <speaker>XANTUS.</speaker>
      <stage>seul.</stage>
-     <p>Ce présomptueux esclave a l'air de me narguer effrontément. Il affecte une supériorité qui
+     <p>Ce présomptueux esclave a l'air <title>de me narguer effrontément. Il affecte une supériorité qui
       me déplaît. --- Il est capable de se croire plus savant que moi! --- Je suis piqué au vif. ---
       Je veux lui apprendre à qui il a affaire, et lui montrer combien peu je le crains, malgré sa
-      réputation d'Ammorium. <stage>( II va s'asseoir à son bureau. )</stage> Mais ne m'exposais-je
+      réputation d'Ammorium. </title><stage>( II va s'asseoir à son bureau. )</stage> Mais ne m'exposais-je
       pas un peu ? --- Ce misérable esclave semble avoir réponse à tout ! --- Bah! ce n'est que du
       jargon ! nulle profondeur ! nulle érudition! d'ailleurs j'ai toujours moyen de me <pb n="43"/> tirer
       d'affaire --- peut-être ne devrais-je pas lutter avec un esclave, mais cet esclave me brave,
       il faut le confondre.</p>
      <stage>( Il écrit. )</stage>
-     <stage>( No. 29. ) AIR nouveau , de Doche.</stage>
+     <stage>( No. 29. ) AIR <title>nouveau , de Doche.</title></stage>
      <l>Jamais le Lion généreux ,</l>
      <l> Des bois monarque dangereux ,</l>
      <l> N'attaqua le faible reptile ;</l>
      <l> Mais si le reptile orgueilleux ,</l>
-     <l> Ose, d'un air audacieux,</l>
+     <l> Ose, d'un air <title>audacieux,</title></l>
      <l> Elever sa tête débile ,</l>
      <l> Il sourit à son ennemi,</l>
      <l> Et sans s'émouvoir , sans colère ,</l>
@@ -1700,7 +1700,7 @@
       sache pas ; or je sais tout, donc je saurai ce dont on me parlera , ou du moins, si je ne le
       sais pas, je ferai semblant de le savoir. Eh bien ! faisons , nous, qu'il ne lui reste pas
       même cette ressource, et usons de ruse , puisqu'il le faut.</p><pb n="45"/>
-     <stage>( No. 31. ) AIR de la Revanche forcée.</stage>
+     <stage>( No. 31. ) AIR <title>de la Revanche forcée.</title></stage>
      <l>Faisons adroitement usage</l>
      <l> Des armes de notre agresseur,</l>
      <l> Et tournons à notre avantage</l>
@@ -1757,7 +1757,7 @@
      <speaker>ESOPE ,</speaker>
      <stage>se levant.</stage>
      <p>Oui, vous serez unis, j'ose vous le promettre , et moi je serai libre.</p>
-     <stage>( No. 32 ) AIR des Paroles et la musique.</stage>
+     <stage>( No. 32 ) AIR <title>des Paroles et la musique.</title></stage>
      <l>Le hasard sert mon espérance</l>
      <l> Au-delà même de mes vœux ;</l>
      <l> Grace aux soins de la Providence ,</l>
@@ -1804,7 +1804,7 @@
     </sp>
     <sp who="#TDP942_4">
      <speaker>XANTUS.</speaker>
-     <p>Vous avez l'air bien assurés. Esope est-il donc si certain de son fait ?</p>
+     <p>Vous avez l'air <title>bien assurés. Esope est-il donc si certain de son fait ?</title></p>
     </sp>
     <sp who="#TDP942_4">
      <speaker>XANTIPPE.</speaker>
@@ -1815,7 +1815,7 @@
     </sp><pb n="48"/>
     <sp who="#TDP942_4">
      <speaker>XANTUS..</speaker>
-     <p>Ne craignez rien , Xantippe. Cet air d'assurance ne m'effraie pas. Je suis sûr de moi.</p>
+     <p>Ne craignez rien , Xantippe. Cet air <title>d'assurance ne m'effraie pas. Je suis sûr de moi.</title></p>
     </sp>
     <sp who="#TDP942_7">
      <speaker>MARSES.</speaker>
@@ -1831,7 +1831,7 @@
      <p>Ni moi.</p>
     </sp>
     <sp who="#TDP942_4">
-     <speaker>XANTUS</speaker>
+     <speaker>XANTUS.</speaker>
      <p>Paix ! vous savez ce dont il s'agit; j'ai demandé a Esope de me parler de quelque chose dont
       je n'aurais jamais entendu parler que par lui.</p>
     </sp>
@@ -1889,7 +1889,7 @@
      <p>Comment, vous niez vos dettes ?</p>
     </sp>
     <sp who="#TDP942_4">
-     <speaker>Xantus.</speaker>
+     <speaker>XANTUS.</speaker>
      <p>Jamais je ne l'ai reconnue.</p>
     </sp>
     <sp who="#TDP942_5">
@@ -1939,7 +1939,7 @@
     <sp who="#TDP942_3">
      <speaker>LESBIA,</speaker>
      <stage>passant du coté de son père.</stage>
-     <stage>( No. 33. ) AIR de Florian.</stage>
+     <stage>( No. 33. ) AIR <title>de Florian.</title></stage>
      <l>Ah ! mon père, votre tourment</l>
      <l> Me fait plus de mal que les nôtres,</l>
      <l> Je fuis des bras de mon amant</l>
@@ -1953,7 +1953,7 @@
      <speaker>ESOPE.</speaker>
      <p>Seigneur, je ne vous parle pas de moi ; je suis un étranger qu'il doit-vous être indifférent
       de perdre ou de garder, mais ces enfans....</p>
-     <stage>( No. 34. ) Air : Lorsque vous verrez un amant.</stage>
+     <stage>( No. 34. ) Air : <title>Lorsque vous verrez un amant.</title></stage>
      <l>Seigneur, regardez-les tous deux,</l>
      <l> C'est vous seul qui causez leur peine,</l>
      <l> Quand vous pourriez serrer pour eux</l>
@@ -1977,7 +1977,7 @@
     <sp who="#TDP942_5">
      <speaker>ESOPE.</speaker>
      <p>Aimez-moi, je vous en prie, mais surtout aimez-vous bien.</p>
-     <stage>( No. 35. ) AIR: Dans ce vallon, où du plaisir.</stage>
+     <stage>( No. 35. ) AIR: <title>Dans ce vallon, où du plaisir.</title></stage>
      <l>Si vous voulez , jeunes époux,</l>
      <l> Bénir toujours votre existence,</l>
      <l> Soyez fidelles , aimez-vous ,</l>
@@ -1994,7 +1994,7 @@
 
     <sp who="#TDP942_2">
      <speaker>XANTIPPE.</speaker>
-     <stage>AIR: Vaudeville d'Arlequin Joseph.</stage>
+     <stage>AIR: <title>Vaudeville d'Arlequin Joseph.</title></stage>
      <l>En faisant votre esclave maître ,</l>
      <l> Du sort de votre unique enfant ,</l>
      <l> Vous nous avez bien fait connaître</l>

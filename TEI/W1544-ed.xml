@@ -74,7 +74,7 @@
    <div>
 
     <head>COUPLET D'ANNONCE.</head>
-    <stage type="air">Air du Vaud. de Voltaire chez Ninon.</stage>
+    <stage type="air">Air <title>du Vaud. de Voltaire chez Ninon.</title></stage>
     <l>L'aimable auteur , qu'avec plaisir,</l>
     <l> Paris chaque jour se rappelle ,</l>
     <l> Ce soir dans votre souvenir,</l>
@@ -104,7 +104,7 @@
       rire du moyen que j'employe pour faire parvenir ma Chercheuse d'Esprit à M. de Voltaire; il ne
       s'attend pas à trouver une comédie dans le pâté qu'il a commandé pour son dîner. Le trait est
       hardi! mais qu'importe.. Relisons mon envoi :</p>
-     <stage type="air">Air du Vaud. de l'Avare.</stage>
+     <stage type="air">Air <title>du Vaud. de l'Avare.</title></stage>
      <l>O toi ! qui dans la fleur de l'âge ,</l>
      <l> Remplis l'univers de ton nom ,</l>
      <l> Tu recevras par ce message,</l>
@@ -198,7 +198,7 @@
     <sp who="#TDP1544_2">
      <speaker>Charles.</speaker>
      <p>Quel mal des couplets peuvent-ils me faire ?</p>
-     <stage>Air : du Vaud. du Jaloux Malade.</stage>
+     <stage>Air : <title>du Vaud. du Jaloux Malade.</title></stage>
      <l>Une épigramme, une satire ,</l>
      <l> N'ont rien qui soit à redouter,</l>
      <l> Avec les autres j'en veux rire,</l>
@@ -237,7 +237,7 @@
 
     <sp who="#TDP1544_4">
      <speaker>M. FAVART.</speaker>
-     <stage>Air : Eh ! gai, gai, gai, mon officier.</stage>
+     <stage>Air : <title>Eh ! gai, gai, gai, mon officier.</title></stage>
      <stage>( Les quatre premiers vers dans la coulisse, )</stage>
      <l>Eh ! gai, gai. vive la gaîté,</l>
      <l> Et nargue de la gêne ,</l>
@@ -286,7 +286,7 @@
     <sp who="#TDP1544_2">
      <speaker>Charles.</speaker>
      <p>Celle d'homme de lettres l'est-elle moins?</p>
-     <stage>Air : Trouverez-vous un parlement.</stage>
+     <stage>Air : <title>Trouverez-vous un parlement.</title></stage>
      <l>L'un trace sur le parchemin ,</l>
      <l> Un nom étranger à la gloire ,</l>
      <l> Et l'autre grave sur l'airain ,</l>
@@ -314,7 +314,7 @@
     <sp who="#TDP1544_2">
      <speaker>Charles.</speaker>
      <p>A quoi !</p>
-     <stage>Air du Vaud. des Vélocifères.</stage>
+     <stage>Air <title>du Vaud. des Vélocifères.</title></stage>
      <l>Combien de guerriers inconnus,</l>
      <l> Et sans Homère et sans Virgile !</l>
      <l> Parmi tant de grands noms perdus,</l>
@@ -386,7 +386,7 @@
      <speaker>M. Favart.</speaker>
      <p>Ma femme, voici la première fois que vous me faites un pareil reproche ; au surplus je sais
       ce que je fais ; il est plus sage que vous ne croyez de n'en pas manquer une.</p>
-     <stage>Air : Le lendemain.</stage>
+     <stage>Air : <title>Le lendemain.</title></stage>
      <l>La méthode est fort bonne</l>
      <l> Et je m'en trouve très-bien;</l>
      <l> La prudence l'ordonne</l>
@@ -397,7 +397,7 @@
      <l> Le lendemain.</l>
      <p>Vous ne connaissez rien à cela vous autres femmes ... mais je m'amuse ici ... je vais à
       l'opéra-comique.</p>
-     <stage>( Il sort en fredonnant son air d'entrée. )</stage>
+     <stage>( Il sort en fredonnant son air <title>d'entrée. )</title></stage>
     </sp>
    </div>
    <div>
@@ -435,7 +435,7 @@
     <sp who="#TDP1544_2">
      <speaker>Charles.</speaker>
      <p>C'est à nous à redoubler de zèle et d'activité.</p>
-     <stage>Air du Vaudeville de Folie et Raison.</stage>
+     <stage>Air <title>du Vaudeville de Folie et Raison.</title></stage>
      <l>Ah ! peut-on de sa vie</l>
      <l> Trop adorer l'auteur?</l>
      <l> Cette dette chérie</l>
@@ -464,7 +464,7 @@
     </sp>
     <sp who="#TDP1544_5">
      <speaker>Mad. FAVART.</speaker>
-     <stage>Air : Je regardais Madelinette.</stage>
+     <stage>Air : <title>Je regardais Madelinette.</title></stage>
      <l>Ah ! qu'on doit chérir l'existence ,</l>
      <l> Lorsque l'on a de tels enfans.</l>
      <l> Quelle plus douce récompense</l>
@@ -539,7 +539,7 @@
     <sp who="#TDP1544_2">
      <speaker>Charles.</speaker>
      <p>Il est vrai.</p>
-     <stage>Air du Vaud. Aimez, aimez , jeunes tendrons.</stage>
+     <stage>Air <title>du Vaud. Aimez, aimez , jeunes tendrons.</title></stage>
      <l>Que d'oublis on voit à présent !</l>
      <l> Oubli de courtoisie ,</l>
      <l> Oubli de dates, de sermens ,</l>
@@ -623,7 +623,7 @@
      <speaker>Auguste , </speaker>
      <stage>lui prenant la main.</stage>
      <p>Crains-tu donc d'y lire ma pensée, et d'y appercevoir ton image?</p>
-     <stage>Air du Vaud. du Prétendu de Gisors.</stage>
+     <stage>Air <title>du Vaud. du Prétendu de Gisors.</title></stage>
      <l>Pourquoi détourner ta paupière ,</l>
      <l> Tu veux donc faire mon malheur ?</l>
      <l> Renonce à ce projet sévère,</l>
@@ -751,7 +751,7 @@
     <sp who="#TDP1544_7">
      <speaker>M. PERRAULT.</speaker>
      <p>Je suis dans une colère...</p>
-     <stage>Air : Eh ! ma mère, est-ce que j'sais ça.</stage>
+     <stage>Air : <title>Eh ! ma mère, est-ce que j'sais ça.</title></stage>
      <l>Près de ta fille en cachette,</l>
      <l> Il vient faire le galant,</l>
      <l> Il ne rêve qu'amourette.</l>
@@ -799,7 +799,7 @@
     <sp who="#TDP1544_4">
      <speaker>M. Favart.</speaker>
      <p>De la physique ! A quoi bon lui brouiller la cervelle avec de grands mots ?</p>
-     <stage>Air : Fille à qui l'on dit un secret.</stage>
+     <stage>Air : <title>Fille à qui l'on dit un secret.</title></stage>
      <l>A-t-on besoin de précepteur</l>
      <l> Pour étudier la nature ?</l>
      <l> Gentil corsage, œil séducteur ,</l>
@@ -863,7 +863,7 @@
     </sp>
     <sp who="#TDP1544_4">
      <speaker>M. Favart.</speaker>
-     <stage>Air. du Vaud. des Amours d'été.</stage>
+     <stage>Air. <title>du Vaud. des Amours d'été.</title></stage>
      <l>Un flon, flon, vif et badin,</l>
      <l> Pour mon oreille a des charmes ;</l>
      <l> Vive l'aimable refrain</l>
@@ -885,7 +885,7 @@
      <speaker>Charles, </speaker>
      <stage>quittant son ouvrage.</stage>
      <p>Il doit se trouver bien étranger dans nos climats.</p>
-     <stage>Air : de la vigne à Claudine,</stage>
+     <stage>Air : <title>de la vigne à Claudine,</title></stage>
      <l>Dans ces ouvrages sombres ,</l>
      <l> Qu'on appelle romans,</l>
      <l> On ne voit que des ombres</l>
@@ -902,7 +902,7 @@
       a raison de dire qu'il faut se dépêcher de rire avant que d'être riche , de peur de mourir
       sans avoir ri. Vive la joie, morbleu ! la vie est si courte ; il faut rapprocher ses
       jouissances.</p>
-     <stage>Air de Léonce.</stage>
+     <stage>Air <title>de Léonce.</title></stage>
      <l>On ne se promène qu'un jour,</l>
      <l> Un seul instant sur cette terre.</l>
      <l> Embellissons notre carrière.</l>
@@ -993,7 +993,7 @@
       crains bien qu'elles ne dînent demain par cœur... Eh! quand je voudrais m'en occuper, le
       pourrais-je? Ah ! si le succès est flatteur pour nous, il est bien acheté par le moment qui le
       précède :</p>
-     <stage>Air : Ah! voilà la vie.</stage>
+     <stage>Air : <title>Ah! voilà la vie.</title></stage>
      <l>A la renommée,</l>
      <l> Courir jour et nuit,</l>
      <l> Pour une fumée</l>
@@ -1285,7 +1285,7 @@
     <sp who="#TDP1544_2">
      <speaker>Charles.</speaker>
      <p>Si la fortune est inconstante, c'est principalement pour les auteurs.</p>
-     <stage>Air : J'ai vu partout dans mes voyages.</stage>
+     <stage>Air : <title>J'ai vu partout dans mes voyages.</title></stage>
      <l>Cette versatile déesse ,</l>
      <l> Se moque de tous nos projets !</l>
      <l> Elle nous donne, la traîtresse,</l>
@@ -1298,7 +1298,7 @@
     <sp who="#TDP1544_6">
      <speaker>Rose.</speaker>
      <p>Si cette folle divinité t'abandonne, il est quelqu'un qui ne t'abandonnera jamais.</p>
-     <stage>Air : Romance de Sophie.</stage>
+     <stage>Air : <title>Romance de Sophie.</title></stage>
      <l>Si, poursuivant quelques suffrages ,</l>
      <l> Tu trouves peines et revers,</l>
      <l> Loin du monde et de ses orages,</l>
@@ -1332,11 +1332,11 @@
     </sp>
     <sp who="#TDP1544_9">
      <speaker>Georges.</speaker>
-     <p>Attendez donc. Le maître de la maison qui a l'air d'un bon vivant, a dit, en me voyant, vaut
+     <p>Attendez donc. Le maître de la maison qui a l'air <title>d'un bon vivant, a dit, en me voyant, vaut
       mieux tard que jamais , et aussitôt il a ouvert le pâté , après m'avoir dit d'attendre un
       moment. Il est entré dans son cabinet où il est resté plus d'une grande demi-heure, et quand
       il en est sorti, tiens , me dit-il , en me donnant un écu pour boire , remets cette lettre à
-      celui qui t'envoie.</p>
+      celui qui t'envoie.</title></p>
     </sp>
     <sp who="#TDP1544_2">
      <speaker>Charles.</speaker>
@@ -1363,7 +1363,7 @@
       cependant les vers charmans, mais peu mérités , qui accompagnent votre envoi. J'y réponds à la
       hâte, et je vous demande grâce pour la réponse. »</p>
      <p>Des vers , mon frère , écoute , écoute.</p>
-     <stage>Air : En deux moitiés, dit-on le sort.</stage>
+     <stage>Air : <title>En deux moitiés, dit-on le sort.</title></stage>
      <l>Lorsque de ce tableau charmant</l>
      <l> J'ai vu la grâce enchanteresse,</l>
      <l> Transporté par le sentiment ,</l>
@@ -1438,7 +1438,7 @@
       pâtissier qui ait fait un pareil ouvrage ! S'il n'est pas heureux, je lui ferai du bien. Qu'il
       est doux d'avoir de la fortune, quand on trouve de telles occasions de la répandre! aimer,
       jouir, obliger sur tout, quel plus doux emploi de la vie?</p>
-     <stage>Air : S'il est vrai que d'être deux. ( De Boyeldieu. )</stage>
+     <stage>Air : <title>S'il est vrai que d'être deux. ( De Boyeldieu. )</title></stage>
      <l>Quand mes jours seront tissus</l>
      <l> Par la froide indifférence ,</l>
      <l> Quand mon cœur ne battra plus</l>
@@ -1513,7 +1513,7 @@
     <sp who="#TDP1544_10">
      <speaker>Le Financier.</speaker>
      <p>Quelle obstination !</p>
-     <stage>Air du Vaud. de la Danse Interrompue.</stage>
+     <stage>Air <title>du Vaud. de la Danse Interrompue.</title></stage>
      <l>Qu'un mince auteur , redoutant la critique ,</l>
      <l> Ait le projet de se faire oublier ,</l>
      <l> Assez souvent, sa muse peu comique,</l>
@@ -1604,8 +1604,8 @@
     <sp who="#TDP1544_10">
      <speaker>LE FINANCIER, </speaker>
      <stage>à part.</stage>
-     <p>Me serais-je trompé, le père a l'air d'assez bonne foi : tâchons de savoir ce qui en est.
-      <stage>( A Charles. )</stage> Jeune homme, avez-vous de la vocation pour l'état de monsieur
+     <p>Me serais-je trompé, le père a l'air <title>d'assez bonne foi : tâchons de savoir ce qui en est.
+      </title><stage>( A Charles. )</stage> Jeune homme, avez-vous de la vocation pour l'état de monsieur
       votre père ?</p>
     </sp>
     <sp who="#TDP1544_2">
@@ -1658,7 +1658,7 @@
     </sp>
     <sp who="#TDP1544_2">
      <speaker>CHARLES, </speaker>
-     <stage>bas , d'un air timide.</stage>
+     <stage>bas , d'un air <title>timide.</title></stage>
      <p>A-t-elle eu du succès , Monsieur ?</p>
     </sp>
     <sp who="#TDP1544_10">
@@ -1835,7 +1835,7 @@
      <speaker>Auguste.</speaker>
      <p>En ce cas, je remets le tout à son véritable propriétaire. Bravo Charles ; de mieux en
       mieux.</p>
-     <stage>Air du Vaud. de Jean Monnet.</stage>
+     <stage>Air <title>du Vaud. de Jean Monnet.</title></stage>
      <l>Des jeux où Flore préside ,</l>
      <l> Lorsqu'elle t'offre le prix ,</l>
      <l> De son choix elle eut pour guide</l>
@@ -1875,7 +1875,7 @@
      <stage>à Charles</stage>
      <p>Mon ami , gardez bien cette violette, elle est le prix du talent modeste, cela ne se voit
       pas tous les jours.</p>
-     <stage>Air du Vaud. des Amans sans Amour.</stage>
+     <stage>Air <title>du Vaud. des Amans sans Amour.</title></stage>
      <l>Quand à Favart, pour récompense</l>
      <l> On donne la plus humble fleur,</l>
      <l> Cette fleur, j'en ai l'assurance ,</l>
@@ -1940,7 +1940,7 @@
      <speaker>Le Financier.</speaker>
      <p>Vous n'osez me prier, moi je m'invite. <stage>( Montrant Charles. )</stage> Et voilà le
       saint du jour.</p>
-     <stage>Air de M. Doche.</stage>
+     <stage>Air <title>de M. Doche.</title></stage>
      <l>Esprit sans art,</l>
      <l> Grâce sans fard,</l>
      <l> Douce et fine saillie ,</l>

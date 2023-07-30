@@ -7,6 +7,6 @@
 # Sample invocation from command line
 #  ./makeTEI.sh 0012 12labsinthe.html
 #
-tidy -asxml -n texts/$2 -o $2.tmp > tidyErrs
-saxon $2.tmp TEI/Scripts/conv1.xsl  | saxon - TEI/Scripts/conv2.xsl > TEI/W$1.xml
+tidy -asxml -n  -o $1.tmp texts/$2 > tidyErrs
+saxon $1.tmp TEI/Scripts/conv1.xsl  | saxon - TEI/Scripts/conv2.xsl > TEI/W$1.xml
 

@@ -1,0 +1,1814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W1229">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Grenadier de Louis XV, ou le lendemain de Fontenoy: TEI edition (Wicks no.
+     1229)</title>
+    <author>J.-B, Dubois</author>
+    <respStmt>
+     <resp>HTML version by </resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI version by </resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor> The Digital Parisian Stage Corpus. GitHub.
+     https://github.com/grvsmth/theatredeparis </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images available from <ref
+     target="https://books.google.com/books?id=UFNoAAAAcAAJ"/>.</p>
+    <p>HTML transcription available from <ref
+     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/1229.tmp"
+     >https://github.com/grvsmth/theatredeparis</ref></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc>
+   <change when="2023-07-30">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>LE GRENADIER DE LOUIS XV,</titlePart><titlePart> OU LE LENDEMAIN DE
+      FONTENOY,</titlePart><titlePart>Pièce en un Acte, mêlée de couplets ,</titlePart>
+    </docTitle>
+    <byline>Par <docAuthor>M. D***.</docAuthor></byline><titlePart>Représentée pour la première fois , a Paris , sur le
+     Théâtre de la Gaîté , le 27 décembre 1814.</titlePart>
+    <docImprint>A PARIS, Chez BARBA, Libraire, Palais-Royal, derrière le Théâtre
+     Français, n°. 51. Imprimerie de Chaignieau aine.<!--Hocquet, rue du Faubourg M. n°.
+     6.--></docImprint><docDate>1814</docDate>
+   </titlePage>
+   
+   <castList>
+   <head>Personnages. Acteurs.</head>
+    <castItem><role>ANSELME, cultivateur</role><actor>M. Solomé</actor></castItem>
+    <castItem><role>GEORGETTE, sa fille</role><actor>Mlle. Em. Hugens.</actor></castItem>
+    <castItem><role>Mad. FRANCŒUR, veuve jardinière</role><actor>Mme. Clément.</actor></castItem>
+    <castItem><role>FRANCŒUR, dit LA GRENADE, grenadier dans le régim. du Roi.</role><actor>M.
+     Lafargue.</actor></castItem>
+    <castItem><role>PAULIN, second fils de Mad. Francœur</role><actor>M.
+     Prudent.</actor></castItem>
+    <castItem><role>CHARLES, dit DUROCHER.</role><actor>M. Reynaud.</actor></castItem>
+    <castItem><role>NICOLAS,doméstique de Mad. Francœur.</role><actor>M.
+     Basnage.</actor></castItem>
+    <castItem><role>UN SERGENT.</role><actor>M. Héret.</actor></castItem>
+    <castItem><role>Voisins, voisines de Mad. Francœur.</role><actor>M. Duthailt., M. Louis., Mme.
+     Leroy., Mme. Certain.</actor></castItem>
+    <castItem><role>Quatre soldats.</role><actor/></castItem>
+    <castItem><role>Deux Garçons au service de Mad. Francœur.</role><actor/></castItem>
+   </castList>
+   <set> <p>La scène est à dix lieues de Fontenoy, dans un village.</p>
+   </set>
+  </front>
+  <body>
+   <head>LE GRENADIER DE LOUIS XV,  OU LE LENDEMAIN DE FONTENOY.</head>
+
+         <stage>Le Théâtre représente l'intérieur du jardin de Madame Francœur. A gauche, sa maison. A
+      droite , une table servie. Au fond , dans toute la largeur du Théâtre , une grille , avec
+      porte au milieu. Derrière la grille , le village de *** On voit la maison du bailli</stage>
+    
+    
+   <div>
+    
+     <head>SCENE PREMIERE.</head>
+     <stage>( Il y a sur la scène une table servie de neuf couverts.)</stage>
+    
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS,</speaker>
+     <stage>seul.</stage>
+     <p>V'la qu'tout est à-peu-près prêt pour le mariage du fils de la bourgeoise de la maison....
+      Là , la maman future de mamselle Georgette. Là , la place de ce bon M. Anselme , ce vieillard
+      oxtogénaire, dont les soixante ans se comptent, dit-on , par le nombre de ces vertus... Là, la
+      mariée ; le marié zici , si on veut ... La jolie noce que ça va faire ! C'est moi qui chiperai
+      la jarretière ... Eh ! eh ! eh !... C'est ben dommage que M. la Grenade, le fils de la maison
+      , qu'est l'aîné , ne soit pas de retour de l'armée, .... surtout de c'te bataille qui s'est
+      donnée hier à Fontenoi ; on dit qu'il y faisait chaud . . . Queu charmé, s'y r'venait ! Le
+      plasir serait complet , comme dit ce bon M. Anselme.</p>
+     <stage>Air : <title>Muses des bois.</title></stage>
+     <l>Ah ! quel bonheur de retrouver un brave,</l>
+     <l> V'nant d'échapper anx coups affreux du sort,</l>
+     <l> Pouvant enfin goûter, sans nulle entrave,</l>
+     <l> La douce paix, paix d'un si noble effort.</l><pb n="4"/>
+     <l> C'est au moment qu'on mari' jeune fille,</l>
+     <l> Qu'un brave doit se trouver de retour ;</l>
+     <l> Chez les Français, c'est un tableau d'famille</l>
+     <l> Que d'voir ensemble et la gloire et l'amour.</l>
+     <p>Mais y ne r'viendra pas; et... <stage>( regardant en dehors )</stage> Ô mon Dieu ! les
+      méchans viennent toujours les premiers , car voilà M. Charles, qu'on a surnommé M. Durocher ,
+      à cause de son cœur dur .. A-t'y l'air triste ?... comme un homme qu'est en déconfiture ?... Y
+      m'apperçoit... Y change de visage... Il a toujours une demi-douzaine de figures à sa
+      disposition... Moquons-nous de lui.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE II.</head>
+     <stage>DUROCHER, NICOLAS.</stage>
+    
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER.</speaker>
+     <p>A ! te voilà, Nicolas.....Diable! quelle parure! Ça te donne l'air encore plus bête.</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS.</speaker>
+     <p>Eh ben, vous ne croiriez pas une chose ? c'est que votr' toilette cache presque votre
+      mauvais coeur , vos mauvais yeux, votre mauvaise personne.</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>Durocher.</speaker>
+     <p>Imbécille! Est-ce qu'un habit ?</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS.</speaker>
+     <p>Si un habit change un homme, à présent ?</p>
+     <stage>Air : <title>du Verre.</title></stage>
+     <l>Un bel habit d'un homm' de rien,</l>
+     <l> A très-souvent fait quelque chose ;</l>
+     <l> Y l'fait paraître un homme de bien ,</l>
+     <l> Sur qui l'on compte, on se repose.</l>
+     <l> Pis qu'la toilette est d'si bon s'cours,</l>
+     <l> Excusez ces paroles trop franches,</l>
+     <l> Vous devriez bien tous les jours,</l>
+     <l> Mettre votre habit des dimanches.</l>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>Durocher,</speaker>
+     <stage>riant.</stage>
+     <p>Tu deviens très-méchant, Nicolas.</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS.</speaker>
+     <p>Je vous ons tant fréquenté... Moi, d'abord j'profîte d'un rien.</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER.</speaker>
+     <p>Si tu savais le motif qui m'amène ici, tu serais moins en colère.</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS.</speaker>
+     <p>L'motif! je l'sais. Mamselle Georgette n'a pas voulu d'vous : elle a préféré M. Paulin ,
+      fils de madame Francœur , quoiqu'y soit un peu étourdi, et que vous lui <pb n="5"/> ayiez fait faire ben
+      des sottises .. C'est aujourd'hui la noce , et vous venez pour narguer les nouveaux mariés.
+      Mais j'dis que le nargué, ça sera vous. Mameselle Georgette est jolie, et le plus sot, c'est
+      pas l'vendangeur qui cueille la grappe , c'est le renard qui ne peut pas l'attrapper.</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>Durocher,</speaker>
+     <stage>à part.</stage>
+     <p>Le vendangeur ne la tient pas encore. <stage>( Haut.)</stage> Je ne viens pas tout pour les
+      contrarier....</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS.</speaker>
+     <p>Que v'nez-vous donc faire ?</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER.</speaker>
+     <p>Me réconcilier avec tout le monde.</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS.</speaker>
+     <p>Vous, monsieur Durocher ?</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER.</speaker>
+     <p>Oui, moi.</p>
+     <stage>Air <title>du Parlement.</title></stage>
+     <l>Je viens , oubliant mon amour ,</l>
+     <l> Demander qu'on me fasse grâce ;</l>
+     <l> Qu´ dans les deux familles, dès ce jour,</l>
+     <l> J'obtienne une petite place.</l>
+     <l> J' veux qu'ma gaîté cach' mes regrets,</l>
+     <l> Qu'on aime à me voir, a m'entendre :</l>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS.</speaker>
+     <l>Eh! mais voudra-t-on croir' jamais,</l>
+     <l> Que Durocher soit aussi tendre.</l>
+     <stage>( On entend la ritournelle de l'air suivant. )</stage>
+     <p>V'là papa Anselme, mamselle Georgette et tous les voisins d'notr' village.</p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCÈNE III.</head>
+     <stage>Les mêmes, ANSELME, GEORGETTE.</stage>
+     <stage>JARDINIERS et JARDINIERES.</stage>
+     <stage>( Ils arrivent avec un violon à leur tête. )</stage>
+    
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME.</speaker>
+     <stage>Air : <title>Voilà la manière.</title></stage>
+     <l>On dit qu' dans l' grand monde,</l>
+     <l> Qu'y faut qu'le futur ,</l>
+     <l> Si l'amour le s'conde ,</l>
+     <l> Aille d'un pas sûr ,</l>
+     <l> Au devant d'la belle</l>
+     <l> Que tout bas son cœur appelle.</l>
+     <l> C't'avis n'est pas l' mien.</l>
+     <l> En fait d'hymen , moi je soutien ,</l>
+     <l> Que l'on précède ou suive ,</l>
+     <l> Cela ne fait rien,</l><pb n="6"/>
+     <l> Pourvu qu'on arrive,</l>
+     <l> Et qu'on arrive bien.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>CHŒUR</speaker>
+     <p>Que l'on précède , etc.</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME.</speaker>
+     <p>Eh ! mais la maman Francœur et son fils ne viennent pas ; continuons , pour les faire venir
+      ... Peut-être ben que le futur se décidera.</p>
+    </sp>
+    <sp who="#TDP1229_5">
+     <speaker>TOUS.</speaker>
+     <p>Oui, continuons.</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME.</speaker>
+     <stage>Même Air.</stage>
+     <l>Fill' qui la première ,</l>
+     <l> Court à son mari,</l>
+     <l> Est rose printanière ,</l>
+     <l> Cherchant un abri.</l>
+     <l> Jamais la sagesse</l>
+     <l> Ne craint une vraie tendresse ,</l>
+     <l> Et ne doit rougir,</l>
+     <l> D'aller au-devant du plaisir.</l>
+     <l> Qu'elle précède ou suive ,</l>
+     <l> Cela ne fait rien,</l>
+     <l> Pourvu qu'elle arrive,</l>
+     <l> Et qu'elle arrive bien.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>CHŒUR.</speaker>
+     <p>Quell' précède ou suive etc.</p>
+     <stage>On entend à la cantonade : Me voilà, me voilà.</stage>
+    </sp>
+    <sp who="#TDP1229_5">
+     <speaker>TOUS.</speaker>
+     <p>La voilà,</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME,</speaker>
+     <p>Cache-toi, ma fille; pour t'avoir fait attendre, faut que ton futur te cherche...</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE.</speaker>
+     <p>Oh , mon père! il me trouvera <stage>( à part. )</stage> , car je me cacherai mal...
+      <stage>( Elle se cache derrière tout le monde. )</stage></p>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE IV.</head>
+     <stage>Les mêmes, Mad. FRANCŒUR, PAULIN.</stage>
+    
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR.</speaker>
+     <p>Bonjour, monsieur Anselme, bonjour mes amis.</p>
+    </sp>
+    <sp who="#TDP1229_5">
+     <speaker>TOUS.</speaker>
+     <p>Bon jour, madame Francœur, bon jour, monsieur Paulin.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN,</speaker>
+     <stage>après avoir cherché.</stage>
+     <p>Par exemple, il ne me manque presque rien pour me marier, il ne me manque que ma future.</p>
+    </sp><pb n="7"/>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME.</speaker>
+     <p>Pauvre garçon !</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN.</speaker>
+     <p>Vous riez , elle est ici.</p>
+     <stage>Air : <title>Sans mentir.</title></stage>
+     <l>Où donc es-tu mon amie ?</l>
+     <l> Pourquoi t'soustraire à mes yeux ?</l>
+     <l> Le plus beau jour de la vie</l>
+     <l> Doit avoir l'asus des dieux.</l>
+     <l> Ton absence est ce nuage ,</l>
+     <l> Qui nous cache le soleil ;</l>
+     <l> Rends-nous ce joli visage ,</l>
+     <l> Qui du plaisir est l'réveil.</l>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE,</speaker>
+     <stage>cachée.</stage>
+     <l>Fait, ah ! fait.</l>
+     <l> Fait, ah ! fait.</l>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN.</speaker>
+     <l>Elle est là , tout m'assurait</l>
+     <l> Qu' J'aurais bientôt son secret.</l>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME,</speaker>
+     <stage>quand Paulin a cherché.</stage>
+     <p>Eh bien ! tu ne la trouve pas ?</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS,</speaker>
+     <stage>qui la voit cachée derrière Durocher.</stage>
+     <p>J'croyons ben , elle est cachée derrière en si vilain arbre.</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER,</speaker>
+     <stage>le pinçant.</stage>
+     <p>Insolent !</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR,</speaker>
+     <stage>à Paulin.</stage>
+     <p>Comme tu la cherches ! <stage>( Bas à Anselme. )</stage> On voit bien qu'il n'est pas encore
+      mari.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN,</speaker>
+     <stage>à part.</stage>
+     <p>Je l'aperçois , ne faisons semblant de rien.</p>
+     <stage>Même air.</stage>
+     <l>On voit, quand la noce est faite ,</l>
+     <l> De depuis trois ou quatre ans,</l>
+     <l> Jouer à la climusette,</l>
+     <l> Les époux indifférens.</l>
+     <l> L'colin-maillard est d'usage</l>
+     <l> Chez tous les maris du jour ;</l>
+     <l> Mais, Georgette, avant l' mariage;</l>
+     <l> On ne jou' qu'au pont d'amour.</l>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE,</speaker>
+     <stage>cachée.</stage>
+     <l>Fait, ah ! fait.</l>
+     <l> Fait, ah ! fait.</l>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN ,</speaker>
+     <stage>l'attrapant.</stage>
+     <l>Je te tiens, tout m'assurait,</l>
+     <l> Que j'aurai bientôt ton secret.</l>
+    </sp><pb n="8"/>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME.</speaker>
+     <p>Ma fille, tu es à lui.</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE.</speaker>
+     <p>Je ne demande pas mieux, mon père.</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR.</speaker>
+     <p>Vous savez, mon ami Anselme , que la noce, décidément, se fera ici, tout est prêt.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN.</speaker>
+     <p>Ah ! ma mère, à l'exception du vin qui n'est pas arrivé.</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR.</speaker>
+     <p>Tu t'es chargé de le faire venir.</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER</speaker>
+     <p>Si vous voulez, je vous aiderai, mon cher Paulin.</p>
+    </sp>
+    <sp who="#TDP1229_9">
+     <speaker>Mad. FRANCŒUR, ANSELME, GEORGETTE</speaker>
+     <p>Son cher Paulin...</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSEMBLE</speaker>
+     <p>Comment, monsieur, vous êtes parmi nous ?</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <p>Et vous venez à la noce de votre rival ?</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>C'est être bien hardi, après toutes les menaces que vous avez osé me faire si je ne vous
+      donnais pas ma fille... Pensez donc, monsieur, que ce n'est pas ici la compagnie qui vous
+      convient...</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Et que vous ne convenez pas à la compagnie.</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR,</speaker>
+     <stage>à Anselme.</stage>
+     <p>N'vous fâchez pas, mon ami.</p>
+     <stage>Air : <title>Vaudeville du Piège.</title></stage>
+     <l>On voit souvent près de la fleur,</l>
+     <l> Paraître la ronce ou l'épine ;</l>
+     <l> On voit souvent le ver rongeur,</l>
+     <l> D'un bel arbre chercher la racine.</l>
+     <l> L'ivraie a cru dans tous les champs,</l>
+     <l> Auprès de la plus belle gerbe.</l>
+     <l> Et dites-moi quels sont les champs</l>
+     <l> Où l'on n' trouv' pas un' mauvaise herbe ?</l>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>C'est mot à mot le portrait de monsieur .... Il est la ronce, il est le ver, il est
+      l'ivraie, il est la mauvaise herbe , rien que ça.</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER,</speaker>
+     <stage>à part.</stage>
+     <p>Je m'en vengerai... <stage>( Haut. )</stage> Je ne puis vous en vouloir <pb n="9"/> de cette méfiance,
+      de ces comparaisons que j'ai méritées par une conduite trop légère, mais mon repentir...</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>Nous n'y croyons pas.</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER</speaker>
+     <p>Mes regrets...</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <p>Ils sont faux.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Mes bons parens! il est vrai qu'il fut mon rival, mon ennemi, car il ma fait faire bien des
+      sottises; mais j'épouse Georgette, je suis heureux, que tout soit oublié.</p>
+     <stage>Air : <title>Elle est jeune et vous êtes vieux.</title></stage>
+     <l>Aussitôt que l'on est époux ,</l>
+     <l> Avec tout le monde faut qu'on se raccommode ;</l>
+     <l> Il résulte d'un accord si doux,</l>
+     <l> Qu'un époux échappe à la mode.</l>
+     <l> Je connais le moyen chéri</l>
+     <l> Qu'nos rivaux nourris't au fond d'l'âme ;</l>
+     <l> Plus ils en veulent au mari,</l>
+     <l> Et plus ils veulent de la femme.</l>
+    </sp>
+    <sp who="#TDP1229_10">
+     <speaker>Mad. FRANCŒUR et Anselme,</speaker>
+     <stage>riant.</stage>
+     <p>Il a raison.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN,</speaker>
+     <p>à Durocher.</p>
+     <p>Allons, viens m'embrasser. <stage>( ils s'embrassent. )</stage></p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS,</speaker>
+     <stage>à part.</stage>
+     <p>Baiser de Judas.</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <p>Là , que des amis autour de nous... Il ne manque plus à mon bonheur que d' voir commencer la
+      noce.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Et moi d' la voir finir ; alors il ne me manquera plus rien</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <p>Rien, rien, et ce bon la Grenade, mon fils, dont je n'ai pas de nouvelles, et qui peut-être
+      hier était à la bataille de Fontenoy.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Il reviendra, ma mère, il reviendra , mon coeur me l' dit.</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>Le mien de même.</p>
+    </sp><pb n="10"/>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <p>Je lui écrirai que je suis sa sœur, que j'aime beaucoup les grenadiers, et il reviendra.</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR.</speaker>
+     <p>Allons, allons, y reviendra... Mais, Paulin, et le vin, tout le reste est prêt ; va donc,
+      mon garçon.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>J'y cours, ma mère.</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER</speaker>
+     <p>Je vous accompagne. <stage>( a part. )</stage> Tu n'es pas encore son mari.</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>Nicolas</speaker>
+     <p>Monsieur Paulin, dites qu'on le fasse bon , s'y vous plait, et de toutes les façons, du
+      Champagne , du Rota , du Alicante.</p>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <p>Comment, comment , qu'on le fasse ?</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Eh oui, tiens, j' me croyons encore à Paris... c'est que vous ne savez pas...</p>
+     <stage>Air : <title>de madame Favart.</title></stage>
+     <l>A Paris </l>
+     <l> Rien n'est plus facile,</l>
+     <l> Tous les vins exquis</l>
+     <l> D' tous les pays</l>
+     <l> S' font dans la ville.</l>
+     <l> A Paris, </l>
+     <l> Un brevet se donne</l>
+     <l> A chaque personne</l>
+     <l> Qui fait du vin</l>
+     <l> Sans raisin.</l>
+     <l> Là, contre le tems indocile,</l>
+     <l> Les marchands sont prémunis :</l>
+     <l> Leur cave est l'coteau fertile,</l>
+     <l> Arrosé par l'eau du polis ;</l>
+     <l> Mais je connais cet usage,</l>
+     <l> Et d'ailleurs, j'ai très-bon goût,</l>
+     <l> Un jour de mariage ,</l>
+     <l> La nature avant tout.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <l>Un Jour de mariage,</l>
+     <l> La nature avant tout.</l>
+     <l>A Paris, </l>
+     <l> Rien n'est plus facile etc.</l>
+     <stage>( Durocher et Paulin sortent ensemble.)</stage>
+    </sp>
+   </div>
+   <div>
+    <pb n="11"/>
+     <head>SCENE V.</head>
+     <stage>GEORGETTE, ANSELME, Mad. FRANCŒUR , NICOLAS, Voisins et Voisines.</stage>
+    
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <p>Mes enfans, à table , à table.</p>
+     <stage>( On se place. Georgette va près de madame Francœur. )</stage>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR,</speaker>
+     <stage>l'éloignant.</stage>
+     <p>Non, mon enfant !</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <p>Vous ne me placez pas à côté de vous ?</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <p>Non , la place restera vide.</p>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <p>Comment ?</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <stage>Air <title>de Haine aux Femmes.</title></stage>
+     <l>Ta place à table est près de moi,</l>
+     <l>Je le sais bien, fille chérie</l>
+     <l> Pardonne, si je contrarie,</l>
+     <l> En ce jour-ci l'usage avec toi.</l>
+     <l> Ce s'ra cell' d'un brav' militaire,</l>
+     <l> D'un fils qui n'est plus dans mes bras,</l>
+     <l> Quand nous somm's heureux sur la terre,</l>
+     <l> Pensons à ceux qui n'le sont pas.</l>
+     <stage>( Georgette embrasse madame Francœur. On entend une marche, Tout le monde se lève.
+      )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE VI.</head>
+     <stage>Les mêmes, LA GRENADE.</stage>
+    
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <p>Qu'est-ce ?</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE,</speaker>
+     <stage>très-loin.</stage>
+     <stage>Air : <title> De la garde.</title></stage>
+     <p>Plus d'alarmes, <stage>( bis )</stage></p>
+     <l>Parents, amis, plus de larmes,</l>
+     <l> Je reviens,</l>
+     <l> Parmi les miens.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS, écoutant sans le voir.</speaker>
+     <l>Mais c'est sa voix,</l>
+     <l> C'est lui, je crois.</l>
+     <l> Si c'est une erreur,</l>
+     <l> Quel malheur !</l>
+    </sp><pb n="12"/>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <stage>à Anselme.</stage>
+     <l>Ah ! mon ami ,</l>
+     <l> L'espoir a fui !</l>
+     <l> Ce n'était pas lui.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <p>Le voilà !</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE,</speaker>
+     <stage>paraissant au fond.</stage>
+     <l>C'est assez d' guerre,</l>
+     <l> Assez de hauts-faits ,</l>
+     <l> Pensons qu' la terre</l>
+     <l> A besoin d'la paix.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <l>Plus d'alarmes,</l>
+     <l> Parens, amis, plus de larmes,</l>
+     <l> Plus d'alarmes.</l>
+     <l> Je / Tu reviens parmi les miens / les tiens.</l>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Ma bonne mère !</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR,</speaker>
+     <stage>pleurant de joie.</stage>
+     <p>Comment, mon garçon, c'est toi ?</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Eh! oui, c'est moi : voilà comme nous sommes, nous autres grenadiers.</p>
+     <stage>Air : <title>Gaiment je m'accommode.</title></stage>
+     <l>Que l'prince nous appelle,</l>
+     <l> Nons v'là ;</l>
+     <l> Que l'danger se r'nouvelle,</l>
+     <l> Nous v'là ;</l>
+     <l> Faut-il s' courir son frère ,</l>
+     <l> Nous v'là ;</l>
+     <l> Ou consoler sa mère ,</l>
+     <l> Nous v'là.</l>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>Braves gens !</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <l>Que l' canon gronde ou tonne ,</l>
+     <l> Nous v'là;</l>
+     <l> Qu'on nous présente un' tonne ,</l>
+     <l> Nous v'là ;</l>
+     <l> La vieillesse à défendre ,</l>
+     <l> Nous v'là ;</l>
+     <l> Et jeune fille à prendre ,</l>
+     <l> Nous v'là.</l>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <p>Toujours le même !</p>
+    </sp><pb n="13"/>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Moi, changer ?... un soldat!</p>
+     <stage>Air :<title> de la Retraite.</title></stage>
+     <l>A son pays,</l>
+     <l> Aux lois toujours fidèle ,</l>
+     <l> Toujours plein d' zèle ,</l>
+     <l> Aux chefs soumis ,</l>
+     <l> Sourd à tous les partis ,</l>
+     <l> N'écoutant que l'honneur ,</l>
+     <l> N' cédant pas en valeur ,</l>
+     <l> Voilà , voilà les traits </l>
+     <l> Du vrai soldat Français.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <p>N'écoutant etc.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE.</speaker>
+     <l>On dit : partons;</l>
+     <l> On le voit sans alarmes</l>
+     <l> Prendre ses armes.</l>
+     <l> On dit : restons :</l>
+     <l> Il reste sans façons,</l>
+     <l> Jamais aucun vouloir,</l>
+     <l> Que celui du devoir.</l>
+     <l> Voilà , voilà les traits </l>
+     <l> Du vrai soldat Français.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <p>Jamais aucun vouloir etc.</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>Mais embrasse-moi donc, mon brave!</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Ah! pardon, père Anselme , je ne vous avais pas vu... Ma mère était là, et jusqu'à ce moment
+      je n'a encore vu qu'elle. <stage>(Il embrasse Anselme)</stage></p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE,</speaker>
+     <stage>s'avançant.</stage>
+     <p>Voua ne m'avez donc pas vue, M. la Grenade ?</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Non , ma petite, non. Quelle est cette jolie enfant ?</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <p>La fille d'Anselme.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Papa, vous ne l'aviez pas quand je suis parti ?</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>C'est vrai , mais il y a seize ans de cela , mon garçon.</p>
+    </sp><pb n="14"/>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Vous avez joliment travaillé pendant mon absence.</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>N'est-ce pas ?</p>
+     <stage>Air: <title>Cherchez Le Parnasse</title>.</stage>
+     <l>Quand vous vous donnez tant de peine ,</l>
+     <l> Pour assurer notre repos ;</l>
+     <l> Quand vous r' v'nez d' rive lointaine,</l>
+     <l> Nous d'vons couronner vos travaux,</l>
+     <l> Ah! pourrions-nous mieux les r'connaitre !</l>
+     <l> Ces joli' s fill' s faites au tour ,</l>
+     <l> Sont des fleurs que nous faisons naître,</l>
+     <l> Pour vous couronner au retour.</l>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Est-ce que cette jolie fille est pour moi ?</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <stage>Air :<title> de la Parole.</title></stage>
+     <l>Monsieur, ce n'est pas avec vous</l>
+     <l> Que j' dois unir ma destinée ,</l>
+     <l> Quoiqu' vous méritiez, parmi nous</l>
+     <l> Qu' la préférence vous soit donnés,</l>
+     <l> Mais on ne commande pas au cœur</l>
+     <l> De jeun' garçon, de jeune fille.</l>
+     <l> C'est vot' frèr' que j'aime , monsieur,</l>
+     <l> Vous d' vez etr' content, car, monsieur,</l>
+     <l> Ça n'sortira pas <stage>(bis)</stage> d'la famille.</l>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GREDNADE</speaker>
+     <p>Pour mon frère ?</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <p>Aujourd'hui, tout-à-l'heure, monsieur le grenadier, nous n'attendons que le moment.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>L'heureux coquin! embrassons-nous, petite sœur, mais où est-il donc, ce cher Paulin ?</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS, apart.</speaker>
+     <p>Faut que je lui parle pour qu'y me voie. <stage>( haut. )</stage> Votre frère, monsieur le
+      grenadier de la Grenade.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Te v'là, p'tit Nicolas ? Es-tu toujours aussi bête ?</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>A vous servir, si j'en étais capable ; j'ai profité en grandissant... Je voulais vous dire,
+      monsieur la Grenade ,<pb n="15"/> que votre frère Paulin était absent, parce qu'il s'est en allé... goûter
+      le vin de la noce.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Goûter le vin ! c'est un mauvais frère.</p>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <p>Comment ?</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Y d'vait m'attendre.</p>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <p>Ah! ah!ah!ah!ah!</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Va le chercher, et dis-lui :</p>
+     <stage>Air : <title>Prenons d'abord l'air bien méchant</title>.</stage>
+     <l>Paulin , ton frère est de retour,</l>
+     <l> Loin d'lui donner le premier gage</l>
+     <l> De ton bon cœur, de ton amour ,</l>
+     <l> Tu goût' un plaisir sans partage.</l>
+     <l> Il te prédit avec raison</l>
+     <l> Que le vin te paraîtra fade.</l>
+     <l> Pour trouver le vin vraiment bon ,</l>
+     <l> Faut avoir un bon camarade.</l>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>J'vas lui dire , c' que vous dites-là.</p>
+     <l>Pour qu'y trouv' le vin vraiment bon .</l>
+     <l> Y faut qu'y m'prenne pour camarade.</l>
+    <stage xmlns="http://www.tei-c.org/ns/1.0">( Il sort.  )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE VII.</head>
+     <stage>Les mêmes, excepté NICOLAS.</stage>
+    
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Est-il moins étourdi, mon frère ? c'est que vous m'écriviez au régiment qu'il se laissait
+      entraîner facilement par des amis dangereux.</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <p>C'est moi qui l'entraînerai à présent, monsieur la Grenade.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Oui-dà ? Ne le quittez pas</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <p>C'est bien mon intention.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>C'est que voyez-vous, il ne faut pas que l'honneur <pb n="16"/> chavire dans notre famille. Une seule
+      faute faite par un de nous, je n'oserais plus citer mes douze campagnes, mes seize ans de
+      service, mes six blessures, et montrer cette croix qui me fut donnée hier sur le champ de
+      bataille par mon général, le maréchal de Saxe. Un guerriar qui ne peut parler de sa gloire,
+      c'est un homme mort.</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <p>Vous vivrez, M. la Grenade.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Et en bonne compagnie.</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <p>Mais, mon garçon , est-ce que tu reviens pour toujours ?</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Oui, ma mère, pour toujours. Voilà mon congé.</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>Que n'ai-je une autre fille!</p>
+     <stage>Air : <title>De la petite Bergère.</title></stage>
+     <l>Ce n'est pas que j'perde l'envie</l>
+     <l> D' servir mon prince et mon pays ;</l>
+     <l> Mais un' fatigue trop suivie</l>
+     <l> M' fait souffrir des maux inouis.</l>
+     <l> J'avais besoin, pour qu' chaque blessure</l>
+     <l> Ne fût plus guérie à moitié ,</l>
+     <l> D'y verser les pleurs d' la nature,</l>
+     <l> Et le baume de l'amitié</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS, répètent.</speaker>
+     <l>D'y verser les pleurs etc.</l>
+   <stage xmlns="http://www.tei-c.org/ns/1.0">( On entend
+      les cris de Nicolas. )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE VIII.</head>
+     <stage>Les mêmes, NICOLAS.</stage>
+    
+    <sp who="#TDP1229_1">
+     <speaker>Nicolas</speaker>
+     <stage>, pleurant.</stage>
+     <p>Ah ! mon dieu, mon dieu , mon dieu.</p>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <p>Quoi donc !</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>T'a-t-on fait du mal ? mille bombes !</p>
+    </sp><pb n="17"/>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Moi ? non , mais M. Paulin.</p>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <p>Eh bien!</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Monsieur Paulin !</p>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <p>Eh bien !</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Il est arrêté.</p>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <p>Arrêté ?</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Mon frère arrêté ! Mille cartouches !</p>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS,</speaker>
+     <stage>riant</stage>
+     <p>Ah ! ah ! ah !</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Nicolas, finiras-tu ?</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Ne vous fâchez pas , monsieur la Grenade ; et vous, ne-riez pas tant. Y n'y a pas de quoi .
+      . . Moi, les larmes m'étouffent. Ce pauvre jeune homme ! imaginez-vous qu'il a voulu, monsieur
+      la Grenade, se raccommoder ce matin avec ce mauvais sujet qu'on nomme, par soubriquet,
+      monsieur Durocher.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Après.</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Ils ont été ensemble chez M. la Grappe, le marchand de vin qui devait fournir le vin de la
+      noce.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>En bien!</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Eh bien , ce méchant monsieur Durocher a fait, par exprès, goûter tant de vin à monsieur
+      Paulin qu'il l'a grisé.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Enfin...</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Enfin, M. Paulin qui a le vin mauvais, a fait, étant gris, un tapage du diable ; il a tout
+      brisé, tout cassé dans la salle où ce qu'il était. Les hommes, les <pb n="18"/> femmes, les garçons s'en
+      sont mêlé... Jusque-là c'était pas grand chose... mais ô mon dieu ! mon dieu !</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <stage>impatienté.</stage>
+     <p>Nicolas, finis...</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Comment dire ça ?... V'là t'y pas qu'au milieu du sabat, une femme perd son argent, une
+      autre ses bijoux ; on crie, on réclame , on accuse messieurs Paulin, Durocher , auteurs du
+      tumulte; on fouille Durocher, il n'a rien; on fouille Paulin,... un collier, des boucles
+      d'oreilles étaient dans sa poche.</p>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <p>Grands dieux!</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Ne croyez pas que c'était monsieur Paulin qui les avait pris ou ramassés; non , non je l'ons
+      ben vu à son horreur , quand il a aperçu tous ces objets; il a été dégrisé tout de suite ...
+      Je gageons que c'est Durocher, oui, Durocher qui, pour troubler sa noce , pour l'empêcher
+      même, a eu recours à cet affreux stratagème. Mais dieu de dieu, les apparences accusent
+      monsieur Paulin, qui est prisonnier.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Mon frère prisonnier!</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <p>Mon fils!</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <p>Mon pauvre Paulin!</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>Quelle affreuse position !</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Adieu la noce.</p>
+     <stage>Air : <title>De Folie et Raison</title></stage>
+     <l>C'est ainsi que sans cesse</l>
+     <l> On voit en tout pays</l>
+     <l> Se perdre la jeunesse</l>
+     <l> Par le choix des amis.</l>
+    </sp><pb n="19"/>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <l>Je croyais embrasser un frère ,</l>
+     <l> De l'honneur suivant bien la loi,</l>
+     <l> Lui dire, avec un' joie sincere ,</l>
+     <l> Je le trouve digne de moi.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <p>C'est ainsi que sans cesse, etc.</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR.</speaker>
+     <l>Faisons, s'il se peut, reconnaître</l>
+     <l> Que c'n'est qu'une cruelle erreur.</l>
+     <l> Il en est tems encore peut-être ,</l>
+     <l> A mon enfant sauvons l'honneur,</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <p>C'est ainsi que sans cesse , etc.</p>
+     <stage>( Tous sortent. La Grenade reste. )</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE IX.</head>
+    
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE.</speaker>
+     <stage>(Il reste un instant immobile, puis regarde autour de lui d'un œil morne. Ne voyant plus
+      personne, il tire son mouchoir et en couvre ses yeux remplis de larmes. )</stage>
+     <p>Et je suis revenu en ce moment ! et c'est pour recevoir une éternelle blessure que j'ai
+      quitté les champs de la guerre!</p>
+     <stage>Air : <title>Contrainte cruelle.</title></stage>
+     <l>Mes seize ans de victoire</l>
+     <l> Et mes seize ans de gloire ,</l>
+     <l> Sortez de ma mémoire,</l>
+     <l> Je vous ai tous perdus.</l>
+     <l>Un jour , que j' crus prospère,</l>
+     <l> Me prive d'un bon frère,</l>
+     <l> Surtout d'heureux salaire,</l>
+     <l> De l'honneur et des vertus.</l>
+     <p>Mes seize ans de victoire , etc,</p>
+     <p>J'aperçois des gardes ; un jeune homme est au milieu d'eux... C'est lui.</p>
+    </sp>
+   </div>
+  <pb n="20"/>
+   <div>
+    
+     <head>SCENE X.</head>
+     <stage>LA GRENADE, PAULIN, le Sergent, Gardes.</stage>
+     <stage>( Paulin est entre les gardes : il a sa figure cachée par ses deux mains. )</stage>
+    
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Camarades, laissez un moment, je vous en prie, ce jeune homme avec moi.</p>
+    </sp>
+    <sp who="#TDP1229_12">
+     <speaker>LE SERGENT</speaker>
+     <p>Je ne le puis. Il faut que je le conduise dans cette maison pour qu'il soit interrogé.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <stage>à voix basse</stage>
+     <p>Camarade, c'est mon frère.</p>
+     <stage>( Le sergent y consent. )</stage>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>Paulin</speaker>
+     <stage>regardant la Grenade.</stage>
+     <p>Quel es ce militaire ?</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <stage>a part.</stage>
+     <p>Après seize ans d'absence , dans quel moment vais-je me faire reconnaître ?
+      <stage>(haut.)</stage> Jeune homme, je viens d'entendre le récit du crime dont on vous
+      accuse...</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Du crime !...</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>J'ai vu la douleur de votre famille...</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Ah! voilà ce qui me tue...</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>La honte devient son partage.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>La honte ! le partage de la famille la plus respectable...,</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>J'ai cru entendre, au milieu des sanglots , que vous aviez un frère.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Ah ! que me rappelez-vous !</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Un frère couvert d'honorables blessures, et qui serait  <pb n="21"/> mort mille fois plutôt que de
+      souffrir que son honneur reçût le plus léger affront.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Le connaîtriez-vous ?</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Si je le connaissais, que pourrai-je lui dire ?</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Que je ne suis pas coupable, et que je jure...</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Point de serment.</p>
+     <stage>Air : <title>De Darondeau.</title></stage>
+     <l>Le serment pour le militaire</l>
+     <l> Est le lien le plus sacré;</l>
+     <l> Le serment, avant tout, sur terre ,</l>
+     <l> Par les braves est révéré,</l>
+     <l> Mais la bouche qui le profère</l>
+     <l> Ne doit être souillé en rien ;</l>
+     <l> Si le coupable peut en faire ,</l>
+     <l> Que fera donc l'homme de bien.</l>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Je vous le répète, je ne suis pas coupable; et si le hasard vous fait rencontrer mon
+      frère...</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Je serai forcé de lui dire; La Grenade, ne quitte pas ton régiment; là tu es estimé, chéri,
+      et tu rougirais si tu étais au sein de ta famille...</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Vous le feriez mourir de douleur.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Tu as raison, je devrais être mort.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Vous...</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Moi, malheureux! ma douleur ne t'a-t-elle pas dit que j'étais ton frère ?</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Mon frère! <stage>( Il veut courir dans ses bras. )</stage> Mon frère !</p>
+    </sp> <pb n="22"/>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Non , cet habit me le defend ; un cœur pur doit seul approcher là. <stage>( Il montre sa
+      dècoration. )</stage></p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <stage>a ses genoux</stage>
+     <p>Mon frère !...</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Relevez-vous. Est-il vrai qu'on ait trouvé sur vous la preuve...</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Oui, mais...</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE.</speaker>
+     <p>Oui !</p>
+     <stage>Air : <title>Prenez pitié d'an pauvre diable,</title></stage>
+     <stage>Il montre sa croix.</stage>
+     <l>A quoi donc me sert mon courage ,</l>
+     <l> Ce prix , par tant de peine acquis,</l>
+     <l> Ce prix , que d'un commun suffrage ,</l>
+     <l> Au champ d' bataille j'ai conquis.</l>
+     <l> It faut le chercher quand il brûle</l>
+     <l> De tous les feux de la valeur.</l>
+     <l>Tu déshonores ta famille ,</l>
+     <l> Elle doit cacher ses marqu' d'honneur.</l>
+     <stage>( Il ôte sa croix et la cache. )</stage>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <stage>sanglottant.</stage>
+     <p>Mais ce n'est pas moi, j'en atteste ta valeur , les vertus de ma famille.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Les preuves t'accusent.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Devant dieu , je soutiens qu'elles sont fausses.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Qui le croira ?</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Tout le monde, si tu le veux.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Comment ?</p></sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <stage>Même air.</stage>
+     <l>Remets ta croix à cette place ,</l>
+     <l> Et prends-moi vite sur ton sein.</l>
+     <l> Personne alors n'aura l'audace</l>
+     <l> De m'accuser d'un vil larcin.</l>
+     <l> Laiss'-moi toucher cett' croix qui brille</l>
+     <pb n="23"/>
+     <l> De tous les feux de la valeur ;</l>
+     <l> On dira, m'voyant sur ton cœur,</l>
+     <l> S'il eut deshonoré sa famille,</l>
+     <l> Touch'rait-il ces marqu' d'honneur.</l>
+     <stage>( Il pose sa main sur le cœur de son frère, qui y replace sa croix, puis il répètent
+      ensemble. )</stage>
+     <l>S'il eût deshonoré sa famille,</l>
+     <l> Touch' rait-il ce marqu' d'honneur. ?</l>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XI</head>
+     <stage>Les mêmes , Madame FRANCŒUR, ANSELME, GEORGETTE , NICOLAS , Habitans.</stage>
+    
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <stage>Air : <title>Du petit Courrier.</title></stage>
+     <l>Quoi ! se peut-il ? son frère est dans ses bras !</l>
+     <l> Et pourtant on le dit coupable.</l>
+     <l> D' son innocence, ah ! ne voilà-t-il pas</l>
+     <l> La preuve la plus respectable ?</l>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <l>Il a de moi des garants trop certains</l>
+     <l> Que j' n'ai jamais commis une bassesse</l>
+     <l> Là , sur son cœur , quand j'ai posé les mains</l>
+     <l> De tout crime le doute cesse.</l>
+    </sp>
+    <sp who="#TDP1229_12">
+     <speaker>LE SERGENT</speaker>
+     <p>Messieurs, je ne puis plus long-tems...</p>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <l>Quand { je te , tu me } tiens enlacé dans { mes, tes } bras ,</l>
+     <l> C'est que { je, tu } ne { t', m' } crois pas coupable.</l>
+     <l> D' { ton, mon } innocence , ah! ne voilà-t-il pas</l>
+     <l> La preuve plus respectable. |</l>
+     <l>Il tient son frère enlacé dans ses bras ,</l>
+     <l> C'est qu'il ne le croit pas coupable.</l>
+     <l> D'son innocence, ah ! ne voilà-t-il pas</l>
+     <l> La preuve plus respectable.</l>
+     <stage>Pendant ces derniers vers, les gardes emmènent Paulin. Ils le font entrer dans une
+      maison qui se trouve sur la place. )</stage>
+    </sp>
+   </div><pb n="24"/>
+   <div>
+    
+     <head>SCENE XII.</head>
+     <stage>Les mêmes, excepté PAULIN et les Gardes.</stage>
+    
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Ma mère, il faut que je vous quitte.</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <p>Tu voudrais, mon fils...</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>Retourner au régiment...</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Non, aucun de mes camarades n'a contre sa famille le soupçon même du déshonneur.</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <p>Où vas-tu, mon fils.</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <p>Monsieur, c'est assez d'un chagrin, ne nous en donnez pas deux.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Je ne puis rester... Moi, la Grenade, forcé de rougir devant tout ce qui m'entoure ?
+      Non...</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>Attendez au moins la réponse du Roi.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Du Roi ?</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>Nous savions qu'il allait passer près de ce village, en revenant de Fontenoy; nous avons été
+      l'attendre sur la route , et je lui ai présenté , en votre nom , le placet dont voici le
+      contenu.</p>
+     <stage>Air : <title>Traitant l'amour.</title></stage>
+     <l>Après cent exploits divers ,</l>
+     <l> Un brave et bon militaire,</l>
+     <l> Retrouve chez lui son frère</l>
+     <l> Que l'on menace des fers.</l>
+     <l> Ce frère, à tort on l'accuse ;</l>
+     <l> L'autr', comme soldat se récuse.</l>
+     <l> S'peut-il qu'un bon Roi refuse</l>
+     <l> D'les rendr' tous deux à l'Etat ?</l>
+     <l> Non, non, d'un père si tendre ,</l>
+     <l> Que ne doivent pas attendre</l>
+     <l> Le sujet et le soldat !</l>
+    </sp><pb n="25"/>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE.</speaker>
+     <p>Qu'a-t-il répondu ?</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME.</speaker>
+     <p>Rien ; mais, à son retour au champ de bataille, nous nous précipiterons de nouveau sur ses
+      pas.</p>
+     <stage>( On entend crier très-loin : Vive le Roi ! )</stage>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Madame FRANCŒUR.</speaker>
+     <p>Le voici !... Vite ! vite !</p>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <p>Courons,</p>
+     <stage>Air :<title> Veux-tu te taire ?</title></stage>
+     <l>Tous ensemble, </l>
+     <l> La mêm' raison</l>
+     <l> Nous rassemble,</l>
+     <l> Tous ensemble</l>
+     <l> Courons d'mander son pardon.</l>
+     <stage>(Tous sortent à l'exception de Nicolas.)</stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XIII.</head>
+     <stage>LA GRENADE, NICOLAS.</stage>
+    
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <stage>à part.</stage>
+     <l>Si j' pouvions de ce côté</l>
+     <l> Voir un p'tit moment ce traître,</l>
+     <l> Qui vient à mon pauvre maître</l>
+     <l> D'faire ravir la liberté.</l>
+     <l> J' l'apperçois, queu bonne affaire !</l>
+     <l> L' grenadier va sans façon</l>
+     <l> Voir si Durocher peut se faire</l>
+     <l> Un dos aussi dur qu' son nom.</l>
+     <l> Faut qu'ensemble </l>
+     <l> Mon adresse les rassemble ;</l>
+     <l> Faut qu'ensemble</l>
+     <l> Oui, faut</l>
+     <l> Qu'y s'dis'nt un mot.</l>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <stage>après avoir réfléchi</stage>
+     <p>Ils n'obtiendront rien... Partons pendant leur absence <stage>( Il va pour prendre son sac
+      )</stage></p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>M. la Grenade , le v'là.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Qui ?</p>
+    </sp><pb n="26"/>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Celui qui a perdu votre cher frère.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Mille bombes ! son compte est bon.</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <stage>faisant retirer la Grenade.</stage>
+     <p>Voyons-le venir.</p></sp></div><div>
+     <head>SCENE XIV.</head>
+     <stage>Les mêmes, DUROCHER.</stage>
+     <stage>Cette scène doit être jouée à voix basse sur le devant de la scène )</stage>
+    
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER,</speaker>
+     <stage>bas</stage>
+     <p>Où en est-on ici ?</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <stage>d'un côté.</stage>
+     <p>Au châtiment des fripons.</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <stage>de l'autre.</stage>
+     <p>En avant ! Alte !</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER,</speaker>
+     <stage>à part.</stage>
+     <p>La Grenade ! <stage>( Haut. )</stage> Eh ! c'est vous...</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <stage>bas à Durocher.</stage>
+     <p>C'est moi qui vient exprès de mon régiment pour te couper un bras, une jambe, ou une
+      oreille.</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS.</speaker>
+     <p>Choisissez, ça nous est égal.</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER</speaker>
+     <p>Mais je ne conçois pas.. .</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Tu ne conçois pas! As-tu oublié que par ta perfide adresse...</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER</speaker>
+     <p>Moi !</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Oui, toi !</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Finissons... Est-ce la jambe, le bras ou l'oreille que voui avez de trop ?</p>
+    </sp><pb n="27"/>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Allons, marche.</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER</speaker>
+     <p>Je n'ai pas de témoins.</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Je suis les deux témoins à moi tout seul.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Me suivra-tu ?</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER.</speaker>
+     <p>Je n'ai point d'armes.</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Un moment. <stage>(Il entre dans la maison. )</stage> V'la un sabre... Allons... Faut que je
+      regarde pour commencer quand ça sera fini avec le grenadier.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Eh bien ! ici, puisque tu ne veux pas venir.</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <stage>Air : <title>Nous voyons à ce qu'il dit.</title></stage>
+     <l>Nous allons voir si monsieur</l>
+     <l> Sait se battre comme il sait nuire;</l>
+     <l> Nous allons voir si monsieur</l>
+     <l> A plus d'méchanceté que d' valeur.</l>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <l>Vite en garde, allons,</l>
+     <l> Monsieur, dépéchons.</l>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>Nicolas</speaker>
+     <stage>à part.</stage>
+     <p>Je doute qu'il s'en tire.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Mais on peut venir.</p>
+    </sp>
+    <sp who="#TDP1229_2">
+     <speaker>DUROCHER</speaker>
+     <stage>à part</stage>
+     <p>Ah! Que devenir ?</p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Voulez-vous en finir.</p>
+    </sp>
+    <sp who="#TDP1229_14">
+     <speaker>LA GRENADE ET NICOLAS</speaker>
+     <l>Voyons enfin si monsieur</l>
+     <l> Sait se battre comme il sait nuire,</l>
+     <l> Voyons enfin si monsieur</l>
+     <l> A plus de méchanceté que de valeur.</l>
+     <stage>( Il vont pour se mettre en garde. Paulin sort avec les gardes de la maison du
+      bailli.)</stage>
+    </sp>
+     </div><pb n="28"/>
+   <div>
+    
+     <head>SCENE XV.</head>
+     <stage>Les mêmes; PAULIN, GARDES.</stage>
+    
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <stage>apercevant la Grenade.</stage>
+     <p>Mon frère ! que fais-tu ? C'est à moi de punir... <stage>( Il prend le sabre du sergent et
+      va près de Durocher.)</stage></p>
+    </sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <p>Deux sabres ! Le voilà entre deux feux.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <stage>Air : <title>d' Agnès Sorel</title></stage>
+     <l>En abusant de ma jeunesse,</l>
+     <l> D'une trop facile amitié,</l>
+     <l> As-tu pensé de ta bassesse</l>
+     <l> Me vois prendre ainsi la moitié ?</l>
+     <l> Je vais punir ta perfidie ;</l>
+     <l> Mais c' n'est pas assez pour mon cœur.</l>
+     <l> Avant que tu m' donn' ta vie,</l>
+     <l> Y faut que tu m' rendes mon honneur.</l>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <stage>à Paulin</stage>
+     <p>Ah! Paulin, je ne te crois plus coupable.</p>
+     <stage><stage>( On entend plus près crier, Vive le Roi ! Durocher s'échappe. )</stage></stage>
+    </sp>
+   </div>
+   <div>
+    
+     <head>SCENE XVI</head>
+     <stage>TOUS.</stage>
+    
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>La Grenade ! la Grenade! v'là la réponse du Roi.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Que dit-elle ?</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR.</speaker>
+     <p>Nons ne l'avons pas lue... Le Roi a dit qu'il ne fallait ne la laisser lire que par toi.</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <p>Oh ! lisez vite, M. la Grenade.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <stage>lit</stage>
+     <p>Grenadier, je sais comme tu t'es conduit hier à Fontenoy ; le frère d'un brave comme toi ne
+      peut être coupable : mais s'il pouvait l'être, je lui pardonne.</p>
+     <p>LOUIS.</p>
+     <stage>( La Grenade baise la lettre. )</stage>
+    </sp><pb n="29"/>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>Et il a ajouté tout bas; je l'ai entendu... Les paroles d'un bon Roi, ça se devine
+      presque... il a dit :</p>
+     <stage>Air :<title> Ce Magistrat.</title></stage>
+     <l>Je chéris, j'estime, j'honore</l>
+     <l> Tons les braves guerriers français;</l>
+     <l> Mon amour est plus vif encore</l>
+     <l> Quand ils réclament mes bienfaits</l>
+     <l> Comme un prix de tant de hauts faits.</l>
+     <l> Soldats, venez près de mon trône,</l>
+     <l> A toute heure, en tous instans ;</l>
+     <l> Premiers appuis de ma couronne,</l>
+     <l> Vous êtes mes premièrs enfans.</l>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Il a dit cela...</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Mon bon frère ! c'est à toi, à ta bravoure...</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Mon sac, mon fusil... Et je renoncerai au service! Non, non, mille bombes!</p>
+     <stage>Air : <title>du Galoubet.</title></stage>
+     <l>Vive le Roi! </l>
+     <l> Plus de repos, plus de retraite,</l>
+     <l> l'honneur , l'amour m'en font la loi :</l>
+     <l> Maint' nant chaq' cicatrice est faite,</l>
+     <l> Et je trouve ma santé parfaite,</l>
+     <l> Vive le Roi!</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <p>Vive le Roi ! <stage>(ter)</stage></p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <p>Enfin, je vais me marier.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN</speaker>
+     <p>Tu seras heureuse épouse.</p>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME</speaker>
+     <p>Moi, heureux père.</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <p>Moi, la plus fortunée des mères.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <p>Et moi, toujours bon grenadier français ; pour le prouver, mettons-nous à table.</p>
+     </sp></div>
+   <div type="vaudeville">
+    <head>Vaudeville.</head>
+   
+    <sp who="#TDP1229_4">
+     <speaker>CHŒUR.</speaker>
+     <l>Amis, c'est à table,</l>
+     <l> Qu'on célèbre en chœur,</l>
+     <l> De bon cœur,</l>
+     <l> Près d' convive aimable,</l>
+     <l> Le retour du bonheur.</l>
+    </sp>
+    <sp who="#TDP1229_3">
+     <speaker>ANSELME.</speaker>
+     <l>Ne buvant qu'aux belles</l>
+     <l> Sévères, cruelles,</l>
+     <l> Nous éloignant d'elles,</l>
+     <l> Nous n' boirons pas beaucoup.</l>
+     <l> Buvant à ces dames,</l>
+     <l> Qu'ont de si bonnes âmes, Qu'ell' partag' nos flammes ;</l>
+     <l> Nous boirons plus d'un coup.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <p>Amis, c'est à table, etc.</p>
+    </sp>
+    <sp who="#TDP1229_8">
+     <speaker>PAULIN.</speaker>
+     <l>Forcé de combattre,</l>
+     <l> Près d'Paris de s'battre,</l>
+     <l> Ce bon Henri-quatre</l>
+     <l> N' buvait pas beaucoup.</l>
+     <l> Une fois dans c'te ville ,</l>
+     <l> Heureux. et tranquille ,</l>
+     <l> Près d' sujet docile,</l>
+     <l> Y buvait plus d'un coup.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <p>Amis, c'est à table, etc.</p>
+    </sp>
+    <sp who="#TDP1229_7">
+     <speaker>Mad. FRANCŒUR</speaker>
+     <l>Près du politique,</l>
+     <l> Qui, pleurant, explique</l>
+     <l> Nouvell' qu'il fabrique,</l>
+     <l> On n' boit pas beaucoup ;</l>
+     <l> Près d' bon militaire,</l>
+     <l> S'écriant : plus d' guerre ,</l>
+     <l> Viv' la paix sur terre !</l>
+     <l> Oh ! l'on boit plus d'un coup.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <p>Amis, c'est à table, etc.</p>
+    </sp>
+    <sp who="#TDP1229_6">
+     <speaker>GEORGETTE</speaker>
+     <l>Fill' dont l'hyménée,</l>
+     <l> La chale' fortunée</l>
+     <l> Se trouve ajournée,</l>
+     <l>Ell' ne boit pas beaucoup.</l></sp>
+    <sp who="#TDP1229_1">
+     <speaker>NICOLAS</speaker>
+     <l>Mais fill' qui s'marie</l><l>Que rien n'contrarie</l>
+     <pb n="31"/>
+     <l> Oh! moi, je parie</l>
+     <l> Qu'ell' boit plus d'un coup.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS.</speaker>
+     <p>Amis, c'est à table, etc.</p>
+    </sp>
+    <sp who="#TDP1229_11">
+     <speaker>LA GRENADE</speaker>
+     <l>Avant qu' l'on commence,</l>
+     <l> L'acteur tout en transe</l>
+     <l> Redout' sa sentence,</l>
+     <l> Et ne boit pas beaucoup,</l>
+     <l> Mais si le parterre</l>
+     <l> Lui donn' le salaire</l>
+     <l> D' l'effort qu'il sut faire,</l>
+     <l> L'acteur boit plus d'un coup.</l>
+     <stage>(Au Public. )</stage>
+     <p>Messoieurs</p>
+     <l>L'théâtre est la table,</l>
+     <l> Où chaque soir le spectateur</l>
+     <l> Est l' convive aimable</l>
+     <l> Qui nous rend le bonheur.</l>
+    </sp>
+    <sp who="#TDP1229_4">
+     <speaker>TOUS</speaker>
+     <p>L'théâtre est la table, etc.</p>
+     <stage>( Il vont se mettre à table, et le rideau baisse. )</stage>
+    </sp>
+   </div>
+   <trailer>FIN.</trailer>
+  </body>
+ </text>
+</TEI>

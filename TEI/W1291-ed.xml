@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>Les héritiers Michau, ou le moulin de Lieursain: TEI edition (Wicks no. 1291)</title>
-    <author>Planard</author>
+    <author>Eugene de Planard (1783-1853)</author>
     <respStmt>
      <resp>Original transcription by </resp>
      <name>Angus B. Grieve-Smith</name>
@@ -38,10 +38,10 @@
      <titlePart> OPÉRA-COMIQUE EN UN ACTE ET EN PROSE, </titlePart>
     </docTitle>
     <titlePart>Représenté pour la première fois, à Paris, sur le Théâtre de l'Opéra-Comique, le 30
-     Avril </titlePart>
+     Avril 1814 </titlePart>
 
     <byline>Paroles de M. PLANARD, Musique de M. BOCHSA. </byline>
-    <docImprint>1814, A PARIS, Chez VENTE, Libraire, Boulevard des Italiens, 7, près la rue Favart,
+    <docImprint>A PARIS, Chez VENTE, Libraire, Boulevard des Italiens, 7, près la rue Favart,
      1814.</docImprint>
    </titlePage>
    <div type="preface">
@@ -1089,11 +1089,11 @@
      <speaker>Chœur Géneral.</speaker>
      <l>Les Rois sont à Paris !</l>
      <l> Gai, gai, de l'allégresse !</l>
-     <l> Et répétons sans cesie :</l>
+     <l> Et répétons sans cesse :</l>
      <l> Vive, vive Louis !</l>
-     <l/>
     </sp>
-   </div>
+  <trailer>FIN.</trailer> </div>
+   <trailer>De l'Imprimerie de Nouzou, rue de Clery, no. 9</trailer>
   </body>
  </text>
 </TEI>

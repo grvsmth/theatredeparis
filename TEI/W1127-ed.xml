@@ -45,7 +45,7 @@ brumaire an XI de la République. </titlePart><titlePart>PRIX 1 franc.</titlePar
    </titlePage>
    <castList>
     <head>Personnages.</head>
-    <castItem><role>FONTENELLE, membre et sercretaire de l'Academie des sciences.</role></castItem>
+    <castItem><role>FONTENELLE, membre et secretaire de l'Academie des sciences.</role></castItem>
     <castItem><role>CHARLES DAUBE, neveu de Fontenelle.</role></castItem>
     <castItem><role>Madame GEOFFRIN, amie de Fontenelle.</role></castItem>
     <castItem><role>MELANIE, niece de Madame Geoffrin.</role></castItem>
@@ -2375,11 +2375,10 @@ contrefacteurs, conformément à la loi.-->
      <l> Que chacun ne pense qu'à soi.</l>
     </sp>
    </div>
-   <div>
+  
     
-     <head>F I N.</head>
+     <trailer>FIN.</trailer>
     
-   </div>
   </body>
  </text>
 </TEI>

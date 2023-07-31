@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W0125">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Un an de Pericles : TEI edition (Wicks no. 0125)</title>
+    <author>Joseph Aude (10 December 1755 – 5 October 1841)</author>
+    <respStmt>
+     <resp>HTML version by</resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI version by</resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <p>The Digital Parisian Stage Corpus is freely available from a GitHub
+   repository at <ref target="https://github.com/grvsmth/theatredeparis"/></p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images available from <ref target=""/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/0125.tmp"/></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
+   <change when="2023-07-30">Header confected</change>
+  </revisionDesc>
+  <!-- no page source found  so not checked -->
+  
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>UN AN DE PÉRICLÈS, PROLOGUE EN VERS;</titlePart>
+     <titlePart> Avec des Notes sur les Jeux Gymniques, etc.</titlePart>
+    </docTitle>
+
+    <byline>Par <docAuthor>Joseph AUDE</docAuthor>, Ancien Chevalier d'une Ile d'Asie, sur la cöte
+     de la mer Scarpente et Membre de plusieurs Académies.</byline>
+    <titlePart> Représenté, pour la première fois, à Paris, sur le Théâtre des Jeux Gymniques, le
+     1er Janvier 1810.</titlePart>
+    <docImprint>CHEZ BARBA, LIBRAIRE, PALAIS-ROYAL, DERRIÈRE LE THÉATRE FRANÇAIS, No 51..
+     1810.</docImprint>
+   </titlePage>
+   <pb n="2"/>
+   <div type="scene">
+    <p>DE L'IMPRIMERIE DE HOCQUET ET COMPe., RUE DU FAUBOURG MONTMARTRE, No. 4. </p>
+   </div>
+   <pb n="4"/>
+   <div type="scene">
+    <head>A L'UN DES ILLUSTRES MINISTRES DE PÉRICLÈS.</head>
+    <head>Conseiller d'un Sage, d'un Guerrier, d'un vieux Politique, d'un jeune Héros ! </head>
+    <p>J'ose te dédier une des années de Périclès! Tu régis l'intérieur d'Athènes sous cet auguste
+     Chef. Il vient de t'appeler au poste eminent que Diocretès a laissé vacant par sa mort. Minerve
+     t'avait désigné à son Fils, au Père d'Athènes, au Régénérateur immortel dont le choix t'honore
+     bien plus que les louanges de la Grèce, que tes lumières et tes vertus ont méritées. Respect et
+     gloire. Jos. AUDE. </p>
+   </div>
+   <pb n="5"/>
+   <div type="scene">
+    <head>AVIS DE L'ÉDITEUR. </head>
+    <p>Les rapprochemens sont facîles à. faire en lisant ce Dialogue. Qui ne voit, et n'admire une
+     parcelle de Napoléon dans Périclès! Pour offrir au monde l'image entière du Monarque Français,
+     il faudrait prendre de chaque Grand Homme, de chaque Souverain béni, un trait de gloire , un
+     trait de vertu, de force , de modération , d'héroïsme, etc., comme fit le célèbre Artiste qui,
+     pour produire sa Vénus, prit un trait brillant de chaque beauté, et forma son tout immortel.
+     Qui ne voit de même que le digne Ministre du Prince auguste d'Athènes moderne , est celui de
+     l'Intérieur. </p>
+   </div><pb n="6"/>
+   <castList>
+    <castItem><role>MEONIDAS, Capitaine athénien</role>. <role>ARISTOCLES , Ambassadeur de
+     Sparte</role>.</castItem>
+   </castList>
+   <set>
+    <p>La scène est à Athènes , le jour des fêtes d'Eleusis</p>
+   </set>
+  </front><pb n="7"/>
+  <body>
+   <head>Un an de Pericles, prologue en vers.</head>
+   <div type="scene">
+    
+     <head>SCENE PREMIERE.</head>
+     <stage>MÉONIDAS, Chefs, Soldats.</stage>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <l>Soldats de Périclès ! dignes enfans d'Athène!</l>
+     <l> Guerriers que dans ses murs la victoire ramène,</l>
+     <l> Vous allez assister à ses jeux solemnels.</l>
+     <l> Du souverain des Dieux les décrets éternels</l>
+     <l> De Sparthe ont châtié l'arrogante faiblesse ;</l>
+     <l> Et Jupiter, par vous, rend le calme a la Grèce.</l>
+     <l> Un traité glorieux , conquis par vos exploits,</l>
+     <l> Du Spartiate enfin va limiter les droits :</l>
+     <l> Allez, braves amis, de vos palmes civiques,</l>
+     <l> Du temple de Minerve enrichir les portiques.</l>
+     <l> D'Athène triomphante enchantez les regards :</l>
+     <l> Jamais plus brillant jour n'a lui sur nos remparts.</l>
+     <l> Noble Adratès! conduis ta cohorte an Pirée,</l>
+     <l> Traséas! tes soldats à l'enceinte sacrée,</l>
+     <l> Où Cérès vous attend pour joindre ses moissons</l>
+     <l> A celle dont la gloire a couronné vos fronts.</l>
+     <stage>( On entend les sons lointains de la trompe. )</stage>
+     <l>Mais l'air a retenti de la trompe héroïque....</l>
+     <l> Le peuple court en foule et vient du Céramique....</l>
+     <stage>(Il regarde.)</stage>
+     <l>Les envoyés de Sparte, Entime! Aristoclès!</l>
+     <l> Que la paix cimentée adresse à Périclès !</l>
+     <pb n="8"/>
+     <l> Des deux peuples , Pallas, serre à jamais les chaînes !</l>
+     <l> Qu'Athènes soit dans Sparte et Sparte dans Athènes.</l>
+     <stage>( Les sons de la trompe sont répétés et bruyans. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+  
+     <head>SCENE II.</head>
+     <stage>(Méonidas fait signe à ses sous-chefs de diriger leurs divisions vers les lieux qu'il
+      vient d'indiquer; ces deux partis s'éloignent au bruit d'une musique guerrière qui se mêle à
+      celle des Spartiates. Néanmoins une suite d'officiers reste et assez de soldats pour garnir le
+      fond du théâtre, et honorer duns les manœuvres usitées l'approche des ambassadeurs Spartiates.
+      )</stage>
+   </div>
+   <div type="scene">
+   
+     <head>SCENE III.</head>
+     <stage>MÉONIDAS, sa troupe, ARISTOCLÈS, ENTIME, leur suite ; deux Ephores de Sparte portant le
+      traité en pompe.</stage>
+     <stage>Aritoclès portant partout des regards d'admiration sur les beautés locales, et sans
+      appercevoir d'abord Méonidas !</stage>
+     <p>C'est ici que la Grèce étale sa splendeur !</p>
+     <stage>( Méonidas s'avance et le salue. )</stage>
+     <p>Méonidas !</p>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <l>De Sparte heureux ambassadeur !</l>
+     <l> Venez-vous consacrer des noeuds chers à la terre?</l>
+    </sp>
+    <sp who="#TDP0125_2">
+     <speaker>ARISTOCLÈS.</speaker>
+     <l>Je viens voir le héros que le monde révère.</l>
+     <l> Par l'ennemi commun nous étions divisés;</l>
+     <l> Mais c'est sur lui qu'enfin ses traits seront brisés,</l>
+     <l> Le fatal ascendant d'un peuple de pirates,</l>
+     <l> Au secours des Thébains portant les Spartiates,</l>
+     <pb n="9"/><l> De la guerre entre nous alluma le flambeau....</l>
+     <l> Que la mer qu'il infeste un jour soit son tombeau !</l>
+    </sp>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <l>Oui, nous la poursuivrons, cette horde ennemie;</l>
+     <l> Des rives de l'Enxin aux murs de Pamphilie,</l>
+     <l> Elle a déjà connu le bras de Périclès.</l>
+    </sp>
+    <sp who="#TDP0125_2">
+     <speaker>ARISTOCLÈS.</speaker>
+     <l>Sparte connaît trop tard le prix de ses bienfaits.</l>
+     <l> De l'Etat affermi quelle main lient les rênes !</l>
+     <l> Je vais donc l'approcher ! le revoir dans Athènes !</l>
+     <l> Athènes !... Qu'ai-je dit? Vois-je encor la cité ,</l>
+     <l> Où, par les mêmes droits, j'ai naguère habité ?</l>
+     <l> J'en reconnais a peine et le site et la place,</l>
+     <l> Je m'en éloigne un an, tout a changé de face.</l>
+     <l> Sont-ce les mêmes lieux qu'aujourd'hui je parcours?</l>
+     <l> Ou s'élevaient des monts, un fleuve a pris son cours.</l>
+     <l> De Miltiade, ici, la colonne s'élève ;</l>
+     <l> Là, du séjour des rois, le monument s'achève ;</l>
+     <l> Et le port de Pirée, autrefois éloigné ,</l>
+     <l> Est à ce centre auguste à l'instant l'amené :</l>
+     <l> Au milieu des combats et des lignes fatales,</l>
+     <l> Partout des ponts lancés, des arches triomphales,</l>
+     <l> Sous le bronze et le fer les flots emprisonnés ;</l>
+     <l> Par Minerve, en un jour, ces travaux sont-ils nés?</l>
+     <l> Tous les arts de la paix dans les tems de la guerre !...</l>
+     <l> Tout le globe, d'Athène, est-il donc tributaire?</l>
+     <l> Ou l'oracle des Dieux a-t-il tout enfanté ?</l>
+     <l> Tout a grandi du sein de la calamité !</l>
+     <l> A mes sens confondus expliquez ce miracle.</l>
+    </sp>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <p>Allez voir Périclès, vous entendrez l'oracle.</p>
+    </sp>
+    <sp who="#TDP0125_2">
+     <speaker>ARISTOCLÈS.</speaker>
+     <p>Vous vivez près de lui, vaillant Méonidas?</p>
+    </sp>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <l>Il est sauveur d'Athène; il est fils de Pallas;</l>
+     <l> Ses projets comme à vous me semblaient des prestiges ;</l>
+     <l> Mais l'aspect du héros accoutume aux prodiges.</l>
+    </sp>
+    <sp who="#TDP0125_2">
+     <speaker>ARISTOCLÈS.</speaker>
+     <p>Ah! racontez-moi tout, dans ce sublime élan.</p>
+    </sp><pb n="10"/>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <p>Que dirai-je d'un écoulé dans un an ?</p>
+    </sp>
+    <sp who="#TDP0125_2">
+     <speaker>ARISTOCLÈS.</speaker>
+     <p>L'Hôte, vainement s'est emparé d'Ithome...</p>
+    </sp>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <p>Qu'il ne gardera pas , croyez-en le grand homme.</p>
+    </sp>
+    <sp who="#TDP0125_2">
+     <speaker>ARISTOCLÈS.</speaker>
+     <l>Je vais le contempler devant ses dix tributs,</l>
+     <l> Et de Sparte à ses pieds déposer les tributs.</l>
+    </sp>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <l>Après avoir offert vos respects au monarque,</l>
+     <l> Veuillez de mon estime agréer une marque :</l>
+     <l> Votre place est fixée aux fêtes d'Eleusis;</l>
+     <l> Les jeux vont commencer. Aux athlètes choisis</l>
+     <l> Motre Archonte bientôt ouvrira la barrière ;</l>
+     <l> Et les rivaux amis fourniront leur carrière.</l>
+    </sp>
+    <sp who="#TDP0125_2">
+     <speaker>ARISTOCLÈS.</speaker>
+     <p>Je viens de voir orner le temple de Cérès.</p>
+    </sp>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <p>C'est-là qu'il vient d'abord implorer des succès.</p>
+    </sp>
+    <sp who="#TDP0125_2">
+     <speaker>ARISTOCLÈS.</speaker>
+     <p>De leurs combats divers j'ai quelque connaissance.</p>
+    </sp>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <l>Permettez-moi , seigneur , ( puisqu'en votre présence</l>
+     <l> Ces jeux vont à l'instant avoir lieu, tour-à-tour, )</l>
+     <l> Que j'en explique ici l'ordre pour ce grand jour.</l>
+     <l> Le premier qui parla sans rompre le silence ,</l>
+     <l> Vous le savez, le Mime en ces lieux prit naissance</l>
+     <l> Exposer ce qu'il va représenter aux yeux</l>
+     <l> C'est délasser l'esprit et le captiver mieux.</l>
+    </sp>
+    <sp who="#TDP0125_2">
+     <speaker>ARISTOCLÈS.</speaker>
+     <p>De vos soins obligeans mon ame est pénétrée.</p>
+    </sp>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <l>Du temple de Cérès on aborde l'entrée.</l>
+     <l> Les prètresses soudain assistent à nos jeux.</l>
+     <l> La lutte est le premier. Tout concurrent joyeux</l>
+     <pb n="11"/>
+     <l> Vient ensuite , portant un flambeau qu'il agite,</l>
+     <l> Pour disputer le prix que l'adresse mente,</l>
+     <l> Le vainqueur est celui qui court au but sondain,</l>
+     <l> Sans éteindre le feu qui brille dans sa main</l>
+     <l> Le combat se termine. Un nouvel exercice</l>
+     <l> De la légèreté prouve encor l'artifice.</l>
+     <l> Le Disque arrive après; et le gladiateur</l>
+     <l> Devient pour un moment l'effroi du spectateur.</l>
+     <l> On entend les coursiers ; ils vont remplir la scène.</l>
+     <l> Et les rapides chars vont rouler dans l'arène,</l>
+     <l> Tous les chefs des tributs président au combat</l>
+     <l> Ils décernent les prix dont ils doublent l'éclat.</l>
+     <l> C'est Castor et Pollux, c'est l'émule d'Alcide.</l>
+     <l> Qui donnèrent ces jeux à la brillante Elide.</l>
+     <l> Ils furent tous fondes en l'honneur d'Appollon,</l>
+     <l> De Minerve et de Mars, qui fait vivre un grand nom.</l>
+     <l> On va renouveller cette lutte gymnique</l>
+     <l> Que suivra l'appareil de la course olympique.</l>
+     <l> Lorsqu'Athène a conclu de glorieux traités,</l>
+     <l> Voilà l'encens qu'elle offre à ses divinités.</l>
+    </sp>
+    <sp who="#TDP0125_2">
+     <speaker>ARISTOCLÈS.</speaker>
+     <l>L'olive et le palmier s'uniront dans vos fêtes ;</l>
+     <l> L'amour, la paix, les arts sont le prix des conquêtes.</l>
+     <l> L'Arcadie est soumise ; et les Messeniens</l>
+     <l> Sont grace à Périclès , nos amis et les siens.</l>
+     <l> Et le Péloponèse, et Samos, et Nemée...</l>
+     <l> Que de faits éclatans lassent la renommée !</l>
+    </sp>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <l>Seigneur, deux grands tableaux vont frapper vos regards.</l>
+     <l> Quand on a décerné les couronnes de Mars ,</l>
+     <l> Le laurier se présente au fils de l'harmonie....</l>
+     <l> La palme attend Sophocle à l'autel du génie ;</l>
+     <l> Eschile , en tressaillant , la place sur son front.</l>
+     <l> Le guerrier, le poète , alors tout se confond ,</l>
+     <l> De Bellonne, à ces jeux, les muses sont rivales ;</l>
+     <l> Et le tyrce s'unit aux fetes martiales.</l>
+     <l> Mais le bruit a cessé, saisi d'un sait respect...</l>
+     <l> D'un demi-dieu chacun a pressenti l'aspect...</l>
+     <l> Un vieillard incliné marche au tcmple d'Aglaure....</l>
+     <l> C'est Socrate implorant le seul dieu qu'il adore.</l><pb n="12"/>
+     <l> Je l'entends s'écrier : « O toi dont les bienfaits</l>
+     <l> A ma chère patrie accordent Périclès,</l>
+     <l> Pour le bonheur des Grecs et la gloire d'Athène,</l>
+     <l> Veille sur les destins de ce grand capitaine.</l>
+     <l> Il ne veut que trente ans pour affermir par toi</l>
+     <l> Et l'autel et le trône, et l'empire et ta loi....</l>
+     <l> Trente ans!... c'est limiter le bonheur de la terre.</l>
+     <l> Ecartes, Dieu des Rois , sa touchante prière.</l>
+     <l> Chacun de ses instans proclame ta grandeur.</l>
+     <l> De son règne adoré prolonge la splendeur ;</l>
+     <l> Prolonge avec ses jours les beaux jours de la Grèce :</l>
+     <l> Quand on n'eut point d'enfance, on n'a point de vieillesse. »</l>
+    </sp>
+    <sp who="#TDP0125_2">
+     <speaker>ARISTOCLÈS.</speaker>
+     <l>De quelle émotion remplissez-vous mon coeur!</l>
+     <l> Allons voir le héros , le pacificateur....</l>
+     <stage>( Ici le signal des Jeux, les sons de la trompe. )</stage>
+    </sp>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <p>On annonce les jeux que Périclès ramène.</p>
+    </sp>
+    <sp who="#TDP0125_2">
+     <speaker>ARISTOCLÈS.</speaker>
+     <p>Que vous êtes heureux d'être né dans Athène !</p>
+    </sp>
+    <sp who="#TDP0125_1">
+     <speaker>MÉONIDAS.</speaker>
+     <l>Elle est votre patrie et la mienne, Seigneur :</l>
+     <l> N'en donner qu'une au monde est le voeu du vainqueur.</l>
+  
+    </sp>
+   </div>
+   <trailer>FIN.</trailer></body>
+ </text>
+</TEI>

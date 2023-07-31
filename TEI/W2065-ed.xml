@@ -1,32 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2065">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2065">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Nitouche et Guignolet: TEI edition (Wicks no. 2065)</title>
     <author/>
     <respStmt>
-     <resp>Original transcription by </resp>
+     <resp>HTML version by</resp>
      <name>Angus B. Grieve-Smith</name>
     </respStmt>
     <respStmt>
-     <resp>TEI conversion by </resp>
+     <resp>TEI version by</resp>
      <name>Lou Burnard</name>
     </respStmt>
    </titleStmt>
    <publicationStmt>
-    <distributor> The Digital Parisian Stage Corpus. GitHub.
-     https://github.com/grvsmth/theatredeparis </distributor>
+    <p>The Digital Parisian Stage Corpus is freely available from a GitHub
+   repository at <ref target="https://github.com/grvsmth/theatredeparis"/></p>
    </publicationStmt>
    <sourceDesc>
-    <p>Original page images downloaded from <ref
-     target="http://www.google.com/books?id=xVWu4jMP5KoC"/>.</p>
-    <p>HTML transcription downloaded from <ref
-     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2065nitouche.html"
-     >https://github.com/grvsmth/theatredeparis</ref></p>
+    <p>Original page images available from <ref target="http://www.google.com/books?id=xVWu4jMP5KoC"/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2065nitouche.html"/></p>
    </sourceDesc>
   </fileDesc>
-  <revisionDesc>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
    <change when="2023-07-22">Hand-edited</change>
 <change when="2023-07-20">Header confected</change>
   </revisionDesc>
@@ -67,7 +63,7 @@
    </set>
   </front>
   <body>
-   <div>
+   <div type="scene">
 
     <head>NITOUCHE ET GUIGNOLET.</head>
     <stage>Le théâtre représente une salle. Il y a un canapé, chaises , fauteuils, et une table ,
@@ -75,7 +71,7 @@
      gauche pour sortir, et une grande entrée au milieu du fond.</stage>
 
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE PREMIERE.</head>
     <stage>M. ROGUIGNARD, Mlle. ROGUIGNARD</stage>
@@ -95,7 +91,7 @@
      <p>Ecoutez-moi, vous dis-je , attentivement.</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE II</head>
     <stage>LES PRÉCÉDENS, NITOUCHE, entre doucement du fond, avec un balai, et reste derrière à
@@ -192,7 +188,7 @@
      <p>Eh bien donc, je ne le dirai plus , là. <stage>( Elle rentre parle fond. )</stage></p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE III.</head>
     <stage>ROGUIGNARD ET SA SOEUR.</stage>
@@ -271,7 +267,7 @@ leuse et si impérieuse... car je crois qu'elle tient de tous plus que de moi , 
       ports de la rue.)</stage></p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE IV.</head>
 
@@ -283,7 +279,7 @@ leuse et si impérieuse... car je crois qu'elle tient de tous plus que de moi , 
       Oh ! voilà qui me pique , et je veux te faire mentir... <stage>( elle rêve.)</stage></p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE V.</head>
     <stage>Mlle. ROGUIGNARD , sur le devant. NITOUCHE.</stage>
@@ -423,7 +419,7 @@ leuse et si impérieuse... car je crois qu'elle tient de tous plus que de moi , 
      <pb n="( 10 )"/>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE VI.</head>
 
@@ -448,7 +444,7 @@ leuse et si impérieuse... car je crois qu'elle tient de tous plus que de moi , 
      <stage>( elle sort par le fond. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE VII.</head>
 
@@ -472,7 +468,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       )</stage> Sarpedié ! ça dégotte encore mon lit de sangue.</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE VIII.</head>
     <stage>GUIGNOLET, Mlle. ROGUIGNARD, parée ridiculement.</stage>
@@ -835,7 +831,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <p>Au revoir , ma vieille poule.</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE IX.</head>
 
@@ -858,7 +854,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       apperçoit Julie qui vient du fond, et il s'arrête. )</stage></p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE X.</head>
     <stage>JULIE, GUIGNOLET.</stage>
@@ -960,7 +956,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       original. <stage>( Elle rentre. )</stage></p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE XI.</head>
     <stage>ROGUIGNARD, GUIGNOLET.</stage>
@@ -1111,7 +1107,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       gendre. <stage>( Il sort par la porte de la rue. )</stage></p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE XII.</head>
 
@@ -1125,7 +1121,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       basse-cour. Allons l'y annoncer ça d'avance.</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE XIII.</head>
     <stage>GUIGNOLET, NITOUCHE, reparaît au fond, un peu plus ajustée.</stage>
@@ -1307,7 +1303,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <pb n="(28 )"/>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE XIV.</head>
 
@@ -1391,7 +1387,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <p>Non pas, c'est pour l'intérêt que je prenons à vote santé.</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE XV.</head>
     <stage>Les précédens, ROGUIGNARD.</stage>
@@ -1454,7 +1450,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <p>Arrivez, M. Minute.</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE XVI.</head>
     <stage>Les Précédens, LES DEUX NOTAIRES entrant des deux côtés avec leurs papiers.</stage>
@@ -1542,7 +1538,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <pb n="( 32 )"/>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE XVII.</head>
     <stage>Les précédens, M. GRIPPEFORT et NITOUCHE, venant par la rue.</stage>
@@ -1623,7 +1619,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <p>Bonjour , monsieur. <stage>( Il s'en vont en saluant tous les deux. )</stage></p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE. XVIII.</head>
     <stage>Les PRÉCÉDENS , hors les deux NOTAIRES.</stage>
@@ -1656,7 +1652,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       <stage>( Elle s'en va avec colère. )</stage></p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
 
     <head>SCENE XIX. et derniere.</head>
     <stage>ROGUIGNARD, GRIPPEFORT, NITOUCHE, et GUIGNOLET.</stage>

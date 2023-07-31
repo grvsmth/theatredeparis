@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2701">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2701">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -7,27 +6,24 @@
      edition (Wicks no. 2701)</title>
     <author>B.Dupont de Lille</author>
     <respStmt>
-     <resp>Original transcription by </resp>
+     <resp>HTML version by</resp>
      <name>Angus B. Grieve-Smith</name>
     </respStmt>
     <respStmt>
-     <resp>TEI conversion by </resp>
+     <resp>TEI version by</resp>
      <name>Lou Burnard</name>
     </respStmt>
    </titleStmt>
    <publicationStmt>
-    <distributor> The Digital Parisian Stage Corpus. GitHub.
-     https://github.com/grvsmth/theatredeparis </distributor>
+    <p>The Digital Parisian Stage Corpus is freely available from a GitHub
+   repository at <ref target="https://github.com/grvsmth/theatredeparis"/></p>
    </publicationStmt>
    <sourceDesc>
-    <p>Original page images downloaded from <ref
-     target="http://www.google.com/books?id=AndsAtBQxpkC"/>.</p>
-    <p>HTML transcription downloaded from <ref
-     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2701singulier.html"
-     >https://github.com/grvsmth/theatredeparis</ref></p>
+    <p>Original page images available from <ref target="http://www.google.com/books?id=AndsAtBQxpkC"/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2701singulier.html"/></p>
    </sourceDesc>
   </fileDesc>
-  <revisionDesc>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
    <change when="2023-07-22">Hand-edited</change>
 <change when="2023-07-20">Header confected</change>
   </revisionDesc>
@@ -58,7 +54,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
    </castList>
    <set> <p>La Scène se passe dans un village de France, sur la frontière.</p>
    </set>
-   <div>
+   <div type="scene">
     
     <head>COUPLET D'ANNONCE.</head>
     <stage>Air : <title>Mes chers enfans, pourriez-vous m'enseigner.</title></stage>
@@ -75,7 +71,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
       Vis-à-vis, de l'autre côté, est un petite pavillon, d'une architecture simple ; auprès, un
       groupe d'arbres avec un gazon. Dans le fond, une rivière.</stage>
  
-   <div>
+   <div type="scene">
     
      <head>SCENE PREMIERE.</head>
     
@@ -134,7 +130,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <l> J'y réfléchirons.... Chut.... Voici madam' sa mère.</l>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE II.</head>
      <stage>Madame BENOIT, MAURICE</stage>
@@ -313,7 +309,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <stage>( Il sort par le pavillon. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE III.</head>
     
@@ -340,7 +336,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <l> Justement, elle vient.</l>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE IV</head>
      <stage>ELIZANDRE, Madame BENOIT.</stage>
@@ -553,7 +549,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <stage>( Elle sort. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE V.</head>
     
@@ -564,7 +560,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <l> L'intéresse ? Grands dieux ! quelle perplexité.</l>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE VI.</head>
      <stage>MAURICE,ÉLIZANDRE.</stage>
@@ -712,7 +708,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <stage>( Elle sort. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE VII</head>
     
@@ -756,7 +752,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <l> Et procure, à nos sens, plus d'une jouissance !</l>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE VIII.</head>
      <stage>Madame Benoit, Maurice.</stage>
@@ -863,7 +859,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <stage>( Madame Benoit rentre chez elle. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE IX.</head>
      <stage>MAURICE, MARGOT.</stage>
@@ -1140,7 +1136,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <p>De ma fureur, tu n'es pas quitte... Va , va, j't'attraperai dans un autre moment.</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE X.</head>
      <stage>Les PRÉCÉDENS, Madame BENOIT.</stage>
@@ -1170,7 +1166,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <stage>( Elle sort, après avoir ramassé ses cartes. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE XI</head>
      <stage>MAURICE, Madams BENOIT.</stage>
@@ -1224,7 +1220,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <stage>( Madame Benoît entre dans le pavillon. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE XII.</head>
      <stage>MAURICE, seul.</stage>
@@ -1262,7 +1258,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <stage>( Il entre dans la ferme. )</stage>
     
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE XIII</head>
     
@@ -1332,7 +1328,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <l> Mon sort, hélas ! seroit bien doux !</l>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE XIV.</head>
      <stage>ELIZANDRE, travaillant ; LINDOR, en habit de voyage; FRONTIN, en postillon.</stage>
@@ -1469,7 +1465,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <p>Je ne veux rien entendre;</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE XV.</head>
      <stage>Les précédens , Madame BENOIT, sortant du papillon:</stage>
@@ -1650,7 +1646,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <stage>( Elle rentre. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE XVI.</head>
      <stage>LINDOR, FRONTIN.</stage>
@@ -1738,7 +1734,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <l> Tous les défauts sont notre ouVrage ! bis.</l>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE XVII</head>
      <stage>Les precedens, MAURICE.</stage>
@@ -1842,7 +1838,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <p>Il n'a point tort, en concience.</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE XVIII.</head>
      <stage>Les Précédens, Madame BENOIT.</stage>
@@ -1877,7 +1873,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <stage>( Madame Benoit, Lindor et Frontin, entrent dans la ferme. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE XIX</head>
      <stage>Maurice, seul.</stage>
@@ -1952,7 +1948,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
       ils se heurtent. )</stage>
     
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE XX.</head>
      <stage>Madame BENOIT,MAURICE.</stage>
@@ -2089,7 +2085,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <stage>( Il sort en courant. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE XXI.</head>
      <stage>Madame BENOIT, ELIZANDRE, LINDOR, FRONTIN.</stage>
@@ -2234,7 +2230,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <p>Pour lui , c'est fort désagréable !</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE XXII ET DERNIERE.</head>
      <stage>Les précédens, MAURICE ; peu à près, GRIPAR.</stage>
@@ -2595,7 +2591,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <p>Et dans l'jus de Bacchus, que l'chagrin soit noyé.</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>VAUDEVILLE.</head>
      <stage>Air : <title>Du Vaudeville des Visitandines.</title></stage>
@@ -2676,7 +2672,7 @@ Jeunes-Artistes.</docImprint><docDate> An IX. ( 1801. )</docDate>
      <stage>bis:</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>FIN.</head>
     

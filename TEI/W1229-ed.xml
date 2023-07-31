@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W1229">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W1229">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -7,28 +6,25 @@
      1229)</title>
     <author>J.-B, Dubois</author>
     <respStmt>
-     <resp>HTML version by </resp>
+     <resp>HTML version by</resp>
      <name>Angus B. Grieve-Smith</name>
     </respStmt>
     <respStmt>
-     <resp>TEI version by </resp>
+     <resp>TEI version by</resp>
      <name>Lou Burnard</name>
     </respStmt>
    </titleStmt>
    <publicationStmt>
-    <distributor> The Digital Parisian Stage Corpus. GitHub.
-     https://github.com/grvsmth/theatredeparis </distributor>
+    <p>The Digital Parisian Stage Corpus is freely available from a GitHub
+   repository at <ref target="https://github.com/grvsmth/theatredeparis"/></p>
    </publicationStmt>
    <sourceDesc>
-    <p>Original page images available from <ref
-     target="https://books.google.com/books?id=UFNoAAAAcAAJ"/>.</p>
-    <p>HTML transcription available from <ref
-     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/1229.tmp"
-     >https://github.com/grvsmth/theatredeparis</ref></p>
+    <p>Original page images available from <ref target="https://books.google.com/books?id=UFNoAAAAcAAJ"/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/1229.tmp"/></p>
    </sourceDesc>
   </fileDesc>
-  <revisionDesc>
-   <change when="2023-07-30">Header confected</change>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
+   <change when="2023-07-30">Header confected; substantative hand editing checked against 1814 ed.</change>
   </revisionDesc>
  </teiHeader>
  <text>
@@ -74,7 +70,7 @@
       porte au milieu. Derrière la grille , le village de *** On voit la maison du bailli</stage>
     
     
-   <div>
+   <div type="scene">
     
      <head>SCENE PREMIERE.</head>
      <stage>( Il y a sur la scène une table servie de neuf couverts.)</stage>
@@ -106,7 +102,7 @@
       disposition... Moquons-nous de lui.</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE II.</head>
      <stage>DUROCHER, NICOLAS.</stage>
@@ -195,7 +191,7 @@
      <p>V'là papa Anselme, mamselle Georgette et tous les voisins d'notr' village.</p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCÈNE III.</head>
      <stage>Les mêmes, ANSELME, GEORGETTE.</stage>
@@ -266,7 +262,7 @@
       <stage>( Elle se cache derrière tout le monde. )</stage></p>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE IV.</head>
      <stage>Les mêmes, Mad. FRANCŒUR, PAULIN.</stage>
@@ -551,7 +547,7 @@
      <stage>( Durocher et Paulin sortent ensemble.)</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     <pb n="11"/>
      <head>SCENE V.</head>
      <stage>GEORGETTE, ANSELME, Mad. FRANCŒUR , NICOLAS, Voisins et Voisines.</stage>
@@ -593,7 +589,7 @@
       )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE VI.</head>
      <stage>Les mêmes, LA GRENADE.</stage>
@@ -844,10 +840,10 @@
      <p>J'vas lui dire , c' que vous dites-là.</p>
      <l>Pour qu'y trouv' le vin vraiment bon .</l>
      <l> Y faut qu'y m'prenne pour camarade.</l>
-    <stage xmlns="http://www.tei-c.org/ns/1.0">( Il sort.  )</stage>
+    <stage>( Il sort.  )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE VII.</head>
      <stage>Les mêmes, excepté NICOLAS.</stage>
@@ -909,11 +905,11 @@
     <sp who="#TDP1229_4">
      <speaker>TOUS, répètent.</speaker>
      <l>D'y verser les pleurs etc.</l>
-   <stage xmlns="http://www.tei-c.org/ns/1.0">( On entend
+   <stage>( On entend
       les cris de Nicolas. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE VIII.</head>
      <stage>Les mêmes, NICOLAS.</stage>
@@ -1076,7 +1072,7 @@
      <stage>( Tous sortent. La Grenade reste. )</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE IX.</head>
     
@@ -1100,7 +1096,7 @@
     </sp>
    </div>
   <pb n="20"/>
-   <div>
+   <div type="scene">
     
      <head>SCENE X.</head>
      <stage>LA GRENADE, PAULIN, le Sergent, Gardes.</stage>
@@ -1296,7 +1292,7 @@
      <l> Touch' rait-il ce marqu' d'honneur. ?</l>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE XI</head>
      <stage>Les mêmes , Madame FRANCŒUR, ANSELME, GEORGETTE , NICOLAS , Habitans.</stage>
@@ -1334,7 +1330,7 @@
       maison qui se trouve sur la place. )</stage>
     </sp>
    </div><pb n="24"/>
-   <div>
+   <div type="scene">
     
      <head>SCENE XII.</head>
      <stage>Les mêmes, excepté PAULIN et les Gardes.</stage>
@@ -1420,7 +1416,7 @@
      <stage>(Tous sortent à l'exception de Nicolas.)</stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE XIII.</head>
      <stage>LA GRENADE, NICOLAS.</stage>
@@ -1467,7 +1463,7 @@
     <sp who="#TDP1229_1">
      <speaker>NICOLAS</speaker>
      <stage>faisant retirer la Grenade.</stage>
-     <p>Voyons-le venir.</p></sp></div><div>
+     <p>Voyons-le venir.</p></sp></div><div type="scene">
      <head>SCENE XIV.</head>
      <stage>Les mêmes, DUROCHER.</stage>
      <stage>Cette scène doit être jouée à voix basse sur le devant de la scène )</stage>
@@ -1592,7 +1588,7 @@
       bailli.)</stage>
     </sp>
      </div><pb n="28"/>
-   <div>
+   <div type="scene">
     
      <head>SCENE XV.</head>
      <stage>Les mêmes; PAULIN, GARDES.</stage>
@@ -1626,7 +1622,7 @@
      <stage><stage>( On entend plus près crier, Vive le Roi ! Durocher s'échappe. )</stage></stage>
     </sp>
    </div>
-   <div>
+   <div type="scene">
     
      <head>SCENE XVI</head>
      <stage>TOUS.</stage>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W12">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W12">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -7,11 +6,11 @@
      (Wicks no. 12)</title>
     <author>Ch. Henrion</author>
     <respStmt>
-     <resp>Original transcription by </resp>
+     <resp>HTML version by</resp>
      <name>Angus B. Grieve-Smith</name>
     </respStmt>
     <respStmt>
-     <resp>TEI conversion by </resp>
+     <resp>TEI version by</resp>
      <name>Lou Burnard</name>
     </respStmt>
    </titleStmt>
@@ -20,12 +19,11 @@
      https://github.com/grvsmth/theatredeparis </p>
    </publicationStmt>
    <sourceDesc>
-    <p>Original page images available from <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k56253685">Source gallica.bnf.fr / Bibliothèque nationale de France</ref>
-    </p>
-    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/12labsinthe.html">https://github.com/grvsmth/theatredeparis</ref></p>
+    <p>Original page images available from <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k56253685"/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/12labsinthe.html"/></p>
    </sourceDesc>
   </fileDesc>
-  <revisionDesc>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
    <change when="2023-07-20">Hand edited and checked</change>
    <change when="2023-07-19">Header confected</change>
   </revisionDesc>

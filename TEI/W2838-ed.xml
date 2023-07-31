@@ -1,32 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2838">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2838">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Les tracasseries ou Monsieur et Madame Tatillon: TEI edition (Wicks no. 2838)</title>
     <author>L. E. Picard</author>
     <respStmt>
-     <resp>Original transcription by </resp>
+     <resp>HTML version by</resp>
      <name>Angus B. Grieve-Smith</name>
     </respStmt>
     <respStmt>
-     <resp>TEI conversion by </resp>
+     <resp>TEI version by</resp>
      <name>Lou Burnard</name>
     </respStmt>
    </titleStmt>
    <publicationStmt>
-    <distributor> The Digital Parisian Stage Corpus. GitHub.
-     https://github.com/grvsmth/theatredeparis </distributor>
+    <p>The Digital Parisian Stage Corpus is freely available from a GitHub
+   repository at <ref target="https://github.com/grvsmth/theatredeparis"/></p>
    </publicationStmt>
    <sourceDesc>
-    <p>Original page images downloaded from <ref
-     target="http://www.google.com/books?id=VmoQDS2KV7kC"/>.</p>
-    <p>HTML transcription downloaded from <ref
-     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2838tracasseries.html"
-     >https://github.com/grvsmth/theatredeparis</ref></p>
+    <p>Original page images available from <ref target="http://www.google.com/books?id=VmoQDS2KV7kC"/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2838tracasseries.html"/></p>
    </sourceDesc>
   </fileDesc>
-  <revisionDesc>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
    <change when="2023-07-22">Hand-edited</change>
    <change when="2023-07-20">Header confected</change>
   </revisionDesc>
@@ -61,18 +57,18 @@
    <castList>
     <head> PERSONNAGES. ACTEURS. </head>
 
-    <castItem><role xml:id="TDP2838_3">M. TATILLON.</role><actor>M. Vigny.</actor></castItem>
-    <castItem><role xml:id="TDP2838_11">Mad. TATILLION</role><actor>Mlle Molière.</actor></castItem>
-    <castItem><role xml:id="TDP2838_8">M. GERVAULT, Notaire.</role><actor>M. Picard aîné.</actor></castItem>
-    <castItem><role xml:id="TDP2838_7">Mad. GERVAULT.</role><actor>Mad. Pèlicier.</actor></castItem>
-    <castItem><role xml:id="TDP2838_4">CHARLES, leur Fils.</role><actor>M. Valcour.</actor></castItem>
-    <castItem><role xml:id="TDP2838_9">M. DESJARDINS , Marchand.</role><actor>M. Bosset.</actor></castItem>
-    <castItem><role xml:id="TDP2838_6">Mad. Desjardins.</role><actor>Mad. Molé Légé.</actor></castItem>
-    <castItem><role xml:id="TDP2838_5">CECILE, leur Fille.</role><actor>Mlle. Adeline.</actor></castItem>
-    <castItem><role xml:id="TDP2838_10">M. GRANVILLE, Marchand forain.</role><actor>M. Dorsan.</actor></castItem>
-    <castItem><role xml:id="TDP2838_12">Mad. LAMBERT, Marchande.</role><actor>Mlle. Delisle.</actor></castItem>
-    <castItem><role xml:id="TDP2838_1">THOMAS, Aubergiste</role><actor>M. Picard jeune</actor></castItem>
-    <castItem><role xml:id="TDP2838_2">GABRIEL, Valet de M. Thomas.</role><actor>M. Rousselle.</actor></castItem>
+    <castItem><role n="TDP2838_3">M. TATILLON.</role><actor>M. Vigny.</actor></castItem>
+    <castItem><role n="TDP2838_11">Mad. TATILLION</role><actor>Mlle Molière.</actor></castItem>
+    <castItem><role n="TDP2838_8">M. GERVAULT, Notaire.</role><actor>M. Picard aîné.</actor></castItem>
+    <castItem><role n="TDP2838_7">Mad. GERVAULT.</role><actor>Mad. Pèlicier.</actor></castItem>
+    <castItem><role n="TDP2838_4">CHARLES, leur Fils.</role><actor>M. Valcour.</actor></castItem>
+    <castItem><role n="TDP2838_9">M. DESJARDINS , Marchand.</role><actor>M. Bosset.</actor></castItem>
+    <castItem><role n="TDP2838_6">Mad. Desjardins.</role><actor>Mad. Molé Légé.</actor></castItem>
+    <castItem><role n="TDP2838_5">CECILE, leur Fille.</role><actor>Mlle. Adeline.</actor></castItem>
+    <castItem><role n="TDP2838_10">M. GRANVILLE, Marchand forain.</role><actor>M. Dorsan.</actor></castItem>
+    <castItem><role n="TDP2838_12">Mad. LAMBERT, Marchande.</role><actor>Mlle. Delisle.</actor></castItem>
+    <castItem><role n="TDP2838_1">THOMAS, Aubergiste</role><actor>M. Picard jeune</actor></castItem>
+    <castItem><role n="TDP2838_2">GABRIEL, Valet de M. Thomas.</role><actor>M. Rousselle.</actor></castItem>
     <castItem><role>Un Porteur.</role><actor/></castItem>
 
    </castList>
@@ -87,10 +83,10 @@
     marchand de draps. Plus loin , la maison de M. Gervault, avec cette inscription, Gervault,
     Notaire.</stage>
 
-   <div>
+   <div type="scene">
 
     <head>ACTE PREMIER.</head>
-    <div>
+    <div type="scene">
      <head>SCÈNE PREMIÈRE.</head>
      <stage>GABRIEL, THOMAS.</stage>
      <sp who="#TDP2838_1">
@@ -121,7 +117,7 @@
       <p>Oui, Monsieur</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE II.</head>
      <stage>TATILLON, THOMAS.</stage>
@@ -276,7 +272,7 @@
       <p>Trop honnête.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE III.</head>
      <stage>GABRIEL, THOMAS, TATILLON.</stage>
@@ -292,7 +288,7 @@
       <p>Un très-bon principe qu'il a là, monsieur Thomas !</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE IV.</head>
      <stage>TATILLON, GABRIEL.</stage>
@@ -393,7 +389,7 @@
        est matinal, des jours comme ceux-là...</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE V.</head>
      <stage>TATILLON, GABRIEL, CHARLES.</stage>
@@ -468,7 +464,7 @@
       <pb n="11"/>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE VI.</head>
      <stage>GABRIEL , TATILLON, CHARLES , CÉCILE.</stage>
@@ -518,7 +514,7 @@
       <p>Il fait le vôtre, comment ne me plaîrait-il pas ? Voici ma mère.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE VII.</head>
      <stage>GABRIEL, TATILLON , CHARLES, CÉCILE, Mad. DESJARDINS.</stage>
@@ -554,7 +550,7 @@
       <p>Comment donc ?...</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE VIII.</head>
      <stage>GABRIEL, TATILLON, CHARLES, M. GERVAULT, Mad. GERVAULT , sortant de chez eux, Mad.
@@ -650,7 +646,7 @@
       <p>Tenez , le voilà avec ses filets.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE IX.</head>
      <stage>GABRIEL,TATILLON, CHARLES, M. GERVAULT, Mad. GERVAULT, M. DES JARDINS, Mad. DESJARDINS,
@@ -723,7 +719,7 @@
       <p>C'est un original, mais c'est un bon homme.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE X.</head>
      <stage>CHARLES , Madame GERVAULT, M. GERVAULT, M. DESJARDINS, Madame DES JARDINS,
@@ -794,7 +790,7 @@
       <pb n="17"/>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XI.</head>
      <stage>CHARLES, Mad. GERVAULT, M. GERVAULT, THOMAS , GRANVILLE , M. DESJARDINS , Mad.
@@ -866,7 +862,7 @@
       <p>Tenez , le voilà.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE XII.</head>
      <stage>CHARLES, Mad. GERVAULT , M. GERVAULT, THOMAS , GRANVILLE , M. DESJARDINS , Mad.
@@ -949,7 +945,7 @@
       <pb n="20"/>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XIII.</head>
      <stage>CHARLES , Mad. GERVAULT , M. GERVAULT , THOMAS , GRANVILLE , M. DESJARDINS , Mad.
@@ -1005,7 +1001,7 @@
       <p>A Tantôt, Charles. <stage>( Elle sort. )</stage></p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XIV.</head>
      <stage>THOMAS, GRANVILLE.</stage>
@@ -1040,7 +1036,7 @@
        <stage>( Il sort. )</stage></p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE XV.</head>
      <stage>GABRIEL, GRANVILLE.</stage>
@@ -1070,7 +1066,7 @@
        coucher sous le même toît que M. et Mad. Tatillon.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XVI.</head>
 
@@ -1084,13 +1080,13 @@
     <trailer>fin du premier acte.</trailer>
     <pb n="22"/>
    </div>
-   <div>
+   <div type="scene">
 
     <head>ACTE II.</head>
     <stage>Le Théâtre représente une salle d'auberge où se trouvent quatre chambres , sur lesquelles
      sont des numéros.</stage>
 
-    <div>
+    <div type="scene">
 
      <head>SCENE PREMIÈRE.</head>
      <stage>M. et Mad. TATILLON , GABRIEL.</stage>
@@ -1199,7 +1195,7 @@
       <pb n="24"/>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE II.</head>
      <stage>Les précédens,GARRIEL.</stage>
@@ -1345,7 +1341,7 @@
       <stage>( Il entre dans la chambre avec sa femme. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE III.</head>
 
@@ -1356,7 +1352,7 @@
        Ah ! voici madame Lambert, je crois.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE IV.</head>
      <stage>GABRIEL , Mad. LAMBERT, <stage>( une suivante chargée de cartons et deux que tient
@@ -1396,7 +1392,7 @@
       <p>Votre serviteur, madame. <stage>( Il sort. )</stage></p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE V.</head>
 
@@ -1407,7 +1403,7 @@
        personnages si dangereux qui vous empêchent de loger dans mon auberge ?</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE VI.</head>
      <stage>TATILLON, Mad. LAMBERT.</stage>
@@ -1603,7 +1599,7 @@
        suis votre très-humble servante. <stage>( Elle entre dans sa chambre. )</stage></p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE VII</head>
 
@@ -1615,7 +1611,7 @@
        chercher ce qu'elle me demande , et revenir ici à mon poste.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE VIII.</head>
      <stage>TATILLON, CHARLES.</stage>
@@ -1650,7 +1646,7 @@
        où ils peuvent se rencontrer.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE IX.</head>
      <stage>TATILLON, CHARLES, CÉCILE.</stage>
@@ -1812,7 +1808,7 @@
        sort. )</stage></p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE X.</head>
      <stage>CHARLES, CÉCILE.</stage>
@@ -1863,7 +1859,7 @@
       <p>Ah ! de tout mon cœur.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XI.</head>
      <stage>CHARLES , CÉCILE , Mad. TATILLON , </stage><stage>( des lettres à la main , se plaçant entr'eux.
@@ -1927,7 +1923,7 @@
       <p>C'est délicieux, je connais cela.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XII.</head>
      <stage>CHARLES, Mad. TATILLON, TATILLON, CÉCILE.</stage>
@@ -1964,7 +1960,7 @@
       <stage>( Il sort après avoir posé le bouillon. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XIII.</head>
      <stage>CHARLES, Mad. TATILLON, CÉCILE.</stage>
@@ -2113,7 +2109,7 @@
       <stage>(Elle sort.)</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE XIV.</head>
      <stage>CHARLES Mad. TATILLON.</stage>
@@ -2147,7 +2143,7 @@
       <p>Ce n'est pas une raison pour me tourmenter.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XV</head>
      <stage>CHARLES , Mad. TATILLON, TATILLON.</stage>
@@ -2195,7 +2191,7 @@
       <stage>( Il sort. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE XVI.</head>
      <stage>TATILLON, Madame TATILLON.</stage>
@@ -2302,10 +2298,10 @@
     </div>
     <trailer>Fin du deuxième acte.</trailer>
    </div>
-   <div>
+   <div type="scene">
     <head>ACTE III.</head>
 
-    <div>
+    <div type="scene">
 
      <head>SCENE PREMIÈRE.</head>
      <stage>Mad. DESJARDINS , Mad. TATILLON , Mad. GERVAULT.</stage>
@@ -2570,7 +2566,7 @@
       <p>Il n'y a qu'à décommander le repas, écrire à tous les parens, il est encore tems.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE II.</head>
      <stage>Mad. DESJARDINS, M. DESJARDINS, Mad. TATILLON, Mad. GERVAULT.</stage>
@@ -2598,7 +2594,7 @@
       <pb n="47"/>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE III.</head>
      <stage>Les précédens , hors Mad. GERVAULT.</stage>
@@ -2627,7 +2623,7 @@
        sort. )</stage></p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE IV.</head>
      <stage>Les précédens , hors Mad. TATILLON.</stage>
@@ -2667,7 +2663,7 @@
       <p>Et sans doute tu n'es pas demeurée en reste avec elle ? eh ! bien , vous voilà quittes.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE V.</head>
      <stage>GERVAULT , Mad. DESJARDINS, DESJARDINS.</stage>
@@ -2730,7 +2726,7 @@
       <p>C'est entendu, on fera tout ce que tu voudras, mais raccommode toi avec la voisine.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE VI.</head>
      <stage>GERVAULT, DESJARDINS.</stage>
@@ -2803,7 +2799,7 @@
        l'entends, je crois.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE VII.</head>
      <stage>GERVAULT, TATILLON , DESJARDINS.</stage>
@@ -3225,7 +3221,7 @@
       <p>Amis , jusqu'à ce soir.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE VII.</head>
      <stage>GERVAULT, TATILLON, THOMAS, DESJARDINS.</stage>
@@ -3278,7 +3274,7 @@
       <p>Eh mais ! écoutez donc , écoutez donc monsieur Desjardins.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE IX.</head>
      <stage>Les précédens, hors DESJARDINS.</stage>
@@ -3301,7 +3297,7 @@
       <p>Eh ! mais mon dieu , qu'est-ce que tout cela signifie.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE X.</head>
      <stage>TATILLON, THOMAS.</stage>
@@ -3331,7 +3327,7 @@
        nouvelles.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XI.</head>
      <stage>TATILLON, Mad. TATILLON, THOMAS.</stage>
@@ -3389,7 +3385,7 @@
        mari. )</stage></p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE XII.</head>
 
@@ -3400,7 +3396,7 @@
        le monde en querelle.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE XIII.</head>
      <stage>THOMAS, Mad. LAMBERT.</stage>
@@ -3426,7 +3422,7 @@
       <p>C'est fort heureux.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE XIV.</head>
      <stage>THOMAS , GRANVILLE, Mad. LAMBERT.</stage>
@@ -3558,11 +3554,11 @@
     </div>
     <trailer>Fin du troisième acte.</trailer>
    </div>
-   <div>
+   <div type="scene">
 
     <head>ACTE IV.</head>
 
-    <div>
+    <div type="scene">
 
      <head>SCENE PREMIÈRE.</head>
      <stage>CÉCILE, THOMAS, CHARLES.</stage>
@@ -3596,7 +3592,7 @@
       <pb n="64"/>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE II.</head>
      <stage>CECILE, THOMAS, TATILLON, CHARLES.</stage>
@@ -3657,7 +3653,7 @@
       <pb n="65"/>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE III.</head>
      <stage>Les précédens, hors TATILLON.</stage>
@@ -3688,7 +3684,7 @@
       <p>Point de réflexions , point de faux orgueil.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE IV.</head>
      <stage>CÉCILE, THOMAS, Mad. TATILLON, CHARLES.</stage>
@@ -3764,7 +3760,7 @@
       <p>A merveille, voilà le mari et la femme bien occupés.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE V.</head>
      <stage>Les précédens hors Mad. TATILLON.</stage>
@@ -3831,7 +3827,7 @@
       <pb n="68"/>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE VI.</head>
      <stage>CECILE, Mad. DESJARDINS, THOMAS , Mad. GERVAULT, Mad. LAMBERT, CHARLES.</stage>
@@ -3970,7 +3966,7 @@
       <p>Eh mais! écoutez-donc, c'est que ce monsieur Dorneuil est aussi mon correspondant.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE VII.</head>
      <stage>Les précédens , TATILLON </stage><stage>( se plaçant entre madame Gervault et Thomas.
@@ -4057,7 +4053,7 @@
       <stage>( Il sort avec madame Lambert. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE VIII.</head>
      <stage>CECILE, Mad. DESJARDINS, THOMAS, Mad. GERVAULT, CHARLES.</stage>
@@ -4108,7 +4104,7 @@
        déjà monsieur Desjardins.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE IX.</head>
      <stage>CÉCILE, Mad. DESJARDINS, M. DESJARDINS, GRANVILLE , THOMAS, Mad. GERVAULT,
@@ -4121,7 +4117,7 @@
       <stage>( Il sort. )</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE X.</head>
      <stage>Les précédents, hors GRANVILLE.</stage>
@@ -4182,7 +4178,7 @@
       <p>Eh bien ! liguez-vous à votre tour avec nous, contre Gervault. Je 1'entends.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XI.</head>
      <stage>CÉCILE, Mad. DES JARDINS, M. DES JARDINS , THOMAS , GRANVILLE , M. GERVAULT , Mad.
@@ -4241,7 +4237,7 @@
       <p>Soit : mais que sa femme et lui se modèrent , ou je ne réponds de rien.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XII.</head>
      <stage>Les précédens , Mad. TATILLON se plaçant entre Thomas et Granville.</stage>
@@ -4356,7 +4352,7 @@
        perfide Tatillon.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XIII.</head>
      <stage>Les précédens , hors Mad. TATILLON.</stage>
@@ -4449,7 +4445,7 @@
       <p>Ah ! Cécile.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCÈNE XIV.</head>
      <stage>Les précédens, Mad. LAMBERT ( entre Thomas et Granville. )</stage>
@@ -4477,7 +4473,7 @@
        Tatillon fut jalouse, et tenez, les entendez-vous.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>SCENE XV et dernière.</head>
      <stage>Les précédens, M. et Mad. TATILLON se plaçant entre Thomas et Granville , madame Lambert

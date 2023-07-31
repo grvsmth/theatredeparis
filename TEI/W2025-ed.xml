@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2025">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2025">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -7,24 +6,21 @@
      2025)</title>
     <author/>
     <respStmt>
-     <resp>Original transcription by </resp>
+     <resp>HTML version by</resp>
      <name>Angus B. Grieve-Smith</name>
     </respStmt>
     <respStmt>
-     <resp>TEI conversion by </resp>
+     <resp>TEI version by</resp>
      <name>Lou Burnard</name>
     </respStmt>
    </titleStmt>
    <publicationStmt>
-    <distributor> The Digital Parisian Stage Corpus. GitHub.
-     https://github.com/grvsmth/theatredeparis </distributor>
+    <p>The Digital Parisian Stage Corpus is freely available from a GitHub
+   repository at <ref target="https://github.com/grvsmth/theatredeparis"/></p>
    </publicationStmt>
    <sourceDesc>
-    <p>Original page images downloaded from <ref
-     target="http://www.google.com/books?id=mP1DAAAAcAAJ"/>.</p>
-    <p>HTML transcription downloaded from <ref
-     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2025cook.html"
-     >https://github.com/grvsmth/theatredeparis</ref></p>
+    <p>Original page images available from <ref target="http://www.google.com/books?id=mP1DAAAAcAAJ"/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2025cook.html"/></p>
     <p>See also The Death of Captain Cook : A Grand Serious-Pantomimic-Ballet, In Three Parts ; As now exhibiting in Paris with uncommon Applause with The original French Music, New Scenery, Macinery and other Decorations ; As Performed At The Theatre-Royal. Covent-Garden
      Verleger / Drucker	Cadell, Thomas
      Erschienen	London : Cadell, 1789.     
@@ -32,7 +28,7 @@
      URN	urn:nbn:de:gbv:3:3-53498 </p>
    </sourceDesc>
   </fileDesc>
-  <revisionDesc>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
    <change when="2023-07-21">Hand-edited</change>
    <change when="2023-07-20">Header confected</change>
   </revisionDesc>
@@ -81,7 +77,7 @@
   </front>
   <body>
    <head>LA MORT DU Capitaine cook, PANTOMIME.</head>
-   <div>
+   <div type="scene">
 
     <head>ACTE PREMIER.</head>
     <stage>Le Théâtre représente un site pittoresque de l'Ile d'O-why-e; d'un cdté le Palais de
@@ -89,7 +85,7 @@
      palissade.</stage>
 
 
-    <div>
+    <div type="scene">
 
      <head>I.</head>
      <stage>Il fait à peine jour. Williams sort avec precaution de sa demeure; après s'être assuré
@@ -105,7 +101,7 @@
      <stage>Williams déplore sa triste situation.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>II</head>
      <stage>Larake, souverain de l'île, sort de son palais.</stage>
@@ -171,7 +167,7 @@
        troubler le bonheur de mon fils.</p>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>III.</head>
      <stage>Anua sort du palais : il aperçoit son père, court à lui , et lui demande s'il a instruit
@@ -192,7 +188,7 @@
       <stage>Il embrasse son fils, prend la main de son ami Williams, et sort.</stage>
      </sp>
     </div>
-    <div>
+    <div type="scene">
 
      <head>IV.</head>
      <stage>Jenny arrive ; elle vole dans les bras de sou père. Anua oublie les ordres qu'il a reçus
@@ -218,7 +214,7 @@
       deux se précipitent dans les bras l' un de l'autre, et se jurent amour pour la vie.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>V.</head>
      <stage>Ce premier moment de bonheur est interrompu par l'arrivée du farouche Octoo</stage>
@@ -229,7 +225,7 @@
       à sa bien-aimée.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>VI.</head>
      <stage>Sur un signe d'Octoo, deux Sauvages apportent à Jenny différens présens, tels que des
@@ -240,7 +236,7 @@
       temps de se jeter entre eux.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>VII</head>
      <stage>Larake et Williams arrivent. Quel est leur étonnement, en apercevant Octoo aux prises
@@ -254,7 +250,7 @@
       saura tirer une vengeance éclatante de l'affront qu'il vient d'essuyer.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>VIII.</head>
      <stage>Des sons d'instrumens se font entendre. Les habitans de l'île accourent : ils viennent
@@ -263,7 +259,7 @@
       à la cérémonie qui va fixer leur bonheur.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>IX.</head>
      <stage>Une troupe de jeunes filles sauvages arrivent en dansant, et se rangent en file sur un
@@ -280,7 +276,7 @@
       déposent les deux bouts entre les mains de leurs enfans.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>Divertissement.</head>
      <stage>Après plusieurs danses, les Sauvages font une lutte de force et d'adresse , avec massues
@@ -289,7 +285,7 @@
       parait.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>X.</head>
      <stage>Son arrivée jette le trouble dans l'assemblée.</stage>
@@ -317,7 +313,7 @@
      <stage>Jenny en vain prie pour ce coupable ; on est prêt à frapper.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XI.</head>
      <stage>Des coups de canon se font entendre.</stage>
@@ -332,7 +328,7 @@
      <stage>Il va pour en instruire Larake et rassurer les Sauvages.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XII.</head>
      <stage>Lorsqu'un Insulaire accourt tout effrayé, il annonce au Roi que des Etrangers viennent
@@ -341,7 +337,7 @@
       s'instruire.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XIV.</head>
      <stage>Octoo, resté seul, cherche à briser les liens qui l'attachent.</stage>
@@ -349,7 +345,7 @@
       précaution. N'apercevant personne, il fait ranger sa Troupe en bataille.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XV.</head>
      <stage>Bientôt Cook paroît avec tous ses Officiers.</stage>
@@ -367,7 +363,7 @@
       Troupes.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XVI.</head>
      <stage>Jenny , inquiète de l'absence de son père, paroît avec sa jeune compagne Ina. Toutes
@@ -378,14 +374,14 @@
       l'embrasser malgré elle.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XVII.</head>
      <stage>Lorsque Anua accourt, dégage sa maîtresse, et menace l'Anglais : ils sont prêts à en
       venir aux mains.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XVIII.</head>
      <stage>Cook arrive avec Octoo , et les sépare; mais la présence de cet étranger ne peut calmer
@@ -396,7 +392,7 @@
       lui-même.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XIX.</head>
      <stage>Larake paroît avec ses Insulaires, au moment où Octoo amène les Soldats anglais. Anua
@@ -405,7 +401,7 @@
       Ceux-ci se mettent en défense ; les armes sont levées de part et d'autre ,</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XIX.</head>
      <stage>Lorsque Williams accourt, se jette au milieu des deux partis, et arrête les coups qu'ils
@@ -455,21 +451,21 @@
      <trailer>Fin du premier acte.</trailer>
     </div>
    </div>
-   <div>
+   <div type="scene">
 
     <head>Acte II</head>
     <stage>Le Théâtre représente une partie de l'Ile. Çà et là des cabanes der Sauvages. Dans le
      fond, la mer : le vaisseau du capitaine Cook est à l'ancre.</stage>
 
 
-    <div>
+    <div type="scene">
 
      <head>I</head>
      <stage>Des ouvriers calfentrent le vaisseau, des matelots ployent les voiles, d'autres lavent
       le pont. Des mousses arrangent les cordages.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>II.</head>
      <stage>Plusieurs Anglais arrivent ; ils aperçoivent les habitations des Insulaires ; ils y
@@ -486,14 +482,14 @@
       promène d'un air triomphant.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>IV.</head>
      <stage>Ses camarades arrivent , se moquent de lui. Kirk, pour échapper à leurs plaisanteries,
       prend la fuite : ils le suivent eu l'accablant de huées.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>V.</head>
      <stage>Williams paroit seul et consterné : il dit :</stage>
@@ -508,7 +504,7 @@
      <stage>Williaims veut sortir.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>VI.</head>
      <stage>Cook paroît suivi de Jenny , de Larake et d'Anua.</stage>
@@ -522,7 +518,7 @@
       qu'il a quelque chose à lui communiquer en secret.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>VII.</head>
      <stage>Lorsqu'il sont seuls , Williams lui dit :</stage>
@@ -536,7 +532,7 @@
       fille ne s'aperçoive de rien , son amour pour Anua nous trabiroit. »</p>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>VIII.</head>
      <stage>La musique gaie recommence.</stage>
@@ -551,7 +547,7 @@
      <stage>Cook fait descendre dans la chambre du vaisseau Larake et sa suite.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>IX.</head>
      <stage>Octoo paroît avec précaution. Il ne peut étouffer l'amour qu'il ressent pour Jenny, ni
@@ -562,7 +558,7 @@
       utilement dans l'occasion , et sort.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>X.</head>
      <stage>Tous les Insulaires reparaissent. Les chaloupes ramènent le Roi, qui fait à Cook mille
@@ -573,7 +569,7 @@
       rafraîchissemens.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XI.</head>
      <stage>Les Artificiers apportent des pièces de feux qu'ils placent sur le hord de la mer. Les
@@ -582,7 +578,7 @@
       avec elles.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XII.</head>
      <stage>Octoo reparoît ; il espère profiter du tumulte de là fête pour exécuter son projet
@@ -590,14 +586,14 @@
       nouveau.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XIII.</head>
      <stage>Anua sort de l'habitation de son père ; il est frappé d'un funeste pressentiment. le
       retard qu'a éprouvé son union avec sa chère Jenny, le tourmente.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XIV.</head>
      <stage>Jenny de son coté , s'étant aperçu de l'absence d'Anua, paroît : elle le voit, et court
@@ -605,7 +601,7 @@
       toujours.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XV.</head>
      <stage>Octoo se montre avec ses deux affidés. Il juge le moment favorable et veut en profiter ,
@@ -617,21 +613,21 @@
       Octoo enlève Jenny.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XVI.</head>
      <stage>Cook arrive : mais quel est sa surprise , en voyant sa nièce au pouvoir d'Octoo, qui
       fuit avec sa victime. Il met l'épée à la main et le poursuit.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XVII.</head>
      <stage>Anua revenu du coup qu'il a reçu, se traîne dans la première habitation pour demander da
       secours contre le ravisseur.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XVIII.</head>
      <stage>Cook reparoît, combattant Octoo qui s'acharne après sa proie. Les deux compagnons
@@ -639,13 +635,13 @@
       Malgré l'inégalité du nombre, Cook leur tient tête.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XIX.</head>
      <stage>Anua reparoît, suivi de plusieurs insulaires. Octoo a succombé : Cook le tient sous ses
       pieds. Les autres prenuent la fuite.</stage>
     </div>
-    <div>
+    <div type="scene">
      <head>XX.</head>
      <stage>Tout le monde arrive avec Larake et Williams. On saisit le perfide Octoo. Jenny se
       précipite dans les bras de son père , et court ensuite avec Anua aux pieds de Cook.</stage>
@@ -666,7 +662,7 @@
       la première, les Sauvages ne peuvent en supporter l'éclat, et prennent de nouveau la fuite. Le
       Roi lui-même sort avec son fils.</stage>
     </div>
-    <div>
+    <div type="scene">
      <head>XXI.</head>
      <stage>Cook et son frère veulent profiter de ce moment pour emmener Jenny , et lever l'ancre.
       Cook donne ses ordres à tous les matelots , pour le départ. Il commande un détachement de
@@ -685,7 +681,7 @@
       malgré sa résistance, on l'entraîne.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XXII.</head>
      <stage>Mais ô fâcheux contre - temps ! Anua arrive. Jenny qui l'aperçoit, s'échappe des mains
@@ -697,7 +693,7 @@
       officiers indignés de sa résistance veulent le frapper, mais Williams les arrête.</stage>
 
     </div>
-    <div>
+    <div type="scene">
 
      <head>XXIII.</head>
      <stage>Au même instant le Roi arrive. Quelle est sa surprise, en voyant son fils éprouver un

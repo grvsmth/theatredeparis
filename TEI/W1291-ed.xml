@@ -39,7 +39,9 @@
     <byline>Paroles de M. PLANARD, Musique de M. BOCHSA. </byline>
     <docImprint>A PARIS, Chez VENTE, Libraire, Boulevard des Italiens, 7, près la rue Favart,
      1814.</docImprint>
-   </titlePage>
+   </titlePage>  
+   <pb/>
+   <pb n="3"/>
    <div type="preface">
     <head>A SON ALTESSE ROYALE MONSIEUR, Comte d'Artois.</head>
     <p> Monseigneur, Votre Altesse Royale daigne donc accepter la dédicace de quelques scènes
@@ -54,7 +56,7 @@
      d'écrire sur le même feuillet votre nom et celui de Henri. Je suis avec la plus vive
      reconnaissance et le plus profond respect , MONSEIGNEUR, De Votre Altesse Royale, Le
      très-humble et très-obéissant serviteur, Planard. </p>
-   </div>
+   </div>  <pb n="4"/>
    <castList>
     <head>Personnages. Acteurs.</head>
     <castItem xml:id="TDP1291_1"><role>MICHAU, meunier au village de Lieursain.</role><actor>M.
@@ -71,7 +73,8 @@
    </set>
   </front>
   <body>
-   
+   <pb n="5"/>
+   <head>LES HÉRITIERS MICHAU, OPÉRA-COMIQUE EN UN ACTE.</head>
     <stage>Le Théâtre représente une Chambre rustique propre et la plus gaie possible. Deux fenêtres
      et une porte dans le fond, qui étant ouvertes laissent voir la campagne ou le Jardin de la
      Maison. Une porte à la droite des Acteurs, à la seconde coulisse. Au lever de la toile, on voit
@@ -127,6 +130,7 @@
      <l> Je n'épargnerai pas le vin ,</l>
      <l> C'est bien vous parler clair, je pense.</l>
     </sp>
+    <pb n="6"/>
     <sp who="#TDP1291_2">
      <speaker>Choeur</speaker>
      <l>Il n'épargnera pas le vin !</l>
@@ -191,7 +195,7 @@
       <l> Vive le nom du bon Henri !</l>
      </lg>
     </sp>
-   </div>
+   </div>  <pb n="7"/>
    <div type="scene">
 
     <head>SCENE III. MICHAU, SUZETTE.</head>
@@ -232,8 +236,8 @@
       dévastée , not' biau verger mis à bas, not' vigne arrachée par des brigands qui auraient
       emmené ton pauvre père dans leux caverne, tu s'rais dans la douleur , mon enfant ; mais
       t'aurais toujours queuque petit espoir, parce que tu sais que le Ciel est juste. Chaque jour
-      tu le prierais de te rendre ton père... Eh ! ben, sarpejeu ! tu sais ben qu'on dit : <quote>Le
-      Roi ne meurt jamais en France</quote> ; et en suppliant la Providence.....Allons, v'là que tu
+      tu le prierais de te rendre ton père... Eh ! ben, sarpejeu ! tu sais ben qu'on dit : <hi>Le
+      Roi ne meurt jamais en France</hi> ; et en suppliant la Providence.....Allons, v'là que tu
       pleures.... Veux-tu ben finir?... Ça m'fait pleurer aussi, moi.</p>
     </sp>
     <sp who="#TDP1291_3">
@@ -243,7 +247,7 @@
      <l> Je n'oublierai jamais rien ;</l>
      <l> Oui, oui , je sais vous comprendre ;</l>
      <l> Ah ! mon cœur vous entend bien.</l>
-     <l> Notre maisonnette jolie,</l>
+     <pb n="8"/><l> Notre maisonnette jolie,</l>
      <l> L'air pur et frais de ce pays,</l>
      <l> La vigne bordant la prairie ,</l>
      <l> Et ce verger chargé de fruits,</l>
@@ -310,7 +314,8 @@
     </sp>
     <sp who="#TDP1291_3">
      <speaker>Suzette.</speaker>
-     <p>C'est vrai ; j'aime Colas de très-bonne amiquié. Pardi ! c'est lui qui, quand j'étais toute
+     <p>C'est vrai ; j'aime Colas de très-bonne amiquié. Pardi ! c'est lui
+      <pb n="9"/>qui, quand j'étais toute
       petite, m'a appris l'premier la chanson de <title>Vive Henri Quatre</title> !</p>
     </sp>
     <sp who="#TDP1291_1">
@@ -368,7 +373,7 @@
     <sp who="#TDP1291_3">
      <speaker>Suzette.</speaker>
      <p>Bah!</p>
-    </sp>
+    </sp>  <pb n="10"/>
     <sp who="#TDP1291_1">
      <speaker>Michau</speaker>
      <p>Oui , oui ; j'sis un fin renard, moi : ta tante est encore d'âge à se remarier; alle a du
@@ -424,7 +429,7 @@
       la table où le Roi soupa, la chaise sur laquelle il s'assit, la pinte d'étain qu'il eut en
       main pour verser du vin à notre fille Cateau, et la timballe d'argent dans laquelle il se
       désaltéra; 2o. que ledit anniversaire arrivé, la famille se serve pour son repas desdits
-      ustensiles, et qu'on y chante en chorus <title>Vive Henri Quatre</title> et <title>Charmante
+      <pb n="11"/>ustensiles, et qu'on y chante en chorus <title>Vive Henri Quatre</title> et <title>Charmante
       Gabrielle</title> ; 3o. qu'on n'oublie jamais de boire à la santé du Roi, de ses enfans et
       arrières petits enfans, et permettons même qu'on se grise un petit brin en portant sourent
       cette chère santé. Signé Michau .</p>
@@ -491,7 +496,7 @@
      <speaker>Colas.</speaker>
      <p>J'ai peur.</p>
     </sp>
-    <sp who="#TDP1291_3">
+    <pb n="12"/><sp who="#TDP1291_3">
      <speaker>Suzette.</speaker>
      <p>T'es donc poltron ?</p>
     </sp>
@@ -568,7 +573,7 @@
      <l>Ce matin , comme à l'ordinaire ,</l>
      <l> Notre voisin le gros Armand</l>
      <l> Dans la forêt est allé faire</l>
-     <l> Deux ou trois fagots seulement ;</l>
+     <pb n="13"/> <l> Deux ou trois fagots seulement ;</l>
      <l> Eh bien ! sa pauvre ménagère</l>
      <l> N'l'a pas r'vu depuis ce moment.</l>
     </sp>
@@ -657,7 +662,7 @@
      <speaker>Lubin.</speaker>
      <p>Il est parti ; j'avons eu tort de rire.</p>
     </sp>
-    <sp who="#TDP1291_7">
+    <pb n="14"/><sp who="#TDP1291_7">
      <speaker>Marianne</speaker>
      <stage>( piquée ).</stage>
      <p>Il est si empressé d'épouser sa chère Suzette.</p>
@@ -731,7 +736,7 @@
      <speaker>Marianne.</speaker>
      <p>Hein? Comment dis-tu ça ? Avec Lubin ?</p>
     </sp>
-    <sp who="#TDP1291_3">
+    <pb n="15"/><sp who="#TDP1291_3">
      <speaker>Suzette.</speaker>
      <p>Oui, mon cousin.</p>
     </sp>
@@ -803,7 +808,7 @@
      <p>C'te pauvre enfant !</p>
      <stage>( Elles s'embrassent.)</stage>
     </sp>
-   </div>
+   </div>  <pb n="16"/>
    <div type="scene">
 
     <head>SCENE VIII.</head>
@@ -869,7 +874,7 @@
      <l> De Franc' la plus heureuse fille ,</l>
      <l> Si j'pouvions offrir mes bouquets</l>
      <l> Aux rejetons de sa famille.</l>
-    </sp>
+    </sp>  <pb n="17"/>
     <sp who="#TDP1291_7">
      <speaker>Marianne.</speaker>
      <p>Comme elle est fraîche ta corbeille !</p>
@@ -898,13 +903,13 @@
    </div>
    <div type="scene">
 
-    <head>S C E N E I X.</head>
+    <head>SCENE IX.</head>
     <stage>Les mêmes, Michau</stage>
 
     <sp who="#TDP1291_1">
      <speaker>Michau</speaker>
      <stage>(apportant une gravure encadrée du Portrait de Henri IV.)</stage>
-     <stage>3e. C O U P L E T.</stage>
+     <stage>3e. COUPLET.</stage>
      <l>Voila l'portrait du Roi chéri</l>
      <l> Dont à Paris je fis l'emplette.</l>
      <l> Chaque matin au bon Henri</l>
@@ -938,7 +943,7 @@
      <speaker>Michau.</speaker>
      <p>Pas possible. Ce Colas vous tient bien au cœur, madame ma sœur,</p>
     </sp>
-   </div>
+   </div>  <pb n="18"/>
    <div type="scene">
 
     <head>SCÈNE X.</head>
@@ -1005,7 +1010,7 @@
      <speaker>Marianne.</speaker>
      <p>T'as raison, Sois tranquille; J'arrangerons ça.</p>
     </sp>
-   </div>
+   </div>  <pb n="23"/>
    <div type="scene">
 
     <head>RONDE.</head>
@@ -1064,6 +1069,7 @@
       <l>Prospérité , etc.</l>
      </lg>
     </sp>
+    <pb n="24"/>
     <sp who="#TDP1291_3">
      <speaker>Suzette</speaker>
      <stage>(au Public).</stage>

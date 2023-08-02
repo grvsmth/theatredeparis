@@ -48,7 +48,7 @@
    <castItem><role>M.me VERSEUIL , autre amie de M.me Dirval.</role><actor>M.lle Mars
     ainée.</actor></castItem>
    <castItem><role>FORMONT , frère de M.me Dirval.</role><actor>C.en Fleury.</actor></castItem>
-   <castItem><role>D'HERICOURT , amant de M.me Dirval.</role><actor>C.en Damas.</actor></castItem>
+   <castItem><role>D'Héricourt , amant de M.me Dirval.</role><actor>C.en Damas.</actor></castItem>
    <castItem><role>FLORVEL , fils de M. Morand ,</role><actor>C.en Armand.</actor></castItem>
    <castItem><role>M. BASSET, agioteur.</role><actor>} Société de M. Morand. {</actor></castItem>
    <castItem><role>M.me de VERDIE.</role>}{<actor>M.lle Mars, cadette.</actor></castItem>
@@ -2634,7 +2634,7 @@
      <l>Mais j'aime à la quitter, pour voler près de vous.</l>
     </sp>
     <sp who="#TDP1935_2">
-     <speaker>d'Hericourt , </speaker>
+     <speaker>d'Héricourt , </speaker>
      <stage>bas à Mad. Dirval.</stage>
      <l>Elle se trouve ici fort à propos pour nous.</l>
     </sp>
@@ -2665,7 +2665,7 @@
      <l>Que de beautés ! je crois que le nombre en augmente.</l>
     </sp>
     <sp who="#TDP1935_2">
-     <speaker>d' Hericourt.</speaker>
+     <speaker>d' Héricourt.</speaker>
      <l>Moi je n'en ai vu qu'une.</l>
     </sp>
     <sp who="#TDP1935_1">
@@ -2676,7 +2676,7 @@
      <speaker>d'Héricourt.</speaker>
      <l>Quoi ! tu comprends déjà : c'est être pénétrant.</l>
     </sp>
-    <sp who="#TDP1935_3">
+    <sp who="#TDP1935_5">
      <speaker>Mad. Dirval, </speaker>
      <stage>bas à Mad. Euler.</stage>
      <l>Quelle grâce !</l>
@@ -2870,7 +2870,7 @@
    </div>
    <div type="scene">
     <head>SCENE IX.</head>
-    <stage>Mad. DIRVAL, d'HERICOURT.</stage>
+    <stage>Mad. DIRVAL, d'Héricourt.</stage>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt, .</speaker>
      <stage>en suivant des yeux Mad. Euler.</stage>
@@ -2943,7 +2943,7 @@
      <l>Oui.</l>
     </sp>
     <sp who="#TDP1935_2">
-     <speaker>d'Hericourt , </speaker>
+     <speaker>d'Héricourt , </speaker>
      <stage>à part, et l'observant.</stage>
      <l>Bon ! elle soupire.</l>
     </sp>
@@ -3014,7 +3014,7 @@
       s'arrête. )</stage></l>
     </sp><pb n="47"/>
     <sp who="#TDP1935_2">
-     <speaker>d'Hericourt , </speaker>
+     <speaker>d'Héricourt , </speaker>
      <stage>voyant le frère.</stage>
      <l>Formont ! Nous renouerons cet entretien , j'espère.</l>
     </sp>
@@ -4679,7 +4679,7 @@
      <l>Je souffre !</l>
     </sp>
     <sp who="#TDP1935_2">
-     <speaker>d'Hericourt.</speaker>
+     <speaker>d'Héricourt.</speaker>
      <l>Adieu, madame.</l>
     </sp>
     <sp who="#TDP1935_5">
@@ -5556,7 +5556,7 @@
      <l>Et la belle cousine ?</l>
     </sp>
     <sp who="#TDP1935_1">
-     <speaker>Florval.</speaker>
+     <speaker>Florvel.</speaker>
      <l>Elle me fait pitié ;</l>
      <l> Tout-à-l'heure elle étoit ruinée à moitié.</l>
     </sp>
@@ -6138,7 +6138,7 @@
    </div>
    <div type="scene">
     <head>SCENE IX.</head>
-    <stage>Mad. DIRVAL, D'HERICOURT.</stage>
+    <stage>Mad. DIRVAL, D'Héricourt.</stage>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Enfin, je vous revois,</l>
@@ -6211,7 +6211,7 @@
      <l> Je ne sais quoi m'arrête.</l>
     </sp>
     <sp who="#TDP1935_2">
-     <speaker>d'Hericourt, </speaker>
+     <speaker>d'Héricourt, </speaker>
      <stage>jouant le dépit.</stage>
      <l>Ah! c'est trop hésiter.</l>
      <l> D'un chimérique espoir j'ai donc su me flatter !</l>
@@ -6256,13 +6256,13 @@
      <l>Ciel ! mon frère !</l>
     </sp>
     <sp who="#TDP1935_2">
-     <speaker>d'Hericourt.</speaker>
+     <speaker>d'Héricourt.</speaker>
      <l>Toujours !... <stage>( à part.)</stage> Elle est à moi, n'importe.</l>
     </sp>
    </div>
    <div type="scene">
     <head>Scène X.</head>
-    <stage>Mad. DIRVAL, D'HERICOURT, Formont.</stage>
+    <stage>Mad. DIRVAL, D'Héricourt, Formont.</stage>
     <sp who="#TDP1935_7">
      <speaker>Formont , </speaker>
      <stage>un portefeuille à la main.</stage>
@@ -6369,7 +6369,7 @@
      <l> Mais d'un, qui de tous deux te tient lieu , d'un mari.</l>
     </sp>
     <sp who="#TDP1935_2">
-     <speaker>d'Hericourt.</speaker>
+     <speaker>d'Héricourt.</speaker>
      <l>Ce qu'il a fait , chacun auroit voulu le faire.</l>
     </sp>
     <sp who="#TDP1935_7">
@@ -6407,10 +6407,10 @@
    </div>
    <div type="scene">
     <head>SCENE XI.</head>
-    <stage>FORMONT; D'HERICOURT,</stage>
+    <stage>FORMONT; D'Héricourt,</stage>
     <sp who="#TDP1935_7">
      <speaker>Formont , </speaker>
-     <stage>à d'Hericourt qui sortait.</stage>
+     <stage>à d'Héricourt qui sortait.</stage>
      <l>Un moment. Il faut que jé m'explique avec vous librement,</l>
      <l> Monsieur.</l>
     </sp>
@@ -7466,7 +7466,7 @@
    </div>
    <div type="scene">
     <head>SCENE VIII.</head>
-    <stage>Les Précédens, D'HERICOURT.</stage>
+    <stage>Les Précédens, D'Héricourt.</stage>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt, </speaker>
      <stage>très-ému.</stage>

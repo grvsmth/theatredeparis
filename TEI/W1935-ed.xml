@@ -18,7 +18,7 @@
    repository at <ref target="https://github.com/grvsmth/theatredeparis"/></p>
    </publicationStmt>
    <sourceDesc>
-    <p>Original page images available from <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k849660.pdf"/></p>
+    <p>Original page images available from <ref target="http://www.google.com/books?id=VyBaAAAAcAAJ"/></p>
     <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/1935.tmp"/></p>
    </sourceDesc>
   </fileDesc>
@@ -64,40 +64,41 @@
    <div type="preface">
    <head>AVERTISSEMENT. </head>
    <p>Je ne ferai point une préface pour répondre aux critiques qu'a essuyées ma pièce. Un auteur a
-    toujours mauvaise grâce à défendre son ouvrage <note place="foot">(*) Qu'il me soit permis
-    cependant de réclamer contre l'affectation qu'on mise quelques personnes , à voir dans ma pièce
-    des calembourgs et des jeux de mots D'abord , quand j'en aurais mis quelques-uns dans la bouche
-    de jeunes fats , ce n'eût été qu'un trait de vérité de plus. Eh bien! je ne me le suis permis
-    qu'une fois , ( à la fin de la scène 4.me du 1.er acte ; ) car je proteste contre le prétendu
-    calembourg, de prendre racine, qui serait en effet bien mauvais, mais que je n'ai jamais eu
-    dessein de faire. J'ai employé cette expression , sans malice , comme la Bruyère, en parlant de
-    ce fleuriste , qui vit dans son jardin : « Vous le voyez ( dit-il ) planté , et qui a pris
-    racine au milieu de ses tulipes. » Au reste , j'ai supprimé ce trait , tant l'ombre d'un
-    calembourg me fait peur ! Que de petites critiques semblables il me serait aisé de réfuter !
-    </note>. Je fais mieux, je crois , que de disputer; je corrige, autant que je le puis. Si je me
-    permettais un mot d'apologie , ce serait contre le reproche d'immoralité que l'on a fait à la
-    comédie des <title>Mœurs du Jour</title>, reproche auquel , il faut l'avouer, j'étais loin de
-    m'attendre. Il est vrai que le censeur qui trouve ma pièce immorale, reconnaît en moi la pureté
-    des intentions : c'est quelque chose, au moins. J'espère que les mères de famille me rendront
-    <pb n="ii"/>encore plus de justice. Leur confiance sera la plus douce récompense de mon travail. </p>
+     toujours mauvaise grâce à défendre son ouvrage <note place="foot">(*) Qu'il me soit permis
+     cependant de réclamer contre l'affectation qu'on mise quelques personnes , à voir dans ma pièce
+     des calembourgs et des jeux de mots. D'abord , quand j'en aurois mis quelques-uns dans la
+     bouche de jeunes fats , ce n'eût été qu'un trait de vérité de plus. Eh bien! je ne me le suis
+     permis qu'une fois , ( à la fin de la scène quatrième du premier acte ; ) car je proteste
+     contre le prétendu calembourg, de <hi>prendre racine</hi>, qui seroit en effet bien mauvais,
+     mais que je n'ai jamais eu dessein de faire. J'ai employé cette expression , sans malice ,
+     comme <hi>la Bruyère</hi>, en parlant de ce fleuriste , qui vit dans son jardin : « Vous le
+     voyez ( dit-il ) planté , et qui a pris racine au milieu de ses tulipes. » Au reste , j'ai
+     supprimé ce trait , tant l'ombre d'un calembourg me fait peur ! Que de petites critiques
+     semblables il me seroit aisé de réfuter ! </note>. Je fais mieux, je crois , que de disputer;
+     je corrige, autant que je le puis. Si je me permettois un mot d'apologie , ce seroit contre le
+     reproche d'immoralité que l'on a fait à la comédie des <title>Mœurs du Jour</title>, reproche
+     auquel , il faut l'avouer, j'étois loin de m'attendre. Il est vrai que le censeur qui trouve ma
+     pièce immorale, reconnoît en moi la pureté des intentions : c'est quelque chose, au moins.
+     J'espère que les mères de famille me rendront
+     encore plus de justice. Leur confiance sera la plus douce récompense de mon
+     travail. </p> <pb n="ii"/>
    <p>Saisirai-je cette occasion , pour me plaindre de l'audace avec laquelle on ose , impunément,
     contrefaire les ouvrages d'un auteur , même avant qu'ils soient imprimés ? Mais quoi ! j'ai
     dénoncé , dès le commencement, ce vol manifeste , aux lecteurs délicats ; c'est à la police à
-    faire le reste. On sait que le poëte comique ne poursuit que les coupables que la loi ne peut
+    faire le reste. On sait que le poète comique ne poursuit que les coupables que la loi ne peut
     atteindre. </p>
-   <p>C'est un bien faible désagrément , en comparaison de l'accueil indulgent et aimable que le
-    public a fait à ma pièce. On le calomniait bien légèrement, ce public ; il a prouvé, en cette
-    occasion, qu'il savait apprécier la morale saine et pure, fût-elle un peu sévère , embellie , il
+   <p>C'est un bien foible désagrément , en comparaison de l'accueil indulgent et aimable que le
+    public a fait à ma pièce. On le calomnioit bien légèrement, ce public ; il a prouvé, en cette
+    occasion, qu'il savoit apprécier la morale saine et pure, fût-elle un peu sévère , embellie , il
     est vrai, par le jeu si parfait des acteurs. J'ai reconnu avec délice, que des deux Paris
     décrits dans ma pièce , si l'un est plus brillant , l'autre est bien plus nombreux. </p>
-   <signed>C.H.</signed>
    </div>
   </front>
   <body>
- 
+   <pb n="5"/>
     <head>LES MOEURS DU JOUR, OU L'ECOLE DES JEUNES FEMMES, COMÉDIE.</head>
    <div type="acte">
-    <head>ACTE I.</head>
+    <head>ACTE PREMIER.</head>
 
    <div type="scene">
     <head>SCÈNE PREMIERE.</head>
@@ -139,10 +140,10 @@
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Ta surprise est risible.</l>
-    </sp>
+    </sp><pb n="6"/>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
-     <l>Serait-il jour chez elle ?</l>
+     <l>Seroit-il jour chez elle ?</l>
     </sp>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
@@ -187,7 +188,7 @@
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
      <l>En effet.</l>
-     <l> Le cher Dirval croyait que sa jeune compagne</l>
+     <l> Le cher Dirval croyoit que sa jeune compagne</l>
      <l> L'attendrait tristement au fond d'une campagne ,</l>
      <l> Chez ce frère bourru : mais Sophie , un beau jour,</l>
      <l> Changea contre Paris cet ennuyeux séjour ;</l>
@@ -196,7 +197,7 @@
     </sp>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
-     <l>Eh bien ! de ses progrès si Dirval est surpris ,</l>
+     <l>Hé bien ! de ses progrès si Dirval est surpris ,</l>
      <l> Il devra savoir gré du soin qu'on aura pris</l>
      <l> D'égayer , de former sa femme en son absence.</l>
     </sp>
@@ -215,11 +216,11 @@
      <l> Qui de banque , d'argent, fait son unique affaire,</l>
      <l> Où l'on n'entend parler... intéressant discours !</l>
      <l> Que de hausse et de baisse, et de change et de cours,</l>
-     <l> Elle de tout ce train nullement ne s'occupe.</l>
+     <pb n="è"/><l> Elle de tout ce train nullement ne s'occupe.</l>
     </sp>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
-     <l>Ah ! parbleu ! je le crois : elle serait bien dupe.</l>
+     <l>Ah ! parbleu ! je le crois : elle seroit bien dupe.</l>
     </sp><pb n="4"/>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
@@ -291,7 +292,7 @@
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
      <l>Qui te dit le contraire?</l>
-    </sp>
+    </sp><pb n="8"/>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Alors; rends-toi justice :</l>
@@ -364,7 +365,7 @@
     </sp>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
-     <l>Tu parles du mari ; c'est bien plutôt le frère</l>
+     <l>Tu parles du mari ; c'est bien plutôt le frère</l><pb n="ç"/>
      <l> Qui pourrait nous...</l>
     </sp>
     <sp who="#TDP1935_1">
@@ -435,7 +436,7 @@
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
      <l>Dites donc ; voulez-vous de moi pour écolier ?</l>
-    </sp>
+    </sp><pb n="10"/>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Etourdi ! Vous avez une élève charmante , Madame Euler.</l>
@@ -465,7 +466,7 @@
      <l> Mille dons enchanteurs qu'à l'envie vous citez :</l>
      <l> Sophie a , croyez-moi , bien d'autres qualités ;</l>
      <l> Un cœur pur et sensible , un esprit raisonnable :</l>
-     <l> D'excellens procédés je la connais capable ;</l>
+     <l> D'excellens procédés je la connois capable ;</l>
      <l> Elle mérite enfin la respect , les égards...</l>
     </sp>
     <sp who="#TDP1935_2">
@@ -504,18 +505,18 @@
      <speaker>d'Héricourt.</speaker>
      <l>Voilà ce que j'appelle un de tes privilèges.</l>
      <l> Mais je vous rejoindrai. </l>
-    </sp>
+     <stage>( Il salue Mme Euler , et sort en parlant bas à Florvel. )</stage></sp>
     <sp who="#TDP1935_3">
-     <speaker>Mme Euler</speaker>
+     <speaker>Mme Euler,</speaker><stage>à part</stage>
      <l>Pauvre enfant ! que de pièges !</l>
     </sp>
-   </div>
+   </div><pb n="11"/>
    <div type="scene">
     <head>Scène III.</head>
     <stage>Mme Euler , Florvel.</stage>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
-     <l>Qu'est-ce que d'Héricourt vous disait donc tout bas ,</l>
+     <l>Qu'est-ce que d'Héricourt vous disoit donc tout bas ,</l>
      <l> Madame Euler ?</l>
     </sp>
     <sp who="#TDP1935_3">
@@ -563,7 +564,7 @@
     </sp>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
-     <l>Oui , toujours quelqu'ouvrage !</l>
+     <l>Oui , toujours quelque ouvrage !</l>
      <l> J'admire en vérité cette ardeur , ce courage ,</l>
      <l> Et sur-tout je vous plains.</l>
     </sp>
@@ -583,7 +584,7 @@
      <speaker>Mme Euler</speaker>
      <l>Il est une plus rude tâche ,</l>
      <l> Et c'est de ne rien faire.</l>
-    </sp>
+    </sp><pb n="12"/>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
      <l>Eh ! madame Verseuil</l>
@@ -601,7 +602,7 @@
     </sp>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
-     <l>Je ne saurais entrer ici dans le détail.....</l>
+     <l>Je ne saurois entrer ici dans le détail.....</l>
      <l> Mais si madame Euler veut un jour me permettre</l>
      <l> De lui faire ma cour , j'oserai me promettre.....</l>
     </sp>
@@ -621,32 +622,32 @@
     </sp>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
-     <l>C'est tout simple : en ce cas ... cela serait charmant.</l>
+     <l>C'est tout simple : en ce cas ... cela sera charmant.</l>
     </sp>
     <sp who="#TDP1935_3">
      <speaker>Mme Euler , </speaker>
-     <stage>avec espression.</stage>
+     <stage>avec expression.</stage>
      <l>Vous verrez mon mari.</l>
     </sp>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
      <l>Madame ,... assurément....</l>
-     <l> Je le connais.</l>
+     <l> Je le connois.</l>
     </sp>
     <sp who="#TDP1935_3">
      <speaker>Mme Euler</speaker>
-     <l>Oh ! non , ce n'est pas le connaître.</l>
+     <l>Oh ! non , ce n'est pas le connoître.</l>
      <l> De plus près vous saurez l'apprécier peut-être ;</l>
-     <l> Vous verrez s'il est homme de sens et d'honneur ,</l>
+     <l> Vous verrez s'il est homme et de sens et d'honneur ,</l>
      <l> Et si son amitié suffit à mon bonheur !</l>
     </sp>
     <sp who="#TDP1935_1">
      <speaker>Florvel , un peu déconcerté.</speaker>
-     <l>Je suis persuadé .... mas j'apperçois mon père.</l>
+     <l>Je suis persuadé .... mas j'aperçois mon père.</l>
      <stage>( à part. )</stage>
      <l>En honneur, cette femme est extraordinaire.</l>
     </sp>
-   </div>
+   </div><pb n="13"/>
    <div type="scene">
     <head>SCÈNE IV.</head>
     <stage>Mad. EULER, FLORVEL, M. MORAND.</stage>
@@ -717,7 +718,7 @@
      <l>Non, je ne prévois pas</l>
      <l> Que ce soit là le sort de ma jeune écolière.</l>
      <stage>( D'un ton concentré.)</stage>
-     <l>Elle ne seroit pas cependant la première,</l>
+     <l>Elle ne seroit pas cependant la première,</l><pb n="14"/>
      <l> Qui de talens, acquis dans le sein de plaisirs,</l>
      <l> Riche, se promettent de charmer ses loisirs ;</l>
      <l> Et que plus d'un revers , que telle circonstance ,</l>
@@ -785,7 +786,7 @@
      <speaker>M. Morand.</speaker>
      <l>Ce n'est point l'intérêt qu'en ceci je regarde,</l>
      <l> Et c'est comme une amie enfin que je la garde.</l>
-    </sp>
+    </sp><pb n="15"/>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
      <l>Je l'aime fort aussi: seulement, par malheur,</l>
@@ -858,7 +859,7 @@
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
      <l>Vous en avez.</l>
-    </sp>
+    </sp><pb n="16"/>
     <sp who="#TDP1935_4">
      <speaker>M. Morand.</speaker>
      <l>Non pas pour vos extravagances.</l>
@@ -931,7 +932,7 @@
      <speaker>Florvel, </speaker>
      <stage>à mi- voix.</stage>
      <l>Je vaux bien...</l>
-    </sp>
+    </sp><pb n="17"/>
     <sp who="#TDP1935_4">
      <speaker>M. Morand.</speaker>
      <l>Quoi ? plaît-il?</l>
@@ -1001,6 +1002,7 @@
      <l> N'est-ce pas? Je devine un compliment, d'abord.</l>
      <l> La gaîté , j'en conviens, seule a droit de me plaire;</l>
      <l> Je ne sais pas comment on se met en colère.</l>
+     <pb n="18"/>
      <l> Disputer, quereller! en a-t-on le loisir ?</l>
      <l> C'est autant de larcins que l'on fait au plaisir.</l>
     </sp>
@@ -1086,7 +1088,7 @@
     <sp who="#TDP1935_4">
      <speaker>M. Morand.</speaker>
      <l>Florvel, sonne.</l>
-    </sp>
+    </sp><pb n="19"/>
     <sp who="#TDP1935_1">
      <speaker>Florvel, </speaker>
      <stage>sonnant.</stage>
@@ -1119,7 +1121,7 @@
     <sp who="#TDP1935_6">
      <speaker>Le Domestique.</speaker>
      <l>Celui que monsieur sait,</l>
-     <l> </l>
+     <l> ( A l'oreille. )</l>
      <l>Ce Juif.</l>
     </sp>
     <sp who="#TDP1935_4">
@@ -1168,7 +1170,7 @@
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
      <l>Bon ! elle reviendra : le malheur n'est pas grand.</l>
-    </sp>
+    </sp><pb n="20"/>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Oh ! moi, je suis sensible aux peines qu'elle prend:</l>
@@ -1228,7 +1230,7 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>J'aime ce ton badin.</l>
-     <l> Eh ! mais, qui de vous deux est </l>
+     <l> Eh ! mais, qui de vous deux est <hi>le petit cousin</hi> ?</l>
     </sp>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
@@ -1243,7 +1245,7 @@
      <speaker>Florvel, </speaker>
      <stage>à Formont.</stage>
      <l>Nous parlions de toi.</l>
-    </sp>
+    </sp><pb n="21"/>
     <sp who="#TDP1935_7">
      <speaker>Formont , </speaker>
      <stage>d'un ton toujours un peu brusque, mais naturel et sans impolitesse.</stage>
@@ -1294,7 +1296,7 @@
     </sp>
     <sp who="#TDP1935_4">
      <speaker>M. Morand , </speaker>
-     <stage>retournant un moment.</stage>
+     <stage>se retournant un moment.</stage>
      <l>Ah ! ça , voyons, s'est-on bien promené ,</l>
      <l> Formont? Tu cours , dit-on , depuis six ou sept heures.</l>
     </sp>
@@ -1325,7 +1327,7 @@
      <stage>( Il s'assied. )</stage>
      <l>Très-volontiers, ma chère.</l>
      <l> A ce maudit pavé je ne saurais me faire.</l>
-    </sp>
+    </sp><pb n="22"/>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
      <l>A chaque pas , je gage, il a juré, pesté.</l>
@@ -1352,12 +1354,12 @@
     </sp>
     <sp who="#TDP1935_4">
      <speaker>M. Morand , </speaker>
-     <stage>i'interrompant et se levant.</stage>
+     <stage>s'interrompant et se levant.</stage>
      <l>Il en convient!</l>
     </sp>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
-     <l>J'ai vu ce beau <hi>jardin des plantes</hi>.</l>
+     <l>J'ai vu ce beau jardin des Plantes.</l>
     </sp>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
@@ -1390,7 +1392,7 @@
     </sp>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
-     <l>Je le vois d'ici s'extasier.</l>
+     <l>Je le vois d'ici s'extasier.</l><pb n="23"/>
      <l> Ton spectacle est superbe.</l>
     </sp>
     <sp who="#TDP1935_7">
@@ -1463,8 +1465,8 @@
      <speaker>M. Morand.</speaker>
      <l>Il a ma foi raison; mais on m'attend là-bas.</l>
      <l> Adieu , jasez, courez , moi je vais à la bourse. </l>
-    </sp>
-   </div>
+    </sp><stage>( Il sort. )</stage>
+   </div><pb n="24"/>
    <div type="scene">
     <head>SCENE X.</head>
     <stage>Mad. DIRVAL, FLORVEL, FORMONT.</stage>
@@ -1533,7 +1535,7 @@
      <l> Toujours plaisirs nouveaux qu'à peine on peut saisir ,</l>
      <l> Mais qu'on sait effleurer , car voilà la science .</l>
      <l> Enfin , Paris...</l>
-    </sp>
+    </sp><pb n="25"/>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Paris ! car je perds patience ;</l>
@@ -1595,7 +1597,7 @@
      <stage>avec un air de suffisance.</stage>
      <l>Le cousin sait au moins démêler dans la foule...</l>
      <l> Il a du tact.</l>
-    </sp>
+    </sp><pb n="26"/>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval , </speaker>
      <stage>souriant.</stage>
@@ -1677,7 +1679,7 @@
     <sp who="#TDP1935_1">
      <speaker>Florvel, </speaker>
      <stage>après avoir regardé par la fenêtre qui donne sur la cour.</stage>
-     <l>Excusez si je vous interromps ;</l>
+     <l>Excusez si je vous interromps ;</l><pb n="27"/>
      <l> Mais je vois... Oui, tenez, voici Dorsan , les autres.</l>
     </sp>
     <sp who="#TDP1935_5">
@@ -1751,6 +1753,7 @@
      <l> Voilà le seul motif qui m'a fait entreprendre</l>
      <l> Ce long voyage : allons , je ne m'en repens pas ;</l>
      <l> Je ne regretterai ni mon tems , ni mes pas ;</l>
+     <pb n="28"/>
      <l> Si j'arrache ma sœur à cet essaim folâtre,</l>
      <l> A ce vain tourbillon dont elle est idolâtre;</l>
      <l> Que d'écueils ! de périls ! quel air pour la vertu !</l>
@@ -1812,7 +1815,7 @@
     </sp>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
-     <l>Au moins, madame Euler a bien la préférence.</l>
+     <l>Au moins, madame Euler a bien la préférence.</l><pb n="29"/>
      <l> Sophie, assurément, sait distinguer...</l>
     </sp>
     <sp who="#TDP1935_8">
@@ -1883,7 +1886,7 @@
      <speaker>François.</speaker>
      <l>Il est fâcheux, ma foi ,</l>
      <l> Qu'elle ait quitté vos champs.</l>
-    </sp>
+    </sp><pb n="30"/>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Oui, mais bientôt , je croi,</l>
@@ -1959,7 +1962,7 @@
      <l>Et plus que moi, personne ici ne la respecte.</l>
      <stage>(Il sort.)</stage>
     </sp>
-   </div>
+   </div><pb n="31"/>
    <div type="scene">
     <head>SCENE XIII.</head>
     <sp who="#TDP1935_7">
@@ -1978,7 +1981,7 @@
      <l> D'une sœur qui m'est chère , et d'un époux absent.</l>
      </sp>
    </div>    <trailer>Fin du premier Acte.</trailer>
-   </div>
+   </div><pb n="32"/>
    <div type="scene">
     <head>ACTE SECOND.</head>
   
@@ -2033,15 +2036,15 @@
      <speaker>M. Morand , </speaker>
      <stage>à part.</stage>
      <l>Ce retard me déroute.</l>
-     <l> </l>
+     <stage>( Il regarde a sa montre. ) </stage>
      <l> Deux heures demi-quart ! J'enrage.</l>
-    </sp>
+    </sp><pb n="33"/>
     <sp who="#TDP1935_7">
      <speaker>Formont , </speaker>
      <stage>à part.</stage>
      <l>Avec douceur,</l>
      <l> Il faut que je l'engage à me rendre ma sœur.</l>
-     <l> </l>
+     <stage> ( Haut. ) </stage>
      <l> Ils ne rentrent point.</l>
     </sp>
     <sp who="#TDP1935_4">
@@ -2108,7 +2111,7 @@
      <speaker>M. Morand.</speaker>
      <l>Alors , j'en suis fort aisé :</l>
      <l> Elle est fort bien chez moi, pourvu qu'elle s'y plaise ;</l>
-     <l> Tout le monde est, de même , enchanté de l'y voir;</l>
+     <pb n="34"/><l> Tout le monde est, de même , enchanté de l'y voir;</l>
      <l> Depuis qu'elle est ici, je vois, matin et soir,</l>
      <l> Les trois quarts de Paris : tout renaît, tout respire</l>
      <l> La joie et le plaisir qu'elle aime et qu'elle inspire.</l>
@@ -2176,10 +2179,10 @@
      <l>Non, monsieur, pas encor ;</l>
      <stage>(A M. Morand.)</stage>
      <l>(C'est ce gros court monsieur, qui parle toujours d'or ;</l>
-     <stage>( Bas à Formont. )</stage>
+     <pb n="35"/><stage>( Bas à Formont. )</stage>
      <l>Vous savez bien, qui joue un jeu d'enfer, et triche.</l>
      <l> Si riche !</l>
-     <l> </l>
+     <stage>( Bas à Formont. )</stage><l>Et que j'ai vu laquais d'un ancien riche. </l>
     </sp>
     <sp who="#TDP1935_4">
      <speaker>M. Morand.</speaker>
@@ -2243,7 +2246,7 @@
      <l>A lui-même. Il insiste, il me presse,</l>
      <l> Pour que de votre sœur je hâte les progrès,</l>
      <l> Comme si l'on pouvoit...</l>
-    </sp>
+    </sp><pb n="36"/>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Oui, le suivre à-peu-près,</l>
@@ -2311,7 +2314,7 @@
      <l> Et d'un ami commun lui remis une lettre ;</l>
      <l> Mais, soit froideur, ou bien peur de se compromettre,</l>
      <l> Il me rejeta même assez durement.</l>
-    </sp>
+    </sp><pb n="37"/>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Quoi?</l>
@@ -2371,7 +2374,7 @@
      <l> Votre sœur accepta cette offre bien modeste;</l>
      <l> Mais à condition qu'on y mettrait un prix.</l>
      <l> Je résistais...</l>
-    </sp>
+    </sp><pb n="38"/>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Pourquoi ? Je serais fort surpris</l>
@@ -2440,7 +2443,7 @@
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>O ciel ! eh quoi ! ma sœur?...</l>
-    </sp>
+    </sp><pb n="39"/>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>Ecoutez, je l'accuse :</l>
@@ -2512,7 +2515,7 @@
      <l> Rendoit, je pense ici, le mal moins dangereux.</l>
      <l> Son maintien, ses propos, tout l'éclat de sa vie,</l>
      <l> Dut préserver ma sœur d'une pareille amie.</l>
-    </sp>
+    </sp><pb n="40"/>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>Sophie est jeune , vive, et ne réfléchit pas.</l>
@@ -2576,6 +2579,7 @@
      <l> Va rentrer ; que ferois-je au milieu d'un tel groupe ?</l>
      <l> Lorque la foule enfin aura pu s'écouler,</l>
      <l> Je reverrai ma sœur, car je veux lui parler ,</l>
+     <pb n="41"/>
      <l> Mais lui parler en frère, en ami vrai, fidèle.</l>
     </sp>
     <sp who="#TDP1935_3">
@@ -2643,7 +2647,7 @@
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>Si vous vous amusez, je vous pardonne tout.</l>
-    </sp>
+    </sp><pb n="42"/>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
      <l>Excellente morale ! elle est fort de mon goût.</l>
@@ -2717,11 +2721,11 @@
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Ses chevaux m'ont sauvé : parfois cela m'arrive.</l>
-     <l> </l>
+     <stage>( A Mad. Dirval.)</stage><stage>(Mad. Doirval sourit.) </stage>
      <l>Çà, dussiez-vous trouver mon instance un peu vive,</l>
      <l> Il faut que je vous gronde ; oui, je vois à regret</l>
      <l> Que vous ne songez plus à ce charmant portrait.</l>
-    </sp>
+    </sp><pb n="43"/>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>C'est que madame Euler a paru refroidie...</l>
@@ -2733,7 +2737,7 @@
     </sp>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
-     <l>Soit, mais pour l'achever , un moment suffirait.</l>
+     <l>Soit, mais pour l'achever , un moment suffiroit.</l>
      <l> Je ne vois même pas , s'il faut que je le dise ,</l>
      <l> Ce qui peut lui manquer , je parle avec franchise;</l>
     </sp>
@@ -2768,7 +2772,7 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Pourquoi pas, je vous prie ?</l>
-     <l> Ce portrait, je voudrais l'avoir.</l>
+     <l> Ce portrait, je voudrois l'avoir.</l>
     </sp>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler, </speaker>
@@ -2801,7 +2805,7 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Mais oui.</l>
-    </sp>
+    </sp><pb n="44"/>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Puis, nous serons alors plus solitaires ;</l>
@@ -2873,7 +2877,7 @@
      <l>Allons , je suis content.</l>
      <l> Chère madame Euler ; en cette circonstance,</l>
      <l> Je m'attendois vraiment à plus de résistance.</l>
-    </sp>
+    </sp><pb n="45"/>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>A ce trait de bonté je la reconnois bien !</l>
@@ -2946,7 +2950,7 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Mais votre attachement est-il bien vrai, bien pur ?</l>
-    </sp>
+    </sp><pb n="46"/>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>L'objet qui l'a fait naître en est un garant sûr.</l>
@@ -3008,7 +3012,7 @@
      <stage>de loin.</stage>
      <l>Encore lui ! je suis bien malheureux !, <stage>( Mad. Dirval apperçoit son frère et
       s'arrête. )</stage></l>
-    </sp>
+    </sp><pb n="47"/>
     <sp who="#TDP1935_2">
      <speaker>d'Hericourt , </speaker>
      <stage>voyant le frère.</stage>
@@ -3090,7 +3094,7 @@
      <speaker>Formont.</speaker>
      <l>Ah ! monsieur , ce seroit bien plus dommage encor</l>
      <l> Que Paris , que le monde altérât ce trésor.</l>
-    </sp>
+    </sp><pb n="48"/>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Cela n'est pas possible.</l>
@@ -3120,7 +3124,7 @@
     <sp who="#TDP1935_9">
      <speaker>Mad. Verseuil.</speaker>
      <l>Savez-vous bien qu'on vous cite partout,</l>
-     <l> Pour la beauté , l'esprit, et la mise (I) et le goût?</l>
+     <l> Pour la beauté , l'esprit, et la mise <note place="foot">( I ) Ce mot est à la mode.</note> et le goût?</l>
      <l> C'est à mourir d'envie, ou de plaisir, ma chère.</l>
     </sp>
     <sp who="#TDP1935_7">
@@ -3157,7 +3161,7 @@
      <speaker>Mad. Verseuil.</speaker>
      <l>Ah ! bon, ces deux jours-ci !</l>
      <l> Je ne les ai pas mal employés , dieu merci !</l>
-     <stage>( I ) Ce mot est à la mode.</stage>
+     <pb n="49"/>
      <l>De Mouy, pour signaler sa nouvelle conquête ,</l>
      <l> A voulu nous donner une fête , une fête !...</l>
      <l> Cherchez dans votre esprit, imaginez , rêvez ;</l>
@@ -3233,11 +3237,11 @@
      <l> L'argent de cette fête assurait le bonheur :</l>
      <l> Elle aurait à de Mouy fait encor plus d'honneur.</l>
     </sp>
-    <sp who="#TDP1935_2">
+   <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Mais si l'on s'arrêtoit aux calculs que vous faites,</l>
-     <l> On ne se permettrait...</l>
-    </sp>
+     <l> On ne se permettroit...</l>
+   </sp>   <pb n="50"/>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Que des plaisirs honnêtes.</l>
@@ -3294,7 +3298,7 @@
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Oh ! non, j'ai des desseins moins vastes</l>
-     <l> </l>
+     <stage>( Avec beaucoup d'expression. ) </stage>
      <l> O mon aimable sœur ! va, le ciel m'est témoin,</l>
      <l> Que mon tendre intérêt ne s'étend pas si loin.</l>
     </sp>
@@ -3309,7 +3313,8 @@
     </sp>
     <sp who="#TDP1935_9">
      <speaker>Mad. Verseuil.</speaker>
-     <l>Pour vous-même, ma chère,</l>
+     <l>Pour vous-même, ma chère,</l>   
+     <pb n="51"/>
      <l> Qu'il n'a point invitée.</l>
     </sp>
     <sp who="#TDP1935_2">
@@ -3391,7 +3396,7 @@
     <sp who="#TDP1935_9">
      <speaker>Mad. Verseuil.</speaker>
      <l>Oui.</l>
-    </sp>
+    </sp><pb n="52"/>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>De mon pays, j'espère.</l>
@@ -3446,7 +3451,7 @@
      <l> On n'est blasé sur rien ; c'est par-tout la nature.</l>
      <l> Peut-être que pour vous c'est un monde inconnu ;</l>
      <l> Vous ne me croirez pas ; mais, d'honneur je l'ai vu.</l>
-    </sp>
+    </sp><pb n="53"/>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>D'après cette peinture et ces antiques modes ,</l>
@@ -3461,7 +3466,7 @@
      <l>Il est, d'honneur ! charmant.</l>
      <l> Mais je cours chez votre oncle. Au revoir, mon enfant.</l>
      <l> Quant à Paris , mon cher, puisque vous aimez l'autre,</l>
-     <l> </l>
+     <stage>( A d'Héricourt, en lui offrant son bras. ) </stage><l> Je vous y laisse. Et nous, allons jouir du nôtre. </l>
     </sp>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval , </speaker>
@@ -3513,7 +3518,7 @@
      <l>Es-tu seule un instant ?</l>
      <l> Je te vois entourée , assiégée : et pourtant</l>
      <l> Je suis venu pour toi, pour toi seule , ma chère.</l>
-    </sp>
+    </sp><pb n="54"/>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>J'ai bien eu du plaisir à vous revoir, mon frère.</l>
@@ -3559,7 +3564,7 @@
     </sp>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
-     <l>Lui ? tiens,. je m'en vais parier</l>
+     <l>Lui ? tiens, je m'en vais parier</l>
      <l> Que ses lettres, ma sœur, se seront égarées;</l>
      <l> Sa tendresse, sa foi, j'en réponds, sont sacrées.</l>
      <l> Tu sais comme il t'aima ! tu sais comme il pleuroit</l>
@@ -3584,6 +3589,7 @@
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>De ta société c'est bien la plus aimable.</l>
+     <pb n="55"/>
      <l> A parler franchement, je vois d'un tout autre œil,</l>
      <l> Ton monsieur d'Héricourt, ta madame Verseuil.</l>
     </sp>
@@ -3609,14 +3615,14 @@
      <l> Et je m'occupe ici de tes seuls intérêts.</l>
      <l> Laisse là ce Paris et ses charmes factices ,</l>
      <l> Arrache-toi bien vite à ses fausses délices.</l>
-     <l> Oui, ma chère Sophie , oui, reviens parmi nons ,</l>
+     <l> Oui, ma chère Sophie , oui, reviens parmi nous ,</l>
      <l> Goûter ces plaisirs purs.</l>
     </sp>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Je les crois purs et doux :</l>
      <l> Mais franchement j'ai peur que l'ennui ne m'y gagne.</l>
-     <l> J'aime bien mieux vous voir ici qu'à la campague.</l>
+     <l> J'aime bien mieux vous voir ici qu'à la campagne.</l>
     </sp>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
@@ -3630,7 +3636,7 @@
      <speaker>Formont.</speaker>
      <l>Moi! revenir? Jamais.</l>
      <l> Suis-moi, plutôt ; partons : nos champs te redemandent.</l>
-     <l> Là , mille auausemeus , mille doux jeux t'attendent.</l>
+     <l> Là , mille amusemens , mille doux jeux t'attendent.</l>
     </sp>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
@@ -3650,6 +3656,7 @@
      <speaker>Mad. Dirval.</speaker>
      <l>Oh ! sous le toit champêtre,</l>
      <l> De mon absence un jour on peut se consoler ;</l>
+     <pb n="56"/>
      <l> Mais pour moi, de ces lieux je ne puis m'exiler.</l>
      <l> J'ai goûté de Paris, et j'en suis satisfaite ;</l>
      <l> Il me plaît, me convient, pour Paris je suis faite,</l>
@@ -3670,7 +3677,7 @@
      <stage>après un moment de silence, et d'un ton concentré.</stage>
      <l>Paris vous a déjà fait bien du mal , Sophie !</l>
      <l> Puisse-t-il épargner au moins votre vertu.</l>
-     <l> </l>
+     <stage>( Il va pour sortir. ) </stage>
     </sp>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval , </speaker>
@@ -3680,11 +3687,11 @@
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>J'en ai trop entendu.</l>
-     <l> </l>
+     <stage>( Avec colère et abandon. ) </stage>
      <l>Ensemble, je le vois , nous ne pouvons plus vivre.</l>
      <l> Eh bien! soit, puisqu'aux champs on ne veut point me suivre,</l>
      <l> J'y retournerai seul, c'en est fait, dès demain.</l>
-     <l> je reprends le chemin.</l>
+     <l> Oui, demain du <hi>Vallon</hi> je reprends le chemin.</l>
      <l> J'avois quitté pour toi mes enfans et ma femme ,</l>
      <l> Etres charmans , que j'aime , et de toute mon ame,</l>
      <l> Et que vous chérissiez dès vos plus jeunes ans.</l>
@@ -3721,10 +3728,10 @@
      <speaker>Mad. Dirval.</speaker>
      <l>J'en suis persuadée, et bien reconnoissante.</l>
     </sp>
-   </div>
+   </div><pb n="57"/>
    <div type="scene">
     <head>SCENE XIII.</head>
-    <stage>Les précédées, FRANÇOIS.</stage>
+    <stage>Les précédens, FRANÇOIS.</stage>
     <sp who="#TDP1935_8">
      <speaker>François , </speaker>
      <stage>de loin.</stage>
@@ -3790,10 +3797,11 @@
     <l> Seule , à vingt-deux ans ! non, non, c'est trop exiger.</l>
     <stage>( D'un air léger. )</stage>
     <p>Mais pour cette séance , allons nous arranger.</p>
-    <l/>
+    <stage>( Se retournant du côté par où Formont est sorti. )</stage>
     <l> Car il faut faire un peu de toilette, mon frère ;</l>
     <l> Et puis j'en ai besoin, vraiment, pour me distraire.</l>
    </div>   <trailer>Fin du deuxième acte;</trailer></div>
+   <pb n="58"/>
     <div type="acte">
     <head>ACTE TROISIEME.</head>
    <div type="scene">
@@ -3822,7 +3830,7 @@
     </sp>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
-     <l>II est tout naturel qu'ainsi l'on se prévienne ;</l>
+     <l>Il est tout naturel qu'ainsi l'on se prévienne ;</l>
      <l> Votre vie est bien plus active que la mienne ;</l>
      <l> Toujours quelques plaisirs...</l>
     </sp>
@@ -3843,7 +3851,7 @@
      <l> Cette prévention qu'il a contre Paris,</l>
      <l> Tout le mal qu'il m'a dit de ce séjour que j'aime,</l>
      <l> Et sur-tout son chagrin qui m'afflige moi-même ;</l>
-     <l> Tout cela m'a troublée, et laissé dans le cœur,</l>
+    <pb n="59"/> <l> Tout cela m'a troublée, et laissé dans le cœur,</l>
      <l> Comme vous l'appelez, oui, ce fond de langueur...</l>
     </sp>
     <sp who="#TDP1935_3">
@@ -3909,8 +3917,9 @@
     </sp>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
-     <l>A peine ençor, connoissez-vous de nom .</l>
+     <l>A peine encor, connoissez-vous de nom .</l>
      <l> Ces rendez-vous fameux, ces belles assemblées ,</l>
+     <lb n="60"/>
      <l> De nos jardins publics ces brillantes allées;</l>
      <l> Et cependant, à voir votre sérénité,</l>
      <l> Même il faut l'avouer, votre douce gaîté,</l>
@@ -3970,7 +3979,7 @@
      <l> Sophie, on peut l'avoir, quand on veut, ce me semble ;</l>
      <l> Restez ; nous passerons cette soirée ensemble ;</l>
      <l> Tous quatre, Euler, Formont...</l>
-    </sp>
+    </sp><lb n="61"/>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Eh ! le puis-je ?</l>
@@ -4002,7 +4011,7 @@
     </sp>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
-     <l>Pourquoi ? Dans tout ceci je ne vois acun mal.</l>
+     <l>Pourquoi ? Dans tout ceci je ne vois aucun mal.</l>
     </sp>
    </div>
    <div type="scene">
@@ -4043,7 +4052,7 @@
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>Eh ! oui ; quelque tendre poulet ?</l>
-    </sp>
+    </sp><lb n="62"/>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval , </speaker>
      <stage>lit et sourit. ( à mi-voix. )</stage>
@@ -4089,7 +4098,7 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Ah ! ce commerce-là</l>
-     <l> </l>
+     <stage> ( Lui présentant la lettre. )</stage>
      <l> Est doux, mais innocent. Et lisez ; car voilà</l>
      <l> De vos sévérités comme ici je me venge ;</l>
      <l> Voyez si d'Héricourt n'écrit pas comme un ange !</l>
@@ -4118,7 +4127,7 @@
      <speaker>Mad. Euler.</speaker>
      <l>Je crois votre amitié la plus pure du mondé ;</l>
      <l> Mais je doute très-fort que la sienne y réponde.</l>
-    </sp>
+    </sp><lb n="63"/>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Moi, j'en suis sure.</l>
@@ -4136,7 +4145,7 @@
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>Vous me lé diriez, j'en suis sûre, qu'on craigne</l>
-     <l> Une maman sévère , une sauvage duegne,</l>
+     <l> Une maman sévère , une sauvage duègne,</l>
      <l> Soit. Mais madame Euler ! Une amie, une sœur,</l>
      <l> Qui toujours eut pour vous et tendresse et douceur.</l>
      <l> L'aimez-vous? franchement...</l>
@@ -4170,7 +4179,7 @@
     </sp>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
-     <l>Madame Euler!</l>
+     <l>Madame Euler !</l>
     </sp>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
@@ -4182,7 +4191,7 @@
      <l> Mais aimer un ingrat, peut-être un indiscret !</l>
      <l> Pour prix d'une foiblesse , être encor malheureuse,</l>
      <l> Et n'oser se plaindre ! Ah ! cette idée est affreuse.</l>
-    </sp>
+    </sp><lb n="64"/>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Vous peignez tout, vraiment, sous de noires couleurs.</l>
@@ -4196,7 +4205,7 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Mon cœur vous rend justice.</l>
-     <l> </l>
+     <stage> ( Elle tourne la tête. )</stage>
      <l> Ah ! je le vois.</l>
     </sp>
     <sp who="#TDP1935_3">
@@ -4256,7 +4265,7 @@
      <l>Vous y serez:</l>
      <l> On ne les verra plus, dès que vous paroîtrez.</l>
      <l> Mais le bal ne fait point oublier la séance,</l>
-     <l> J'espère.</l>
+     <lb n="65"/> <l> J'espère.</l>
     </sp>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
@@ -4338,7 +4347,7 @@
      <speaker>d'Héricourt , </speaker>
      <stage>s'éloignant un peu, puis bientôt se rapprochant.</stage>
      <l>Le sentiment , vous dis-je; il électrise l'ame ;</l>
-     <l> Ét l'ame embellit tout. Demandez à madame.</l>
+     <lb n="66"/><l> Ét l'ame embellit tout. Demandez à madame.</l>
     </sp>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler, </speaker>
@@ -4399,7 +4408,7 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Ce monsieur d'Héricourt est vraiment difficile.</l>
-    </sp>
+    </sp><lb n="67"/>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Il ne faut point ici de médiocrité ;</l>
@@ -4435,7 +4444,7 @@
     </sp>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
-     <l>Ban ! des cheveux , ce n'est rien.</l>
+     <l>Bon ! des cheveux , ce n'est rien.</l>
     </sp>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
@@ -4481,7 +4490,7 @@
      <speaker>Mad. Euler, </speaker>
      <stage>qui voit entrer le frère</stage>
      <l><stage>( A part. )</stage> Bon. <stage>(Haut.)</stage> Eh Bien ! tenez.</l>
-    </sp>
+    </sp><lb n="68"/>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Enfin!</l>
@@ -4562,7 +4571,7 @@
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Modeste auteur!</l>
-    </sp>
+    </sp><lb n="69"/>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt , </speaker>
      <stage>à part.</stage>
@@ -4645,9 +4654,9 @@
     </sp>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
-     <l>Eh ! ma sœur , </l>
+     <l>Eh ! ma sœur , <stage>( à d'Héricourt. ) </stage>.</l>
      <l> Ce portrait-là dit tout ; n'est-il pas vrai, monsieur ?</l>
-    </sp>
+    </sp><pb n="70"/>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Oui, vous devez chérir ce gage de tendresse;</l>
@@ -4690,7 +4699,7 @@
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Une affaire imprévue...</l>
-     <l> </l>
+     <stage> ( A Mad. Êuler et à Formont.) </stage>
      <l> M'appelle en ce moment ; pardon... Je vous salue.</l>
      <stage>( Il sort de très-mauvaise humeur. )</stage>
     </sp>
@@ -4719,7 +4728,7 @@
      <speaker>Formont.</speaker>
      <l>Eh ! bon Dieu ! remets-toi,</l>
      <l> Sophie !</l>
-    </sp>
+    </sp><pb n="71"/>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>Oui, jouissez du bonheur qu'il éprouve :</l>
@@ -4792,7 +4801,7 @@
      <speaker>Formont.</speaker>
      <l>Ah ! oui.</l>
      <l> Vous avez donc beaucoup de dîneurs aujourd'hui.</l>
-    </sp>
+    </sp><pb n="72"/>
     <sp who="#TDP1935_8">
      <speaker>François.</speaker>
      <l>Mais comme tous les jours, et c'est une assemblée,</l>
@@ -4864,7 +4873,7 @@
      <speaker>Basset , </speaker>
      <stage>d'un ton brusque et avec l'air ignoble, ( A François. )</stage>
      <l>Annoncez-nous, Basset, mesdames de Verdie, Derbin.</l>
-    </sp>
+    </sp><pb n="73"/>
     <sp who="#TDP1935_8">
      <speaker>François , </speaker>
      <stage>avec un petit air malin.</stage>
@@ -4896,7 +4905,7 @@
     </sp>
     <sp who="#TDP1935_11">
      <speaker>Mad. de Verdie , </speaker>
-     <stage>fixant toujours Formont avea beaucoup d'assurance.</stage>
+     <stage>fixant toujours Formont avec beaucoup d'assurance.</stage>
      <l>Créature</l>
      <l> Charmante ! vous avez beaucoup de sa figure ,</l>
      <l> Monsieur.</l>
@@ -4937,7 +4946,7 @@
      <speaker>Mad. de Verdie.</speaker>
      <l>C'est donc à la campagne,</l>
      <l> Qu'est monsieur?</l>
-    </sp>
+    </sp><pb n="74"/>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Oui, madame.</l>
@@ -4948,7 +4957,7 @@
     </sp>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
-     <l>Près Mortagne.</l>
+     <l>Près Mortague.</l>
     </sp>
     <sp who="#TDP1935_10">
      <speaker>Basset.</speaker>
@@ -4996,7 +5005,7 @@
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l> L'offre est bizarre.</l>
-     <l> </l>
+     <stage> ( haut. )</stage><l> J'en ai ce qu'il m'en faut.</l>
     </sp>
     <sp who="#TDP1935_10">
      <speaker>Basset.</speaker>
@@ -5017,7 +5026,7 @@
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Et surtout plus honnête.</l>
-    </sp>
+    </sp><pb n="75"/>
     <sp who="#TDP1935_10">
      <speaker>Basset.</speaker>
      <l>Il se faut entr'aider.</l>
@@ -5102,7 +5111,7 @@
      <speaker>Formont.</speaker>
      <l>Deux fois ? plaisant caprice !</l>
      <l> Il n'est pas de raison pour que cela finisse.</l>
-     <l> Le divorce, en rompant des liens trop affreux,</l>
+     <pb n="76"/><l> Le divorce, en rompant des liens trop affreux,</l>
      <l> Sauva du désespoir des époux malheureux.</l>
      <l> Ne fît-on que le craindre, il est utile encore :</l>
      <l> Mais qu'on se fasse un jeu, mais qu'on le déshonore ,</l>
@@ -5116,7 +5125,7 @@
     <sp who="#TDP1935_11">
      <speaker>Mad. de Verdie.</speaker>
      <l>Moi, j'aime assez, d'ailleurs, ce ton franc, énergique ,</l>
-     <l> Car il promet... ( </l>
+     <l> Car il promet... <stage>( Elle le fixe toujours. )</stage></l>
     </sp>
    </div>
    <div type="scene">
@@ -5177,7 +5186,7 @@
     <sp who="#TDP1935_4">
      <speaker>M. Morand.</speaker>
      <l>Il perd cela tout comme il l'a gagné.</l>
-    </sp>
+    </sp><pb n="77"/>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Encor, si le joueur étoit seul ruiné !</l>
@@ -5225,9 +5234,9 @@
     <sp who="#TDP1935_10">
      <speaker>Basset.</speaker>
      <l>Diable ! je suis touché...</l>
-     <l> </l>
+     <l> (A part.)</l>
      <l> Allons vite, j'aurai sa terre à bon marché.</l>
-     <l> </l>
+     <stage>(Haut.) </stage>
      <l> Adieu.</l>
     </sp>
     <sp who="#TDP1935_4">
@@ -5251,7 +5260,7 @@
      <l> Il faut que sur ces bons je vous dise deux mots.</l>
      <stage>( Il court sur les pas de Basset. )</stage>
     </sp>
-   </div>
+   </div><pb n="78"/>
    <div type="scene">
     <head>SCENE XIII.</head>
     <stage>Mad. DE VERDIE, FORMONT, Mad. DERBIN.</stage>
@@ -5310,7 +5319,7 @@
      <speaker>Mad. Derbin , </speaker>
      <stage>riant.</stage>
      <l>Oh ! mais , c'est trop plaisant.</l>
-     <l> </l>
+     <stage> ( Elle offre la main à Formont.) </stage>
      <l> Ça, monsieur...</l>
     </sp>
     <sp who="#TDP1935_11">
@@ -5331,8 +5340,8 @@
     <sp who="#TDP1935_12">
      <speaker>Mad. Derbin , </speaker>
      <stage>à Mad. de Verdie.</stage>
-     <l>Venez donc ; ce refus est-il original ? Quel homme !</l>
-    </sp>
+     <l>Venez donc ; ce refus est-il original ? </l><l>Quel homme !</l>
+    </sp><pb n="79"/>
     <sp who="#TDP1935_11">
      <speaker>Mad. de Verdie , </speaker>
      <stage>en se retournant.</stage>
@@ -5353,13 +5362,14 @@
      <l> De proche en proche, ainsi, le mal gagne, circule :</l>
      <l> II menace nos champs, l'avenir même, hélas !</l>
      <l> Mais à quoi sert ma plainte et tous ces vains éclats?</l>
-     <l> Irai-je m'attrister et m'éçhauffer la bile ;</l>
+     <l> Irai-je m'attrister et m'échauffer la bile ;</l>
      <l> Je ne viens pas ici réformer une ville.</l>
      <l> Je ne m'érige point en austère censeur ;</l>
-     <l> Tont ce que je désire est de sauver ma sœur.</l>
-  
+     <l> Tont ce que je désire est de sauver ma sœur.</l> 
     </sp>
-   </div>   <trailer>Fin du troisième acte.</trailer></div><div type="acte">
+   </div>   <trailer>Fin du troisième acte.</trailer></div>
+   <pb n="80"/>
+   <div type="acte">
    
     <head>ACTE QUATRIEME.</head>
    
@@ -5411,7 +5421,7 @@
     <sp who="#TDP1935_9">
      <speaker>Mad. Verseuil.</speaker>
      <l>A son mari,</l>
-     <l> </l>
+     <stage> ( Ironiquement. )</stage>
      <l> Peut-être?.. Oh! oui, Dirval est regretté, chéri!</l>
      <l> Sophie y pense, en parle avec une tendresse !</l>
     </sp>
@@ -5423,7 +5433,7 @@
      <speaker>Mad. Verseuil.</speaker>
      <l>Laissez le faire ; en tout cet homme est singulier :</l>
      <l> Qu'il parle du mari ; vous , faites-le oublier.</l>
-     <l> Allons, cher d'Héricourt, courage : en cette affaire ,</l>
+     <pb n="81"/><l> Allons, cher d'Héricourt, courage : en cette affaire ,</l>
      <l> Voyons qui cédera de l'amant ou du frère,</l>
      <l> Et qui doit l'emporter, ou d'un époux absent,</l>
      <l> Ou d'un jeune homme aimable, assidu , vif, pressant.</l>
@@ -5495,7 +5505,7 @@
      <speaker>Florvel.</speaker>
      <l>Très-naturel, sans doute.</l>
     </sp>
-    <sp who="#TDP1935_2">
+    <pb n="82"/><sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Oh! voilà bien Florvel !</l>
      <l> Il parle pour parler.</l>
@@ -5569,15 +5579,15 @@
      <l>Ça, d'Héricourt, allons nous promener ;</l>
      <l> J'ai mon carrick en bas, et je veux te mener</l>
      <l> A Feydeau.</l>
-    </sp>
+    </sp><pb n="83"/>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>N'est-ce pas le jour de comédie ?</l>
     </sp>
     <sp who="#TDP1935_1">
      <speaker>Florvel.</speaker>
-     <l> nous verrons l'incendie,</l>
-     <l> Un peu de vaudeville , et la fin de </l>
+     <l>Non, de <hi>Lodoïska</hi> nous verrons l'incendie,</l>
+     <l> Un peu de vaudeville , et la fin de <hi>Psyché.</hi></l>
     </sp>
     <sp who="#TDP1935_9">
      <speaker>Mad. Verseuil.</speaker>
@@ -5647,7 +5657,7 @@
      <speaker>M. Morand.</speaker>
      <l>Ma foi... Madame , avec beaucoup moins de folie,</l>
      <l> Et surtout de dépense , elle est aussi jolie.</l>
-    </sp>
+    </sp><pb n="84"/>
     <sp who="#TDP1935_9">
      <speaker>Mad. Verseuil.</speaker>
      <l>Je ne sais que répondre à ce doux compliment.</l>
@@ -5684,7 +5694,7 @@
     <sp who="#TDP1935_9">
      <speaker>Mad. Verseuil.</speaker>
      <l>Allons, je vous pardonne.</l>
-     <l> </l>
+     <stage> ( A part. ) ( Haut. )</stage>
      <l> Il le faut adoucir. Mais peut-être pour rien</l>
      <l> Vous allez m'affliger, et cela n'est bien.</l>
      <l> Eh ! mais, mon cher Morand , c'est bien à vous de craindre !</l>
@@ -5716,7 +5726,7 @@
     <sp who="#TDP1935_4">
      <speaker>M. Morand.</speaker>
      <l>Oui, je me pique un peu.</l>
-     <l> Ah ! vous me ravissez , me charmez, belle dame.</l>
+     <pb n="85"/><l> Ah ! vous me ravissez , me charmez, belle dame.</l>
     </sp>
     <sp who="#TDP1935_9">
      <speaker>Mad. Verseuil.</speaker>
@@ -5768,7 +5778,7 @@
      <speaker>M. Morand.</speaker>
      <l> ) Elle a dessein , je gage,</l>
      <l> De m'emprunter ; sachons détourner pet orâge.</l>
-     <l> </l>
+     <stage> ( Haut. )</stage>
      <l> Je conçois ton chagrin , car j'en éprouve autant.</l>
     </sp>
     <sp who="#TDP1935_9">
@@ -5794,11 +5804,11 @@
      <speaker>Mad. Verseuil.</speaker>
      <l>Monsieur, empruntez, en ce cas ,</l>
      <l> Deux cents louis de plus pour votre aimable nièce.</l>
-    </sp>
+    </sp><pb n="86"/>
     <sp who="#TDP1935_4">
      <speaker>M. Morand.</speaker>
      <l>C'est fort bien plaisanter ; mais cette gentillesse</l>
-     <l> </l>
+     <stage> (A sa nièce.)</stage>
      <l> Ne remédie à rien. Fais comme tu pourras.</l>
      <l> Je vais songer moi-même à sortir d'embarras;</l>
      <stage>( Il sort. )</stage>
@@ -5865,7 +5875,7 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Lui ? c'est le meilleur des hommes,</l>
-     <l> Sensible, généreux ; pourtant je ne sais quoi</l>
+     <pb n="87"/><l> Sensible, généreux ; pourtant je ne sais quoi</l>
      <l> M'arrête, me retient.</l>
     </sp>
     <sp who="#TDP1935_9">
@@ -5948,7 +5958,7 @@
     <sp who="#TDP1935_9">
      <speaker>Mad. Verseuil.</speaker>
      <l>Mais je vois s'avancer la Sagesse ,</l>
-     <l> Tenez, madame Euler vient dans votre détresse,</l>
+     <pb n="88"/><l> Tenez, madame Euler vient dans votre détresse,</l>
      <l> Vous offrir... des conseils ; mais, ma chère Dirval,</l>
      <l> Au sortir du sermon, moi, je vous mène au bal. </l>
     </sp>
@@ -5999,7 +6009,7 @@
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>C'est d'accepter , mais de moi la première ,</l>
-     <l> </l>
+     <stage> ( Elle lui présente une bourse. )</stage>
      <l> Ces quarante louis , qu'avec soin je gardois ,</l>
      <l> Pour quelque grand besoin , que toujours j'attendois,</l>
     </sp>
@@ -6024,7 +6034,7 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Qui, moi ? je rècevrois une somme si forte,</l>
-     <l> D'une amie, indigente elle-même?..</l>
+     <pb n="89"/> <l> D'une amie, indigente elle-même?..</l>
     </sp>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
@@ -6040,7 +6050,7 @@
     </sp>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
-     <l> superflus ;</l>
+     <l>Allons, point de <hi>mais</hi>  superflus ;</l>
      <l> Promettez seulement que vous ne jouerez plus ;</l>
      <l> J'entends un si gros jeu ; car c'est vraiment dommage;</l>
      <l> Sophie, est-ce donc là le plaisir de votre âge?</l>
@@ -6092,11 +6102,11 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Vous me pressez en vain ; je ne puis accepter.</l>
-    </sp>
+    </sp><pb n="90"/>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>Allons, je le vois bien, j'aurais tort d'insister.</l>
-     <l> </l>
+     <stage> ( Elle revient sur ses pas. )</stage>
      <l> Ma Sophie , écoutez ; j'ai plus d'expérience ;</l>
      <l> On pourrait abuser de votre confiance.</l>
      <l> Il est bien peu d'âmis qui sachent obliger ;</l>
@@ -6155,6 +6165,7 @@
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>On est jaloux de tout, madame , quand on aime ;</l>
+     <pb n="91"/>
      <l> Et si , de ce larcin vous souffrîtes vous-même,</l>
      <l> Vous me devez un peu de consolation ;</l>
      <l> Et j'en vais à l'instant saisir l'occasion,</l>
@@ -6221,7 +6232,7 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Ah ! dieu ! je ne saurais supporter cès reproches ;</l>
-     <l> Eh bien, je vous promets de m'adresser à vous ,</l>
+    <pb n="92"/> <l> Eh bien, je vous promets de m'adresser à vous ,</l>
      <l> Après cela , croyez !...</l>
     </sp>
     <sp who="#TDP1935_2">
@@ -6246,8 +6257,7 @@
     </sp>
     <sp who="#TDP1935_2">
      <speaker>d'Hericourt.</speaker>
-     <l>Toujours !... </l>
-     <l> Elle est à moi, n'importe.</l>
+     <l>Toujours !... <stage>( à part.)</stage> Elle est à moi, n'importe.</l>
     </sp>
    </div>
    <div type="scene">
@@ -6302,7 +6312,7 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Déjà?</l>
-    </sp>
+    </sp><pb n="93"/>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Il étoit fort pressé, moi j'ai donné quittance,</l>
@@ -6377,9 +6387,10 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Ah ! je comprends, je vois.</l>
-     <l> </l>
+     <stage> (Elle serre avec expression la main de son frère,
+      et se disposant à sortir, elle salue d'Héricourt.)</stage>
      <l> Monsieur , au fond du cœur , croyez que j'apprécie....</l>
-    </sp>
+    </sp><pb n="94"/>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Madame....</l>
@@ -6450,6 +6461,7 @@
      <l> Simple en mes actions, et franc dans mon langage ,</l>
      <l> Je vous donne l'exemple ; imitez-moi, monsieur.</l>
      <l> Si je ne vous voyais prodiguer à ma sœur</l>
+     <pb n="95"/>
      <l> Que ces hommages vains et légers et futiles,</l>
      <l> Je vous épargnerais des plaintes inutiles ;</l>
      <l> Mais est-ce bien cela dont il est question?</l>
@@ -6507,7 +6519,7 @@
      <l> Contre vous, son ami, si délicat, si tendre;</l>
      <l> Vous , dans tout autre cas , généreux , plein d'honneur.</l>
      <l> Vous voudriez troubler , détruire son bonheur?</l>
-     <l> C'est le sort qui l'attend : pour avoir su vous plaire,</l>
+     <pb n="96"/><l> C'est le sort qui l'attend : pour avoir su vous plaire,</l>
      <l> Trop crédule, elle aurait recueilli pour salaire,</l>
      <l> L'abandon, le mépris, des regrets éternels,</l>
      <l> Car ce sont là vos jeux , à vous tous; jeux cruels !</l>
@@ -6568,7 +6580,7 @@
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>Qh ! s'il m'étoit possible !</l>
-     <l> Comme j'irois, malgré mon dégoût invincible !</l>
+     <pb n="97"/> <l> Comme j'irois, malgré mon dégoût invincible !</l>
      <l> Telle que je suis même !...</l>
     </sp>
     <sp who="#TDP1935_7">
@@ -6634,7 +6646,7 @@
     <sp who="#TDP1935_8">
      <speaker>François.</speaker>
      <l>Cours! Où courir? au bal?</l>
-    </sp>
+    </sp><pb n="98"/>
     <sp who="#TDP1935_13">
      <speaker>Dirval.</speaker>
      <l>Comment! que viens-tu dire?</l>
@@ -6698,7 +6710,7 @@
     </sp>
     <sp who="#TDP1935_8">
      <speaker>François.</speaker>
-     <l>Oui ; mais on ignorait...Nous avions peur.. Pardon.</l>
+     <l>Oui ; mais on ignoroit...Nous avions peur.. Pardon.</l>
      <l> Puis la guerre...</l>
     </sp>
     <sp who="#TDP1935_13">
@@ -6715,7 +6727,7 @@
     <sp who="#TDP1935_13">
      <speaker>Dirval.</speaker>
      <l>Quelle course!</l>
-    </sp>
+    </sp><pb n="99"/>
     <sp who="#TDP1935_8">
      <speaker>François.</speaker>
      <l>Hai ! chacun à la sienne :</l>
@@ -6789,7 +6801,7 @@
      <speaker>Formont , </speaker>
      <stage>( à part. )</stage>
      <l>Eh ! oui. Précisément !</l>
-    </sp>
+    </sp><pb n="100"/>
     <sp who="#TDP1935_13">
      <speaker>Dirval.</speaker>
      <l>Parbleu ! c'est bien dommage. Etre au bal au moment..</l>
@@ -6805,7 +6817,7 @@
     </sp>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
-     <l> Heureux encore d'être là !</l>
+     <l>Mais en effet. <stage>(A part.)</stage> Heureux encore d'être là !</l>
      <l> Je partais.</l>
     </sp>
     <sp who="#TDP1935_13">
@@ -6871,7 +6883,7 @@
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Rien. Ma joie est aussi vive</l>
-     <l> Que ma tendresse...</l>
+    <pb n="101"/> <l> Que ma tendresse...</l>
     </sp>
     <sp who="#TDP1935_13">
      <speaker>Dirval.</speaker>
@@ -6951,7 +6963,7 @@
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>D'accord.</l>
-    </sp>
+    </sp> <pb n="102"/>
     <sp who="#TDP1935_13">
      <speaker>Dirval.</speaker>
      <l>Je sais très-bien qu'un tel scrupule est rare.</l>
@@ -7019,7 +7031,7 @@
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
      <l>Ah ! oui, de tout mon coeur. Je me sens attendri...</l>
-    </sp>
+    </sp> <pb n="103"/>
     <sp who="#TDP1935_13">
      <speaker>Dirval.</speaker>
      <l>C'est que je ne suis pas simplement un mari , </l>
@@ -7036,12 +7048,12 @@
      <l>O digne , excellent homme ! et que dans nos foyers</l>
      <l> Puissent nous revenir ainsi tous nos guerriers !</l>
      <l> Va, tu mérites bien, ami loyal et tendre!....</l>
-     <l> Mais chut, quelqu'un approche. ( </l>
+     <l> Mais chut, quelqu'un approche. <stage>( Ils se tiennent à l' écart. )</stage></l>
     </sp>
    </div>
    <div type="scene">
     <head>SCENE IV.</head>
-    <stage>FORMONT, DIRVAL, Mad. EULER, <stage>un bougeoir à la main.</stage></stage>
+    <stage>FORMONT, DIRVAL, Mad. EULER, un bougeoir à la main.</stage>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>Il me sembloit entendre...</l>
@@ -7091,7 +7103,7 @@
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>Vous mettez trop de prix...</l>
-    </sp>
+    </sp><pb n="104"/>
     <sp who="#TDP1935_13">
      <speaker>Dirval.</speaker>
      <l>Je ne rends qu'à demi</l>
@@ -7173,7 +7185,7 @@
      <speaker>Formont , </speaker>
      <stage>lui avançant un siège.</stage>
      <l>Assieds-toi.</l>
-    </sp>
+    </sp><pb n="105"/>
     <sp who="#TDP1935_13">
      <speaker>Dirval.</speaker>
      <l>Non , debout, comme on mangé à l'armée.</l>
@@ -7208,8 +7220,7 @@
     <sp who="#TDP1935_13">
      <speaker>Dirval.</speaker>
      <l>J'aime bien mon métier ; mais je bénis la paix.</l>
-     <l> « Dirval. »</l>
-     <l> Voilà ma lettre écrite et cachetée.</l>
+     <l> « Dirval. » Voilà ma lettre écrite et cachetée.</l>
     </sp>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
@@ -7248,7 +7259,7 @@
      <l> Et qu'un moment encore il retienne Dirval.</l>
      <stage>(Elle sort.)</stage>
     </sp>
-   </div>
+   </div><pb n="106"/>
    <div type="scene">
     <head>SCENE VI.</head>
     <stage>Mad. DIRVAL, FLORVEL.</stage>
@@ -7288,7 +7299,7 @@
      <speaker>Florvel.</speaker>
      <l>Non, c'est qu'il croit, sur mon ame,</l>
      <l> Qu'il n'a qu'a se montrer pour séduire une femme;</l>
-     <l> ! c'est le mot ; car, cousine , entre nous,</l>
+     <l> <emph>Séduire</emph> ! c'est le mot ; car, cousine , entre nous,</l>
      <l> Je connois l'homme; il semble être amoureux de vous,</l>
      <l> Et n'aime que lui seul; oui, le diable m'emporte,</l>
      <l> S'il n'a déshonoré vingt femmes de la sorte !</l>
@@ -7317,7 +7328,7 @@
      <l> Encore un coup, je suis trop heureux, je vous jure ;</l>
      <l> Madame , d'avoir pu vous rendre quelques soins,</l>
      <l> Et vous prouver... car moi je vous aime du moins</l>
-     <l> Et je fais excuser par l'amour le plus tendre...</l>
+     <pb n="107"/><l> Et je fais excuser par l'amour le plus tendre...</l>
     </sp>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
@@ -7393,7 +7404,7 @@
      <l>Hélas ! si vous saviez tout ce que j'ai souffert,</l>
      <l> Quels périls j'ai courus, peut-être, en votre absence,</l>
      <l> Pendant que vous dormiez au sein de l'innocence.</l>
-    </sp>
+    </sp><pb n="108"/>
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>Ah ! je ne dormois pas ; moi-même je souffrois !</l>
@@ -7473,7 +7484,7 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Comment?</l>
-    </sp>
+    </sp><pb n="109"/>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
      <l>Personne ici ne m'a vu , mais , n'importe.</l>
@@ -7533,12 +7544,12 @@
      <l> Au gré de vos penchans, vous vous jouez, mesdames;</l>
      <l> Vous ne cherchez qu'à plaire, à régner sur nos ames ;</l>
      <l> Et vous n'êtes que trop sûres de votre fait ;</l>
-     <l> Mais s'agit-il d'aimer, de sentir en effet.</l>
+     <l> Mais s'agit-il d'aimer, de sentir en effet...</l>
     </sp>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
      <l>Vous m'offensez , monsieur ; je pus être indiscrette;</l>
-     <l> Mais je ne fus jamais ni fausse, ni coquette.</l>
+     <pb n="110"/> <l> Mais je ne fus jamais ni fausse, ni coquette.</l>
     </sp>
     <sp who="#TDP1935_2">
      <speaker>d'Héricourt.</speaker>
@@ -7620,7 +7631,7 @@
     <sp who="#TDP1935_3">
      <speaker>Mad. Euler.</speaker>
      <l>De tels adieux, ma chère</l>
-     <l> Vous prouvent s'il aimoit d'un amour bien sincère.</l>
+     <pb n="111"/><l> Vous prouvent s'il aimoit d'un amour bien sincère.</l>
     </sp>
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval.</speaker>
@@ -7642,8 +7653,8 @@
     <sp who="#TDP1935_5">
      <speaker>Mad. Dirval, </speaker>
      <stage>lisant.</stage>
-     <l>O ma Sophie ! « ainsi toujours il m'appelait ; »</l>
-     <l> Il me semble l'entendre, alors qu'il me parlait.</l>
+     <l>O ma Sophie ! « ainsi toujours il m'appeloit ; »</l>
+     <l> Il me semble l'entendre, alors qu'il me parloit.</l>
     </sp>
    </div>
    <div type="scene"><pb n="169"/>
@@ -7706,7 +7717,7 @@
      <speaker>Mad. Euler , </speaker>
      <stage>vivement.</stage>
      <l>Eh ! oui, des peines de l'absence.</l>
-    </sp>
+    </sp><pb n="112"/>
     <sp who="#TDP1935_13">
      <speaker>Dirval , </speaker>
      <stage>à Mad. Euler et à Formont.</stage>
@@ -7729,7 +7740,7 @@
      <speaker>Dirval.</speaker>
      <l>Prenons le tems, au moins, de faire nos adieux</l>
      <l> A mon oncle ; ses soins, son accueil gracieux,</l>
-     <l> Méritent de ma part quelque reconnoissaàce.</l>
+     <l> Méritent de ma part quelque reconnoissance.</l>
     </sp>
     <sp who="#TDP1935_7">
      <speaker>Formont.</speaker>
@@ -7783,7 +7794,6 @@
      <l> Mais que c'est encor là le chemin du bonheur.</l>
     </sp>
     <trailer>F I N.</trailer></div></div>     
-   <trailer>De l'imprimerie de Migneret, rue Jacob, N.o 1186.</trailer>
   </body>
  </text>
 </TEI>

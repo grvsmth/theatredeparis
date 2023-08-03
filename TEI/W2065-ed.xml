@@ -97,7 +97,7 @@
     <stage>LES PRÉCÉDENS, NITOUCHE, entre doucement du fond, avec un balai, et reste derrière à
      écouter , en faisant semblant de balayer et d'épouster, sans être vue d'abord.</stage>
 
-    <sp who="#TDP2065_1 (4)">
+    <sp who="#TDP2065_1">
      <speaker>Roguignard, </speaker>
      <stage>continuant sans la voir.</stage>
      <p>Vous savez que mon ancien ami , M. Pillegrain , ce riche fermier d'Argenteuil, est mort
@@ -146,7 +146,7 @@
       qu'il n'a aucune connaissance du testament de son père, et qu'il croira tenir de moi seul tout
       à-la-fois une épouse aimable et trente mille francs pour sa dot.</p>
     </sp>
-    <sp who="#TDP2065_2 ( 5 )">
+    <sp who="#TDP2065_2">
      <speaker>Mlle. ROGUIGNARD.</speaker>
      <p>C'est très-bien l'entendre.</p>
      <pb n="( 5 )"/>
@@ -203,7 +203,7 @@
      <p>Je vous l'ai déjà dit la première , et vous êtes trop bon de la garder ici. C'est une sainte
       Nitouche , comme je l'ai batisée , dont nous n'aurons que du désagrément.</p>
     </sp>
-    <sp who="#TDP2065_1 ( 6 )">
+    <sp who="#TDP2065_1">
      <speaker>Roguignard.</speaker>
      <p>Oh ! j'y mettrai ordre bientôt. Je la garde encore parce que j'en ai besoin jusqu'au mariage
       de ma fille ; mais après? je la renverrai à son village. Revenons à vous ? ma sœur. Je voulais
@@ -250,7 +250,7 @@ leuse et si impérieuse... car je crois qu'elle tient de tous plus que de moi , 
      <p>Grand merci de votre conseil , j'en profiterai peut-être ; mais on vous aviserait en vain
       d'avoir de la discrétion et de l'honnêteté, on y perdrait son tems.</p>
     </sp>
-    <sp who="#TDP2065_1 ( 7 )">
+    <sp who="#TDP2065_1">
      <speaker>Roguignard , .</speaker>
      <stage>riant</stage>
      <p>Eh bien , quitte de politesses , ma bonne sœur , ne nous fâchons pas, et reprenons notre
@@ -303,7 +303,7 @@ leuse et si impérieuse... car je crois qu'elle tient de tous plus que de moi , 
      <stage>derrière, bas</stage>
      <p>Eh mais, dame ! j'en suis aussi , moi, malgré qu'ils ne veulent pas m'appeller cousine !</p>
     </sp>
-    <sp who="#TDP2065_2 (8)">
+    <sp who="#TDP2065_2">
      <speaker>Mlle. Roguignard.</speaker>
      <p>En dépit des yeux de mon frère, qui me voyent de travers, on peut encore , sans doute ,
       paraître agréable à ceux d'un autre.</p>
@@ -408,7 +408,7 @@ leuse et si impérieuse... car je crois qu'elle tient de tous plus que de moi , 
       un homme de la campagne , ne manquez pas de venir m'avertir tout de suite.</p>
      <stage>( elle s'en va. )</stage>
     </sp>
-    <sp who="#TDP2065_3 ( 10 )">
+    <sp who="#TDP2065_3">
      <speaker>Nitouche, </speaker>
      <stage>la saluant</stage>
      <p>Oui , ma cous.....</p>
@@ -448,7 +448,7 @@ leuse et si impérieuse... car je crois qu'elle tient de tous plus que de moi , 
 
     <head>SCENE VII.</head>
 
-    <sp who="#TDP2065_4 ( 11 )">
+    <sp who="#TDP2065_4">
      <speaker>GUIGNOLET, .</speaker>
      <stage>vient par le côté de la rue, il a un habit de paysan, et en demi-deuil; un grand chapeau
       , des guêtres , un bâton à la main y et une gourde en bandoullière</stage>
@@ -491,7 +491,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <p>Eh mais , voilà quelqu'un ! serait-ce lui déjà ? <stage>( elle avance à lui )</stage></p>
      <p>Que demandez-vous ici, monsieur ?</p>
     </sp>
-    <sp who="#TDP2065_4 ( 12 )">
+    <sp who="#TDP2065_4">
      <speaker>Guignolet, </speaker>
      <stage>sans la saluer.</stage>
      <p>Ne vous dérangez pas , madame, ni nous non pus. Vous-cherchez apparemment M. Craquignard ,
@@ -532,7 +532,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <p>Mon cher enfant, vous en méritez beaucoup , et je suis enchantée de pouvoir vous annoncer
       que je veux faire votre fortune, et je le peux , si vous le voulez.</p>
     </sp>
-    <sp who="#TDP2065_4 ( 13 )">
+    <sp who="#TDP2065_4">
      <speaker>Guignolet, .</speaker>
      <stage>vivement</stage>
      <p>Si je le voulons ! ah, ma chère bonne dame ! je le voulons sûrement encore, pusque vous ne
@@ -591,7 +591,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <speaker>Mlle. ROGUIGNARD.</speaker>
      <p>Oui, mais c'est qu'il y a une condition pour cela.</p>
     </sp>
-    <sp who="#TDP2065_4 ( 14 )">
+    <sp who="#TDP2065_4">
      <speaker>Guignolet.</speaker>
      <p>Quien ! des conditions astheure ! et vous nous disiez avant que ce n'était qu'une
       parole.</p>
@@ -644,7 +644,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <stage>piquée</stage>
      <p>Pourquoi donc, M. Guignolet ? est-ce que ma personne vous répugnerait, par hasard ?</p>
     </sp>
-    <sp who="#TDP2065_4 ( 15 )">
+    <sp who="#TDP2065_4">
      <speaker>Guignolet.</speaker>
      <p>Eh ! mon dieu , madame, queuque vous dittes donc là , rapugnerait !... Comment que ça se
       pourrait-ti , pisque je ne comprenons tant seulement pas ce mot-là..</p>
@@ -693,7 +693,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       )</stage> C'est que je serions putôt débarrassé d'elle ; ét, avec son argent, j'en
       retrouverions une pus jeune.</p>
     </sp>
-    <sp who="#TDP2065_2 ( 16 )">
+    <sp who="#TDP2065_2">
      <speaker>Mlle. Roguignard, .</speaker>
      <stage>agréablement</stage>
      <p>Dailleurs , croyez que les bonnes façons que j'aurai pour vous ne vous laisserons pas
@@ -754,7 +754,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <p>Oui, vous êtes si délicat, que c'est tout ce qui vous flatte le plus.... Eh ! quel gage
       allez-vous me donner de votre promesse ?</p>
     </sp>
-    <sp who="#TDP2065_4 ( 17 )">
+    <sp who="#TDP2065_4">
      <speaker>Guignolet.</speaker>
      <p>Ma fine , je n'avons ni or, ni bijoux. Je n'avons pour tout meubes que mon sauvageon d'épine
       que v'la, et pis ma gourde où ce que j'avons mis une goutte en partant de cheux<pb n="( 17 )"/> nous , et pis encore une tabattière de corne à votre service, choisissez dans tout ça ,
@@ -806,7 +806,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <speaker>Guignolet.</speaker>
      <p>Ça suffit, madame , je vous attendrons.</p>
     </sp>
-    <sp who="#TDP2065_2 ( 18 )">
+    <sp who="#TDP2065_2">
      <speaker>Mlle. Roguignard, .</speaker>
      <stage>tendrement</stage>
      <p>Je ne voue laisserai pas languir. Sans adieu , mon aima-<pb n="( 18 )"/> ble futur. Tenez, prenez un à-compte sur mes bontés. <stage>( Elle lui présente sa main.
@@ -835,7 +835,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
 
     <head>SCENE IX.</head>
 
-    <sp who="#TDP2065_4 ( 19 )">
+    <sp who="#TDP2065_4">
      <speaker>GUIGNOLET, .</speaker>
      <stage>seul</stage>
      <p>Vlà un à-compte qui ne garnira pas note poche ; mais j'ons consenti à ste première faveur-là
@@ -897,7 +897,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <speaker>Guignolet.</speaker>
      <p>Ah! maîtresse de maison !... après les autres, quoique ça.</p>
     </sp>
-    <sp who="#TDP2065_5 ( 20 )">
+    <sp who="#TDP2065_5">
      <speaker>Julie, .</speaker>
      <stage>piquée</stage>
      <p>Après les autres !... et qui donc , outre mon père , à la primauté ici sur moi ?</p>
@@ -946,7 +946,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       le droit de parler encore ben mieux que ça à la fille de M. Craquignard, qu'est la gnièce de
       sa tante.</p>
     </sp>
-    <sp who="#TDP2065_5 ( 21 )">
+    <sp who="#TDP2065_5">
      <speaker>Julie, .</speaker>
      <stage>en colère</stage>
      <p>Oh ! je ne saurais tenir à tant d'insolence ! Apprenez, mal avisé et brutal campagnard que
@@ -1001,7 +1001,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       je vous en faisons note compliment. Pourquoi t'est-ce donc que vous nous avez écrit de
       venir.</p>
     </sp>
-    <sp who="#TDP2065_1 ( 22 )">
+    <sp who="#TDP2065_1">
      <speaker>Roguignard.</speaker>
      <p>Mon cher enfant, puisque je viens de vous trouver en conversation avec ma fille , et que
       vous la connaissez à présent, je vais abréger les préliminaires. Comment trouvez-vous sa
@@ -1048,7 +1048,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       Paris?... <stage>( haut. )</stage> Ah ça , mais , mon cher M. Craquignard , ça n'est ti pas
       une craque que vous me glissez-là, vous ?</p>
     </sp>
-    <sp who="#TDP2065_1 ( 23 )">
+    <sp who="#TDP2065_1">
      <speaker>Roguignard.</speaker>
      <p>Non. Je suis un homme d'honneur ; et comme je vous l'ai annoncé, l'amitié que j'ai toujours
       eue pour feu votre père , me fait la loi de travailler à votre bonheur ; ainsi répondez-moi
@@ -1111,7 +1111,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
 
     <head>SCENE XII.</head>
 
-    <sp who="#TDP2065_4 ( 24 )">
+    <sp who="#TDP2065_4">
      <speaker>GUIGNOLET, .</speaker>
      <stage>seul</stage>
      <p>Sarpedié ! les épouseux sont donc ben rares , ici , qu'on nous envoie chercher à la campagne
@@ -1164,7 +1164,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       soyons la prope cousine de monsieur et de mademoiselle Roguignard sa sœur, et de mademoiselle
       Julie, ils ne veulent tous me regarder que comme servante.</p>
     </sp>
-    <sp who="#TDP2065_4 ( 25 )">
+    <sp who="#TDP2065_4">
      <speaker>GUIGNOLET.</speaker>
      <p>Ah ! fi donc ! ça sont des ingrats et des dénaturalisés, et <pb n="( 25 )"/> et qui ne méritont pas l'honneur que vous leus z'y faites d'être de leus famille ; car vous
       valiez, à vous toute seule, pus qu'eux tous , et le reste de leus race , si elle leus
@@ -1208,7 +1208,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       ben accouplés ; mais , comme je vous disons , je ne sommes pas assez riche pour faire votre
       bonheur.</p>
     </sp>
-    <sp who="#TDP2065_3 ( 26 )">
+    <sp who="#TDP2065_3">
      <speaker>Nitouche.</speaker>
      <p>Eh ben ! monsieur, si c'est comme ca, et si le cœur vous <pb n="( 26 )"/> en dit pour moi , nous aurons assez de bien pour être contens : en m'épousant, vous
       toucherez trente mille francs.</p>
@@ -1251,7 +1251,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       mon parain , monsieur Grippefort, qu'est un habile procureur, qui n'aime ni mon cousin , ni ma
       cousine, et il va nous arranger ça de façon que je l'emporterons sur eux.</p>
     </sp>
-    <sp who="#TDP2065_4 (27)">
+    <sp who="#TDP2065_4">
      <speaker>Guignolet, .</speaker>
      <stage>allant à la table écrire</stage>
      <p>Ah ben ! je nous y accordons de tout note cœur , et v'la note nom , avec tous nos tites,
@@ -1295,7 +1295,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <p>Oh ! j'entends la vieille qui vient vous chercher , n'allez pas me faire infidélité à
       présent au moins, songez que j'ai votre signature.</p>
     </sp>
-    <sp who="#TDP2065_4 (28 )">
+    <sp who="#TDP2065_4">
      <speaker>Guignolet.</speaker>
      <p>Eh, mamzelle , vous avez ben mieux que ça ; vous avez not cœur et not ame... et pis note
       dernier adieu par dessus tout. Partez tranquille , j'allons rembarer la vieille , <stage>(
@@ -1350,7 +1350,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <p>Eh non, ne faites pas attention, ça n'est rien ; c'est une quinte qui me prend comme ça de
       tems en tems.</p>
     </sp>
-    <sp who="#TDP2065_4 ( 29 )">
+    <sp who="#TDP2065_4">
      <speaker>Guignolet.</speaker>
      <p>Sarpedié ! c'est un vilain jeu à vous faire capote ! faut écarter ste quinte-là ,
       madame.</p>
@@ -1402,7 +1402,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <stage>le prenant de l'autre côté</stage>
      <p>Tout est terminé, mon cher frère , et je l'emmène pour cela.</p>
     </sp>
-    <sp who="#TDP2065_1 ( 30 )">
+    <sp who="#TDP2065_1">
      <speaker>Roguignard.</speaker>
      <p>Eh ! où l'emmenez-vous ? il n'est plus besoin que vous lui parliez ; j'ai fini avec lui,
       venez vous en plutôt avec nous pour la signature du contrat, nous allons le marier , <stage>(
@@ -1469,7 +1469,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <speaker>Guignolet.</speaker>
      <p>Oh ! tenons nous ben ! v'la que j'allons être mariée deux fois!</p>
     </sp>
-    <sp who="#TDP2065_2 ( 31 )">
+    <sp who="#TDP2065_2">
      <speaker>Mlle. Roguignard, .</speaker>
      <stage>à son frère</stage>
      <p>Ah bien, mon cher frère , votre notaire arrive trop tard , car j'ai parlé la première à M.
@@ -1531,7 +1531,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <p>Oh ! ce ne sera pas vrai ; et par l'autorité de ses deux croix, c'est moi qui le prends et
       il épousera ma fille. Venez , mon gendre.</p>
     </sp>
-    <sp who="#TDP2065_4 ( 32 )">
+    <sp who="#TDP2065_4">
      <speaker>Guignolet, .</speaker>
      <stage>se débattant entre les deux</stage>
      <p>Ah dame ! on peut dire que v'la un joli homme ben accaparé!</p>
@@ -1590,7 +1590,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
      <p><stage>( A Nitouche, avec humeur. )</stage> Eh ! quoi , mademoiselle , vous avez osé aller
       sur les brisées de ma fille ?</p>
     </sp>
-    <sp who="#TDP2065_2 ( 33 )">
+    <sp who="#TDP2065_2">
      <speaker>Mlle. Roguignard, .</speaker>
      <stage>en colère</stage>
      <p>Comment ! petite impertinente , une misérable paysanne <pb n="( 33 )"/> comme vous s'avise de couper l'herbe sous le pied à une dame comme moi !</p>
@@ -1638,7 +1638,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       revoir ni l'un ni l'autre ; vous me portez malheur tous les deux. <stage>( Elle s'en va.
       )</stage></p>
     </sp>
-    <sp who="#TDP2065_4 ( 34 )">
+    <sp who="#TDP2065_4">
      <speaker>Guignolet, </speaker>
      <stage>allant après elle.</stage>
      <p>Ah ! tenez , madame , à propos de ça , v'la vot' portrait que je vous rendons ; i vous
@@ -1694,7 +1694,7 @@ vemment ; mais il a un drôle de nom, le maîte de la maison ! M. Craquignard ! 
       francs , pourvu qu'il consente à siner not'contrat, et, à appeller mamzelle, not' femme, sa
       cousine.</p>
     </sp>
-    <sp who="#TDP2065_8 ( 35 )">
+    <sp who="#TDP2065_8">
      <speaker>Grippefort, .</speaker>
      <stage>à Roguignard</stage>
      <p>Prenez-le au mot, morbleu ! c'est un bon marché pour vous.</p>

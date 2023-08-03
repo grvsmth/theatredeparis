@@ -13,7 +13,7 @@
     <p>Automatically generated source driver file</p>
    </sourceDesc>
   </fileDesc>
-  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
+  <revisionDesc><change  when="2023-07-31" >Make headers and div/@type uniform</change>
    <change when="2023-07-20">Made test harness</change>
   </revisionDesc>
  </teiHeader>

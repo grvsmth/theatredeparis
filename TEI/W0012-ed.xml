@@ -766,7 +766,7 @@
      <p>Je ne veux pas de ce remède.</p>
     </sp>
     <sp who="#TDP12_3">
-     <speaker>NICASE.</speaker>
+     <speaker>NICAISE.</speaker>
      <p>Pourtant, comme je ne veux rien avoir à me reprocher sur votre guérison, je vais vous faire
       boire abondamment d'une certaine liqueur que je portais à un autre malade attaqué d'une
       fluxion de poitrine.</p>
@@ -778,7 +778,6 @@
     <sp who="#TDP12_3">
      <speaker>NICAISE.</speaker>
      <p>Jeannette, versez à boire à monsieur ...</p>
-
      <stage type="set">( elle sert à boire. )</stage>
      <p>Tout plein...</p>
     </sp>

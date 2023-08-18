@@ -1,0 +1,38 @@
+(base) lou@foxglove:~/Public/theatredeparis/TEI$ for f in *-ed.xml; do saxon $f  conv3.xsl > tmp/$f; done
+W12 has 23 pages
+
+W23 has 21 pages
+
+W371 has 25 pages
+
+W0942 has 49 pages
+
+W1127 has 38 pages
+
+W1178 has 49 pages
+
+W1229 has 27 pp
+
+W1291 has 19 pages
+
+W1544 has 0 pages
+
+W1563 has 0 pages
+W1935 has 105 pages
+W2025 has 0 pages
+
+W2050 has 47 pages
+
+W2065 has 31 pages
+
+W2169 has 34 pages
+
+W2289 has 35 pages
+
+W2576 has 0 pages
+
+W2701 has 0 pages
+
+W2761 has 0 pages
+
+W2838 has 75 pages

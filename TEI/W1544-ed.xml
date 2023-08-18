@@ -1,0 +1,1992 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W1544">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La jeunesse de Favart: TEI edition (Wicks no. 1544)</title>
+    <author/>
+    <respStmt>
+     <resp>HTML version by</resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI version by</resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <p>The Digital Parisian Stage Corpus is freely available from a GitHub
+   repository at <ref target="https://github.com/grvsmth/theatredeparis"/></p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images available from <ref target="http://www.google.com/books?id=unQ_AAAAIAAJ"/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/1544JeuneFavart.html"/></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
+   <change when="2023-07-21">Hand edited</change>   
+   <change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>LA JEUNESSE DE FAVART, COMEDIE ANECDOTIQUE, EN UN ACTE, EN PROSE, MÊLÉE DE
+      VAUDEVILLES</titlePart>
+    </docTitle>
+    <byline>Par <docAuthor>MM. GENTIL et FAVART. </docAuthor></byline>
+    <titlePart>Représentée pour la première fois, à Paris, sur le Théâtre du Vaudeville , le 2
+     Novembre 1808. </titlePart>
+    <titlePart>Prix : 1 fr. 2 déc. ( 24 sols. )</titlePart>
+    <docImprint>A PARIS, Chez Madame CAVANAGH, Libraire du Théâtre des Variétés, Passage du Panorama
+     , N°. 5 , près du Boulevard. 1809</docImprint>
+   </titlePage>
+   <castList>
+    <head>Personnages, Acteurs</head>
+    <castItem><role>M. FAVART</role><roleDesc>, pâtissier.</roleDesc><actor>M.
+     Vertpré.</actor></castItem>
+    <castItem><role>Mad. FAVART.</role><actor>Mlle. Bodin.</actor></castItem>
+    <castItem><role>CHARLES. </role><role>ROSE.</role><roleDesc> enfans de M. et Mad. Favart.
+     </roleDesc><actor>M. Auguste.</actor><actor>Mlle. Desmares.</actor></castItem>
+    <castItem><role>M. PERRAULT.</role><actor>M. Chapelle.</actor></castItem>
+    <castItem><role>AUGUSTE</role><roleDesc>, fils de M. Perrault.</roleDesc><actor>M.
+     Guénés.</actor></castItem>
+    <castItem><role>M. de la POPELINIERE</role><roleDesc>, fermier général.</roleDesc><actor>M.
+     St.Léger.</actor></castItem>
+    <castItem><role>Mad. BERTRAND</role><roleDesc> , gouvernante d'Auguste.</roleDesc><actor>Mad.
+     Duchaume.</actor></castItem>
+    <castItem><role>GEORGES</role><roleDesc>, garçon pâtissier.</roleDesc><actor>Mlle.
+     Rosalie.</actor></castItem>
+   </castList>
+   <set>
+    <p>La Scène est à Paris , chez M. Favart, dans une salle, formant arrière-boutique, où l'on voit
+     un four.</p>
+    <p>A la droite des spectateurs, est une table sur laquelle on voit divers instrumens de travail,
+     et des ouvrages de pâtisserie ; sur le devant, du même côté, un billot qui sert de table à
+     Charles. A gauche une autre table couverte d'un tapis.</p>
+    <p>( Les acteurs doivent être placés dans l'ordre où ils sont, en tête de chaque scène.) </p>
+   </set>
+
+   <div type="scene">
+
+    <head>COUPLET D'ANNONCE.</head>
+    <stage type="air">Air <title>du Vaud. de Voltaire chez Ninon.</title></stage>
+    <l>L'aimable auteur , qu'avec plaisir,</l>
+    <l> Paris chaque jour se rappelle ,</l>
+    <l> Ce soir dans votre souvenir,</l>
+    <l> Réclame une place nouvelle.</l>
+    <l> Favart, par ses travaux heureux,</l>
+    <l> Vous plut jusque dans sa vieillesse...</l>
+    <l> Quelques instans fermez les yeux</l>
+    <l> Sur les défauts de sa jeunesse.</l>
+   </div>
+
+  </front>
+  <body>
+
+   <head>LA JEUNESSE DE FAVART.</head>
+
+   <div type="scene">
+
+    <head>SCENE PREMIERE.</head>
+
+    <sp who="#TDP1544_2">
+     <speaker>Charles, </speaker>
+     <stage>seul, occupé à divers ouvrages de pâtisserie.</stage>
+     <p>Maudit travail ! quand pourrai-je me livrer ouvertement à mon goût pour les belles lettres ?
+      Une épître à Voltaire me roule dans la tête, et ce sont des échaudés qu'il faut taire !... Si
+      je ne craignais d'être surpris par mon père... <stage>( Il regarde autour de lui. )</stage> Ah
+      ! ma foi, je n'y tiens plus; écrivons. <stage>( Il écrit. )</stage> Je ne puis m'empêcher de
+      rire du moyen que j'employe pour faire parvenir ma Chercheuse d'Esprit à M. de Voltaire; il ne
+      s'attend pas à trouver une comédie dans le pâté qu'il a commandé pour son dîner. Le trait est
+      hardi! mais qu'importe.. Relisons mon envoi :</p>
+     <stage type="air">Air <title>du Vaud. de l'Avare.</title></stage>
+     <l>O toi ! qui dans la fleur de l'âge ,</l>
+     <l> Remplis l'univers de ton nom ,</l>
+     <l> Tu recevras par ce message,</l>
+     <l> Plus d'une œuvre de ma façon. </l>
+     <l> Daigne agréer le juste hommage</l>
+     <l> Que je te fais de cet écrit ;</l>
+     <l> Chez toi, la Chercheuse d'Esprit</l>
+     <l> Est au terme de son voyage.</l>
+     <p><stage>( Il arrange dans une croûte de pâté, le manuscrit qu'il tire avec précaution de
+      dessous sa veste. Il appelle. )</stage> Georges ?... <stage>( Georges entre. )</stage> Tiens,
+      porte ce pâté à son adresse, et sur tout ne t'amuse pas en chemin. <stage>( Georges emporte le
+      pâté. )</stage></p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE II.</head>
+    <stage>CHARLES, AUGUSTE.</stage>
+
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Ah ! c'est toi, Auguste. Hé bien, quelles nouvelles ?</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Je viens de voir l'affiche ; aujourd'hui la première représentation de la Chercheuse
+      d'Esprit.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Je vais donc enfin sortir d'incertitude !</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Ce soir un nouveau succès pour Charles.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Tu me flattes !...</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Flatter un-ami! fi donc; nous ne sommes pas riches en pareils ouvrages, tiens je parierai
+      que c'est toi qui relèveras l'Opéra-Comique.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Quelle idée ! mais parle bas , tu sais que tout cela est ici marchandise de contrebande.</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Je n'y pensais pas, heureusement, le bruit de tes succès n'est pas parvenu jusqu'à ton
+      père.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>J'en ai souvent eu peur ; maîs il va rarement au spectacle , et d'ailleurs je ne me suis
+      jamais fait nommer.</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>On parle de toi, cependant.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Oui, dans des cercles que mon père ne fréquente guère.</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Il est bien singulier, ton père , de vouloir te faire renoncer aux lettres, tandis qu'il
+      s'occupe à faire des chansons... en parlant de chansons, je suis d'une humeur...</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Contre qui?</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Je ne sais, c'est au sujet de couplets anonymes, et sanglans, contre les auteurs de
+      l'Opéra-Comique ; on t'a mis à la tête.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles, </speaker>
+     <stage>riant.</stage>
+     <p>On me fait beaucoup d'honneur !</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Tu ris ! je ne vois pas qu'il y ait de quoi.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Quel mal des couplets peuvent-ils me faire ?</p>
+     <stage>Air : <title>du Vaud. du Jaloux Malade.</title></stage>
+     <l>Une épigramme, une satire ,</l>
+     <l> N'ont rien qui soit à redouter,</l>
+     <l> Avec les autres j'en veux rire,</l>
+     <l> Chacun me devrait imiter.</l>
+     <l> Dois-je m'attrister, ou me plaindre,</l>
+     <l> Et pour quelques méchans éclats ?</l>
+     <l> L'homme aurait beaucoup plus à craindre ,</l>
+     <l> Si le serpent ne sifflait pas.</l>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>C'est prendre les choses...</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Comme il faut les prendre.</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Ah ça, je compte sur un billet.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Et qui donc en aurait ?..... à propos de billets , le directeur de l'Opéra-Comique, tarde
+      bien à m'envoyer les miens. ( M. Favart se fait entendre. )</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>J'entends ton père, je me sauve. <stage>( Il sort. )</stage></p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène III.</head>
+    <stage>M. FAVART, CHARLES s'occupe, sans être vu de son père.</stage>
+
+    <sp who="#TDP1544_4">
+     <speaker>M. FAVART.</speaker>
+     <stage>Air : <title>Eh ! gai, gai, gai, mon officier.</title></stage>
+     <stage>( Les quatre premiers vers dans la coulisse, )</stage>
+     <l>Eh ! gai, gai. vive la gaîté,</l>
+     <l> Et nargue de la gêne ,</l>
+     <l> Eh ! gai / gai, gai, c'est la gaîté</l>
+     <l> Qui donne la santé.</l>
+     <stage>( Il entre en composant, sans voir Charles. )</stage>
+     <l>Aux sources d'Hippocrène,</l>
+     <l> Je bois comme Billaut ,</l>
+     <l> Mon Pégase en haleine ,</l>
+     <l> Est toujours au galop.</l>
+     <l> Eh ! gai, gai, vive la gaîté, etc.</l>
+     <stage>( Il écrit en chantant. )</stage>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles, </speaker>
+     <stage>à part.</stage>
+     <l>Un ton si plein d'emphase</l>
+     <l> Ne me conviendrait pas,</l>
+     <l> Car ce soir mon Pégase</l>
+     <l> Pourrait faire un faux pas.</l>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Eh ! gai, gai, gai...</p>
+     <p><stage>( Il apperçoit son fils. )</stage> Ah ! ah ! c'est toi ? Hé bien, la besogne n'est
+      pas plus avancée que cela?</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Le plus pressé est fait, on est allé chez M. de Voltaire porter le pâté qu'il avait
+      commandé.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>M. de Voltaire ! ce jeune homme qui fait tant parler de lui avec ses ouvrages! et qui ferait
+      bien mieux de suivre l'état de son père.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Si ses talens et son goût l'appellent à une autre profession...</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>En est-il une plus honorable que celle de Notaire?</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Celle d'homme de lettres l'est-elle moins?</p>
+     <stage>Air : <title>Trouverez-vous un parlement.</title></stage>
+     <l>L'un trace sur le parchemin ,</l>
+     <l> Un nom étranger à la gloire ,</l>
+     <l> Et l'autre grave sur l'airain ,</l>
+     <l> Son nom au Temple de Mémoire.</l>
+     <l> Sans craindre aucun événement,</l>
+     <l> Les papiers du jeune Voltaire ,</l>
+     <l> Iront plus loin , assurément,</l>
+     <l> Que les parchemins de son père.</l>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Oh ! je sais bien que tu vas prendre son parti. Si j'étais à la place de M. Arouet, je
+      mettrais bon ordre à tout cela.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Notre siècle vous serait-il redevable de l'invention des échaudés , si vous aviez suivi
+      l'état de votre père?</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>C'est bien différent, voilà une découverte utile ! mais une tragédie ! un poëme ! à quoi
+      cela mène-t-il ?</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>A quoi !</p>
+     <stage>Air <title>du Vaud. des Vélocifères.</title></stage>
+     <l>Combien de guerriers inconnus,</l>
+     <l> Et sans Homère et sans Virgile !</l>
+     <l> Parmi tant de grands noms perdus,</l>
+     <l> On eût ignoré, même Achille.</l>
+     <l> Auprès des plus grands généraux ,</l>
+     <l> Les Dieux ont fait naître Voltaire ;</l>
+     <l> Mais dans un siècle de héros ,</l>
+     <l> Ils nous devaient plus d'un Homère.</l>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Tout cela est superbe! quoiqu'il en soit, je ne te conseille pas de faire comme ton monsieur
+      de Voltaire.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Que ne puis-je être certain de vous désobéir un jour !</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène II.</head>
+    <stage>Mad. FAVART, M. FAVART , CHARLES, ROSE,</stage>
+
+    <sp who="#TDP1544_5">
+     <speaker>Mad. Favart.</speaker>
+     <p>Mon ami, voici la liste des commandes pour demain.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>C'est bon , ma femme, c'est bon.</p>
+    </sp>
+    <sp who="#TDP1544_5">
+     <speaker>Mad. Favart.</speaker>
+     <p>Voici encore un paquet....</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Pour moi ! qu'est-ce que cela ? Voyons. <stage>( II ouvre le paquet.)</stage> Dix billets de
+      parterre de l'Opéra-Comique, pour aujourd'hui, de la part du directeur!</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose , </speaker>
+     <stage>bas à Charles.</stage>
+     <p>Mon frère, ces billets-là ne sont pas à leur adresse.</p>
+     <stage>( Charles fait signe a sa sœur de se taire. )</stage>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>C'est très-honnête... mais à quel propos?... <stage>( Il relit l'adresse. )</stage> « A M.
+      Favart, rue de la Verrerie , au Perroquet couronné. » C'est bien moi ; ah ! je vois
+      maintenant, c'est probablement ma dernière chanson qui me vaut cela : elle a fait du bruit, et
+      entre auteurs et directeurs , on se doit des égards... Ma canne, mon chapeau ?</p>
+    </sp>
+    <sp who="#TDP1544_5">
+     <speaker>Mad. Favart.</speaker>
+     <p>Quoi ? mon ami, tu vas sortir ? Songe que tu as affaire ici.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Charles se chargera de tout, je m'en rapporte à lui ; je vais remercier M. le directeur, et
+      peut-être verrai-je la répétition de la pièce nouvelle.</p>
+    </sp>
+    <sp who="#TDP1544_5">
+     <speaker>Mad. Favart.</speaker>
+     <p>Te voilà bien. Tu négliges tes affaires pour une répétition !</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Ma femme, voici la première fois que vous me faites un pareil reproche ; au surplus je sais
+      ce que je fais ; il est plus sage que vous ne croyez de n'en pas manquer une.</p>
+     <stage>Air : <title>Le lendemain.</title></stage>
+     <l>La méthode est fort bonne</l>
+     <l> Et je m'en trouve très-bien;</l>
+     <l> La prudence l'ordonne</l>
+     <l> A qui veut ne perdre rien.</l>
+     <l> Tel ouvrage pour paraître</l>
+     <l> Est répété le matin ,</l>
+     <l> Qui souvent ne doit pas l'être</l>
+     <l> Le lendemain.</l>
+     <p>Vous ne connaissez rien à cela vous autres femmes ... mais je m'amuse ici ... je vais à
+      l'opéra-comique.</p>
+     <stage>( Il sort en fredonnant son air <title>d'entrée. )</title></stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène V.</head>
+    <stage>ROSE, Mad. FAVART, CHARLES.</stage>
+
+    <sp who="#TDP1544_5">
+     <speaker>Mad. Favart.</speaker>
+     <p>Quelle tête légère ! Toujours le plaisir l'entraîne. En vérité, sans la honte de son cœur ,
+      je serais par fois tentée de lui en vouloir de la gaîté de son esprit.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Elle est si franche et si aimable !</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Elle ne nuit à personne.</p>
+    </sp>
+    <sp who="#TDP1544_5">
+     <speaker>Mad. Favart.</speaker>
+     <p>Qu'à lui même. C'est cette gaîté là qui a ruiné son père qui était sociétaire de l'intendant
+      de Soissons , et qui nous a réduits au métier que nous faisons.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Hé bien , ma mère , avec de la probité et des mœurs, on honore tous les états ; n'est-ce pas
+      ce que mon père fait chaque jour ?</p>
+    </sp>
+    <sp who="#TDP1544_5">
+     <speaker>Mad. Favart.</speaker>
+     <p>Bon Charles !</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>C'est à nous à redoubler de zèle et d'activité.</p>
+     <stage>Air <title>du Vaudeville de Folie et Raison.</title></stage>
+     <l>Ah ! peut-on de sa vie</l>
+     <l> Trop adorer l'auteur?</l>
+     <l> Cette dette chérie</l>
+     <l> S'acquitte avec le cœur.</l>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <l>Que vos jours ne soient qu'une chaîne</l>
+     <l> Des plus aimables souvenirs.</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <l>Pour moi le travail et la peine,</l>
+     <l> Et pour vous repos et plaisirs.</l>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Oui , pour tous repos et plaisirs.</p>
+    </sp>
+    <sp who="#TDP1544_11">
+     <speaker>ENSEMBLE.</speaker>
+     <l>Ah ! peut-on de sa vie</l>
+     <l> Trop adorer l'auteur?</l>
+     <l> Cette dette chérie</l>
+     <l> S'acquitte avec le cœur.</l>
+    </sp>
+    <sp who="#TDP1544_5">
+     <speaker>Mad. FAVART.</speaker>
+     <stage>Air : <title>Je regardais Madelinette.</title></stage>
+     <l>Ah ! qu'on doit chérir l'existence ,</l>
+     <l> Lorsque l'on a de tels enfans.</l>
+     <l> Quelle plus douce récompense</l>
+     <l> Que leur zèle et leurs soins touchans.</l>
+    </sp>
+    <sp who="#TDP1544_12">
+     <speaker>ROSE et CHARLES.</speaker>
+     <l>Dans tous les instans de ma vie ,</l>
+     <l> Vos tendres bontés seront là ,</l>
+     <stage>( Montrant leur cœur. )</stage>
+     <l>Et si votre cœur les oublié ,</l>
+     <l> Toujours le mien s'en souviendra.</l>
+    </sp>
+    <stage>EN TRIO. </stage>
+    <sp who="#TDP1544_5">
+     <speaker>Mad. Favart.</speaker>
+     <l>Ah ! qu'on doit chérir l'existence,</l>
+     <l> Lorsque l'on a de tels enfans.</l>
+     <l> Quelle plus douce récompense</l>
+     <l> Que leur zèle et leurs soins touchans</l>
+    </sp>
+    <sp who="#TDP1544_12">
+     <speaker>CHARLES et ROSE.</speaker>
+     <l>Pour embellir votre existence,</l>
+     <l> Comptez toujours sur vos enfans ,</l>
+     <l> Leur cœur est votre récompense ,</l>
+     <l> Il vous repond de leurs sermens.</l>
+    </sp>
+    <sp who="#TDP1544_5">
+     <speaker>Mad. FAVART , les embrasse.</speaker>
+     <p>Je vais donner un coup-d'œil là dedans. Toi, Charles , veille à tout le reste.</p>
+     <stage>( Elle sort. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène VI</head>
+    <stage>ROSE, CHARLES.</stage>
+
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Que nous sommes heureux, mon frère, d'avoir des parens comme les nôtres! tiens, si l'on te
+      permettait de te livrer à ton goût pour les lettres , je crois que je ne désirerais plus
+      rien.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Plus rien! sans exception...Pourquoi rougir, bonne Rose? ton amour pour Auguste est honnête
+      et louable, ma mère l'approuve, je suis ton confident, quel mal pourrait-on y trouver ?</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Mon père l'ignore, c'est un reproche que je me fais tous les jours.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Il l'approuvera aussi lorsqu'il le saura ; si tu veux, je me charge de l'en instruire.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Je sais bien que ce n'est pas là le plus grand obstacle ; mais monsieur Perrault voudra-t-il
+      jamais consentir au mariage de son fils avec moi ? depuis qu'il est devenu riche....</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Avec toute sa fortune en a-t-il moins été cordonnier ?</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Tu sais qu'il l'a eu bientôt oublié.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Il est vrai.</p>
+     <stage>Air <title>du Vaud. Aimez, aimez , jeunes tendrons.</title></stage>
+     <l>Que d'oublis on voit à présent !</l>
+     <l> Oubli de courtoisie ,</l>
+     <l> Oubli de dates, de sermens ,</l>
+     <l> Oubli de modestie ,</l>
+     <l> Oubli d'amitié, de projets ,</l>
+     <l> Oubli d'honneur et de bienfaits ,</l>
+     <l> Oubli d'amour extrême !</l>
+     <l> Tel qui devint riche foncier</l>
+     <l> Par l'habitude d'oublier ,</l>
+     <l> Finit , finit par s'oublier lui-même.</l>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Il faut que l'argent lui ait bien tourné la tête, avec ses idées de noblesse et
+      d'élévation.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Aussi ridicules que sa manie des romans anglais:.. il ne voit plus qu'en noir.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Parce que cela est du bon ton.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>A ces petits défauts près, c'est un brave homme, le cœur est bon, c'est l'essentiel... Tiens
+      , j'apperçois quelqu'un qui plaidera cette cause là, mieux que personne.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène VII.</head>
+    <stage>ROSE, AUGUSTE, CHARLES.</stage>
+
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>J'ai vu sortir ton père, et j'accours passer un moment avec toi.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Si le tien s'en apperçoit, gare la bombe !</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Il s'habille pour sortir aussi. <stage>( Regardant Rose tendrement. )</stage> Je ne sais
+      quel pressentiment me disait que je ne te trouverais pas seul.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Faisons-nous bien, Auguste, de te recevoir ainsi à l'insçu de ton père et du mien ?</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Je n'y vois aucun mal, moi.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>M. Perrault n'est pas de ton avis.</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Mon père m'aime, voudra-t-il faire le malheur de son fils ? le plus grand qu'Auguste ait à
+      redouter , c'est celui de n'être pas uni à sa Rose, à la compagne de son enfance.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Tu as beau dire, mon ami, pour nous éviter des chagrins, je crois que je dois fuir tes
+      yeux.</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Fuir mes yeux ?</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose, </speaker>
+     <stage>se détournant.</stage>
+     <p>Oui, je le dois.</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste , </speaker>
+     <stage>lui prenant la main.</stage>
+     <p>Crains-tu donc d'y lire ma pensée, et d'y appercevoir ton image?</p>
+     <stage>Air <title>du Vaud. du Prétendu de Gisors.</title></stage>
+     <l>Pourquoi détourner ta paupière ,</l>
+     <l> Tu veux donc faire mon malheur ?</l>
+     <l> Renonce à ce projet sévère,</l>
+     <l> Ne crains ni mes yeux ni mon cœur.</l>
+     <l> Tourne vers moi , je t'en supplie ,</l>
+     <l> Ces yeux que j'aime tant à voir,</l>
+     <l> Jamais , dis-moi, femme jolie ,</l>
+     <l> Eût-elle peur de son miroir.</l>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>A quoi cela servira-t-il ? nous ne serons peut-être jamais l'un à l'autre; M. Perrault
+      voudra pour son fils une riche héritière, et Rose n'a que son cœur pour fortune.</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Ah ! c'est pour moi la plus précieuse !</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>CHARLES</speaker>
+     <stage>Quittant son ouvrage.</stage>
+     <p>Comptes-tu pour rien l'amitié de ton frère? si le sort à enrichi M. Perrault, qui sait ce
+      qu'il nous réserve? le monde n'est-il pas une loterie?</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Les bons billets ne sont pas pour nous.</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Et pourtant qui les mérite mieux ?</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Tout irait bien, si M. Perrault pensait comme toi, mais de son ancienne amitié, il ne nous a
+      laissé que sa pratique. <stage>( On entend M. Perrault. )</stage></p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Ah ! mon dieu , je crois l'entendre !</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Je suis toute tremblante.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Pourquoi donc ? nous allons le recevoir le mieux que nous pourrons.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène VIII.</head>
+    <stage>AUGUSTE, ROSE, M. PERRAULT, CHARLES.</stage>
+
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Favart n'est pas ici?</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Non, monsieur; mais nous sommes prêts à vous satisfaire.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose</speaker>
+     <stage>se mettant devant Auguste, pour qu'on ne le voie pas.</stage>
+     <p>Qu'y a-t-il pour votre service ?</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. Perrault.</speaker>
+     <p>Je donne demain à dîner à trois échevins et à deux marguilliers, voici la note de ce dont
+      j'ai besoin.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose</speaker>
+     <stage>de même.</stage>
+     <p>Pour quelle heure, monsieur?</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Pas avant une heure; il est du bon ton de dîner tard</p>
+     <stage>( Appercevant Auguste. )</stage>
+     <p>Ah ! ah ! que fais-tu là, toi?</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>Mon père...</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Ce n'est point ici votre place , monsieur, je vous avais défendu de mettre le pied dans
+      cette maison.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose</speaker>
+     <stage>s'enfuyant.</stage>
+     <p>Je les lui avais bien dit.</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>J'étais venu...</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Oui je vois bien que vous êtes venu.... pour faire joli cœur, auprès de mademoiselle
+      Rose.... Je ne veux pas de cela, monsieur ; si je vous trouve encore ici... Sortez, et que je
+      vous voie à l'ouvrage en rentrant.</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste</speaker>
+     <stage>en sortant, à Charles.</stage>
+     <p>A ce soir.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène IX.</head>
+    <stage>M. FAVART, M. PERRAULT, CHARLES travaille.</stage>
+
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <stage>ayant vu sortir Auguste.</stage>
+     <p>A qui donc en as-tu? est-ce qu'Auguste a fait ici des siennes ?</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Je suis dans une colère...</p>
+     <stage>Air : <title>Eh ! ma mère, est-ce que j'sais ça.</title></stage>
+     <l>Près de ta fille en cachette,</l>
+     <l> Il vient faire le galant,</l>
+     <l> Il ne rêve qu'amourette.</l>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Nous en aurions fait autant.</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <l>Sans cesse il quitte l'ouvrage</l>
+     <l> Pour le plaisir qui l'attend ,</l>
+     <l> Quelle folie à son âge !</l>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Nous en aurions fait autant.</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <stage>même air.</stage>
+     <l>Un matin, au lieu d'apprendre ,</l>
+     <l> Je le surpris composant,</l>
+     <l> Une romance bien tendre.</l>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Nous en aurions fait autant.</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <l>Sa plume marchait si vite,</l>
+     <l> Qu'il fit en moins d'un instant;</l>
+     <l> Cinq ou six couplets de suite.</l>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Nous n'en ferions plus autant.</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Tu plaisantes toujours; mais avec tout cela mon fils ne travaille pas, et s'occupe de
+      balivernes au lieu de faire son cours de physique.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>De la physique ! A quoi bon lui brouiller la cervelle avec de grands mots ?</p>
+     <stage>Air : <title>Fille à qui l'on dit un secret.</title></stage>
+     <l>A-t-on besoin de précepteur</l>
+     <l> Pour étudier la nature ?</l>
+     <l> Gentil corsage, œil séducteur ,</l>
+     <l> Font plus qu'un pédant en fourrure,</l>
+     <l> Pour devenir docteur un jour ,</l>
+     <l> Je le dis sans craindre le blâme ,</l>
+     <l> Le meilleur maître c'est l'amour ,</l>
+     <l> Le meilleur livre est une femme.</l>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Tout cela est à merveille; mais nous ne devons plus autoriser. . . .</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Parce que tu as fait fortune. Souviens toi donc qu'autrefois si j'avais ta pratique, tu
+      avais aussi la mienne, et que nous avions dès lors fiancé nos enfans.</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Aujourd'hui ce n'est plus cela , je compte acheter une charge de secrétaire du roi.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Ce qu'on appelle une . . . <stage>( Geste de la savonnette. )</stage> Hé bien , tu seras
+      toujours Perrault après comme avant.</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Trêve de plaisanterie.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Allons, sois d'une aussi bonne pâte que moi. Ton fils aime ma fille , tant mieux. Rose
+      paraît y répondre , tant mieux ; ton fils sera riche , tant mieux encore.</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT,</speaker>
+     <stage>éludant.</stage>
+     <p>Toujours tant mieux. C'est un bon défaut que celui là, on ne s'en corrige que trop tôt.
+      Brisons là-dessus.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Soit. Toute rancune à part, je t'offre des billets pour voir ce soir la pièce nouvelle. Le
+      directeur de l'Opéra-Comique m'en a envoyé plusieurs.</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>A toi! est-ce que tu te mêles de faire des pièces ?</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart, </speaker>
+     <stage>riant.</stage>
+     <p>Pourquoi non ? Cette manie là ne vaut-elle pas la tienne ? Une comédie gaie , une chanson
+      bouffone ne plaisent-elles pas autant qu'un roman bien noir ?</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Chaque genre a son mérite.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <stage>Air. <title>du Vaud. des Amours d'été.</title></stage>
+     <l>Un flon, flon, vif et badin,</l>
+     <l> Pour mon oreille a des charmes ;</l>
+     <l> Vive l'aimable refrain</l>
+     <l> D'un flon, flon vif et badin.</l>
+     <l> Un roman , triste et sans fin ,</l>
+     <l> Fait bailler, couler des larmes ;</l>
+     <l> Un court et joyeux refrain</l>
+     <l> Ne fait couler que le vin.</l>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Tu as beau dire , je ne connais que les romans anglais pour les scènes déchirantes.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Délirantes ! Crois moi, reléguons ce genre lugubre au delà des mers.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles, </speaker>
+     <stage>quittant son ouvrage.</stage>
+     <p>Il doit se trouver bien étranger dans nos climats.</p>
+     <stage>Air : <title>de la vigne à Claudine,</title></stage>
+     <l>Dans ces ouvrages sombres ,</l>
+     <l> Qu'on appelle romans,</l>
+     <l> On ne voit que des ombres</l>
+     <l> Esprits et revenans ;</l>
+     <l> Mais ce qu'on ne voit guère ,</l>
+     <l> Chez ces tristes enfans,</l>
+     <l> C'est l'esprit de leur père</l>
+     <l> Et l'ombre du bon sens.</l>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Attrappe... Je n'aurais , ma foi, pas mieux répondu.</p>
+     <p><stage>( A monsieur Perrault. )</stage> Mais d'où te vient un pareil goût pour le noir ? On
+      a raison de dire qu'il faut se dépêcher de rire avant que d'être riche , de peur de mourir
+      sans avoir ri. Vive la joie, morbleu ! la vie est si courte ; il faut rapprocher ses
+      jouissances.</p>
+     <stage>Air <title>de Léonce.</title></stage>
+     <l>On ne se promène qu'un jour,</l>
+     <l> Un seul instant sur cette terre.</l>
+     <l> Embellissons notre carrière.</l>
+     <l> Le temps s'envole sans retour ;</l>
+     <l> Suivons le précepte du sage</l>
+     <l> Et n'ajournons que le chagrin.</l>
+     <l> La vie est un pèlerinage,</l>
+     <l> Mais souvent dans ce court passage,</l>
+     <l> On se croit à moitié chemin,</l>
+     <l> Et l'on est au bout du voyage&amp;raquo.</l>
+     <p>Acceptes-tu mes billets ?</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Volontiers, je rentre un moment chez moi, pour voir si mon drôle est à l'ouvrage.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart, </speaker>
+     <stage>le conduisant.</stage>
+     <p>A ce soir donc.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène X</head>
+    <stage>M. FAVART, CHARLES.</stage>
+
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>En vérité, je crois que la fortune l'a rendu fou,</p>
+     <stage>(Il tire sa montre. )</stage>
+     <p>Déjà cinq heures ! je n'ai que le temps de me rendre à l'Opéra-Comique, j'ai manqué monsieur
+      le directeur et la répétition, ce matin, je ne veux pas manquer la représentation ce soir.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>CHARLES, </speaker>
+     <stage>à part.</stage>
+     <p>A propos , et Auguste...</p>
+     <stage>( A M. FAVART. )</stage>
+     <p>Mon père, s'il vous restait encore un billet. . .</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Ne voudrais-tu pas aussi voir la pièce nouvelle ?</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>J'avoue que j'aurais été assez curieux. . . .</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Et la besogne, qui la ferait pour toi? non, non, le spectacle dissipe trop les jeunes gens,
+      que sait-on, tu voudrais peut-être aussi quelque jour faire des comédies.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>CHARLES, </speaker>
+     <stage>finement.</stage>
+     <p>Vous croyez que le goût pourrait m'en venir? . . .</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Je ne m'y fierais pas, avec tes idées de littérature. . . . Au surplus, je viens de disposer
+      des deux derniers billets. Je te laisse ici de quoi t'occuper: j'espère qu'à mon retour je
+      trouverai tout en bon train.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Oui, si l'inquiétude me permet de travailler !</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Non ; mais je vous dis, monsieur, veut aller au spectacle, en vérité ! . . .</p>
+     <stage>( Il sort. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène XI.</head>
+
+    <sp who="#TDP1544_2">
+     <speaker>CHARLES, </speaker>
+     <stage>seul.</stage>
+     <p>Jamais auteur se trouva-t-il dans une position plus singulière ? l'ordre de mon père me
+      retient ici, pendant qu'on me joue, et je suis peut-être le seul qui ne puisse avoir un billet
+      pour la représentation de ma pièce.</p>
+     <stage>( Il parcourt la liste des commandes. )</stage>
+     <p>Si les personnes qui ont commandé cela, n'ont pas autre chose à donner à leurs convives , je
+      crains bien qu'elles ne dînent demain par cœur... Eh! quand je voudrais m'en occuper, le
+      pourrais-je? Ah ! si le succès est flatteur pour nous, il est bien acheté par le moment qui le
+      précède :</p>
+     <stage>Air : <title>Ah! voilà la vie.</title></stage>
+     <l>A la renommée,</l>
+     <l> Courir jour et nuit,</l>
+     <l> Pour une fumée</l>
+     <l> Qui s'évanouit.</l>
+     <l> En butte à l'envie,</l>
+     <l> A mille terreurs.</l>
+     <l> Ah! voilà la vie,</l>
+     <l> La vie suivie,</l>
+     <l> Ah ! voilà la vie</l>
+     <l> Des malheureux auteurs.</l>
+     <p>Essayons de faire quelque chose pour nous distraire...</p>
+     <stage>( Mad. Bertrand paraît. )</stage>
+     <p>Déjà du monde, quelle contrariété!</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène XII.</head>
+    <stage>Mad. BERTRAND, CHARLES.</stage>
+
+    <sp who="#TDP1544_8">
+     <speaker>Mad. BERTRAND , </speaker>
+     <stage>parlant avec volubilité.</stage>
+     <p>Bon jour, M. Charles, vous voilà seul ? où est madame votre mère, mademoiselle votre sœur ?
+      Sont-elles ici ? ont-elles sorties ?</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Je les crois dans leur chambre.</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <p>J'ai à vous parler, M. Charles.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>A moi !</p>
+     <stage>( à part. )</stage>
+     <p>Elle prend bien son temps !</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <p>Je n'ai qu'un mot à vous dire, et je m'enfuis.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Hé bien, dites promptement.</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <p>On voulait m'arrêter à chaque pas, dans la rue, pour jaser, madame Bertrand , par-ci, madame
+      Bertrand par-là; mais, néant à la requête, parce que je voulais venir vous trouver....</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Allons , parlez , parlez.</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <p>Oui, et puis vous direz que je suis une bavarde ; car voilà comme tout le monde me traite ,
+      et pourquoi cela ? Parce que je suis une pauvre veuve. Allez, allez, une femme qui n'a plus de
+      mari est bien à plaindre ! C'était un si bon homme que M. Bertrand. Il me battait quelquefois
+      ; mais après cela il était si fâché, si fâché ! Il savait si bien réparer . . . que rien ne me
+      consolera de sa perte.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles</speaker>
+     <p>Mais, vous vouliez me dire autre chose.</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <p>Ah ! mon dieu oui, c'est que la douleur me coupe la parole. Je vous disais donc . . .
+      qu'est-ce que je vous disais ? . . . Ah! m'y voici; figurez vous , M. Charles , que je
+      rentrais tout à l'heure à la maison . . .</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>CHARLES.</speaker>
+     <p>Hé bien ? <stage>( A part. )</stage> Elle ne finira pas !</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <p>Je cherche par tout Auguste, je ne le trouve point.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>CHARLES, </speaker>
+     <stage>à part.</stage>
+     <p>Lui serait-il arrivé quelque malheur ?</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <p>Je l'ignore; mais comme je sais qu'il vient ici avec plaisir, je voulais vous en demander
+      des nouvelles.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>N'est-ce que cela ? Soyez tranquille, il est au spectacle avec son père.</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <p>A la comédie ! M. Charles à la comédie ! ah, quelle horreur !</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Voyez un peu le grand malheur !</p>
+     <stage>DUO de Marianne.</stage>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <l>Oui je le dis, la comédie</l>
+     <l> Est le fléau des jeunes gens.</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>CHARLES, </speaker>
+     <stage>à part.</stage>
+     <l>Femme bavarde, en cette vie</l>
+     <l> Est le fléau de bien des gens.</l>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <l>Bien souvent qu'y va-t-on entendre ,</l>
+     <l> Des riens en termes peu décens.</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <l>Ailleurs encore , on peut entendre</l>
+     <l> Des riens et dits à contretemps.</l>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <l>Et sottises de toute espèce,</l>
+     <l> Est-il vrai, dites-moi ?</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <l>Vraiment, vraiment,</l>
+     <l> Cette femme à, je le confesse,</l>
+     <l> Le diable au corps en ce moment.</l>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <l>Oui, sottises de toute espèce ,</l>
+     <l> Bel exemple pour un enfant!</l>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <l>Voilà, voilà comme le vice ,</l>
+     <l> Chez nous se glisse sourdement.</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Ah ! quel tourment !</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <l>D'un tel scandale assurément,</l>
+     <l> Jamais je ne serai complice.</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <l>Mais n'est-il pas avec son père ?</l>
+     <l> Quel danger, oui, quel danger peut-il redouter ?</l>
+     <l> Quel danger peut-il redouter? </l>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <l>Il a beaucoup à redouter </l>
+     <l> Un grand danger.</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Mais quel danger ? <stage>( bis. )</stage></p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <p>Monsieur Charles.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Quelle galère !</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <l>Ecoutez bien , écoutez bien,</l>
+     <l> A votre avis je me réfère.</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Pardon ; mais j'ai certaine affaire.</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <l>Heureusement je sais me taire ,</l>
+     <l> Et je finis cet entretien.</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Quel bonheur, enfin je respire !</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <l>Jamais, jamais , quand il le faut,</l>
+     <l> De parler je n'ai le défaut.</l>
+     <l> Chaque jour j'observe</l>
+     <l> Des gens sans réserve , </l>
+     <l> Sans discrétion ,</l>
+     <l> Chaque jour j'observe</l>
+     <l> Des gens sans réserve, </l>
+     <l> Pour moi , mon voisin.</l>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <l>Je parle , je parle , je parle ,</l>
+     <l> Je parle, je parle ;</l>
+     <l> Mais c'est pour le bien du prochain</l>
+     <l> Chaque jour j'observe , etc.</l>
+     <stage>( Comme ci-dessus. )</stage>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <l>Oui , je le dis tout haut,</l>
+     <l> Oui , trop parler est un défaut.</l>
+     <l>Comme vous j'observe</l>
+     <l> Des gens sans réserve ,</l>
+     <l> Des gens sans réserve , [ss bis.</l>
+     <l> A qui l'on dit envain :</l>
+     <l> Se taire, oui se taire.</l>
+     <l> C'est faire , c'est faire</l>
+     <l> Le bien du prochain. </l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>CHARLES, </speaker>
+     <stage>la conduisant.</stage>
+     <l>Vraiment, vraiment, dame Bertrand ,</l>
+     <l> J'ai bien affaire en ce moment.</l>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>MAD. BERTRAND, </speaker>
+     <stage>revenant.</stage>
+     <p>Je sais que vous avez affaire.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Ah ! oui vraiment, beaucoup affaire.</p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <p>Heureusement je sais me taire.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>C'est vertu que savoir se taire. <stage>bis.</stage></p>
+    </sp>
+    <sp who="#TDP1544_8">
+     <speaker>Mad. Bertrand.</speaker>
+     <l>Jamais , jamais, quand il le faut ,</l>
+     <l> De parler ja n'ai le défaut, </l>
+     <l> Chaque jour j'observe</l>
+     <l> Des gens sans réserve , etc.</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Je le vois bien , je le vois bien.</p>
+     <stage>( Charles conduit madame Bertrand. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène XIII.</head>
+    <stage>ROSE, CHARLES.</stage>
+
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Tu arrives fort à propos. Je viens de soutenir un assaut.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Je me disais , en travaillant auprès de ma mère, il y a là un pauvre auteur qui est sur les
+      épines.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Tu avais bien raison , je suis dans une inquiétude !</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Mal fondée , j'en suis sûre. J'ai meilleure opinion de toi que toi même. Ne t'avais-je pas
+      prédit le succès de ton dernier ouvrage ? L'événement a justifié ma prédiction.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Si la fortune est inconstante, c'est principalement pour les auteurs.</p>
+     <stage>Air : <title>J'ai vu partout dans mes voyages.</title></stage>
+     <l>Cette versatile déesse ,</l>
+     <l> Se moque de tous nos projets !</l>
+     <l> Elle nous donne, la traîtresse,</l>
+     <l> Mille revers pour un succès.</l>
+     <l> A la girouette folâtre</l>
+     <l> On la compare assez souvent ;</l>
+     <l> Mais elle est, sur tout au théâtre,</l>
+     <l> Prête à tourner au moindre vent.</l>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Si cette folle divinité t'abandonne, il est quelqu'un qui ne t'abandonnera jamais.</p>
+     <stage>Air : <title>Romance de Sophie.</title></stage>
+     <l>Si, poursuivant quelques suffrages ,</l>
+     <l> Tu trouves peines et revers,</l>
+     <l> Loin du monde et de ses orages,</l>
+     <l> Mon cœur sera ton univers</l>
+     <l> Auprès d'une sœur , d'une amie,</l>
+     <l> Sont le vrai bonheur etla paix,</l>
+     <l> Là, tous les momens de ta vie,</l>
+     <l> Seront marqués par des succès.</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Voici Georges qui revient de chez M. de Voltaire,</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène XIV.</head>
+    <stage>ROSE, GEORGES, CHARLES.</stage>
+
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Tu as mis assez de temps pour faire ta commission.</p>
+    </sp>
+    <sp who="#TDP1544_9">
+     <speaker>Georges.</speaker>
+     <p>Ce n'est pas ma faute . . . Je suis arrivé comme on venait de se mettre à table.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Parce que tu te seras amusé en route.</p>
+    </sp>
+    <sp who="#TDP1544_9">
+     <speaker>Georges.</speaker>
+     <p>Attendez donc. Le maître de la maison qui a l'air <title>d'un bon vivant, a dit, en me voyant, vaut
+      mieux tard que jamais , et aussitôt il a ouvert le pâté , après m'avoir dit d'attendre un
+      moment. Il est entré dans son cabinet où il est resté plus d'une grande demi-heure, et quand
+      il en est sorti, tiens , me dit-il , en me donnant un écu pour boire , remets cette lettre à
+      celui qui t'envoie.</title></p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Tu as une lettre ? que ne le disais-tu donc ? Où est-elle ?</p>
+    </sp>
+    <sp who="#TDP1544_9">
+     <speaker>Georges.</speaker>
+     <p>La voici.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Je m'en empare. <stage>( A Georges. )</stage> C'est bon , retire toi.</p>
+    </sp>
+    <sp who="#TDP1544_9">
+     <speaker>Georges.</speaker>
+     <p>Y aura-t-il quelque chose à porter demain chez ce Monsieur là ? <stage>( Il sort.
+      )</stage></p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose </speaker>
+     <stage>a décacheté la lettre. Elle lit.</stage>
+     <p>« J'ai reçu , mon cher Favart, le pâté délicieux que » vous m'avez envoyé. Les excellentes
+      choses qu'il contenait, ont tellement excité mon appétit, que j'ai tout dévoré, excepté
+      cependant les vers charmans, mais peu mérités , qui accompagnent votre envoi. J'y réponds à la
+      hâte, et je vous demande grâce pour la réponse. »</p>
+     <p>Des vers , mon frère , écoute , écoute.</p>
+     <stage>Air : <title>En deux moitiés, dit-on le sort.</title></stage>
+     <l>Lorsque de ce tableau charmant</l>
+     <l> J'ai vu la grâce enchanteresse,</l>
+     <l> Transporté par le sentiment ,</l>
+     <l> Je me suis dit dans mon ivresse :</l>
+     <l> « L'auteur de cet aimable écrit,</l>
+     <l> » Qui dans tous les temps saura plaire ,</l>
+     <l> » Faisait la Chercheuse d'Esprit,</l>
+     <l> » Et n'en cherchait pas pour la faire. »</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>CHARLES, </speaker>
+     <stage>essuyant une larme.</stage>
+     <p>Donne moi cette lettre.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Non pas, s'il vous plaît ; elle ne me qnittera plus.</p>
+    </sp>
+    <sp who="#TDP1544_9">
+     <speaker>Georges, </speaker>
+     <stage>accourant.</stage>
+     <p>V'là un Monsieur tout doré qui descend de voiture , et qui demande M. Favart.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Je te laisse avec lui, et je vais rejoindre ma mère.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène XV.</head>
+    <stage>LE FINANCIER, CHARLES.</stage>
+
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Pourrais-je parler à M. Favart, auteur de la pièce nouvelle?</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles, </speaker>
+     <stage>étonné et embarrassé.</stage>
+     <p>Auteur de la pièce nouvelle ! . . . Oui . . . oui, Monsieur, je vais l'avertir.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Ne le dérangez pas , je l'attendrai.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Point du tout , Monsieur, vous allez le voir . . . . <stage>( Avec timidité, )</stage>
+      Monsieur vient peut-être de l'Opéra-Comique ?</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Dites , je vous prie , à M. Favart que c'est M. de la Popelinière, fermier-général, qui
+      désire lui parler.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Oui, monsieur. <stage>( A part. )</stage> Un fermier général! que peut-il me vouloir? allons
+      nous mettre en état de le recevoir plus décemment. <stage>( Il sort. )</stage></p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène XVI.</head>
+
+    <sp who="#TDP1544_10">
+     <speaker>LE FINANCIER, </speaker>
+     <stage>seul</stage>
+     <p>Je brule du désir de connaître l'auteur de la jolie pièce que l'on vient de représenter ;
+      j'en suis encore enchanté ! Quelle grâce ! quelle naïveté ! est-il croyable que ce soit un
+      pâtissier qui ait fait un pareil ouvrage ! S'il n'est pas heureux, je lui ferai du bien. Qu'il
+      est doux d'avoir de la fortune, quand on trouve de telles occasions de la répandre! aimer,
+      jouir, obliger sur tout, quel plus doux emploi de la vie?</p>
+     <stage>Air : <title>S'il est vrai que d'être deux. ( De Boyeldieu. )</title></stage>
+     <l>Quand mes jours seront tissus</l>
+     <l> Par la froide indifférence ,</l>
+     <l> Quand mon cœur ne battra plus</l>
+     <l> Au doux mot de bienfaisance ,</l>
+     <l> Au monde ainsi qu'aux amours ,</l>
+     <l> Je veux dire adieu pour toujours.</l>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène XVII.</head>
+    <stage>M. FAVART, LE FINANCIER.</stage>
+
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart, </speaker>
+     <stage>en fredonnant un refrain de la Chercheuse d'Esprit.</stage>
+     <p>Ah ! monsieur, mille pardons , je n'avais pas l'honneur de vous voir.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Est-ce à M.Favart que j'ai l'avantage de parler ?</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>A lui-même, monsieur.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Ma visite un peu brusque vous surprendra peut-être ; mais je n'ai pu résister au désir de
+      vous faire mon compliment sincère.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>A moi, monsieur! par où ai-je pu mériter?</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Votre ouvrage est charmant. <stage>( A part. )</stage> On me l'avait dit-plus jeune.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Mon ouvrage ! <stage>( A part. )</stage> Est-ce de ma chanson qu'il veut parler ? <stage>(
+      Haut. )</stage> Cela ne vaut pas la peine.....</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Que dites-vous ? votre pièce se jouera encore dans plusieurs siècles , et sera toujours vue
+      avec le même intérêt.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart, </speaker>
+     <stage>étonné.</stage>
+     <p>Ma pièce !</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Oui, votre pièce que je viens d'applaudir, de tout mon cœur , à l'Opéra-Comique.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>En voici bien d'une autre! monsieur, vous êtes dans l'erreur.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Non , non: je suis bien instruit... je sais d'ailleurs que ce n'est ni votre premier
+      ouvrage, ni votre premier succès.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Je puis vous assurer....</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Quelle obstination !</p>
+     <stage>Air <title>du Vaud. de la Danse Interrompue.</title></stage>
+     <l>Qu'un mince auteur , redoutant la critique ,</l>
+     <l> Ait le projet de se faire oublier ,</l>
+     <l> Assez souvent, sa muse peu comique,</l>
+     <l> Devrait garder le secret tout entier :</l>
+     <l> Mais que Favart de mystère se pique,</l>
+     <l> L'œuvre toujours trahira l'ouvrier.</l>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <l>Dans mon métier, de talent je me pique ,</l>
+     <l> Et je le dis sans me faire prier ,</l>
+     <l> L'incognito ne vaut rien en boutique,</l>
+     <l> Dans mon secret je mets tout le quartier;</l>
+     <l> Il vole , il va de pratique en pratique ,</l>
+     <l> Et l'œuvre ainsi fait vivre l'ouvrier.</l>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Vous cherchez à me donner le change : au fait , mes éloges à moi , ne sont pas stériles ,
+      j'applaudis au talent et j'aime à l'encourager , ma fortune et ma place, me mettent à même de
+      vous rendre quelques services.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>C'est trop de bonté, monsieur ; d'abord je n'ai besoin de rien, ensuite je ne dois rien
+      accepter de ce que vous offrez à l'auteur de la pièce nouvelle.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Quoi! vous n'avouez pas encore?</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Je sors comme vous de l'Opéra-Comique, enchanté de la pièce , et fâché contre l'auteur, qui
+      malgré le vœu du parterre , a voulu garder l'anonyme.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>J'espère qu'il ne le gardera pas plus long-temps, avec moi. <stage>( mystérieusement
+      )</stage></p>
+     <p>Je tiens son nom du directeur lui-même, qui me l'a confié sous le secret.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Il y a du quiproquo dans tout ceci, et les billets de ce matin.... Ma foi, je n'y comprends
+      plus rien.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène XVIII.</head>
+    <stage>M. FAVART, LE FINANCIER, CHARLES habillé, entre assez vite.</stage>
+
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Ah ! ciel mon père !</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Que veut dire cette toilette? es-tu prié de quelque bal , ce soir ?</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Mon père , c'est que....</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>C'est que monsieur, au lieu de travailler , pendant mon absence , songe à se parer. Puis-je
+      au moins en connaître le motif?</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Vous étiez sorti, et je n'ai pas voulu recevoir monsieur, dans mes habits de travail.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Belle vanité, monsieur mon fils! ne sait-on pas bien ce que c'est que la toilette d'un
+      garçon pâtissier. <stage>( Au financier. )</stage> Mille pardons, monsieur....</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Ce jeune homme est votre fils?</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Oui, monsieur , un fainéant, comme vous voyez.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>LE FINANCIER, </speaker>
+     <stage>à part.</stage>
+     <p>Me serais-je trompé, le père a l'air <title>d'assez bonne foi : tâchons de savoir ce qui en est.
+      </title><stage>( A Charles. )</stage> Jeune homme, avez-vous de la vocation pour l'état de monsieur
+      votre père ?</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>CHARLES, </speaker>
+     <stage>n'osant se livrer.</stage>
+     <p>Monsieur...</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Ah! mon dieu, pas la moindre ; monsieur ne s'est-il pas avisé de vouloir faire des
+      études.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Je ne vois pas grand mal à cela.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Par complaisance, je l'ai mis dans un collège où il a fait merveilles ; je lui rends
+      justice, depuis qu'il en est sorti, je le destine à me succéder; hé bien ! au lieu de me
+      seconder, monsieur ne s'occupait que de livres, d'écritures ; mais j'y ai mis bon ordre.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Voilà le mal, il ferait un bon littérateur, et fera peut-être un fort mauvais
+      pâtissier...</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles, </speaker>
+     <stage>bas au financier.</stage>
+     <p>Ah ! monsieur, vous avez bien raison.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier, </speaker>
+     <stage>à part.</stage>
+     <p>Je crois tenir mon auteur. <stage>( A Charles. )</stage> Ne vous est-il jamais venu dans
+      l'idée de travailler pour le théâtre?</p>
+     <stage>( Charles , avant de répondre, regarde s'il peut le faire , sans être entendu de son
+      père. )</stage>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Ah ! parbleu je voudrais bien voir cela.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier, </speaker>
+     <stage>à M. Favart.</stage>
+     <p>Laissez . . . <stage>( A Charles, en l'observant avec attention. )</stage> On a donné ce
+      soir à l'Opéra-Comique une pièce à laquelle on met le nom de Favart.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>CHARLES, </speaker>
+     <stage>bas , d'un air <title>timide.</title></stage>
+     <p>A-t-elle eu du succès , Monsieur ?</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier, </speaker>
+     <stage>de même.</stage>
+     <p>L'ouvrage ....</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles, </speaker>
+     <stage>vivement et avec douleur.</stage>
+     <p>Est tombé?</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Bien au contraire.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>CHARLES, </speaker>
+     <stage>avec un éclat de joie.</stage>
+     <p>Il à réussi !</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier, </speaker>
+     <stage>à part.</stage>
+     <p>C'est lui.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Il a été aux nues.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Ah ! je respire.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier, </speaker>
+     <stage>à part.</stage>
+     <p>Je ferai du bien à ce jeune homme , il le mérite à tous égards.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène XIX.</head>
+    <stage>M. PERRAULT, M. FAVART , LE FINANCIER, Charles.</stage>
+    <p>M. PERRAULT.</p>
+    <p>Je tombe de surprise en surprise. J'entends dire partout que tu es l'auteur de la pièce
+     nouvelle. Je crois en vérité que tout le monde est fou.</p>
+
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Vous me le feriez devenir moi-même.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier, </speaker>
+     <stage>à Charles, avec qui il n'a cessé de causer.</stage>
+     <p>Mon ami , je vous demande votre confiance , je veux la mériter.</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Ah ! Monsieur , que de bontés !</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène XX.</head>
+    <stage>M. PERRAULT, M. FAVART, LE FINANCIER , CHARLES, Mad. FAVART, ROSE.</stage>
+
+    <sp who="#TDP1544_5">
+     <speaker>Mad. Favart.</speaker>
+     <p>Monsieur Perrault ici ? Qu'y a-t-il donc de nouveau ?</p>
+     <stage>( Elle fait la révérence à M. de la Popelinière. )</stage>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. Perrault.</speaker>
+     <p>C'est votre mari qui nous met ainsi tous en rumeur, il s'avise de faire des Opéras comiques
+      , qui font courir tout Paris. <stage>( Auguste parait au fond du théâtre. )</stage></p>
+    </sp>
+    <sp who="#TDP1544_5">
+     <speaker>Mad. Favart.</speaker>
+     <p>Mon mari?</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Sa modestie l'émpêche d'en convenir.</p>
+    </sp>
+    <sp who="#TDP1544_5">
+     <speaker>Mad. favart.</speaker>
+     <p>Allons donc , c'est une plaisanterie, mon mari fait fort bien la pâtisserie, les échaudés
+      surtout; mais pour des comédies....</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Ah çà , définitivement, es-tu, ou n'es-tu pas l'auteur?</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart, </speaker>
+     <stage>impatienté.</stage>
+     <p>Eh ! non, non, non , mille fois non.</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>Scène XXI et dernière</head>
+    <stage>M. PERRAULT , M. FAVART, LE FINANCIER, CHARLES, ROSE, Mad. FAVART, AUGUSTE.</stage>
+
+    <sp who="#TDP1544_3">
+     <speaker>Auguste, </speaker>
+     <stage>accourant.</stage>
+     <p>Place ! place ! vous voilà tous bien embarassés, vous cherchez l'auteur de la pièce
+      nouvelle, et moi je l'embrasse. <stage>( Il saute au cou de Charles. )</stage></p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart, </speaker>
+     <stage>étonné.</stage>
+     <p>Charles !</p>
+    </sp>
+    <sp who="#TDP1544_5">
+     <speaker>Mad. Favart.</speaker>
+     <p>Mon fils ?</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Lui-même.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Je n'en reviens pas....</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. Perrault, </speaker>
+     <stage>à Auguste.</stage>
+     <p>D'où sais-tu ?...</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>J'étais dans la confidence; mais avant de vous expliquer cela, voici ce que vient d'apporter
+      un commissionnaire qui attend une réponse.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart, </speaker>
+     <stage>décachète la lettre, et lit :</stage>
+     <p>« Monsieur, je suis chargé, comme correspondant de l'Académie des jeux Floraux de Toulouse,
+      de vous offrir le prix de cette année , remporté par votre poème de la France Délivrée.
+      <stage>( S'interrompant. )</stage> Autre quiproquo. <stage>( Il continue. )</stage></p>
+     <p>» Recevez , en conséquence , la violette d'argent que j'ai l'honneur de vous adresser , et
+      mille écus ajoutés au prix de cette année, par un inconnu.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Mille écus!</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>On m'a volé celui-là.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart, </speaker>
+     <stage>à Charles.</stage>
+     <p>Est-ce encore toi, qui t'avises de faire des poëmes ?</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>C'est une esquisse....</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>Rose.</speaker>
+     <p>Qui vaut un tableau.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Grondez-le donc si vous en avez le courage.</p>
+    </sp>
+    <sp who="#TDP1544_3">
+     <speaker>Auguste.</speaker>
+     <p>En ce cas, je remets le tout à son véritable propriétaire. Bravo Charles ; de mieux en
+      mieux.</p>
+     <stage>Air <title>du Vaud. de Jean Monnet.</title></stage>
+     <l>Des jeux où Flore préside ,</l>
+     <l> Lorsqu'elle t'offre le prix ,</l>
+     <l> De son choix elle eut pour guide</l>
+     <l> Le charme de tes écrits.</l>
+     <l> Sur quel front</l>
+     <l> Pourrait-on</l>
+     <l> Mieux placer une couronne,</l>
+     <l> Quand c'est Flore qui la donne</l>
+     <l> Aux fleuristes d'Apollon.</l>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart, </speaker>
+     <stage>à Charles.</stage>
+     <p>Ma foi, je commence à croire que ton état vaut mieux que le mien , mille écus , c'est une
+      somme !</p>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles, </speaker>
+     <stage>la donnant à Rose.</stage>
+     <p>C'est le dot de ma soeur chérie.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier , </speaker>
+     <stage>à part</stage>
+     <p>Des talens et un bon cœur !</p>
+    </sp>
+    <sp who="#TDP1544_5">
+     <speaker>Mad. Favart.</speaker>
+     <p>Je te reconnais bien là.</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. Perrault.</speaker>
+     <p>Voilà un trait qui me fait plaisir.</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier, </speaker>
+     <stage>à Charles</stage>
+     <p>Mon ami , gardez bien cette violette, elle est le prix du talent modeste, cela ne se voit
+      pas tous les jours.</p>
+     <stage>Air <title>du Vaud. des Amans sans Amour.</title></stage>
+     <l>Quand à Favart, pour récompense</l>
+     <l> On donne la plus humble fleur,</l>
+     <l> Cette fleur, j'en ai l'assurance ,</l>
+     <l> N'est l'emblème que de son cœur.</l>
+     <l> En ce moment je suis prophète ,</l>
+     <l> Gardez-vous bien de l'oublier :</l>
+     <l> On verra cette violette</l>
+     <l> Se changer un jour en laurier.</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <p>Voila bien du bonheur pour une journée; mais il ne serait d'aucun prix pour moi sans celui
+      de ma sœur et de mon ami. <stage>( A M. Perrault. )</stage> Monsieur....</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier, </speaker>
+     <stage>à part.</stage>
+     <p>Ah ! ah ! je vois ce que c'est.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart, </speaker>
+     <stage>à M. Perrault.</stage>
+     <p>Allons, un bon mouvement, seras-tu le seul qui ne contribueras pas à la joie que nous
+      éprouvons ?</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. Perrault.</speaker>
+     <p>Je ne vois pas pourquoi je renoncerais à mes projets, sur mon fils.... D'ailleurs sa
+      fortune....</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>N'est-ce que cela, monsieur ? J'ajoute cinq cents louis , aux mille écus de Charles , et je
+      vous demande votre consentement, comme une grâce dont je vous aurai une obligation
+      personnelle.</p>
+    </sp>
+    <sp who="#TDP1544_13">
+     <speaker>Auguste et Rose, </speaker>
+     <stage>au financier.</stage>
+     <p>Comment reconnaître jamais?</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Point de remercimens. <stage>( à M. Perrault. )</stage> Je me charge en outre de placer
+      avantageusement monsieur votre fils.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart, </speaker>
+     <stage>à M. Perrault.</stage>
+     <p>Qu'as-tu à répondre à cela?</p>
+    </sp>
+    <sp who="#TDP1544_7">
+     <speaker>M. PERRAULT.</speaker>
+     <p>Rien.</p>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. Favart.</speaker>
+     <p>Vivat! pour finir dignement la journée, on soupe ici. <stage>( Au financier. )</stage>
+      Monsieur....</p>
+    </sp>
+    <sp who="#TDP1544_10">
+     <speaker>Le Financier.</speaker>
+     <p>Vous n'osez me prier, moi je m'invite. <stage>( Montrant Charles. )</stage> Et voilà le
+      saint du jour.</p>
+     <stage>Air <title>de M. Doche.</title></stage>
+     <l>Esprit sans art,</l>
+     <l> Grâce sans fard,</l>
+     <l> Douce et fine saillie ,</l>
+     <l> Gaîté naïve de Favart,</l>
+     <l> Voilà, voilà la comédie</l>
+    </sp>
+    <sp who="#TDP1544_2">
+     <speaker>Charles.</speaker>
+     <l>Doux prix de mes premiers essais ,</l>
+     <l> A plus d'un coeur tu rends la paix.</l>
+     <l> Fleur modeste , et pour moi bien chère ,</l>
+     <l> Malgré les plus simples attraits,</l>
+     <l> Pour tous les heureux que tu fais ,</l>
+     <l> Des fleurs tu deviens la première.</l>
+    </sp>
+    <sp who="#TDP1544_14">
+     <speaker>TOUS.</speaker>
+     <l>Esprit sans art , etc.</l>
+    </sp>
+    <sp who="#TDP1544_4">
+     <speaker>M. FAVART.</speaker>
+     <l>Te voilà donc auteur fameux,</l>
+     <l> Mais le succès est-il douteux ,</l>
+     <l> Lorsque l'on sort de bonne souche.</l>
+     <l> Imite-moi, je le soutiens ,</l>
+     <l> Tes ouvrages comme les miens ,</l>
+     <l> Seront un jour dans chaque bouche,,</l>
+    </sp>
+    <sp who="#TDP1544_14">
+     <speaker>TOUS.</speaker>
+     <p>Esprit sans art, etc.</p>
+    </sp>
+    <sp who="#TDP1544_6">
+     <speaker>ROSE, </speaker>
+     <stage>au Public.</stage>
+     <l>A la nature, à l'amitié,</l>
+     <l> Ce faible ouvrage est dédié ;</l>
+     <l> Grâce pour une bagatelle,</l>
+     <l> Notre bonheur sera complet,</l>
+     <l> Si du feu dont Favart brûlait,</l>
+     <l> Vous y trouvez uneétincelle.</l>
+    </sp>
+    <sp who="#TDP1544_14">
+     <speaker>TOUS.</speaker>
+     <p>Esprit sans art, etc.</p>
+    </sp>
+   </div>
+
+   <trailer>FIN.</trailer>
+
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,4569 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2838">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les tracasseries ou Monsieur et Madame Tatillon: TEI edition (Wicks no. 2838)</title>
+    <author>L. E. Picard</author>
+    <respStmt>
+     <resp>HTML version by</resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI version by</resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <p>The Digital Parisian Stage Corpus is freely available from a GitHub
+   repository at <ref target="https://github.com/grvsmth/theatredeparis"/></p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images available from <ref target="http://www.google.com/books?id=VmoQDS2KV7kC"/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2838tracasseries.html"/></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
+   <change when="2023-07-22">Hand-edited</change>
+   <change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>LES TRACASSERIES, ou MONSIEUR ET MADAME TATILLON, COMÉDIE EN QUATRE ACTES et en
+      prose; </titlePart>
+    </docTitle>
+    <byline>Par <docAuthor>L. B. Picard</docAuthor>.</byline>
+    <titlePart>Représentée pour la première fois , à Paris ; sur le Théâtre de l'Impératrice, rue de
+     Louvois , par les Comédiens ordinaires de sa Majesté , le 6 Messidor an XII. ( 25 Juin, 1804.) </titlePart>
+    <titlePart>Prix , 1 fr. 5o c. </titlePart>
+    <docImprint>A PARIS, Chez Mme. MASSON, Libraire, Editeur de Pièces de Théâtre, rue de l'Echelle,
+     No. 558, au coin de celle St.-Honoré. </docImprint>
+    <docDate>An XII. (1804.)</docDate>
+   </titlePage>
+
+   <set>
+    <p> La Scène se passe dans un Bourg. </p>
+   </set>
+
+   <p>Nota. Les Acteurs sont en tête de chaque scène , tels qu'ils doivent être placés au Théâtre,
+    le premier tient la droite des Acteurs. </p>
+
+   <p>AVIS. Il n'y a d'Edition avouée par l'Auteur, que celle dont les exemplaires sont signés par
+    l'Editeur. Il poursuivra les contrefacteurs , conformément à la loi. </p>
+
+
+   <castList>
+    <head> PERSONNAGES. ACTEURS. </head>
+
+    <castItem><role n="TDP2838_3">M. TATILLON.</role><actor>M. Vigny.</actor></castItem>
+    <castItem><role n="TDP2838_11">Mad. TATILLION</role><actor>Mlle Molière.</actor></castItem>
+    <castItem><role n="TDP2838_8">M. GERVAULT, Notaire.</role><actor>M. Picard aîné.</actor></castItem>
+    <castItem><role n="TDP2838_7">Mad. GERVAULT.</role><actor>Mad. Pèlicier.</actor></castItem>
+    <castItem><role n="TDP2838_4">CHARLES, leur Fils.</role><actor>M. Valcour.</actor></castItem>
+    <castItem><role n="TDP2838_9">M. DESJARDINS , Marchand.</role><actor>M. Bosset.</actor></castItem>
+    <castItem><role n="TDP2838_6">Mad. Desjardins.</role><actor>Mad. Molé Légé.</actor></castItem>
+    <castItem><role n="TDP2838_5">CECILE, leur Fille.</role><actor>Mlle. Adeline.</actor></castItem>
+    <castItem><role n="TDP2838_10">M. GRANVILLE, Marchand forain.</role><actor>M. Dorsan.</actor></castItem>
+    <castItem><role n="TDP2838_12">Mad. LAMBERT, Marchande.</role><actor>Mlle. Delisle.</actor></castItem>
+    <castItem><role n="TDP2838_1">THOMAS, Aubergiste</role><actor>M. Picard jeune</actor></castItem>
+    <castItem><role n="TDP2838_2">GABRIEL, Valet de M. Thomas.</role><actor>M. Rousselle.</actor></castItem>
+    <castItem><role>Un Porteur.</role><actor/></castItem>
+
+   </castList>
+  </front>
+  <body>
+
+
+   <head>LES TRACASSERIES, ou MONSIEUR ET MADAME TATILLON, COMÉDIE. </head>
+   <stage>Le Théâtre représente la place publique d'un gros Bourg; d'un coté, l'auberge de M.
+    Thomas, avec cette enseigne: Aux bons Amis , Thomas, Aubergiste, loge a pied et à cheval ; de
+    l'autre, la boutique de M. Desjardins, avec cette enseigne : A la bonne Foi, Desjardins,
+    marchand de draps. Plus loin , la maison de M. Gervault, avec cette inscription, Gervault,
+    Notaire.</stage>
+
+   <div type="scene">
+
+    <head>ACTE PREMIER.</head>
+    <div type="scene">
+     <head>SCÈNE PREMIÈRE.</head>
+     <stage>GABRIEL, THOMAS.</stage>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas </speaker>
+      <stage>( sortant de la maison , apportant une table et deux chaises. )</stage>
+      <p>Hé, Gabriel ?</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel, </speaker>
+      <stage>( en dedans. )</stage>
+      <p>On y va.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Allons donc; il est six heures et le quart, voilà déjà tous les petits marchands de la
+       foire installés et à leurs affaires ; songeons aux nôtres : la petite chambre verte sur la
+       rivière pour la veuve Lambert, cette jolie marchande que tu as vue l'année dernière ; le
+       numéro six pour monsieur Granville le marchand de toiles, qu'elle appelle son compère : ils
+       arriveront tous les deux ce matin. A la chaise de poste arrivée
+       <pb n="4"/> d'hier au soir , du thé et des rôties ; va ouvrir , au numéro huit , chez ces
+       rouliers qui sont partis avant le jour. Vois si on est éveillé au numéro cinq. Le couvert au
+       grand salon pour le repas d'accordailles de nos voisins , quoiqu'on ne doive se mettre à
+       table qu'à trois heures , ce qui est fait n'est plus à faire , entends-tu ?</p>
+      <stage>(Il va , vient, sort de la maison, rentré, range , s'occupe. )</stage>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Oui, Monsieur</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE II.</head>
+     <stage>TATILLON, THOMAS.</stage>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( en voyageur, arrivant par le fond. )</stage>
+      <p>Un très-joli endroit: on me l'avait dit, et je l'avais deviné sur la carte ; quoiqu'en
+       puisse dire madame Tatillon, c'est ici que je veux m'établir; ils appellent cela une ville,
+       c'est tout au plus un petit bourg, tant mieux ; la société y est charmante , m'a-t-on dit ;
+       je n'y connais personne , mais j'aurai bien vite fait connoissance; je suis sûr d'ailleurs
+       d'y trouver quelques amis, quelques parents , ou quelqu'ami de mes amis. J'en ai tant.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas </speaker>
+      <stage>( avec sa canne et son chapeau. )</stage>
+      <p>Or ça maintenant, j'ai à courir pour le repas des voisins.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Il ne s'agit que d'aborder et d'interroger avec franchise le premier venu. Justement ;
+       Monsieur, monsieur?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas </speaker>
+      <stage>( se retournant. )</stage>
+      <p>Qu'est-ce que c'est ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Monsieur , j'ai bien l'honneur de vous saluer.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Votre serviteur , monsieur : qu'y a-t-il pour votre service ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Voudriez-vous avoir la complaisance de m'accorder un moment d'entretien ?</p>
+      <pb n="5"/>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Pardon , monsieur , mais j'ai beaucoup d'affaires.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Oui, vous avez une foire aujourd'hui, à ce qu'il paraît ; c'est un moment de crise pour les
+       habitants , mais ils ne s'en plaignent pas : cela met de l'argent dans le pays.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Au fait , monsieur, je vous en prie.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Monsieur est un habitant de ce village, de cette ville, veux-je dire. Monsieur, je me nomme
+       Tatillon; j'habitais la ville qui est à douze lieues d'ici environ ; je jouis d'une certaine
+       aisance ; j'ai une femme que j'adore ; pourquoi? c'est que son caractère sympatlse
+       parfaitement avec le mien, et c'est bien la base du parfait bonheur en ménage , vous en
+       conviendrez.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Oui , sans doute.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Monsieur, des circonstances que je vous détaillerai me font quitter mon pays ; on y est
+       méchant, tracassier , curieux , indiscret et bavard , et comme ces défauts sont mon
+       antipathie, comme d'ailleurs mes propriétés se trouvent situées dans le voisinage , j'ai
+       résolu de me fixer dans votre village : pardon , je me trompe toujours, c'est dans votre
+       ville que je voulais dire.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Monsieur, j'aime à croire que cela sera fort heureux pour la ville ou le village , comme
+       vous voudrez ; mais voulez-vous bien permettre ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Un mot encore , s'il vous plaît, nous sommes partis hier dans ma chaise, avec un cheval à
+       moi, sans domestique, sans postillon ; car sans me flater , je ne conduis pas mal, et
+       d'ailleurs mon cheval me connaît ; nous avons couché à deux lieues d'ici , dans un petit
+       hameau , où nous aurions été bien plus mal traités , si je ne m'étois pas un peu mêlé de la
+       cuisine. Ma femme se sentoit quelque répugnance pour votre pays; sans lui rien dire, je suis
+       parti ce matin à pied, et tout en me promenant, je viens prendre des ren-
+       <pb n="6"/> seignemens sur les mœurs, le caractère des habitans ; je vous rencontre, votre
+       physionomie me prévient en votre faveur , et je vous prie de vouloir bien m'aider, me guider
+       dans mes observations, parce qu'avant tout, point de tracasseries , point de caquets, ou je
+       ne reste point chez vous.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Ma foi, monsieur, vous vous adressez mal ; j'ai, grâce au ciel, un état qui m'occupe assez
+       pour ne pas me laisser le temps d'examiner la conduite et d'observer le caractère de mes
+       voisins ; je les trouve quand j'ai besoin d'eux, comme ils me trouvent quand ils ont besoin
+       de moi ; et au lieu de m'amuser à chercher quelles sont leurs bonnes ou mauvaises qualités,
+       je jouis des unes et je leur passe les autres presque sans m'en apercevoir ; ils agissent de
+       même à mon égard ; et comme il n'y a personne d'oisif dans le pays, tout le monde vous y fera
+       à peu près la même réponse. Je vous souhaite bien le bonjour.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Un moment, de grâce, monsieur. Votre réponse me décide plus que tous les détails que vous
+       pourriez me donner; point d'oisifs , je ne le serai pas non plus, je vous en réponds ; ce
+       n'est pas que j'aie tout-à-fait votre caractère , c'est un bonheur pour moi que de savoir les
+       sentiments , les opinions, les aventures des personnes. Plus d'une fois je me suis surpris
+       dans un lieu public, dans un café, dans un spectacle, ( car je n'ai pas toujours habité mon
+       pays ), écoutant, recueillant les conversations, donnant des conseils selon ma conscience ;
+       c'est curiosité peut-être , mais c'est surtout désir d'obliger : on peut avoir votre
+       caractère sans être égoïste, comme on peut avoir le mien sans être tracassier. Mais, pardon,
+       je vous retiens. Faites-moi le plaisir de m'indiquer une auberge où je puisse loger , en
+       attendant que j'aie trouvé une maison convenable.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Mais si tous ne connaissez personne, je vous indiquerai là mienne que voilà.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Quoi ! vous seriez...... <stage>( lisant l'enseigne. )</stage> <quote>aux bons amis....</quote>
+       enseigne touchante , je veux être des vôtres.</p>
+      <pb n="7"/>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Monsieur.....</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Non , vraiment, votre conversation me plaît , la situation de votre maison est agréable; il
+       paraît que ce sont les gens recommandables de l'endroit qui demeurent sur cette place ,
+       c'est-là que je veux loger : or ça , je ne suis pas difficile , mais comme c'est une surprise
+       que je veux ménager à madame Tatillon , choisissez-moi votre plus jolie chambre , je m'en
+       rapporte absolument à vous : cependant avant d'aller rejoindre ma femme , je serai bien aise
+       de la voir.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas </speaker>
+      <stage>( passant à la droite de Tatillon. )</stage>
+      <p>Rien de si facile <stage>( appellant )</stage> Gabriel ! c'est mon garçon, il vous montrera
+       ma chambre , vous choisirez , pardon, mais je sortais.....</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Vous vous moquez , faites vos affaires , c'est trop juste ; parbleu monsieur Thomas , c'est
+       votre nom , n'est-ce pas ? Je l'ai lu sur votre porte, je suis bien enchanté que ma bonne
+       étoile m'ait adressé à vous.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Trop honnête.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE III.</head>
+     <stage>GABRIEL, THOMAS, TATILLON.</stage>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Gabriel , montre à monsieur toutes les chambres, excepté celles qui sont retenues pour les
+       gens de la foire et sur-tout ne t'amuse point à babiller ; fais tes affaires, sans t'occuper
+       de celles des autres. Monsieur , j' ai l'honneur de vous saluer. <stage>( il sort.
+       )</stage></p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Un très-bon principe qu'il a là, monsieur Thomas !</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE IV.</head>
+     <stage>TATILLON, GABRIEL.</stage>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Monsieur, je suis à vos ordres.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C'est moi qui suis aux vôtres, mon ami ; je ne veux
+       <pb n="8"/> pas vous faire perdre votre tems ; un jour de foire , vous devez avoir bien de
+       l'ouvrage.</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Eh mais ! vraiment, monsieur , nous n'en manquons pas ; n'avons nous pas une noce ,
+       encore.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Une noce !...</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>C'est tout comme. Un repas d'accordailles où ils seront plus de trente à table.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Bah ! qu'est-ce qui se marie donc !</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Eh ! vraiment, Charles Gervault, le fils du notaire qui demeure là.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Le notaire Gervault, celui qui fit le partage , après le décès du propriétaire de ce grand
+       domaine ?</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Ah ! dame ! je ne sais pas.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Cela a fait du bruit jusque chez nous. Un homme très-capable : et qui fait-il épouser à son
+       fils ?</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Mademoiselle Desjardins , la fille du marchand de draps , dont voilà la boutique.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! ah! Desjardins; mais nous devons être alliés. Il y a des Desjardins dans la famille de
+       ma femme.</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Cela se peut bien , et cela fera , ma foi , un gentil ménage ; le jeune homme étudiait à
+       Paris pour être avocat.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! fort bien : il est venu passer ses vacances ici ; c'est le tems.</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Et ne voilà-t-il pas qu'il lui prend unè belle fantaisie de ne plus retourner à Paris, et
+       de prendre tout bonnement la charge de son père.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Et les deux jeunes gens s'aiment bien.</p>
+      <pb n="9"/>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Ils ont été élevés ensembles ; et ce mariage là fait plaisir à tout le monde, parce que
+       d'abord, ça finit des procès qui duraient depuis six mois , entre le père Gervault et le père
+       Desjardins , et que ça accommode de petites querelles entre la mère Desjardins , qui est un
+       peu bavarde , et la mère Gervault qui ne laisse pas d'être un peu fière. Mais qu'est que je
+       fais donc? je babille avec vous , malgré la défense de monsieur Thomas. Au fait, ce mariage
+       là me réjouit ; et puis, ma foi, le naturel l'emporte; moi, je suis né bavarde comme madame
+       Desjardins ; je ne puis pas le cacher.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh bien ! mon ami, c'est quelque chose que d'avouer ses défauts. Ce que vous dites
+       d'ailleurs est bien fait pour interresser tout ce qui porte un cœur... Un mariage
+       d'inclination, qui finit des procès , qui assoupit des querelles , c'est touchant. Parbleu,
+       puisque je suis presque parent des Desjardins, et que je sais apprécier le mérite de monsieur
+       Gervault, le notaire, je ne négligerai pas l'occasion de leur faire agréer mes civilités.</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Tenez, voilà justement le jeune marié, qui sort tout habillé de chez son père. Dame ! on
+       est matinal, des jours comme ceux-là...</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE V.</head>
+     <stage>TATILLON, GABRIEL, CHARLES.</stage>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Ah ! c'est toi , Gabriel ; tu vois un homme au comble de la joie: On n'est pas encore levé
+       chez madame Desjardins ?</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Au moins la porte n'est-elle pas encore ouverte.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>TATILLON, </speaker>
+      <stage>( à part. )</stage>
+      <p>Bon , jeune homme , son air de fête me rappelle des souvenirs bien chers. Quand j'épousai
+       madame Tatillon , j'étais comme cela précisément. <stage>( à Gabriel. )</stage> Mon ami ,
+       présentez-moi donc à ce jeune homme : je serai enchanté de faire connaissance avec lui.</p>
+      <pb n="10"/>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Monsieur Gervault, voilà un monsieur qui vient loger chez nous , et qui serait charme de
+       vous présenter ses complimens.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( passant au milieu. )</stage>
+      <p>Oui, sans doute, monsieur; je suis fait plus qu'un autre pour apprécier votre bon cœur.
+       Vous êtes avocat de Paris : vous excuserez ma rustique éloquence ; et d'ailleurs quand c'est
+       le cœur qui parle...Monsieur, je suis ravi que vous épousiez , après tant de traverses,
+       l'objet que vous n'avez cessé d'aimer.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Monsieur , bien sensible...</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Je sais tout : vous faites à l'amour le sacrifice d'un bel état à Paris , et peut-être de
+       vos propres intérêts ; car enfin , il était possible que monsieur votre père eut raison, dans
+       ce procès contre le père de votre prétendue.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Ma foi, monsieur, quoique ce soit mon état, je vous avoue que je n'ai jamais pu rien
+       comprendre à ce maudit procès. Mais enfin il est arrangé ; mon contrat de mariage avec Cécile
+       , et la transaction entre nos parens ne fera qu'un seul et même acte.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! cela n'est pas tout-à-fait dans la règle.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Comment, monsieur...</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C'est égal ; quand on est bien d'accord... Vous êtes étonné de l'intérêt que je prends...
+       c'est dans mon caractère ; je partage la peine et le bonheur des gens. Monsieur , j'espère
+       que j'aurai le plaisir de vous revoir. <stage>( à Gabriel. )</stage> Venez , mon ami, me
+       montrer la chambre que vous me destinez.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Ah ! l'on ouvre chez monsieur Desjardins ; c'est Cécile.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Est-ce là la mariée? voyons si elle est jolie.</p>
+      <pb n="11"/>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE VI.</head>
+     <stage>GABRIEL , TATILLON, CHARLES , CÉCILE.</stage>
+
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>C'est vous , Charles...</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Cécile.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Elle est charmante...</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Ma mère achève de s'habiller ; mon pèrê se préparé pour la pêche; vous savez que c'est sa
+       passion , et aujourd'hui , surtout , il veut se signaler.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Moi , j'ai laissé le mien qui voulait consulter ma mère et moi , sur les articles. Quel
+       conseil aurais-je pu lui donner ? Je vous épouse; que m'inportent toutes les clauses , tous
+       les arrangement du contrat.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Noble désintéressement ! mademoiselle , que je vous félicite d'avoir inspiré un sentiment
+       profond , à un homme aussi délicat ! cet amour vous honore vous-même, et donne une opinion
+       bien avantageuse, sans parler des grâces que la jeunesse et la beauté... bref, je suis tout
+       attendri du tableau de votre mutuelle inclination.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Monsieur, je vous remercie.. <stage>( à Charles. )</stage> Qu'est-ce que c'est donc que ce
+       monsieur-là ?</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Je ne le connais pas ; mais il fait votre élogé , et je ne peux trouver son compliment
+       indiscret.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Il fait le vôtre, comment ne me plaîrait-il pas ? Voici ma mère.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE VII.</head>
+     <stage>GABRIEL, TATILLON , CHARLES, CÉCILE, Mad. DESJARDINS.</stage>
+
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Ah ! c'est vous , mes enfans ; en vérité ma fille , le voila toute rayonnante et ton futur
+       n'est-il pas
+       <pb n="12"/> charmant ? Ma foi, mon cher avocat, voua avez bien fait, pour nous tous , de
+       venir passer vos vacances avec nous. C'était cruel pour des voisins , de bonnes gens , d'être
+       comme cela sur la reserve. Ta mere est un peu fière ; moi , l'on dit que je suis bavarde : et
+       puis , ce malheureux procès, pour savoir à qui demeurerait le pré qui est au bas du côteau.
+       On avait monté la tête à monsieur Desjardins ; ma pauvre fille séchait sur pied : grâce à toi
+       et aux bons conseils de notre voisin l'aubergiste, tout s'est arrangé. Il est si doux de
+       vivre en bonne intelligence !</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Oh ! sans doute : et comme vous dites , madame , quel dommage, que de bonnes gens comme
+       vous, se trouvassent dans la nécessité des querelles.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Monsieur...</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Vous cherchez où vous m'avez vu, n'est-ce pas? nulle part, et cependant nous ne sommes
+       peut-être pas étrangers l'un à l'autre , madame Desjardins.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Comment donc ?...</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE VIII.</head>
+     <stage>GABRIEL, TATILLON, CHARLES, M. GERVAULT, Mad. GERVAULT , sortant de chez eux, Mad.
+      DESJARDINS, CÉCILE.</stage>
+
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Oui , monsieur Gervault ; il ne nous convient pas d'être mesquins. En fait de procédés , je
+       ne veux jamais rester en arrière : vu la dot que monsieur Desjardins donne à sa fille , nous
+       devons porter le douaire à dix mille francs.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Eh ! mais , madame Gervault, c'était si bien mon intention , que les dix mille francs sont
+       écrits sur ma minute.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>A la bonne heure. Ah ! bonjour ma voisine ; bonjour ma chère Cécile. <stage>( Elle passe
+       près de Charles. )</stage></p>
+      <pb n="13"/>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C'est le père et la mère du jeune homme... un air fort respectable.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Eh ! bien , voisine ; nous les marions donc enfin , ces chers enfans. Ah ! ça , quoique ce
+       ne soit pas encore la noce , nous danserons , j'espère , je vous retiens pour la
+       première.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Il paraît fort gai , le père Gervault...</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Beaucoup d'honneur que vous me ferez mon voisin ; je voudrais que mon mari fût là pour vous
+       rendre le réciproque.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Et sans le connoître encore , j'oserois bien gager qu'il n'y manqueroit pas. <stage>( à M.
+       Gervault. )</stage> Monsieur Gervault veut-il bien me permettre de lui témoigner le plaisir
+       que j'éprouve de saluer un homme, dont la réputation de science et d'intégrité s'est répandue
+       d'une manière aussi brillante.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Monsieur.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Vous ne me connaissez pas. Je vous connais moi , de réputation: c'est vous qui avez fait
+       l'inventaire et le partage chez monsieur de Saint-Hilaire, à dix lieues d'ici.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Il est vrai.....</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C'était une affaire trcs-délicate et qui vous a fait beaucoup d'honneur.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Ah ! Monsieur...; connaissez-vous ce Monsieur là?</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Non, ma foi ; mais il est bien aimable, il fait des complimens à tout le monde.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault, </speaker>
+      <stage>( bas à Charles. )</stage>
+      <p>Dis donc , Charles , tu n'as pas parlé à Cécile de la corbeille de mariage; tu as bien
+       fait, cela me regarde, c'est pour tantôt chez monsieur Thomas.</p>
+      <pb n="14"/>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( qui a entendu madame Gervault. )</stage>
+      <p>Hem. Plaît-il ? la corbeille de mariage; fort bien , ils pensent à tout, en bonnes
+       gens.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Eh bien , où est-il donc , le voisin ?</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Tenez , le voilà avec ses filets.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE IX.</head>
+     <stage>GABRIEL,TATILLON, CHARLES, M. GERVAULT, Mad. GERVAULT, M. DES JARDINS, Mad. DESJARDINS,
+      CÉCILE.</stage>
+
+     <sp who="#TDP2838_9">
+      <speaker>M. Desjardins.</speaker>
+      <p>Bon jour tout le monde; allons , enfans , de la joie , de la gaîté , et bonne pêche , c'est
+       ce que vous me souhaitez , n'est-ce pas ? Ce serait bien le diable , si je ne prenais rien ,
+       le jour que je marie ma fille.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Ah! ça , voisin, veux-tu que nous passions un moment chez toi pour examiner les articles ?
+       Mon confrère du village voisin doit être ici de bonne heure, et comme c'est lui qui passera
+       le contrat.....</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Ah ! ma foi , Gervault, finis tout cela avec nos femmes , je n'y entends rien , je m'en
+       rapporte à toi. Laisse-moi arranger mes filets. <stage>( Il va à ses filets au
+       fond. )</stage></p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( allant à M. Desjardins. Il garde cette position. )</stage>
+      <p>La pêche : occupation douce, innocente, passion qui prouve bien dans un homme la pureté de
+       son ame. Nous n'y sommes pas novices , par parenthèse; nous connaissons un peu la ligne et
+       1'épervier.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Monsieur, je n'en doute pas.....</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Nous ne nous sommes jamais vus, monsieur Desjardins, nous sommes pourtant presque parent.
+       Vous avez entendu parler dans votre famille de mon épouse, elle est nièce ou cousine d'un
+       Desjardins.</p>
+      <pb n="15"/>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>C'est possible, Monsieur.....</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Cherchez , vous vous rappellerez : Pierrette Ducaquet, femme Tatillon.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Eh ! parbleu , sa mère était cousine de la mienne.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C'est cela même. Mais , pardon , la joie de rencontrer une famille aussi intéressante , car
+       vous n'en faites plus qu'une , m'a rendu indiscret. Je ne veux pas l'être davantage. Combien
+       vous me faites chérir de plus en plus ma résolution , de me fixer dans votre pays ? Oui, je
+       serai votre voisin , votre ami. Je jouirai de votre bonheur , et vous contribuerez au mien.
+       <stage>( à Desjardins. )</stage> Nous irons à la pêche ensemble. <stage>( à
+       Gervault. )</stage> Si vous daignez me consulter sur le contrat de mariage , j'ai quelques
+       connaissances des lois et des coutumes. <stage>( bas à Mad. Gervault. )</stage> Quant à la
+       corbeille de mariage dont je vous ai entendu parler , c'est mon épouse dont le goût peut vous
+       être très-utile. <stage>( à Gabriel. )</stage> Venez, mon ami, me montrer la chambre que je
+       dois occuper : j'ai bien l'honneur de vous faire ma très-humble révérance.</p>
+      <stage>( Il entre chez Thomas. )</stage>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>C'est un original, mais c'est un bon homme.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE X.</head>
+     <stage>CHARLES , Madame GERVAULT, M. GERVAULT, M. DESJARDINS, Madame DES JARDINS,
+      CECILE.</stage>
+
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Qu'est-ce donc que ce Monsieur-là ?...</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Ma foi , nous ne le connaissons ni les uns , ni les autres , et il s'est empressé de nous
+       faire des amitiés à tous.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Il n'y a pas de mal à cela. C'est un plaisir que de recevoir des complimens , même de gens
+       inconnus.</p>
+      <pb n="16"/>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>C'est si vrai , que j'ai été presque tentée d'inviter ce Monsieur à notre repas....</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Eh mais , écoute donc, il est presque notre parent, et on aime à avoir des témoins de son
+       bonheur.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Oh ! sans doute , convenez que rien n'est plus aimable qu'une bonne et sincère
+       réconciliation.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Surtout quand on a eu des torts. Parce que nos maris se trouvaient en difficultés
+       d'intérêt, aller m'imaginer que la voisine prenait des tons avec moi, ne voulait plus me
+       saluer, et nous méprisait à cause de notre commerce !</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Et moi , qui ne pouvais m'ôter de la pensée que la voisine me mêlait dans tous ses
+       bavardages !</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Et moi , qui comme un sot, suivais les conseils de ce maudit procureur du bourg voisin qui
+       , un jour après dîner , me mit cette belle imagination de procès dans la tête ! il faut
+       avouer que j'étois bien dupe.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>N'allais-je pas l'être davantage, quand, furieux de payer tout ce fatras de papier timbré ,
+       je pensais à donner ma fille à un autre qu'à ton fils ?</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Et moi, comme je souffrois, quand j'entendois dire que monsieur Charles allait se marier à
+       une riche héritière à Paris !</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Il s'ensuit donc que nous étions tous bien à plaindre, et qu'au contraire , à présent, nos
+       maris ne plaident plus , nous sommes redevenues bonnes amies , nos enfans s'aiment plus que
+       jamais, et nous les marions ; c'est charmant.</p>
+      <stage>SCENE XI.</stage>
+      <pb n="17"/>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XI.</head>
+     <stage>CHARLES, Mad. GERVAULT, M. GERVAULT, THOMAS , GRANVILLE , M. DESJARDINS , Mad.
+      DESJARDINS, CÉCILE.</stage>
+
+     <sp who="#TDP2838_1">
+      <speaker>Thomas , </speaker>
+      <stage>( à un homme qui porte une hotte pleine de provisions. )</stage>
+      <p>Portez tout cela chez moi ; dites à Gabriel qu'il vous débarrasse... Ah ! ah ! vous voilà
+       tous ; c'est bien , et pour surcroit de plaisir , je vous annonce un ami, monsieur Granville,
+       ce marchand de la ville , qui est à douze lieues; il vient pour la foire; le voilà.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Eh ! bien , qu'est-ce que monsieur Thomas vient de me dire? On se marie ici , on s'est
+       réconcilié ; bravo , c'est d'un bon présage pour les affaires que je ferai à la foire.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Convenez qu'il ne manque plus pour voir tous vos amis réunis que madame Lambert, votre
+       commère.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Est-ce qu'elle n'est pas encore arrivée ?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Je l'attends; j'ai fait préparer sa chambre, ainsi que la vôtre , au moins , monsieur
+       Granville. Eh bien ! où en sont vos amours avec elle ?</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Mais, moi , de plus en plus amoureux; elle, de plus en plus maligne et coquette : nous nous
+       rencontrons à toutes les foires des environs; elle me vend sa dentelle au poids de l'or ,
+       elle prend ma toile pour rien : mais patience; je finirai par faire un bon marché avec elle,
+       il faudra bien que je me marie à mon tour.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Au fond , c'est une bonne femme.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Et d'une gaîté charmante ; épousez-là , monsieur Granville; elle vous fera bien un peu
+       enrager, mais vous serez heureux avec elle.</p>
+      <stage>B</stage>
+      <pb n="18"/>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>À propos, j'ai chez moi un homme de votre pays.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Bon , serait-ce ce monsieur qui est notre parent ?</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Et qui, pour la première fois qu'il nous voyait , nous a fait des complimens à tous sur
+       notre bonheur.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville</speaker>
+      <p>Bon , et qui donc ?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Tenez , le voilà.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE XII.</head>
+     <stage>CHARLES, Mad. GERVAULT , M. GERVAULT, THOMAS , GRANVILLE , M. DESJARDINS , Mad.
+      DESJARDINS , CECILE , TATILLON.</stage>
+
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( en sortant de la maison. )</stage>
+      <p>Entendez-vous ? des lisières sous la porte, de l'eau dans la caraffe, et du papier à lettre
+       sur la table.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Ah ! mon dieu, c'est monsieur Tatillon.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( allant à Thomas. )</stage>
+      <p>J'aurais mieux aimé la petite chambre qui donne sur la rivière , mais puisqu'elle est
+       retenue... <stage>( allant à Granville. )</stage> Que vois-je? c'est vous , mon cher
+       Granville ; que je vous embrasse ? et par quel heureux hasard , vous trouvai-je en ces lieux
+       ? vous , le seul ami, le seul homme estimable peut-être, que je puisse citer dans ma maudite
+       ville.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Monsieur , c'est beaucoup d'honneur pour moi...</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Messieurs et mesdames , voulez-vous bien permettre , que je vous présente monsieur
+       Granville , négociant très-considéré , un galant homme ; mon ami , j'ose le dire, et que je
+       vous prierai d'aimer un peu à cause de moi.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh ! mais , monsieur, l'ami Granville est connu de nous depuis plus long-tems que vous ne
+       l'êtes vous même.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>En vérité. Ah ! c'est tout simple : il vient vous
+       <pb n="19"/> voir de tems en tems pour son commerce , et quand j'y pense , c'est la foire qui
+       l'amène aujourd'hui. Eh ! bien , puisque vous vous connaissez tous , je ne vous ferai pas
+       faire connaissance ; mais , vous me permettrez bien de me féliciter de la bonne rencontre ;
+       ma femme sera enchantée dé vous voir.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Comment, est-ce qu'elle est ici ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Pas encore , mais elle y sera bientôt; je cours la chercher : elle est à deux lieues , je
+       l'aurai bientôt ramenée ; vous ne savez pas ? c'est fini , je quitte notre pays. Oh ! je n'y
+       pouvais plus tenir. Et vous ferez comme moi tôt ou tard ; on y est si méchant ! Quelle
+       différence avec ce séjour, azile de la paix , de l' innocence ; aussi je m'y établis. Je loge
+       provisoirement, aux bons amis, chez monsieur Thomas. Parbleu , si vous n'avez pas d'auberge ,
+       il faut que vous y logiez aussi ; il y a encore des chambres charmantes.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh ! mais , mon dieu , monsieur , vous vous empressez ainsi de proposer , et tout ce que
+       vous proposez est fait d'avance. Granville ne loge jamais autre part que chez moi, et c'est à
+       lui qu'est réservée une des chambres que mon garçon a dû vous refuser.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! ah! vous logez aussi aux bons amis. Surcroît de bonheur. Allons , il me tarde de vous
+       présenter ma femme. <stage>( donnant la main à Granville. )</stage> Sans adieu, mon cher
+       Granville. <stage>( donnant la main à Thomas. )</stage> Sans adieu , brave Thomas. <stage>( à
+       Charles. )</stage> Jeune élève de Thémis. <stage>( à Cécile. )</stage> Aimable beauté.
+       <stage>( aux mères. )</stage> Tendres mères. <stage>( à monsieur Desjardins. )</stage>
+       Négociant intelligent. <stage>( à monsieur Gervault )</stage> , Savant jurisconsulte. Je ne
+       tarderai pas à revenir ; je cours chercher ma femme , et j'aime à croire que vous n'aurez
+       qu'à vous applaudir d'avoir pour voisin un ménage uni comme le fut toujours le votre , et
+       comme le sera , celui de ces chers enfans. Je vous souhaite bien le bonjour. <stage>( Il
+       sort. )</stage></p>
+      <stage>B2</stage>
+      <pb n="20"/>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XIII.</head>
+     <stage>CHARLES , Mad. GERVAULT , M. GERVAULT , THOMAS , GRANVILLE , M. DESJARDINS , Mad.
+      DESJARDINS , CÉCILE.</stage>
+
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Ma foi, j'aime cet homme là. Mais le tems se passe, je vais à la pêche.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Moi, j'ai quelques comptes à terminer dans la boutique. Ecoute donc , mon ami , quand ce
+       monsieur Tatillon sera de retour avec sa femme, ne serait-il pas convenable de l'inviter à
+       notre repas ?</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>C'est juste , puisqu'il est notre parent.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Il nous a fait tant d'amitiés.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Quant à M. Granville, il est prié d'avance, n'est-ce pas ?</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Ah ! oui : nous comptons sur vous.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Avec plaisir ; mais je voudrais vous dire...</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Nous aurons le tems de causer dans la journée ; il faut que je donne un coup-d'œil à mon
+       étude. <stage>( Il sort. )</stage></p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault, </speaker>
+      <stage>( bas à son fils. )</stage>
+      <p>Moi, je vais achever d'arranger la corbeille de mariage : viens avec moi, Charles.
+       <stage>( Elle sort. )</stage></p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>A tantôt, Cécile. <stage>( Il sort. )</stage></p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>A Tantôt, Charles. <stage>( Elle sort. )</stage></p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XIV.</head>
+     <stage>THOMAS, GRANVILLE.</stage>
+
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Dites-moi donc un peu, est-il bien vrai que ce monsieur Tatillon loge dans votre auberge
+       ?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Oui, sans doute.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Oh ! bien, en ce cas-là, il faut que je vous prévienne.</p>
+      <pb n="21"/>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas</speaker>
+      <p>Mille pardons, mon cher Granville, ce monsieur Tatillon précisément m'a fait perdre un
+       tems... J'ai une visite à faire chez le juge de paix, à une lieue d'ici... Gabriel.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Eh! mais, écoutez donc, il faut absolument que je vous dise...</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Comme disait tout-à-l'heure M. Gervault , nous aurons le tems de causer à mon retour. Je
+       vous laisse avec Gabriel, il va vous servir, vous conduire. Sans adieu, mon cher Granville.
+       <stage>( Il sort. )</stage></p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE XV.</head>
+     <stage>GABRIEL, GRANVILLE.</stage>
+
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Allons , ils ne veulent pas m'éconter, tant pis pour eux , mais je ne loge pas chez M.
+       Thomas.</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Qu'est-ce que vous dites donc ? est-ce que vous en voulez à notre maître ?</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Non , parbleu; je viendrai le voir, je viendrai voir madame Lambert, je viendrai dîner avec
+       eux tous , je serai toujours l'ami de monsieur Thomas, mais je ne loge pas chez lui. Si l'on
+       vient me chercher chez vous , je loge à la Magdeleine.</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Eh!, mais, monsieur , qu'est-ce que je dirai à M. Thomas.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Vous lui direz... ma foi, vous lui direz que je suis trop amoureux de mon repos , pour
+       coucher sous le même toît que M. et Mad. Tatillon.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XVI.</head>
+
+     <sp who="#TDP2838_2">
+      <speaker>GABRIEL, </speaker>
+      <stage>( seul. )</stage>
+      <p>Qu'est-ce qu'il dit donc là? il a l'air d'un si bon homme ce monsieur Tatillon... après
+       tout, ce n'est pas mon affaire, et je vais à mon ouvrage.</p>
+     </sp>
+    </div>
+    <trailer>fin du premier acte.</trailer>
+    <pb n="22"/>
+   </div>
+   <div type="scene">
+
+    <head>ACTE II.</head>
+    <stage>Le Théâtre représente une salle d'auberge où se trouvent quatre chambres , sur lesquelles
+     sont des numéros.</stage>
+
+    <div type="scene">
+
+     <head>SCENE PREMIÈRE.</head>
+     <stage>M. et Mad. TATILLON , GABRIEL.</stage>
+
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker><stage>( entrant. )</stage>
+      <p>Eh ! bien , garçon ; la fille , où êtes vous donc ? par ici, par ici, ma bonne amie.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Je n'en puis plus ; un fauteuil, je vous prie.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>En voici un, ma chère ; Eh ! bien , ma femme , quand je vous ai dit que c'étoit un endroit
+       charmant.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Oh ! charmant, charmant : voyons la chambre qui nous est destinée ; est-ce celle où nous
+       sommes ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Non ; c'est la salle commune aux voyageurs ; mais la voilà. Eh ! bien où est donc le garçon
+       ?</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel, </speaker>
+      <stage>( entre chargé de tous les paquets de M. et Mad. Tatillon. )</stage>
+      <p>Je ne savais où trouver cette maudite clef, et puis, je suis embarassé de tous ces
+       paquets.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Donnez, donnez , je vais vous aider.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Allons ouvrez? ouvrez; mon ami.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( à sa femme. )</stage>
+      <p>Eh ! bien.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Fort gentille, très-gaie.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Tiens, vois-tu? deux fenêtres, une cheminée, une commode , un secrétaire.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>J'examinerai tout en détail dans un instant, posez les paquets sur la table. J'aime mieux
+       rester assise ici,
+       <pb n="25"/> c'est plus vaste , j'y serai moins étouffée, <stage>( à Gabriel. )</stage> Mon
+       ami, avez-vous dit qu'on eût bien soin de notre cheval.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Sois donc tranquille , ma bonne amie, c'est moi que cela regarde, peut-être? <stage>( à
+       Gabriel. )</stage> prenez bien garde à ces cartons, ce sont les bonnets de ma femme.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Et vous dites donc, Monsieur . que précisément pour le jour de notre arrivée , il y a une
+       foire dans le pays , un mariage dans notre auberge , une transaction entre deux gens qui
+       plaidaient, et une réconciliation entre les deux femmes les plus marquantes de l'endroit ; et
+       c'est le petit Gervault, le fils du notaire, qui épouse une demoiselle Desjardins :
+       effectivement, comme vous dites , je suis alliée à ces gens-là. Du reste , c'est fort
+       aimable, la foire va amener du monde, la noce va occuper tous les gens de l'auberge, et nous
+       ne serons pas servis.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Oh ! je saurai bien me faire servir , et puis ces gens-là sont fort actifs, fort
+       intelligens; tu demanderas à l'ami Granville.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>A propos, il loge ici , je serais enchantée de le voir, un bon enfant ? Je suis fâchée
+       qu'il n'ait pas épousé la petite lingère qui s'est établie derrière les Récolets.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah! dame! il a une passion, dit-on ; une jolie marchande, qui est toujours comme lui, par
+       voie et par chemin. Pour en revenir à ce que tu disais , une foire , une noce, du monde, eh
+       bien! cela amènera du bruit; de la joie ; on dansera , on jouera , on causera : cela ne
+       vaut-il pas mieux qu'une solitude monotone?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Il est assez singulier, qu'étant nos parens , ils ne nous aient pas invités de leur
+       repas.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C'est une politesse dont je leur aurais su gré. Oh! dame, ils sont beaucoup.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>C'est ce qui m'empêche de le regretter , je n'aime pas les cohues.</p>
+      <pb n="24"/>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE II.</head>
+     <stage>Les précédens,GARRIEL.</stage>
+
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Quand Monsieur et Madame voudront entrer, tout est prêt, tout est arrangé.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Fort bien ; mais dites - nous , mon ami , voilà d'autres chambres à côté de la nôtre , on
+       est bien aise de savoir à côté de qui on loge, moi , surtout , je suis là dessus d'une
+       susceptibilité.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Oh! c'est tout simple, comme madame Tatillon n'a rien à se reprocher , vous concevez....
+       les femmes..... voyons : celle-ci.</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Eh ! bien, c'est là que doit loger madame Lambert.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Qu'est-ce que c'est que madame Lambert ?</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Une jeune marchande qui n'est point encore arrivée.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Jeune et jolie , sans doute ?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Vous êtes bien curieux , monsieur Tatillon.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Seriez-vous jalouse, madame Tatillon ?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Jalouse , non ; mais ne soyez pas si galant? A-t-elle son mari, cette madame Lambert ?</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Elle est veuve.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Elle est veuve, et elle voyage toute seule.</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Ma fine oui , à moins que monsieur Granville ne lui tienne compagnie.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah! ah! serait-ce par aventure la passion du cher Granville?</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Dame, on ledit; ce n'est pas qu'elle ait besoin de
+       <pb n="25"/> personne pour son commercé , elle s'entend dieu merci à vendre ét à débiter ses
+       dentelles.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! elle vend des dentelles. Dis donc, ma femme , n'as-tu pas besoin d'une garniture de
+       mantelet?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Eh mon dieu! vous savez mieux que moi toutes ces bagatelles.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Et Granville notre ami, où loge-t-il donc ?.... où est-il donc ?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Il court chez ses pratiques , sans doute.</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Ma foi, Madame, je ne sais ; mais ce que je sais fort bien , c'est qu'il ne loge pas chez
+       nous.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Comment il ne loge pas chez vous ? mais votre maître m'a dit tantôt.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>J'espère que ce n'est pas à cause de nous.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Fi donc ? comment peux-tu croire que Granville qui est notre ami... Voilà ce que c'est, il
+       aura vu que vous aviez beaucoup d'embarras aujourd'hui , il n'aura pas voulu vous gêner ; il
+       aura peut-être trouvé une chambre chez quelqu'ami , il en a tant dans ce pays-ci : oh ! mais,
+       nous nous reverrons , j'irai le trouver.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Et tu feras bien ; il seroit mal-honnête à nous de ne pas le voir.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Vous savez où il loge?</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Eh ! oui , monsieur, à la Magdeleine, où il y a une très-jolie hôtesse.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah! une jolie hôtesse... C'est un galant que Granville.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Ah! ça, vous n'oublierez pas de m'énvoyer un bouillon, le plutôt possible.</p>
+      <pb n="26"/>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Non, madame, je l'ai dit à la fille.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Eh bien ! monsieur, n'avez-vous pas des lettres à écrire, une procuration à envoyer à
+       Paris.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C'est juste : et toi, ne faut-il pas que tu songes à ta toilette ? <stage>( A
+       Gabriel. )</stage> Allons , vous n'avez pas tous les jours des repas de trente personnes : oh
+       ! vous êtes moins embarrassé que d'autres, parce que le gibier... il foisonne dans ce
+       pays-ci. Bien le bonjour, mon ami.</p>
+      <stage>( Il entre dans la chambre avec sa femme. )</stage>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE III.</head>
+
+     <sp who="#TDP2838_2">
+      <speaker>GABRIEL, </speaker>
+      <stage>( seul. )</stage>
+      <p>Qu'on vienne m'appeler bavard, encore , par ma foi , je ne suis rien auprès de ces gens-la.
+       Ah ! voici madame Lambert, je crois.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE IV.</head>
+     <stage>GABRIEL , Mad. LAMBERT, <stage>( une suivante chargée de cartons et deux que tient
+      madame Lambert. )</stage></stage>
+
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Bonjour, Gabriel , eh bien ! qu'est-ce que c'est ? M. Granville sait que je dois arriver ce
+       matin et il va loger à la Magdeleine , et cela , m'a-t-on dit, pour éviter la rencontre de
+       deux personnes de son pays, qu'il ne veut pas voir; le grand malheur , quand il achaterait un
+       peu cher le plaisir de loger auprès de moi !</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Il a bien promis à M. Thomas, qu'il viendrait vous voir.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Une belle grâce qu'il nous fera là ; qu'il vienne? Oh ! je le recevrai de la bonne manière.
+       Grâce au Ciel, je ne suis pas encore sa femme. Laissons celà. Je viens de dire deux mots en
+       passant, à madame</p>
+      <pb n="27"/>
+      <p>Desjardins , ils m'ont invitée à leur repas. Foi d'honnête marchande , je suis enchanté de
+       ce mariage, cela fera le plus joli ménage...</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Ma foi, madame, c'est ce que je dis à tout le monde.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Voilà ma chambre , n'est-ce pas ? que je ne vous dérange pas, mon ami, allez à votre
+       ouvrage.</p>
+     </sp>
+     <sp who="#TDP2838_2">
+      <speaker>Gabriel.</speaker>
+      <p>Votre serviteur, madame. <stage>( Il sort. )</stage></p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE V.</head>
+
+     <sp who="#TDP2838_12">
+      <speaker>Mad. LAMBERT, </speaker>
+      <stage>( seule , défaisant ses cartons. )</stage>
+      <p>Ah ! monsieur Granville vous vous enfuyez quand j'arrive ; quels sont donc ces deux
+       personnages si dangereux qui vous empêchent de loger dans mon auberge ?</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE VI.</head>
+     <stage>TATILLON, Mad. LAMBERT.</stage>
+
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Reste-là, ma bonne amie, je vais descendre; écris puisque tu veux écrire; je suis fait pour
+       te servir, peut-être, ne suis-je pas ton mari ?</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>C'est monsieur Tatillon, je crois qu'on m'a dit qu'il s'appelloit.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! ah ! l'on parle de moi.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Je serais bien aise de le voir.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Me voici, madame.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Comment, monsieur?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Qu'il est flatteur pour moi d'exciter quelque curiosité dans l'esprit d'une jeune et jolie
+       femme.</p>
+      <pb n="28"/>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Quoi ! c'est vous qui seriez monsieur...</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Tatillon , prêt à vous rendre mes devoirs, madame ; pourrais-je savoir comment j'ai
+       l'avantage d'être connu de vous , de nom au moins; car je ne me rappelle pas avoir eu
+       l'honneur de vous voir; <stage>( à part. )</stage> elle est fort bien cette femme là.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Je m'en vais vous le dire , monsieur, vous connaissez M. Granville?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Beaucoup , Madame, un très-galant homme, mon ami, j'ose le dire.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>C'est ce qui vous trompe, Monsieur, car on vient de me dire que monsieur Granville ne
+       voulait pas loger dans cette auberge, parce que vous y logiez.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Allons donc, on a voulu rire : j'ai vu monsieur Granville ici , ce matin, nous nous sommes
+       embrassés, il y a sans doute quelqu'autre motif; mais permettez? Madame, prend intérêt à
+       monsieur Granville, à ce qu'il me parait ?</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Beaucoup , Monsieur.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Madame ne serait-elle pas cette jolie marchande dont le garçon d'auberge m'a parlé; madame
+       Lambert ?</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Précisément, Monsieur.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Il m'en coûte d'affliger Madame, mais ce n'est peut-être pas à cause de moi que monsieur
+       Granville ne loge pas ici.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Bon, et quel peut donc être son motif?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! Madame , les hommes ! non pas que j'accuse positivement monsieur Granville , fi
+       donc.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Je le crois bien.</p>
+      <pb n="29"/>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Mais enfin, c'est à la Magdeleine qu'il est allé loger.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Eh bien ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Il y a une fort jolie hôtesse, à ce qu'on dit.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>En vérité ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ce n'est pas que quand on la compare à madame.... <stage>( à part. )</stage> Mais c'est
+       qu'elle est très-bien d'honneur . <stage>( haut. )</stage> Madame, à ce qu'il parait fait le
+       commerce de dentelles?</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Oui , Monsieur.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! Madame , qu'il est cruel de voir une jeune femme comme vous , obligée de se donner
+       tant de peine , quand l'univers tout entier devrait être à ses pieds ?</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert. </speaker>
+      <stage>( à part. )</stage>
+      <p>Comment donc, il est galant, monsieur Tatillon.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p><stage>( à part. )</stage> Ma foi, tant pis pour Granville.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p><stage>( à part. )</stage> Amusons-nous, <stage>( haut. )</stage> monsieur , voudrait-il
+       m'acheter une belle garniture , <stage>( lui montrant de la dentelle dans un
+       carton. )</stage></p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh! mais , c'est possible ; justement, ma femme m'a demandé une garniture pour un
+       mantelet.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Comment, votre femme ; vous êtes marié ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Marié... Oui, madame <stage>( à part )</stage> , diable, il ne fallait pas dire cela
+       <stage>( haut )</stage> , c'est du point d'Alençon; il est très-riche , je m'y connais un
+       peu.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Ah ! vous êtes marié?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh ! mon dieu, oui, madame ; le dessin en est magnifique.</p>
+      <pb n="30"/>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Mille pardons , monsieur ; mais je me rappelle que cette garniture est vendue : j'en ai
+       d'autres que je pourrai montrer à madame ; comme vous le disiez tout-à-l'heure, les hommes !
+       allez monsieur , votre femme vous attend.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Mais, madame , ma femme a le téms d'attendre, et moi je suis trop heureux de vous avoir
+       rencontré.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Pardon , monsieur ; j'ai mes paquets à ranger, des courses à faire , j'entre dans ma
+       chambre un moment.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Si madame voulait permettre que je lui offrisse mon bras , j'attendrais dans cette chambre
+       l'heure de sa commodité.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Attendez , si vous voulez, <stage>( à part. )</stage> Oui , oui, attends , je sortirai par
+       la petite porte dérobée. A quoi donc pense Granville , de redouter la présence de ces gens-là
+       ? Il vaut bien mieux s'en divertir, c'est plus gaie. <stage>( haut. )</stage> Monsieur , je
+       suis votre très-humble servante. <stage>( Elle entre dans sa chambre. )</stage></p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE VII</head>
+
+     <sp who="#TDP2838_3">
+      <speaker>TATILLON, </speaker>
+      <stage>( seul. )</stage>
+      <p>Cette femme là est charmante , elle a paru écouter mes complimens avec plaisir. Ah! les
+       femmes... Allons , pour ne pas donner de soupçons à madame Tatillon, il faut vite aller
+       chercher ce qu'elle me demande , et revenir ici à mon poste.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE VIII.</head>
+     <stage>TATILLON, CHARLES.</stage>
+
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Ah ! monsieur , c'est vous que je cherchons.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Moi, monsieur, trop heureux...</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Monsieur, vous nous avez témoigné tant d'inté-
+       <pb n="31"/> rêt ce matin , et d'ailleurs les complimens que vous avez fait à mon père, que
+       vous connaissez de réputation.. Enfin vous vous trouvez allié de madame Desjardins et je
+       viens, au nom de ma famille , vous prier de vouloir bien dîner, avec nous.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Aujourd'hui... A un repas de noces... Monsieur...</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Nous espérons que madame voudra bien aussi nous faire l'honneur...</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Comment donc , monsieur ? mais c'est avec le plus grand plaisir... Ah ! voilà votre aimable
+       Cécile ; il semble que les amans aient un instinct qui les avertissent du lieu et du moment
+       où ils peuvent se rencontrer.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE IX.</head>
+     <stage>TATILLON, CHARLES, CÉCILE.</stage>
+
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Vous , ici , monsieur Charles ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Comment ! Est-ce que ce n'était pas lui que vous cherchiez ?</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Je suis trop franche pour lui cacher que je suis toujours enchantée de le voir ; mais je le
+       suis trop aussi pour lui dire que c'était lui que je cherchais.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( à Charles. )</stage>
+      <p>La réponse est assez franche en effet.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Et qui cherchiez-vous donc enfin, mademoiselle ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( à Cécile. )</stage>
+      <p>Il est piqué , je crois.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Charles vient de vous inviter , sans doute, au nom de sa famille; et moi je viens , au nom
+       de la mienne , réitérer l'invitation.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>En vérité, mademoiselle, je suis confus des politesses dont vos deux familles m'accablent
+       Mon épouse et moi, nous nous ferons un plaisir.. Ainsi
+       <pb n="32"/> donc c'est moi que vous cherchiez; et j'espère que monsieur n'en est pas jaloux
+       ?</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Lui ! jaloux? monsieur? ah mon dieu non.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Tant pis, mademoiselle , tant pis ; point de véritable amours sans jalousie.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Vous croyez.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C'est passé en proverbe.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles</speaker>
+      <p>Quand on estime ce qu'on aime...</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah! l'estime! c'est bien froid.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>En effet.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( à Charles. )</stage>
+      <p>Allons donc , dépéchez-vous de lui jurer que vous l'aimer , pour la calmer.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>J'ai si souvent assuré Cécile de mon amour, que j'espère qu'elle n'en doute plus.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( à Cécile. )</stage>
+      <p>Est-ce flatteur, ce qu'il vous dit là ?</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Ce sont de ces choses qu'on ne se lasse pas d'entendre répéter.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( à Charles. )</stage>
+      <p>C'est assez juste ce qu'elle vous répond.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Et de grâce, laissons là ces démêlés ; ne pourrai-je avoir l'honneur de saluer madame votre
+       épouse?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Oui , sans doute : dans l'instant elle achève mes lettres. <stage>( bas à Cécile. )</stage>
+       Il cherche à détourner la conversation.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Eh ! quoi , Charles , quand on vous parle de notre amour, c'est vous qui le premier parlez
+       d'autre chose.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( à Charles. )</stage>
+      <p>Dites donc comme elle , ou vous allez la fâchez.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Eh ! mais, il semble que nous nous fassions un</p>
+      <stage>jeu</stage>
+      <pb n="35"/>
+      <p>jeu de nous piquer l'un contre l'autre , c'est une plaisanterie.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Non, monsieur, je ne plaisante jamais sur un sujet aussi important.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C est charmant ! j'ai souvent de ces petites disputes là avec madame Tatillon ; il est vrai
+       qu'elles ne vont jamais si loin.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Comment , si loin ?</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Monsieur a raison , vous prenez avec moi un petit ton de supériorité...</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Point du tout, c' est vous qui interprêtez mal.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh ! bien , qu est-ce que c'est ; comment ! se disputer sérieusement sur des mots, des gens
+       qui s'aiment, qui vont se marièr ! Allons , allons, apaisez-vous, je vais vous présenter à ma
+       femme. <stage>( pres la chambre. )</stage> Ma bonne amie, c'est monsieur Gervault, le fils ,
+       et mademoiselle Desjardins, qui seraient bien aises de te voir.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon, </speaker>
+      <stage>( en dehors. )</stage>
+      <p>Je suis a eux tout-à-l'heure.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Elle va venir; pardon, je vous laisse, je reviens dans l'instant : ne vous disputez pas
+       trop pendant mon absence, ma femme ou moi nous vous aurons bientôt réconciliés. <stage>( Il
+       sort. )</stage></p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE X.</head>
+     <stage>CHARLES, CÉCILE.</stage>
+
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Charles.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Cécile.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Convenez que je suis bien enfant de m'emporter tout d un coup.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Mais je n'ai pas été trop raisonnable , je crois.</p>
+      <stage>C</stage>
+      <pb n="34"/>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Pourquoi exiger que vous me répétiez à quel point vous m' aimez, quand vous m'en donnez
+       tant de preuves.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Quand j'ai tant de plaisir à vous répéter que je vous aime , pourquoi refuser de vous le
+       dire.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Faisons la paix.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Est-ce que nous sommes brouillés ?</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Brouillés ou non , raccommodons nous.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles, </speaker>
+      <stage>( lui baisant la main. )</stage>
+      <p>Ah ! de tout mon cœur.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XI.</head>
+     <stage>CHARLES , CÉCILE , Mad. TATILLON , </stage><stage>( des lettres à la main , se plaçant entr'eux.
+      )</stage>
+
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Monsieur et mademoiselle...</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Madame est l'épouse de monsieur Tatillon.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Précisément monsieur... <stage>( à part. )</stage> Un fort joli garçon.
+       <stage>( haut. )</stage> Mille pardons si je ne vous reçois pas chez moi ; une chambre
+       d'auberge, on sait ce que c'est ; elle est fort petite d'abord ; et puis quand on arrive ,
+       les sacs de nuit, les porte-manteaux... C'est mademoiselle Desjardins , voulez-vous bien
+       permettre...</p>
+      <stage>( Elle embrasse Cécile. )</stage>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Madame.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>En effet, je vous trouve un air de famille avec ma tante Desjardins , que nous appellions
+       la dévote , parce qu'elle avait voulu se faire religieuse... Malheureusement elle n'avait
+       point de dot, et elle a mieux aimé prendre un mari qui l'a épousée pour ses beaux yeux...
+       Votre mère a dû vous raconter son histoire.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Oui madame.</p>
+      <pb n="35"/>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon </speaker>
+      <stage>( A part. )</stage>
+      <p>Elle est fort gentille, la petite... <stage>( à Charles. )</stage> Une ligure de vierge...
+       <stage>( à part. )</stage> Point de tournure.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Monsieur votre époux nous a fait espérer que vous voudriez bien nous faire l'honneur de
+       dîner avec nous.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>On ne peut pas plus sensible , monsieur et mademoiselle , à votre politesse et à celle de
+       vos parens ; enchantée de votre bonheur ; car on s'aime bien , n'est-ce pas ?</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Ah ! oui , madame.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>C'est délicieux, je connais cela.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XII.</head>
+     <stage>CHARLES, Mad. TATILLON, TATILLON, CÉCILE.</stage>
+
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( portant un bouillon, se place entre sa femme et Cécile. )</stage>
+      <p>Attendez moi , ne faites rien sans moi ; il faut que j'aille mettre les holà entre deux
+       amans qui se querellent. Ah ! ma femme est avec eux : eh ! bien , cela a-t-il le sens commun
+       de se disputer ainsi ?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Qu'est-ce que vous dites donc ? on est de la meilleure intelligence au contraire.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Ah ! mon dieu oui, ce n'était qu'un petit nuage.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Qui s'est bientôt dissipé.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! c'est différent, tant mieux ; c'est ma femme , monsieur et mademoiselle, que j'ai
+       l'avantage de vous présenter. Or ça , puisque tout est d'accord, à présent je retourne en
+       bas. Monsieur Thomas l'aubergiste est un bien galant homme ; mais il est absent : son
+       cuisinier n'entend rien à faire une matelotte , et je veux lui montrer. Tiens ma chère amie,
+       voilà ton bouillon,</p>
+      <stage>C 2</stage>
+      <pb n="36"/>
+      <p>il est excellent, je l'ai goûté. Votre très-humble serviteur, monsieur et mademoiselle.</p>
+      <stage>( Il sort après avoir posé le bouillon. )</stage>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XIII.</head>
+     <stage>CHARLES, Mad. TATILLON, CÉCILE.</stage>
+
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon , </speaker>
+      <stage>( serrant ses lettres , et les prenant tous deux par la main. )</stage>
+      <p>Ah ! ça, mes bons amis , vous excuserez la liberté que je prends , en faveur de l'intérêt
+       que vous êtes faits tous deux pour m'inspirer ; voyons, sur quoi se querellait-on ?</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Ah ! mon Dieu madame , pur enfantillage.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Une bagatelle à laquelle nous ne pensons plus.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Prenez garde , quand il s'agit de se lier pour la vie, on ne saurait assez se rendre compte
+       mutuellement de ses petits défauts , et ses petites faiblesses ; mon expérience me donne le
+       droit de vous parler franchement. Voyons , il ne s'agissait pas d'affaires d'intérêt,
+       d'articles du contrat de mariage ?</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Fi donc , madame.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Cela regarde les parens , c'est tout simple ; peut-être un léger défaut de confiance de la
+       part du jeune homme.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Non, madame , Charles ne peut pas avoir de secrets pour moi.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Oh ! ne peut pas en avoir ; les hommes les plus épris en ont toujours, ma chère enfant ;
+       peut-être un petit mouvement de coquetterie de la part de la jeune personne, c est bien
+       naturel.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Non , madame, Cécile n'est point coquette , elle ne l'est pas assez même ; fière de son
+       amour, je voudrais qu'elle cherchât davantage à plaire.</p>
+      <pb n="37"/>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Le reproche est nouveau ; avec cette belle confiance , la querelle ne vient point de
+       jalousie de sa part.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Hélas non! madame , il n'est point jaloux.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Mais vous dites cela avec un air de regret.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>C'est qu'en vérité, comme disait tout-à-l'heure, monsieur votre époux, il ne lui manque que
+       cela pour m'aimer parfaitement.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Fort bien, la petite regrette qu'on ne soit pas jaloux, le jeune homme regrette que la
+       jeune personne ne soit pas coquette, voilà ce que c'est , j'ai deviné , la querelle vient de
+       là , vous avez tort de traiter cela d'enfantillage, c'est plus sérieux que vous ne
+       pensez.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Sérieux, madame; depuis un mois que je suis dans le pays , que je vois tous les jours
+       Cécile , voilà la première fois que nous nous trouvons en querelle.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Mais ce ne sera peut-être pas la dernière; car, enfin, quand il y a différence d'opinion ,
+       de caractère.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Comment, madame , différence de caractère ? vous vous abusez, vous allez beaucoup trop
+       loin.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Tenez; tous les jours deux personnes très-honnêtes, très-aimables, remplies d'excellentes
+       qualités, croient s'aimer , se marient et l'on estétonné qu'elles fassent mauvais ménage;
+       pourquoi ? c'est pour de petites exigeances , des petits défauts semblables ; minuties ,
+       bagatelles ; mais qui se retrouvent tous les jours dans le téle-à-tête, et qui deviennent
+       insupportables.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Si j'avais été coquette, peut-être s'en plaindrait-il aujourd'hui ? Quand nos parens
+       étaient en procès , il ne tenait qu'à moi d'accueillir un des nombreux partis que mon père me
+       proposait.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Vous l'entendez , elle fait valoir ses sacrifices , vous devez être content.</p>
+      <pb n="38"/>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Je pourrais à mon tour faire valoir les miens.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Fort bien ! vous allez recommencer la dispute.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Je vois bien que c'est à moi d'être raisonnable. Eh ! bien , vous le voulez ; j'ai eu
+       tort.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Une jolie manière de l'avouer!</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>En effet : ou voit bien à son ton qu'il est persuadé du contraire.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Non, monsieur, vous avez raison, toujours raison.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Tenez, les torts sont égaux des deux parts, ce qu'il y a de plus important, c'est que cela
+       ne se renouvelle plus.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile, </speaker>
+      <stage>( très-piquée. )</stage>
+      <p>Point du tout, c'est lui qui a tort ; sans adieu , madame. <stage>( à Charles. )</stage>
+       Vous espérez peut-être que je vais me raccommoder comme tout-à-l'heure; vous vous trompez :
+       je sors pour n'en être pas tentée.</p>
+      <stage>(Elle sort.)</stage>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE XIV.</head>
+     <stage>CHARLES Mad. TATILLON.</stage>
+
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Eh ! bien, vous la laissez aller; suivez-la donc, il ne faut pas que cela dure plus
+       long-tems.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>La suivre , moi ? n'ai-je pas fait plus que je ne devais ? si elle m'aimait
+       véritablement...</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Il est certain qu'elle a des torts; mais il faut passer des humeurs aux jolies
+       personnes.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Il me semble que dans ce moment, c'est à elle à faire les premiers pas.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Eh! non pas, elle n'est pas encore votre femme.</p>
+      <pb n="39"/>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Ce n'est pas une raison pour me tourmenter.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XV</head>
+     <stage>CHARLES , Mad. TATILLON, TATILLON.</stage>
+
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Enfin ils ne veulent pas suivre mes conseils; mais c'est égal. Je viens vous annoncer autre
+       chose : mademoiselle... Eh ! bien , où est-elle donc ?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Elle vient de sortir.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah! diable, tant pis; ce serait bien le moment, c'est la corbeille de mariage que madame
+       Gervault vient de faire apporter, et qui est vraiment d'un goût délicieux, il n'y manque que
+       les dentelles de cette madame Lambert qui m'est échappé , mais que je retrouverai. Quant à
+       vous, courez après la jeune personne , voilà l'instant de lui offrir...</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>La corbeille de mariage; mais non, ce sera pour tantôt, d'ailleurs elle est déjà bien
+       loin.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Au moins, venez voir la corbeille, vous en serez content.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Ah ! je la connais , j'avais pris tant de plaisir à l'arranger moi-même avec ma mère !...
+       Mille pardons, j'ai besoin de prendre l'air, et je vais dans le jardin de monsieur
+       Thomas.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( allant à lui et l'arrêtant. )</stage>
+      <p>Comment! il y a un jardin chez monsieur Thomas? nous verrons cela, je suis fou du
+       jardinage, moi qui vous parle.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Monsieur et Madame , je ne vous dis pas adieu.</p>
+      <stage>( Il sort. )</stage>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE XVI.</head>
+     <stage>TATILLON, Madame TATILLON.</stage>
+
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh ! bien , qu'est-ce qu'il a donc ?</p>
+      <pb n="40"/>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Je suis fâchée de le dire, mais ces deux jeunes gens la ne s'aiment pas du tout.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Bah!</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Les voila encore en querelle.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>En vérité ?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatîllon.</speaker>
+      <p>Ils se raccommoderont, mais ce sera toujours à recommencer.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ma foi je pense comme toi, je les ai jugés là tous deux, au premier coup-d'œil.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Enfin ils ne sont pas encore mariés , et ce serait peut-être un vrai service à leur
+       rendre....</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Oh! dieu ! ce serait leur épargner bien des chagrins.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Mais nous ne pouvons pas nous mêler de cela.</p>
+      <p>Tatillon.</p>
+      <p>C'est juste ; nous arrivon dans le pays , il ne nous convient pas...</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>C'est leur affaire : au surplus , puisqu'ils nous ont fait la galanterie de nous inviter de
+       leur repas , nous devons une visite aux parens.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Oui, vraiment , je suis à tes ordres: allons-y sur-le-champ.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Oui , sur-le-champ; et si nous trouvons l'occasion de dire un mot à ces bons parens....
+       tiens, voilà ta canne , ton chapeau.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh ! bien , tu as laissé réfroidir ton bouillon ?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>J'étais si troublée de la scène entre ces deux amans ; je me sens mieux, je n'ai besoin de
+       rien.</p>
+      <pb n="41"/>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Attends , il faut le descendre en nous en allant.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Oui. Eh! bien où ai-je donc mis ces deux lettres pour Paris, qu'il m'a fallu écrire à votre
+       place ? Ah ! les voici.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! tu as écrit , tu as bien fait , donne, je me charge de les mettre à la poste.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>C'est toujours quelque chose.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>En passant, nous donnerons un coup-d'œil à cette corbeille de mariage.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Il faudrait qu'elle fût bien jolie pour qu'elle égalât celle que tu me donnas la veille de
+       nos noces; enfin je souhaite me tromper, mais je crains bien que ces jeunes gens ne fassent
+       pas bon ménage.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! les bons ménages ! ils sont si rares! !. Allons voir les parens.</p>
+     </sp>
+    </div>
+    <trailer>Fin du deuxième acte.</trailer>
+   </div>
+   <div type="scene">
+    <head>ACTE III.</head>
+
+    <div type="scene">
+
+     <head>SCENE PREMIÈRE.</head>
+     <stage>Mad. DESJARDINS , Mad. TATILLON , Mad. GERVAULT.</stage>
+
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon , </speaker>
+      <stage>( amenant avec vivacité mesdames Gervault et Desjardins. )</stage>
+      <p>Oui , mesdames , pour une affaire aussi importante, aussi pressée, aussi délicate, nous
+       serons plus à notre aise dans cette auberge , que chez l'une , ou chez l'autre; vos maris ,
+       ni le mien ne viendront nous troubler , et les maris ont la rage de s'établir les maîtres
+       dans toutes les affaires ; tandis que, les femmes qui ont plus de justesse dans le
+       coup-d'œil, plus de promptitude dans l'esprit , feraient tout bien mieux ,
+       <pb n="42"/> et plus vite : c'est une vérité convenue entre nous ; n'est-il pas vrai ?</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Oui, sans doute : mais enfin., qu'avez-vous à nous dire, sur nos enfans ?</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Vous nous avez dit que vous saviez la cause du chagrin de Charles et de Cécile ?</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Et après beaucoup de difficultés , vous vous êtes engagée a nous la révéler.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>C'est peut-être beaucoup moins important que nous ne l'imaginons : mais enfin , quand il
+       s'agit du bonheur; rien n'est à négliger. Ecoûtez-moi : vous aimez vos enfans ?</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Cela se demande-t-il ?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Vous vous aimez toutes les deux?</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Sans doute...</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Eh bien ! il est à craindre que vos enfans ne s'aiment pas ?</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Qu'est-ce que vous dites donc ?..</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Permettez : ils ont cru s'aimer , ils le croient peut-être encore ; mais ils ne s'aiment
+       pas.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Et sur quoi le jugez-vous ?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Sur une querelle très-vive , dont j'ai été témoin ici même.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Quoi ! ce n'est que cela ? ils se raccommoderont</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Permettez : la cause était légère ; mais il est échappé des mots durs , mortifians , qu'on
+       de dit pas quand on aime, et qu'on n'oublie pas quand quand on les a entendus. D'abord la
+       petite a parlé des partis qu'on lui avait proposés , qu'elle avait refusés.</p>
+      <pb n="45"/>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Eh bien ! c'est la vérité : Cécile est assez jolie , pour que d'autres que Charles ,
+       l'aient recherchée en mariage ; et madame Gervault le sait bien.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Le jeune homme a riposté par quelques réflexions, sur la facilité qu'il avait eu de se
+       faire un état brillant à Paris.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Il est certain qu'il n'a tenu qu'à lui ; par conséquent il n'a pas eu tort de le dire,
+       n'est-ce pas, ma voisine?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Mais, votre fille, semblait avoir quelque regret d'avoir refusé tous ces partis qui se sont
+       présenté.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Des regrets dites-vous? mais nous serions fâchés d'en donner à mademoiselle Desjardins.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Vous entendez bien, qu'alors, votre fils a mis du dépit dans sa réponse.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Du dépit ! je ne voudrais pas que monsieur Charles épousât ma fille par dépit.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Vous ne m'entendez pas ; du dépit contre elle , qu'il est possible de prendre pour de
+       l'amour. Vous êtes vives toutes les deux au moins ! Voilà déjà que vous vous enflammez !
+       permettez ; moi , j'ai cru qu'il était de mon devoir de vous prévenir , parce qu'étant toutes
+       les deux bonnes mères , bonnes amies, vous pourrez appaiser tout cela dès le principe. Vous
+       comprenez bien que les choses étant si avancées , je suis loin de vous proposer de
+       rompre.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Oui, certainement; les choses sont très - avancées.... Cependant , si mademoiselle Cécile a
+       des regrets, je n'en serai pas moins l'amie intime de madame Desjardins. Mais....</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Ecoutez donc , ma bonne amie ; si monsieur Charles a quelque dépit de n'être pas avocat
+       à</p>
+      <pb n="44"/>
+      <p>Paris, je serais fâchée que son amour pour ma fille l'arrêtât dans son avenir.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Eh mais! il ne s'agit pas de tout cela, il s'agit tout simplement d'amener entre eux une
+       explication bien franche et un raccommodement bien sincère , bien solide.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>A la bonne heure : mais je ne m'en mêlerai pas. J'y serais trop gauche, car je trouve que
+       ma fille a raison.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Moi , je gâterais tout, car je suis persuadée que mon fils n'a pas tort. Comme il est
+       prouvé que ce mariage était un sacrifice , que monsieur Gervault et moi , faisions à son
+       bonheur...</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Un sacrifice? Le mot est un peu dur , madame Gervault.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Je suis étonnée qu'il vous soit échappé, ma bonne amie.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Je vous demande pardon , ma bonne amie ; mais enfin le mot est juste. Avant l'arrivée de
+       mon fils, bien certain qu'il resterait à Paris, j'avais obtenu de monsieur Gervault, que nous
+       y ferions un petit voyage et qui sait même si nous n'aurions pas fini par nous y fixer nous
+       mêmes.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Avec les talens , et la capacité de monsieur Gervault , je ne doute pas qu'il n'eût été
+       bientôt un des cent treize notaires de Paris.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Ah ! madame Desjardins , vous prenez là un petit ton ironique qui ne vous convient pas.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Laissez , madame : ce ton là ne peut m'offenser ; et la plaisanterie tombe d'elle-même,
+       quand elle s'adresse à un homme comme mousieur Gervault, Que voulez-vous ? la voisine
+       Desjardins, que j'aime de tout mon cœur , n'a pas été élevée dans un certain monde.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Plaît-il , ma voisine ?... Je suis fâchée de vous le dire; mais on ne se corrige pas.
+       L'orgueil vous perdra;
+       <pb n="45"/> c'est ce que je répétais hier au soir à monsieur Thomas , il n'a pas voulu me
+       croire.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>A monsieur Thomas ! vous parliez de moi ? Eh ! bien ! vous venez de dire une grande vérité.
+       On ne se corrige pas. Je ne m'attendais pas qu'après tout ce qui s'est passé entre nous, je
+       dusse encore être la victime de vos bavardages.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Ecoûtez donc ; on n'est pas parfait, ma voisine , et on se doit entre amis de s'avertir de
+       ses défauts. Moi , je parlais des vôtres , à monsieur Thomas , espérant qu'il ne vous les
+       laisserait pas ignorer, ce n'est pas bavardage, c'est amitié.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Au surplus , cela ne doit point m'étonner , voilà à quoi l'on s'expose quand on se lie avec
+       de certaines gens.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins</speaker>
+      <p>Comment ! avec de certaines gens ! il n'y a pas de vice de cœur chez vous , mais il est
+       impossible d'être plus fière , plus orgueilleuse, plus méprisante.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Mais pourquoi quand vous êtes si bonne au fond de l'âme, être si babillarde, si
+       médisante?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Eh! bien ! Mesdames. Gomment! deux voisines ! deux amies ! quand vous ne devriez songer
+       qu'à bien remettre ensemble vos enfans.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Ah ! mon dieu ! que nos enfans restent brouillés , c'est peut-être ce qui peut arriver de
+       plus heureux pour eux et pour nous.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Voilà peut-être la meilleure parole que vous ayez dite, madame Desjardins.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Alors , monsieur Gervault ira s'établir avec son fils à Paris; on le regrettera lui, c'est
+       un brave homme, mais on aura de quoi se consoler.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Qu'entendez-vous par-là, s'il yous plaît ?</p>
+      <pb n="46"/>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon</speaker>
+      <p>Eh ! vraiment ! c'est assez clair, vous suivrez votre mari apparemment.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Non , madame , je ne vous débarrasserai pas de ma présence ; je resterai dans le pays tout
+       exprés pour vous braver.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Comment! pour me braver ! que voulez-vous dire ?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Il est certain qu'après un tel éclat, vous aurez de la peine à marier mademoiselle
+       Desjardins.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>C'est possible , mais j'aimerais mieux, je crois qu'elle restât fille toute sa vie...</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Que d'épouser mon fils ! vous entendez bien que je vous aime trop pour vous donner ce petit
+       chagrin.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Il n'y a qu'à décommander le repas, écrire à tous les parens, il est encore tems.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE II.</head>
+     <stage>Mad. DESJARDINS, M. DESJARDINS, Mad. TATILLON, Mad. GERVAULT.</stage>
+
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Vous voilà ! Eh bien , où sont donc nos amoureux? oh ! on se prépare , on accuse la lenteur
+       du jour.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Non , monsieur ; ils sont chacun de leur côté à se bouder ; ma fille avec raison , car elle
+       n'est pas faite pour être humiliée , ni moi non plus. C'est pourquoi je vous déclare , devant
+       madame, qu'il faut renoncer à ce mariage; que je retire mon consentement, et que si vous
+       m'aimez , vous retirerez le vôtre.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Qu'est-ce que tu dis donc-là ?</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>La vérité , et je vais faire la même déclaration à à mon mari. Monsieur et madame , je suis
+       bien votre très-humble servante.</p>
+      <pb n="47"/>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE III.</head>
+     <stage>Les précédens , hors Mad. GERVAULT.</stage>
+
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Eh ! mais écoutez donc , madame Gervault ? un moment. Que diable signifie tout cela?</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Ce n'est rien du tout, une petite querelle qui s'appaisera d'elle-même. Madame Gervault à
+       été vraiment impertinente , votre femme un peu vive.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Comment ! madame , vous m'accusez quand elle se permet de rabaisser notre famille : enfin,
+       vous êtes alliée à cette famille ; et je ne crois pas qu'on doive en rougir.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Non , certainement ; on peut s'en glorifier au contraire , mais s'il fallait toujours être
+       en querelle pour des mots, on ne vivrait pas. Tenez , monsieur Desjardins, faites entendre
+       raison à votre femme , je vous laisse avec elle, je suis madame Gervault, et je vous réponds
+       que je vais si bien la prêcher , qu'elle viendra elle-même vous avouer tous ses torts, car
+       elle en a , oh ! elle en a beaucoup ! attendez-moi, je reviens dans l'instant. <stage>( Elle
+       sort. )</stage></p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE IV.</head>
+     <stage>Les précédens , hors Mad. TATILLON.</stage>
+
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Oh ! ça, j'espère que tu vas me dire ?</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>D'abord, votre fille à eu une scène affreuse avec monsieur Charles.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Petites querelles d'amans , qui ne font que rendre l'amour plus vif.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Madame Gervault m'a fait ici des reproches si humilians , elle a pris avec moi un ton de
+       supériorité si insultant!</p>
+      <pb n="48"/>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Querelle de femmes , qui ne m'épouvante pas plus que celle des deux jeunes gens. Le voisin
+       Gervault et moi nous sommes en bonne intelligence, et nous ne nous brouillerons pas ; voilà
+       l'essentiel. Songe au bonheur de ta fille. Charles est un bon sujet, un honnête garçon , ils
+       ne peuvent être heureux qu'ensemble.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Eh ! vraiment, je l'ai cru jusqu'ici ; je le crois bien encoie... mais cette madame
+       Gervault m'a dit des choses si piquantes!</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Et sans doute tu n'es pas demeurée en reste avec elle ? eh ! bien , vous voilà quittes.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE V.</head>
+     <stage>GERVAULT , Mad. DESJARDINS, DESJARDINS.</stage>
+
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Qu'est-ce que c'est donc , voisine? Je viens de rencontrer ma femme dans la rue, qui m'a
+       dit qu'elle était brouillée avec vous ; ma foi à ce mot-là , il m'a pris un éclat de rire,
+       que je n'ai pas pu retenir.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Ma foi, voisin, il a pensé m'en arriver autant, quand ma femme ma raconté tous ses griefs
+       contre la tienne.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Oui , riez , riez; c'est beaucoup plus sérieux que vous ne pensez; vous êtes un brave et
+       galant homme, vous voisin , je le disais encore tout à l'heure ; mais votre femme.... votre
+       femme !...</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Eh bien ! ma femme ; ma femme est une bonne femme , qui vous aime de tout son cœur. Ne
+       voulait-elle pas aussi me faire toutes ses doléances. Heureusement cette madame Tatillon ,
+       qui courait après elle , est venue lui parler raison. Et moi, je viens tout exprès pour vous
+       dire que je vous aime toujours tous les deux ; que vous êtes des folles de vous disputer :
+       que le repas aura lieu , que nous signerons le contrat de mariage, et que je vous retiens
+       toujours pour la première contredanse.</p>
+      <stage>Mad. Desjardins.</stage>
+      <pb n="49"/>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Mais, cependant, voisin, si votre femme s'obstine ?...</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Eh bien ! je m'obstinérai de mon côté, et une fois dans la vie on verra un homme qui aura
+       plus de tête que sa femme.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Va, va, ma bonne amie, trouver ta fille ; il faut que ce soit toi qui la raccommodes avec
+       Charles ; et Gervault et moi nous nous chargeons de réconcilier nos femmes, ou bien vous
+       resterez fâchées si cela vous amuse ; mais nous n'en serons pas moins bons amis , et nos
+       enfans n'en seront pas moins mari et femme.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Eh ! mon dieu ! tu sais bien, que, loin que les querelles m'amusent, je les déteste au
+       contraire ; je rends bien justice à la voisine ; mais il est de ces choses qui vraiment
+       mettent les gens hors d'eux-mêmes. Allons, je vais trouver ma fille ; mais je vous préviens
+       que pour que le raccommodement soit sincère, il faut que M. Charles reconnaisse ses torts et
+       que sa mère prenne l'engagement de ne plus être orgueilleuse à l'avenir. <stage>( Elle
+       sort. )</stage></p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>C'est entendu, on fera tout ce que tu voudras, mais raccommode toi avec la voisine.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE VI.</head>
+     <stage>GERVAULT, DESJARDINS.</stage>
+
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Eh bien ! nos enfans se sont donc bien brouillés ?</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Je ne les ai pas vus , mais on dit qu'ils sont d'une colère.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Ces pauvres jeunes gens , j'en ris, mais je les plains.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Et nos femmes, qu'en dis-tu ?</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Oh? pour celles-là, je ne les plains pas ; il paraît que les disputes sont nécessaires à
+       leur santé.</p>
+     </sp>
+     <pb n="50"/>
+
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>As-tu va ce monsieur Tatillon ? il devait causer avec toi sur le contrat de mariage.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Non, je l'attendais chez moi ; il n'est pas venu, et je viens le chercher ici. J'ai apporté
+       le projet d'acte.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Il paraît fort instruit en matière de droit, ce monsieur Tatillon.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Mais, oui , il cause bien , et tu dois l'aimer; c'est un pécheur intrépide à ce qu'il
+       paraît?</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Oui , il m'a indiqué une manière de ligne de fond que je veux essayer dès demain.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Tu ne sais pas ? cette madame Lambert qui est venue me voir , ne prétend-t-elle pas que ce
+       monsieur Tatillon lui fait la cour!</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Allons donc ! autre conte , un homme qui ne parle que de son amour pour sa femme !</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>C'est ce que j'ai dit ; tu sais qu'elle aime à rire, madame Lambert.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>C'est cela ; ma foi , je suis enchanté que ces braves gens se fixent dans le pays.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Or ça! en attendant notre homme , veux - tu que nous relisions notre contrat ? mais je
+       l'entends, je crois.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE VII.</head>
+     <stage>GERVAULT, TATILLON , DESJARDINS.</stage>
+
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon, </speaker>
+      <stage>( un arrosoir à la main. )</stage>
+      <p>Ouf! je n'en puis plus ! j'ai tiré plus de trente seaux d'eau. J' étais tout seul dans le
+       jardin de monsieur Thomas , je l'ai ma foi arrosé tout entier ; oh ! il en avait bien besoin.
+       Eh bien ! à quoi pensai-je donc; j'apporte l'arrosoir ici. C'est égal, je le descendrai.</p>
+      <pb n="51"/>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Comment ! vous l'avez arrosé !... mais arroser en plein midi, cela ne vaut rien.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Préjugé! erreur ! cela dépend des climats , et dans ce pays-ci, à midi, c'est la bonne
+       heure; je n'ai jamais pu le persuader à mon jardinier. Mille pardons, vous m'avez attendu
+       chez vous ; mais quand on s'occupe... d'ailleurs nous avons le tems , dés qu'on est d'accord
+       sur le fond , la forme est bien peu de chose : parlons d'affaires.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>La nôtre est bien simple, nous avions un procès pour un pré.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Il nous ennuyoit.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Nous transigeons.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Nous marions nos enfans.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Et chacun d'eux apporte en dot ses droits, bien ou mal fondes , sur l'objet en litige.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Et voilà tout.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C'est fort bien ; vous ne voyez aujourd'hui entre vos deux familles que tendresse, amitié,
+       bonne intelligence; espérons que cela durera , car je suis loin de penser, avec ma femme, que
+       la petite querelle qui a eu lieu entre vos enfans soit sérieuse. Eh non ! plus on s'adore,
+       plus on se pique , c'est reconnu. Mais enfin quand on fait un contrat de mariage , monsieur
+       le Notaire , vous devez le savoir ? Il faut penser à tout, aux divisions qui peuvent survenir
+       entre les familles , entre les enfans , entre les époux, aux séparations de corps ou de biens
+       , au divorce même : car enfin , tout cela est possible et licite.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Qu'est-ce que vous dites donc'? il n'y aura ni divorce , ni séparation.</p>
+      <stage>D 2</stage>
+      <pb n="52"/>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Nos enfans s'aiment de tout leur cœur , et grâce au ciel ils ne sont intéressés ni l'un ni
+       l'autre.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh vraiment! c'est en affaires, comme en politique; pour avoir la pâix, il faut être prêt à
+       la guerre; pour ne pas avoir de procès , il faut les prévoir. Partons d'un principe, il faut
+       que l'objet de la discussion appartienne à l'un des conjoints , afin que le survivant puisse
+       exercer ses reprises, sans renouveller les procès. Vous ne voulez plus plaider ? il faut
+       cependant que vous soyez jugés. Faisons un arbitrage, je serai votre arbitre, et vous en
+       passerez par ma décision.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>A la bonne heure.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>C'est convenu.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>En deux mots , l'historique du procès.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>J'avais tort.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Point du tout , c'est moi qui n'avais pas le sens commun.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Le fait.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Le pré était à moi par la succession de mon oncle.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh ! bien ; il n'y a pas de contestation.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Mais son oncle avait fait un testament par lequel il m'instituait légataire dudit pré.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Par conséquent vos droits étant postérieurs , anéantissaient les siens.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Mais le pré étant un propre , il est clair que par la coutume, ( le code n'était pas encore
+       en vigueur ) mon oncle n'avait pas le droit de le léguer.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! c'était un propre ?</p>
+      <pb n="53"/>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Oui. Mais la question ayant déjà été jugé et plus d'un testament maintenu...</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Cela fait jurisprudence en votre faveur : et la jurisprudence a force de loi , c'est un
+       axiome.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Oui ; mais il y a eu d'autres jugemens, qui font aussi jurisprudence en ma faveur.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Par conséquent , voilà deux jurisprudences.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Oui, mais on a appelle de ces jugemens-là, et ils ont été cassés sur l'appel.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Il faut dire infirmés ; c'est le mot , en matière d'appel : ont ils été infirmés?</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Pas tous.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Tous. Mon avocat me l'a dit.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Oh ! ton avocat est un bavard.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Un honnête homme.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Ah ! honnête !</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Mon ami !</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Ma foi , il n'y a pas de quoi t'en faire compliment.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Fort bien ; vous voilà sur le ton plaisant.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Il est fort instruit, mon avocat.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Oui instruit, demande à mon fils.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Je m'en rapporterai à une jeune tête comme ton fils.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Il est avocat aussi, lui.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Sans cause; parce qu'il à fait son droi.</p>
+      <pb n="54"/>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>C'est bien à un homme de commerce, de prononcer sur les gens de bureaux.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh, bien! messieurs, vous allez trop loin.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Mais si tu méprises tant mon fils , pourquoi lui donnes tu ta fille.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Ce n'est parbleu pas moi, c'est elle qui n'en veut pas d'autre.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Et bien , messieurs , vous vous échauffez sur des incidens, et vous vous écartez de la
+       question. Il sagit de savoir à qui sera le pré ?</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Je tiens le pré, il mériterait que je le gardasse.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Si je m'en croyait, je plaiderais jusqu'à extinction pour lui apprendre à respecter les
+       dernières volontés de son oncle.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Messieurs, des mots durs , ne sont pas des raisons.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Pourquoi traite-t-il si mal mon fils.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Vous avez entendu comme il méprise le commerce,</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Messieurs voulez-vous être aussi déraisonnables que vos enfans, que vous condamniez tout à
+       l'heure ?</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Ma foi , si j'étais sûr que mon fils pût garder rancune à sa Cécile.......</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Et moi, si je croyais que le fils ne fut pas moins obstiné que le père.......</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>C'est très impertinent ce que vous me dites là;</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah! vous avez tort , monsieur Desjardins.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Fort bien : vous me donnez tort , monsieur , avant de m'entendre; vous notre arbitre, cela
+       ne se doit pas !</p>
+      <pb n="55"/>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Vous voyez, comme il prend les choses de travers.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Vous avez tort dans vos réflexions : mais non pas dans la question à laquelle il faut en
+       revenir, car enfin, le testament d'un oncle me parait un titre bien légitime.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Ainsi donc, c'est moi qui ai tort ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Je ne dis pas encore cela.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Continuez ,votre fille querelle mon fils ; votre femme insulte la mienne, et monsieur, qui
+       est votre parent, vous donne raison.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ça ! écoutez donc, messieurs, ne me mêlez pas dans tous vos débats : je n'aime pas le
+       bruit, et monsieur me fait faire une réflexion; vous m'avez prié d'être votre arbitre?</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Point du tout; c'est vous qui vous êtes offert.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh bien ! je me suis offert, soit. Mais je suis presque votre parent, je dois donc me
+       récuser; et je me récuse avec d'autant plus de plaisir, que je commence à croire que
+       l'affaire ne sera pas très-facile à arranger. Vos femmes sont donc aussi en querelle ?</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Parbleu ! madame Gervault qui se permet d'insulter madame Desjardins.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Les amans qui se boudent, les mères qui sé disputent, les pères qui sont sur le point de se
+       quéreller !... Savez-vous que voilà un mariage qui ne s'annonce pas d'une manière bien
+       heureuse? Quant à moi, je n'ai qu'un mot à vous dire : le meilleur procès ne vaut rien. Je ne
+       peux pas être votre arbitre, prenez-en un autre.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Je le veux bien.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Qui?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Monsieur Thomas , l'aubergiste .</p>
+      <pb n="56"/>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Monsieur Thomas, soit.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Vous le prenez ? je n'en veux pas.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh bien ! monsieur Granville.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Granville, il est trop son ami ; il fait des affaires avec sa maison.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Oh ! je n'en voudrais pas non plus. Il est trop pacifique ; il ne donnerait raison ni à
+       l'un , ni à l'autre.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Mais si vous ne vous accordez pas, sur le choix d'un arbitre, il faudra donc plaider.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Eh bien ! nous plaiderons.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Nous plaiderons.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Tatillon.</speaker>
+      <p>Comment vous plaiderez ! et en attendant vous marierez vos enfans ?</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Nos enfans? comment, non parbleu ! je vais recommander à mon fils d'avoir du caractère.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Moi, je laisserai faire ma femme; elle saura bien empêcher Cécile de penser à Charles.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Qu'est-ce que vous dites donc? les parens priés, le repas préparé, votre confrère qui va
+       venir dresser le contrat, vous êtes trop avancés , vous ne pouvez pas rompre ; ce serait un
+       scandale, un ridicule.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Qui retombera sur lui. On le connaît.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Vous en aurez votre bonne part.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Voulez-vous m'en croire? si vous tenez absolument à rompre le mariage arrêté, ce que je
+       suis loin de vous conseiller cependant, sauvez au moins les apparences : laissez venir votre
+       monde ; tâchez d'être gais, ayez l'air bons amis, recommandez à vos femmes de
+       <pb n="57"/> dissimuler. Madame Tatillon et moi nous serons-là pour vous seconder, et ce soir
+       vous ferez naître un prétexte pour différer, pour rompre même; au moins vous aurez gagné du
+       tems , vous aurez préparé les esprits , et cela vaudra beaucoup mieux.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Vous avez raison. Contenons-nous.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Oui si je le peux.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Vous le pourrez, on peut tout ce qu'on veut, comme l'a dit certain auteur. Qui donc ?.. Et
+       parbleu!.. Chose.... Voltaire. Justement voici monsieur Thomas. Commencez.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Amis , jusqu'à ce soir.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE VII.</head>
+     <stage>GERVAULT, TATILLON, THOMAS, DESJARDINS.</stage>
+
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Me voilà de retour. Ah ! c'est vous voisins, tant mieux. Eh bien ! voilà tous vos parens
+       qui arrivent dans une heure vous pourrez vous mettre à table. Il s'agit de placer tout votre
+       monde, j'ai préparé des cartes pour les noms.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah fort bien ! pour mettre sur les serviettes comme à Paris.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Ma foi , monsieur Thomas , que tout le monde se place comme il voudra... Moi je n'y entends
+       rien.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Ni moi non plus.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh bien ! qu'est-ce que c'est donc ? que signifie cet air froid et réservé, on dirait que
+       vous êtes encore en querelle.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Nous ? ah ! mon dieu, non.</p>
+      <pb n="58"/>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Moi? me brouiller avec monsieur Gervault !</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Rassurez-vous , monsieur Thomas, ils sont tous deux de la meilleure intelligence.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>C'est vrai ; pour ce que nous voulons faire, nous ne nous sommes jamais si bien entendus.
+       Pardon je reviendrai ; mettez - vous toujours à table sans moi. Sans adieu , voisins.
+       <stage>( il sort. )</stage></p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh mais ! écoutez donc , écoutez donc monsieur Desjardins.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE IX.</head>
+     <stage>Les précédens, hors DESJARDINS.</stage>
+
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Oui ! il le prend sur ce ton là, ma foi.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Chut ! ou vous allez tout faire deviner.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>C'est juste. Mais tenez , j'aime mieux sortir. .. Pardon , voisin. Monsieur vous
+       expliquera... Je vous souhaite bien le bonjour... <stage>( il sort. )</stage></p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh ! mais mon dieu , qu'est-ce que tout cela signifie.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE X.</head>
+     <stage>TATILLON, THOMAS.</stage>
+
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Un mal entendu, une bagatelle; j'appaiscrai tout cela. Il y a de quoi perdre l'esprit ,
+       mais cela ne m'effraye pas. Mais dites-moi donc, voilà tous les parens qui arrivent. Je serai
+       bien aise de les voir.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh ! monsieur ce n'est pas de cela qu'il s'agit. Expliquez-moi je vous en prie ?..</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ce n'est rien, vous dis - je , les amans se sont brouillés, les mères sont en querelle.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Comment ! ce n'est rien.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh non ! parce que les pères ont pris un éxcellent parti, je vous conterai le fait ; quant
+       aux autres , ma femme s'en est chargée , et tenez la voilà qui va vous en donner des
+       nouvelles.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XI.</head>
+     <stage>TATILLON, Mad. TATILLON, THOMAS.</stage>
+
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh ! bien , madame , les avez-vous raccommodés.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Impossible , plus impossible que jamais et comme j'étais avec Mad. Desjardins , son mari
+       est rentré ne le voilà-t-il pas décidé à plaider de nouveau.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>A plaider dites-vous ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Chut! il ne fallait pas dire cela. Je les avais fait convenir qu'ils en feroient un mystère
+       jusqu'à ce soir.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Eh mais ! écoute donc , il ne m'avoient pas dit cela</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Monsieur Thomas est un homme prudent, qui ne nous compromettra pas... Cela me fait mal à
+       moi.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Oh! c'est affligeant, d'honneur.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Si vous saviez ce que j'ai fait pour les détourner de ce malheureux procès , jusqu'à
+       m'offrir pour leur arbitre.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Et moi donc, tout ce que j'ai dit aux deux femmes ici même , mais elles ne sont pas assez
+       au-dessus des faiblesses de leur sexe. Au surplus, elles m'ont priée toutes les deux de
+       vouloir bien faire les honneurs, viens , mon ami , joindre la compagnie.</p>
+      <pb n="60"/>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C'est cela, et puis , j'irai les trouver , et j'espère encore...</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>C'est difficile, très-difficile , mais nous nous en chargeons. <stage>( Elle sort avec son
+       mari. )</stage></p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE XII.</head>
+
+     <sp who="#TDP2838_1">
+      <speaker>THOMAS, </speaker>
+      <stage>( seul. )</stage>
+      <p>Je ne reviens pas de mon étonncment. A peine suis-je deux heures absent et je retrouve tout
+       le monde en querelle.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE XIII.</head>
+     <stage>THOMAS, Mad. LAMBERT.</stage>
+
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Ah ! c'est vous , madame Lambert, vous ne savez pas...</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Eh ! je ne le sais que trop... Mon Dieu que j'étais fâchée que vous fussiez sorti : j'ai
+       fait tout ce que j'ai su pour les appaiser, mais impossible , il semble que la tète ait
+       tourné à tout le monde. Ce Granville qui sait que je suis arrivée , et qui n'a pas encore
+       paru de la journée ! apparemment qu'il se trouve bien auprès de la jolie aubergiste de la
+       Magdeleine.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Qu'est-ce que vous dites donc ? Mais le voici lui-même.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>C'est fort heureux.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE XIV.</head>
+     <stage>THOMAS , GRANVILLE, Mad. LAMBERT.</stage>
+
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Eh ! bien , me voilà, j'arrive tard , mille pardons, j'ai eu tant d'affaires ; eh ,
+       bonjour, belle dame , ne me grondez pas, Il n'y a qu'un quart-d'heure que j'ai appris votre
+       arrivée.</p>
+      <pb n="61"/>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Bon jour , monsieur , elle est vraiment jolie l'hôtesse de la Madeleine , et elle a sans
+       doute beaucoup d'esprit ?</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Que voulez-vous dire ?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh madame , vous aurez tout le tems de chercher dispute à Granville , cela ne m'inquiète
+       pas , vous êtes raisonnables vous autres ; parlons des affaires de monsieur Gervault et de
+       monsieur Desjardins.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Oui , c'est ce qui doit nous occuper.... eh bien ! tout le monde est dans la joie , les
+       parens sont arrivés , le contrat est prêt?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Oui, le contrat est prêt, mais on ne le signera pas.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Qu'est-ce que vous dites donc?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>La vérité. Pendant mon absence, ils se sont tous querellés, disputés , mais qui donc a
+       soufflé la discorde entre les deux familles ?</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Oh ! je sais qui.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Vous le savez ?</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Eh parbleu, c'est monsieur Tatillon.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Vous croyez.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Et sa femme, j'en suis sûr, vous n'avez pas voulu m'écouter tantôt quand j'ai voulu vous
+       dire ce que c'était que ces gens-là, vous en voilà punis. Vous vous imaginez peut-être comme
+       ils vous l'ont dit , que ce sont eux qui quittent notre ville, point du tout, c'est la ville
+       qui les chasse. On leur a fermé toutes les portes. Tracassiers, brouillons , importans ,
+       importuns, ils ont précisément le même caractère ; aussi vivent-ils très-bien ensemble,
+       s'entendent à merveille, mais c'est pour fatiguer, tourmenter et
+       <pb n="62"/> brouiller tout ce qui les approche , et non contents de se mêler mal-à-propos de
+       ce qui touche autrui, dans ce qui les regarde eux mêmes , chacun à pris les fonctions de
+       l'autre , c'est la femme qui passe les baux, signe les quittances et place l'argent, c'est le
+       mari qui compte le linge et ordonne le dîner, la femme fait les affaires , le mari fait le
+       ménage : avec les meilleurs intentions du monde , ils ont brouillé les amis, les amans, et
+       moi qui avais eu la précaution de ne pas loger avec eux, ils ont su m'atteindre. C'est
+       monsieur Tatillon, ou sa femme,qui vous aura dit que je courtisais la jolie hôtesse de la
+       madeleine n'est-ce pas, je l'aurais parié, vous avez été bien heureux d'être obligé de sortir
+       toute la matinée, monsieur Thomas ; qui sait même si pendant votre absence ils ne vous auront
+       pas joué quelque tour de leur façon.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>En vérité, ah-cà, écoutez donc il est tems de nous en mêler et de mettre ordre à tous ces
+       jeux de leur esprit qui amènent aux uns de petits chagrins, aux autres de grands malheurs ,
+       les démélés entre vous et madame bagatelle qui est déjà oubliée; mais le mariage du jeune
+       Gervault et de la petite Desjardins , mais la bonne intelligence entre nos amis, c'est plus
+       sérieux.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Le jeune homme est si intéressant.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>La jeune personne est si gentille !</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh bien tâchons dabord d'amuser et de distraire la société, surtout de trouver un prétexte
+       pour expliquer l'absence des mariés, et des pères et mères. Cela n'est pas bien difficile,
+       les repas de nôce sont comme les batémes un retard, d'une heure est presqu'obligé, ensuite
+       nous irons trouver les gens en querelle.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>C'est cela moi je réponds de Gervault et de Desjardins.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Moi de leurs femmes.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Moi, de leurs enfans. Mais dites-moi donc, mon-
+       <pb n="65"/> sieur et madame Tatillon qui mettent si bien le monde en querelle , ne se
+       querellent-ils jamais ensemble ?</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Eh mon Dieu ! très-souvent ; ils commencent, mais ils sont bien vite interrompus et
+       raccommodés par des querelles qu'ils entretiennent , ou qu'ils suscitent entre les
+       autres.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>A merveille ; vous le savez , je n'aime pas à me mêler des affaires d'autrui, mais quand il
+       sagit de rendre service , et à des amis encore ! sans me vanter je suis aussi actif, aussi
+       tracassier que monsieur et madame Tatillon.</p>
+     </sp>
+    </div>
+    <trailer>Fin du troisième acte.</trailer>
+   </div>
+   <div type="scene">
+
+    <head>ACTE IV.</head>
+
+    <div type="scene">
+
+     <head>SCENE PREMIÈRE.</head>
+     <stage>CÉCILE, THOMAS, CHARLES.</stage>
+
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Voulez-vous bien venir avec moi tous les deux , n'avez-vous pas de honte? n'êtes-vous pas
+       de véritables enfans ? ne mériteriez-vous pas ?,.. Allons , vite , qu'on se demande pardon de
+       ses torts.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Qui? moi, monsieur Thomas, demander pardon quand j'ai raison !</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Il est trop tard à présent.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Non, il n'est point trop tard. Non , vous n'avez pas raison.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Si vous saviez.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <stage>( Tatillon entre. )</stage>
+      <p>Je sais tout; je devine tout. Je devine sur-tout que vous vous aimez. Ainsi donc...</p>
+      <pb n="64"/>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE II.</head>
+     <stage>CECILE, THOMAS, TATILLON, CHARLES.</stage>
+
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ainsi donc , on se boude toujours , n'est-ce pas ? laissez-moi faire, je les aurais bientôt
+       réconciliés.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Oh ! je n'en doute pas. <stage>( à part. )</stage> Que le diable l'emporte.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Vous saurez donc , monsieur Thomas..</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>C'est inutile , et tenez entre nous la querelle de ces jeunes gens... Misère, bagatelle,
+       indigne de vos grands talens. Celle de leurs parens est bien plus importante.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Il est vrai ; cependant...</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Celle des deux mères surtout... Quand l'amour-propre est attaqué chez les femmes d'un
+       certain âge... C'est-là ce qui peut vous faire honneur et que je n'oserais peut-être pas
+       entreprendre ; mais vous !...</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Il est certain...</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>En un mot, chargez-vous des mères, je me charge des enfans.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>A la bonne heure, mais vous ne direz pas à ces jeunes gens...</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Je leur dirai tout ce qu'il faut leur dire.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Vous le voulez ? soit, et j'espère... <stage>( Il va et vient. )</stage> Faites leur bien
+       sentir... Je cours chez les mamans.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Bon! nous en voilà délivrés !</p>
+      <stage>SCÈNE III.</stage>
+      <pb n="65"/>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE III.</head>
+     <stage>Les précédens, hors TATILLON.</stage>
+
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Il est parti, mais c'est égal; je vais raconter à monsieur Thomas...</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Oui , qu'il nous juge sur votre propre récit.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Pourquoi m'apprendre ce que vous devez oublier vous-même. Je ne veux rien entendre que vous
+       ne soyez d'accord.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Eh! mais , monsieur Thomas , vous nous pressez.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Laissez-moi, du moins le tems d'oublier ma colère.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Point de réflexions , point de faux orgueil.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE IV.</head>
+     <stage>CÉCILE, THOMAS, Mad. TATILLON, CHARLES.</stage>
+
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Ah! vous voilà , je vous cherchais.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas, </speaker>
+      <stage>( à part. )</stage>
+      <p>Allons, voilà la femme à présent.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Eh bien ! entend-on raison, se raccommode-t-on?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Oui, oui madame; on est réconcilié.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Réconcilié dites-vous ?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Voulez-vous me démentir ?</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Vous démentir!... Non.... Mais.....</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>A merveille, mais est-ce bien sincère , bien solide ?</p>
+      <pb n="66"/>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas, </speaker>
+      <stage>( à part. )</stage>
+      <p>Si je la laisse faire elle va les brouiller de nouveau.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>C'est qu'il faut bien prendre garde...</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Vous avez raison ; il faut prendre garde à tout: c'est pourquoi, laissez-moi avec ces
+       jeunes gens, j'ai envoyé votre mari à madame Gervault et à madame Desjardins. Mais ce qu'il y
+       a de plus difficile, c'est d'appaiser les pères. Un procès , l'entêtement de la vieillesse,
+       point d'autre passion qu'une ancienne rancune. C'est à vous qu'est réservé ce chef-d'œuvre de
+       négociation.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>J'entends parfaitement bien , mais nous aurons le tems.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh! point du tout, voyez monsieur Gervault, monsieur Desjardins. Comme on dit que c'est
+       votre mari qui le premier a remis sur le tapis ce malheureux procès, et qu'il est à craindre
+       qu'il ne s'entende pas beaucoup en procès......</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Voyez un peu , mon mari fait des bévues et il faut que ce soit, moi, qui les fasse oublier.
+       Attendez-moi , je ne tarderai pas. <stage>( elle sort. )</stage></p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>A merveille, voilà le mari et la femme bien occupés.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE V.</head>
+     <stage>Les précédens hors Mad. TATILLON.</stage>
+
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Eh mais en supposant, comme vous le dites, que nous soyons réconciliés, en serionst-nous
+       plus heureux.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Quand je pardonnerais à Charles ( ce que je ne ferai pas ) , nos parens ne sont-ils pas
+       toujours en querelle ?</p>
+      <pb n="67"/>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Oh! pour la querelle de nos parens, il est certain que mon père a eu tort avec monsieur
+       Desjardins.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Tout cela vient de ma mère ; si elle n'avait pas irrité madame Gervault...</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Tout cela vient de vous. Si vous n'aviez pas fait la sotise de vous brouiller les
+       premiers...</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>C'est possible: mais aussi pourquoi mademoiselle...</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Oui, vous-voulez encore quereller ? ma foi ; tant pis pour-vous; moi, je suis bien bon de
+       me donner tant de peine, de perdre mon tems pour des choses qui ne me regardent pas ,
+       querellez-vous, boudez-vous, disputez-vous, je ne m'en mêle plus, <stage>( à part. )</stage>
+       Pauvres jeunes gens, ils ont eu besoin de monsieur Tatillon pour se brouiller ; mais ils
+       n'ont pas besoin de moi pour se réconcilier. <stage>( Il va pour sortir. )</stage></p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile, </speaker>
+      <stage>( allant à M. Thomas. )</stage>
+      <p>Eh mais ! écoutez-donc, monsieur Thomas , comment voulez-vous que nous nous raccommodions
+       si vous nous abandonnez.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles</speaker>
+      <p>Enseignez-nous au moins les moyens de rendre nos parens bons amis.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Car enfin il n'est pas nécessaire qu'ils se détestent parce que nous ne nous aimons
+       plus.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Oui dà , eh bien à votre prière je veux bien encore essayer. Je leur ai envoyé monsieur et
+       madame Tatillon , mais soyez tranquilles nous avons de l'avance sur eux. Granville a dû voir
+       votre père et celui de Cécile , et tenez , voilà déjà madame Lambert qui nous amène Madame
+       Gervault et madame Desjardins, C'est madame Desjardins qui est la plus irritée, laissez-moi
+       faire et ne me démentez pas.</p>
+      <pb n="68"/>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE VI.</head>
+     <stage>CECILE, Mad. DESJARDINS, THOMAS , Mad. GERVAULT, Mad. LAMBERT, CHARLES.</stage>
+
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert , </speaker>
+      <stage>( arrivant , aux deux femmes. )</stage>
+      <p>Non, mesdames , je n'écouterai rien de ce que chacune veut me dire en secret, qu'en
+       présence de l'autre, en présence de vos enfans que voici et de monsieur Thomas pour qui vous
+       avez toutes deux estime et amitié.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Encore ici, mademoiselle ?</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Mon fils avec mademoiselle Desjardins !</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh! madame Gervault, de grâce , point d'emportement. Si vous n'êtes plus l'amie de madame
+       Desjardins , du moins respectez son malheur.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Comment son malheur !</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Qu'est-ce que vous dites donc ?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Comment, est-ce que par hazard vous ne sauriez pas...</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Eh ! mon dieu , non , je ne sais rien.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Elle ne sait rien, j'ai vu chez elle beaucoup de colère , mais point de chagrin.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles, </speaker>
+      <stage>( à part. )</stage>
+      <p>Que dit-il là.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>En vérité , oh bien la poste de demain vous apportera sans doute la nouvelle.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Eh quelle nouvelle donc ?</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Expliquez-vous donc , ne voyez vous pas que vous la faites mourir d'inquiétude.</p>
+      <pb n="69"/>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Il est clair que j'ai eu tort de parler; mais enfin puisque le mot m'est échappé, il vaut
+       mieux qu'elle soit instruite par moi... le commerce est sujet à de grands accidens.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Eh ! grand dieu ! que lui est-il donc arrivé à la pauvre femme ?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas, </speaker>
+      <stage>( à madame Desjardins. )</stage>
+      <p>N'avez-vous pas à Paris un correspondant nommé Dormeuil ou Dorneuil.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Dorneuil.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Eh oui ! Dorneuil; mon mari le connaît, un honnête homme.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>C'est cela même : il a fait banqueroute.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Ah! ciel!</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Eh comment ! avez-vous appris cela, monsieur Thomas ?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Comment ?... C'est ce monsieur Tatillon qui connaît tout le monde et qui a reçu une
+       lettre..</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Ah ! ma pauvre fille, te voilà ruinée.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Ruinée ! ah ! ma bonne voisine, vous entendez bien qu'il n'est plus question de toutes nos
+       petites querelles : pardonnez-moi tous mes torts.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Et vous même ma voisine, pardonnez moi les miens je reconnais bien votre cœur : mais quel
+       terrible événement !</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Songez qu'il vous reste des amis : mon mari mon fils et moi : n'ést-ce pas Charles ?</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Oui sans doute, ma mère.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert, </speaker>
+      <stage>( à Thomas )</stage>
+      <p>Ah ça ! c'est un conte que vous leur faites-là ?</p>
+      <pb n="70"/>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Non vraiment ce n'est pas un conte.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Eh mais! écoutez-donc, c'est que ce monsieur Dorneuil est aussi mon correspondant.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE VII.</head>
+     <stage>Les précédens , TATILLON </stage><stage>( se plaçant entre madame Gervault et Thomas.
+      )</stage>
+
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ah ! les voilà , j'ai tant couru ; je ne m'étonne pas si je n'ai pas trouvé ces dames chez
+       elles ; madame Lambert aussi ! enchanté.....essoufflé.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Allons, encore monsieur Tatillon !</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Ah ! monsieur , dites-nous : cette lettre est-elle bien authentique, vient-elle d'une
+       personne sûre ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Quelle lettre?</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Eh oui ! la lettre qui nous annonce que M. Dorneuil a fait banqueroute.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Je n'ai pas reçu de lettre , je ne connais pas monsieur Dorneuil.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Ah ! je respire.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Çomment ! que dites-vous !</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C'est un conte qu'on vous aura fait. Parlons d'àffaires plus importantes , il ne s'agit que
+       de s'entendre. Il est certain que M. Desjardins est un entêté M. Gervault un chicaneur ; que
+       le jeune homme est susceptible ; la jeune personne exigeante...</p>
+     </sp>
+     <sp who="#TDP2838_20">
+      <speaker>Tous ensemble.</speaker>
+      <p>Qu'est-ce que vous dites donc, monsieur ?</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh! laissez-donc, laissez-donc ! c'est pour amener la réconciliation.</p>
+      <pb n="71"/>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Un joli moyen ! <stage>( à madame Lambert. )</stage> Tâchez de l'éloigner.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p><stage>( A Thomas. )</stage> Vous avez raison. <stage>( haut. )</stage> Ce qu'il y a de
+       plus important pour monsieur, c'est de me raccommoder avec Granville , car c'est lui qui nous
+       a brouillés. Monsieur Granville n'est-il pas là dedans ?... J'exige de monsieur qu'il vienne
+       sur-le-champ démentir les propos qu'il a tenus.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Je n'ai pas tenu de propos... mais c'est égal, je vais avec vous... au fait, monsieur
+       Thomas suffira pour vous convaincre... Elle est aimable cette madame Lambert... C'est votre
+       affaire d'ailleurs... <stage>( A Thomas. )</stage> N'allez pas dire à ma femme que je trouve
+       madame Lambert aimable.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Non , non, soyez tranquille.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Venez , monsieur , venez.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>TATILLON.</speaker>
+      <p>De tout mon cœur , madame.</p>
+      <stage>( Il sort avec madame Lambert. )</stage>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE VIII.</head>
+     <stage>CECILE, Mad. DESJARDINS, THOMAS, Mad. GERVAULT, CHARLES.</stage>
+
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Eh mais! M. Thomas, expliquez-nous donc?...</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>En vérité je ne conçois pas...</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Eh quoi ! ma mère, ne voyez-vous pas que tout ceci n'était qu'une feinte de monsieur
+       Thomas.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Qui voulait vous prouver à toutes deux que, malgré votre querelle, vous êtes encore
+       meilleures amies que vous ne pensez.</p>
+      <pb n="72"/>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Vous avez vu quel intérêt madame Gervault a pris à la fausse nouvelle de votre malheur.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Vous avez vu comme au milieu de son chagrin , madame Desjardins a été sensible à votre
+       amitié.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Est-il possible ?</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>J'en suis toute interdite.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Monsieur Dorneuil n'a pas manqué ; Monsieur Tatillon n'a pas reçu de lettre en faveur de
+       votre raccommodement, monsieur Dorneuil me pardonnera d'avoir supposé un moment sa faillite;
+       en faveur de votre amitié bien réelle, de vos excellentes qualités , soyez mutuellement
+       indulgentes , passez-vous mutuellement quelque légers défauts et aidez-moi à rendre vos maris
+       aussi raisonnables que vous et vos enfans; justement voilà monsieur Granville qui nous amène
+       déjà monsieur Desjardins.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE IX.</head>
+     <stage>CÉCILE, Mad. DESJARDINS, M. DESJARDINS, GRANVILLE , THOMAS, Mad. GERVAULT,
+      CHARLES.</stage>
+
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Venez monsieur Desjardins , monsieur Thomas a quelque chose à vous dire. En voila déjà un ,
+       je vous le livre, et je cours chercher l'autre.</p>
+      <stage>( Il sort. )</stage>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE X.</head>
+     <stage>Les précédents, hors GRANVILLE.</stage>
+
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Tous vos discours , toutes vos représentations sont inutiles ; Gervault veut plaider et
+       bien nous plaiderons.</p>
+      <pb n="75"/>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh que diable voisin avez-vous oublié combien le papier timbré est cher.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>C'est égal.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>A la bonne heure , mais votre fille qui a pardonné à Charles !</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+
+      <p>Je te croyais un peu plus de caractère , Cécile.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Votre femme qui s'est réconciliée avec madame Gervault!</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Ma femme est une folle.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Madame Gervault qui convient qu'il y a bien des torts de son côté.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>C'est impossible.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault.</speaker>
+      <p>Je vous demande pardon, mon voisin, c'est très-possible.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Et je suis bien forcée de convenir que j'ai été beaucoup trop vive.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>A merveille , vous voilà tous ligués contre moi.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh bien ! liguez-vous à votre tour avec nous, contre Gervault. Je 1'entends.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XI.</head>
+     <stage>CÉCILE, Mad. DES JARDINS, M. DES JARDINS , THOMAS , GRANVILLE , M. GERVAULT , Mad.
+      GERVAULT, CHARLES.</stage>
+
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Allons, monsieur Gervault, vous qui êtes d'un caractère doux , d'un esprit sensé, cela doit
+       vous coûter de garder rancune aux gens. Embrassez monsieur Dejardins.</p>
+      <pb n="74"/>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Moi ! l'embrasser.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas, </speaker>
+      <stage>( à Gervault. )</stage>
+      <p>Ma foi, voisin, si vous avez tant envie de disputer , vous disputerez tout seul, car votre
+       femme , votre fils et Desjardins, sont de la meilleure intelligence.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Un moment donc, vous me faites aller un peu vite; il s'en faut que je sois décidé...</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Non ; vous ne l'êtes pas. Eh bien! soit : plaidez, détestez-vous bien cordialement ; mais
+       mariez vos enfans, ils s'aiment; vos femmes le désirent, vous voulez leur bonheur...</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Sans doute.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>C'est vrai.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Et quand vous devriez rompre même après avoir signé le contrat, aujourd'hui au moins ,
+       comme vous en étiez convenus en présence de vos parens, des étrangers , de monsieur et madame
+       Tatillon surtout, ne donnez pas une mauvaise opinion de votre caractère : feignez d'être de
+       bonne intelligence, embrassez-vous s'il le faut.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>Ah oui mon père, je vous en prie.</p>
+     </sp>
+     <sp who="#TDP2838_5">
+      <speaker>Cécile.</speaker>
+      <p>Mon père si mon bonheur vous est cher...</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Soit : mais que sa femme et lui se modèrent , ou je ne réponds de rien.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XII.</head>
+     <stage>Les précédens , Mad. TATILLON se plaçant entre Thomas et Granville.</stage>
+
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Ah vous voilà tous rassemblés ? c'est fort heureux ! dieu merci , on se donne assez de mal
+       pour les autres ; et voilà assez de fois que je fais le
+       <pb n="75"/> voyage de chez l'un chez l'autre et de chez tous deux, chez monsieur Thomas.
+       <stage>( à Thomas. )</stage> Eh bien! réussissez-vous? ces bonnes gens s'appaisent-ils?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Oui madame, tout est fini, <stage>( bas à Desjardins. )</stage> Dites comme moi. Voilà le
+       moment.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Oui madame ; et vous allez voir Gervault et Desjardins s'embrasser devant vous.
+       <stage>( bas à Gervault. )</stage> Songez qu'il est de la dernière importance devant cette
+       femme...</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault. </speaker>
+      <stage>( à son mari. )</stage>
+      <p>Allons, mon ami , ne fais pas mentir monsieur Granville.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault </speaker>
+      <stage>( bas à sa femme. )</stage>
+      <p>C'est par politique, au moins.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins </speaker>
+      <stage>( bas à son mari. )</stage>
+      <p>Vous voyez qu'il fait les premiers pas, Monsieur Desjardins ? vous ne resterez pas en
+       arrière.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins </speaker>
+      <stage>( à sa femme. )</stage>
+      <p>Non , mais pas plus sincère que lui , je t'en réponds. <stage>( Ils
+       s'embrassent. )</stage></p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Là, voilà ce que c'est.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault, </speaker>
+      <stage>( à sa femme. )</stage>
+      <p>Eh bien ! qu'est-ce ? il m'a embrassé de bon cœur je crois ?</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins, </speaker>
+      <stage>( à sa femme. )</stage>
+      <p>Il s'est attendri je crois.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>C'est touchant, très-touchant! or-cà maintenant expliquez-moi à qui demeuré le pré en
+       définitif?</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>A qui ? ma foi , je n'en sais rien.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Ni moi non plus.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>C'est pourtant ce qu'il est fort essentiel de savoir, car enfin....</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Permettez, ils ont tout le tems de parler de leurs affaires entre eux. J'ai quelque chose
+       moi, à
+       <pb n="76"/> vous dire, madame, qui vous régarde personnellement.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Et quoi donc?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Cette madame Lambert qui loge chez moi, elle est fort jolie.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Oh ! figure de fantaisie.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Justement, on prétend que votre mari à une fantaisie pour elle.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Allons donc?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Demandez à ces dames si votre mari ne l'a pas trouvée fort aimable , s'il n'est pas dans ce
+       moment auprès d'elle et s'il ne nous a pas recommandé de ne pas vous le dire.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Ah mon dieu ! je vous suis bien obligée monsieur Thomas, je m'étais déjà doutée de la
+       chose, à quelques mots qui lui sont échappés. Oh ! le monstre! mille pardons messieurs et
+       mesdames de ne pouvoir m'occuper de vos intérêts , mais quand il sagit des miens.... Ah !
+       perfide Tatillon.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XIII.</head>
+     <stage>Les précédens , hors Mad. TATILLON.</stage>
+
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Quel diable de conte lui faites-vous là ?</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Vous saurez pourquoi. Revenons à vous , je vous fais mon compliment. A voir la manière
+       franche dont vous vous êtes embrassés, on eut juré que c'était sincère.</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>Eh ! mais, si je ne me trompe. Gervault m'a sincèrement serré dans ses bras.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Et comment faire autrement quand je te vois sur le point de pleurer.</p>
+      <pb n="77"/>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Et , moi , je l'avais prévu. Quelque violente que soit leur colère deux amis de vingt ans
+       ne peuvent pas impunément feindre de s'embrasser... deux braves et honnêtes gens comme vous
+       ne peuvent pas se donner comme on dit un baiser de Judas. Allons, mes voisins, un bon et
+       véritable raccommodement, c'est ce qu'il nous faut.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Et vraiment je ferais volontiers ce que vous me conseillez tous , sans une inquiétude qui
+       me reste.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Laquelle ?</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>Qui nous répond que demain nos querelles ne recommenceront pas ?</p>
+     </sp>
+     <sp who="#TDP2838_9">
+      <speaker>Desjardins.</speaker>
+      <p>En effet : c'est de bon cœur qu'il y a quinze jours, nous nous étions raccommodés.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>Et cependant un rien , une bagatelle a suffi pour nous brouiller de nouveau.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Eh bien ! moi, j'ai un moyen infaillible pour empêcher entre vous toutes querelles à venir.
+       Convenons d'un fait, c'est ce monsieur Tatillon et sa femme qui vous ont brouillés tous?</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles.</speaker>
+      <p>En effet, c'est lui d'abord , et sa femme ensuite qui m'a fait me fâcher contre Cécile.</p>
+     </sp>
+     <sp who="#TDP2838_6">
+      <speaker>Mad. Desjardins.</speaker>
+      <p>C'est la femme qui en nous racontant les querelles de nos enfans m'a animée contre la
+       voisine.</p>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault.</speaker>
+      <p>C'est le mari qui en voulant s'établir notre arbitre, nous a mis de nouveau dans la tête de
+       plaider.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Eh bien ! chassez-moi d'ici ce couple turbulent, si adroit à brouiller sans le vouloir , et
+       si maladroit quand il veut réconcilier, et je vous garantis pour toujours en bonne
+       intelligence.</p>
+      <pb n="78"/>
+     </sp>
+     <sp who="#TDP2838_8">
+      <speaker>Gervault, </speaker>
+      <stage>( tendant la main à Desjardins et passant à lui. (i )</stage>
+      <p>Il a raison, touche-là, Desjardins.</p>
+     </sp>
+     <sp who="#TDP2838_7">
+      <speaker>Mad. Gervault, </speaker>
+      <stage>( allant à madame Gervault et l'embrassant. )</stage>
+      <p>Embrassez moi , ma voisine.</p>
+     </sp>
+     <sp who="#TDP2838_4">
+      <speaker>Charles , </speaker>
+      <stage>( à Cécile , et lui baisant la main. )</stage>
+      <p>Ah ! Cécile.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCÈNE XIV.</head>
+     <stage>Les précédens, Mad. LAMBERT ( entre Thomas et Granville. )</stage>
+
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>A merveille on est d'accord ici ; oh! bien il n'en est pas de même là dedans ; on se
+       querelle dieu merci, et tout de bon.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Et qui donc.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Monsieur et madame Tatillon.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>En vérité.</p>
+     </sp>
+     <sp who="#TDP2838_12">
+      <speaker>Mad. Lambert.</speaker>
+      <p>Monsieur Tatillon est galant : je m'en étais déjà apperçu; mais je ne savais pas que madame
+       Tatillon fut jalouse, et tenez, les entendez-vous.</p>
+     </sp>
+    </div>
+    <div type="scene">
+
+     <head>SCENE XV et dernière.</head>
+     <stage>Les précédens, M. et Mad. TATILLON se plaçant entre Thomas et Granville , madame Lambert
+      est après Granville.</stage>
+
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon </speaker>
+      <stage>( en entrant. )</stage>
+      <p>En vérité madame pour me faire une scène aussi affreuse et aussi injuste. . .</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon</speaker>
+      <p>En vérité monsieur , il faudrait être douée d'une patience plus qu'humaine. . .</p>
+      <stage>(i) Ces trois passades se font en même - tems.</stage>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Taisez-vous donc madame, ne voyez vous pas Madame Lambert, songez que c'est elle que vous
+       insultez.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Je respecte beaucoup madame. Mais, vous, monsieur, vous devriez vous souvenir un peu plus
+       des devoirs de l'hymen et de l'amitié , et songer que, votre extravagance outrage à la fois,
+       moi, qui suis votre femme et monsieur Granville qui est votre ami.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Eh mon dieu! madame, vous prenez bien vivement la défense de monsieur Granville , que
+       d'ailleurs j'estime infiniment. Savez vous que si j'étais jaloux il ne tiendrait qu'à moi ,
+       d'après certains propos qui me sont revenus , de penser bien des choses.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Quels sont ces propos qui vous sont revenus ? quelles sont les choses que vous penseriez ?
+       voilà bien ce qui prouve que vous n'êtes , comme tout le monde le dit, qu'un brouillon ,
+       qu'un traçassier.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>C'est vous, Madame, qui voyez des choses qui ne sont pas; qui vous mêlez de tout, hors de
+       ce qui vous regarde.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Là ; voilà qui est bien ; cette querelle ne fait de mal à personne. Tâchez de continuer
+       comme vous commencez, et puisque le ciel vous a doués tous les deux de cet esprit remuant,
+       quand les accès vous en prendront, au lieu de vous entendre pour tourmenter les autres, vous
+       monsieur exercez votre caractère sur madame , vous madame , satisfaites votre humeur aux
+       dépens de monsieur : disputez - vous bien ensemble , et laissez en repos votre prochain.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>Et voulez - vous que je vous donne un conseil; vous avez quitté notre petite ville; vous
+       vouliez vous fixer dans ce bourg : ce n'est pas cela , pour
+       <pb n="80"/> la tranquilité de ces bonnes gens et pour votre gloire, allez à Paris.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Ah oui ! monsieur. En province les tracasseries sont cruelles pour ceux qui en sont
+       l'objet. Tout le monde se connaît ; chaque mot porte coup ; d'ailleurs , point de variété :
+       c'est la même vie, ce sont les mêmes habitudes.</p>
+     </sp>
+     <sp who="#TDP2838_10">
+      <speaker>Granville.</speaker>
+      <p>A Paris, on ne se connaît pas : on est isolé au milieu de la foule , une nouvelle mode fait
+       oublier une banqueroute ; une pièce nouvelle console de tous les malheurs ; les cabales, les
+       sociétés littérares, les anecdotes du jour; quel vaste champ pour vous, sans danger pour
+       autrui.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Il y a un peu d'épigramme dans ce que vous dites.</p>
+     </sp>
+     <sp who="#TDP2838_11">
+      <speaker>Mad. Tatillon.</speaker>
+      <p>Mais il y a de la vérité.</p>
+     </sp>
+     <sp who="#TDP2838_3">
+      <speaker>Tatillon.</speaker>
+      <p>Ainsi donc, jaloux d'être témoin de votre bonheur , nous dînons avec vous aujourd'hui et
+       demain nous nous mettons en route pour Paris.</p>
+     </sp>
+     <sp who="#TDP2838_1">
+      <speaker>Thomas.</speaker>
+      <p>Eh bien ! C'est très-aimable de votre part. Allons nous mettre à table.</p>
+     </sp>
+    </div>
+    <trailer>FIN.</trailer>
+   </div>
+  </body>
+ </text>
+</TEI>

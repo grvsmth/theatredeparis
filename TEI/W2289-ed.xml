@@ -1,0 +1,2086 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2289">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les petits braconniers, ou Les Ecoliers en vacances: TEI edition (Wicks no. 2289)</title>
+    <author/>
+    <respStmt>
+     <resp>HTML version by</resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI version by</resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <p>The Digital Parisian Stage Corpus is freely available from a GitHub
+   repository at <ref target="https://github.com/grvsmth/theatredeparis"/></p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images available from <ref target="http://books.google.com/books?id=8DBaAAAAcAAJ"/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2289braconniers.html"/></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change><change when="2023-07-22">Hand-edited</change>
+<change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>LES PETITS BRACONNIERS ou LES ECOLIERS EN VACANCES, </titlePart>
+     <titlePart>COMÉDIE EN UN ACTE, MÊLÉE DE COUPLETS,</titlePart>
+    </docTitle>
+    <byline> de MM. MERLE, BRAZIER et CHARLES ;</byline>
+    <titlePart>Représentée pour la première fois à Paris, sur le théâtre des Variétés, boulevart
+     Montmartre, le 4 mai 1815.</titlePart>
+    <titlePart> Prix : 1 fr. 25 c. </titlePart>
+    <docImprint>A PARIS, Chez BARBA, libraire, Palais-Royal, derrière le Théâtre-Français , no 51.
+     IMPRIMERIE DE CHAIGNIEAU AÎNÉ. </docImprint>
+    <docDate>1815. </docDate>
+   </titlePage>
+
+   <set>
+    <p> La Scène se passe dans les terres de la baronne de Belval.</p>
+   </set>
+   <div type="costume">
+    <p>(*) Félix et tous ses petits camarades doivent être costumés avec un habit et un pantalon
+     bleus , collet , gilet et boutons blancs ; chapeau militaire avec gance blanche et cocarde.
+     Félix doit avoir les galons de sergent et des aigles sur les retroussis de l'habit. Ces six
+     rôles doivent nécessairement être joués par des fëmmes.</p>
+   </div>
+   <castList>
+    <head>PERSONNAGES. ACTEURS.</head>
+    <castItem><role>La baronne de BELVAL.</role><actor>Mme Picot.</actor></castItem>
+    <castItem><role>FÉLIX (*), son neveu, élève d'un lycée.</role><actor>Mlle
+     Pauline.</actor></castItem>
+    <castItem><role>MATOIS, vieux garde-chasse de Mme de Belval.</role><actor>M.
+     Tiercelin.</actor></castItem>
+    <castItem><role>La mère DELORME, fermière.</role><actor>Mme Mengozzi.</actor></castItem>
+    <castItem><role>NICETTE, sa fille.</role><actor>Mlle Aldegonde.</actor></castItem>
+    <castItem><role>ANDRÉ, amant de Nicette.</role><actor>M. Vernet</actor></castItem>
+    <castItem><role>Un Greffier.</role><actor>M. Fleury.</actor></castItem>
+    <castItem><role>Un Paysan.</role><actor/></castItem>
+    <castItem><role>Domestiques de la Baronne.</role><actor/></castItem>
+    <castItem><role>JULES.</role><roleDesc> Elèves du pensionnat où est Félix.</roleDesc></castItem>
+    <castItem><role>VICTOR.</role><actor/></castItem>
+    <castItem><role>EUGÈNE.</role><actor/></castItem>
+    <castItem><role>LÉON.</role><actor/></castItem>
+    <castItem><role>GUSTAVE.</role><actor/></castItem>
+    <castItem><role>Villageois armés de Bâtons.</role><actor/></castItem>
+   </castList>
+  </front>
+  <body>
+   <head>LES PETITS BRACONNIERS, ou LES ÉCOLIERS EN VACANCES, COMÉDIE EN UN ACTE, MÊLÉE DE
+    COUPLETS.</head>
+
+
+   <stage>Le Théâtre représente un paysage : dans le fond une colline ; sur la droite, une chaumière
+    vue de face ; du même coté, un colombier ; à l'avant-scène , un banc de gazon et une table de
+    pierre ; sur la gauche, la terrasse du château qui occupe tout ce côté du théâtre ; au bout, est
+    la grille du parc. On voit sur le derrière une allée de maronniers qui conduit au château de la
+    baronne. L'aurore commence à paraître.</stage>
+
+   <div type="scene">
+
+    <head>SCÈNE PREMIERE</head>
+
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE, </speaker>
+     <stage>sortant de la chaumière.</stage>
+     <p>Il ne fait pas encore grand jour. Ma mère dort. Si André avait de l'esprit, il viendrait...
+      J'ai tant de choses à lui dire.</p>
+     <stage>Air : <title>Vers le Temple de l'Hymen.</title></stage>
+     <l>Réveillé par son amour,</l>
+     <l> Toujours un amant fidèle,</l>
+     <l> Pour venir près de sa belle ,</l>
+     <l> Devrait devancer le jour :</l>
+     <l> Négligeant ce bon usage ,</l>
+     <l> André, ce petit volage,</l>
+     <l> Avant notre mariage,</l>
+     <pb n="( 4 )"/>
+     <l>Déjà manque au rendez-vous.</l>
+     <l> Un pareil oubli m'afflige ;</l>
+     <l> Si mon amant me néglige ,</l>
+     <l> Que fera donc mon époux ?</l>
+     <p><stage>( André fredone dans la coulisse. )</stage> Je l'entends enfin.... Le v'là qui vient
+      en chantant.... Cachons-nous un moment pour lui faire peur.</p>
+     <stage>( Elle se cache derrière un arbre. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE II.</head>
+    <stage>NICETTE, ANDRÉ.</stage>
+
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <stage>AIR : <title>Du Curé de Pomponne.</title></stage>
+     <l>Pauvre, mais jamais soucieux ,</l>
+     <l> Je cultive la terre;</l>
+     <l> Je cultive aussi dans ces lieux</l>
+     <l> Une jeune bergère :</l>
+     <l> Mon champ prospère au gré d'mes vœux ;</l>
+     <l> Ma maîtresse est jolie....</l>
+     <l> J'espère que c'est là ,</l>
+     <l> Larira ,</l>
+     <l> Bien employer sa vie.</l>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE </speaker>
+     <stage>à part.</stage>
+     <p>Chante, chante, tu vas déchanter tout-à-l'heure.</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <l> On dit qu'la pein' doit s'compenser,</l>
+     <l> Aussi faut voir l'dimanche</l>
+     <l> Quand un' contre danc' va s'danser ,</l>
+     <l> Comme je me démanche.</l>
+     <l> C'est que j'somm's prêt à r'commencer</l>
+     <l> Sitôt qu'elle est finie.</l>
+     <l> J'espère que c'est là,</l>
+     <l> Larira ,</l>
+     <l> Bien employer sa vie.</l>
+     <pb n="(5)"/>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE , </speaker>
+     <stage>à part.</stage>
+     <p>Est-ce qu'il n'finira pas de chanter ?</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Eh ! ben, où est donc Nicette !.... Est-ce qu'elle n'est pas encore éveillée ?</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE </speaker>
+     <stage>se montrant.</stage>
+     <p>Si, vilain paresseux.</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Ah! te v'la, ma petite Nicette!</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Tu chantes, mais tu ne seras pas si gai, quand tu sauras.....</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Quoi donc ?</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>André, ma mère te regarde comme un garçon honnête et laborieux; mais comme tu n'as rien ,
+      elle ne veut pas que tu m'épouses.</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>J'écoute donc ; j'nons pas d'fortune , c'est vrai ; mais j'avons des bras pour en gagner,
+      c'est la même chose.</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Si j'étais ma maîtresse, ça s'rait bien vite fini. Moi je trouve que t'as raison, et qu'on
+      prospère toujours quand on est deux et qu'on s'aime bien.</p>
+     <stage>AIR : <title>Un motif plus puissant, je pense.</title></stage>
+     <l>Puisque d'une flamme bien pure</l>
+     <l> Nos cœurs sont épris tous les deux,</l>
+     <l> Faut suivr' la loi de la nature</l>
+     <l> En nous mariant pour être heureux.</l>
+     <l> En vain le bonheur dans sa fuite</l>
+     <l> A nos yeux vaudrait se cacher ;</l>
+     <l> On doit le rencontrer plus vite,</l>
+     <l> Quand on est deux pour le chercher.</l>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Mais c'tapendant, n'y a pas long-temps que ta mère</p>
+     <pb n="( 6 )"/>
+     <p>approuvait not' mariage. Pourquoi s'y oppose-t-elle à présent ?</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Parce qu'elle est entichée, coiffée de ce vilain M. Matois.</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Matois, le vieux garde-chasse de la Baronne!.... Ah ! ben, par exemple, en v'la une fière !
+      <stage>(Il rit.)</stage> Oh ! oh ! oh !</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Comme tu ris !</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Pardine, qu'est-ce qui ne rirait pas ?.... Faut qu'il soit ben fou, à son âge de vouloir
+      s'engager dans le régiment des..... maris.</p>
+     <stage>AIR : <title>Adieu, je vous fuis, bois charmant.</title></stage>
+     <l>Il compte au moins ses soixante ans ;</l>
+     <l> Il souffre de l'asthme et de la goutte ;</l>
+     <l> Il n'lui reste plus qu'deux ou trois dents ;</l>
+     <l> En plein jour même il n'y voit goutte.</l>
+     <l> En t'destinant à c'mari-là ,</l>
+     <l> J'crois qu'ta mère s'est oubliée;</l>
+     <l> Tu s'rais la femm' d'un homm' comm' ça,</l>
+     <l> Qu'je n'te croirais pas mariée.</l>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Je ne sais pas si je serais mariée, mais on veut que je sois sa femme. Par ainsi , il faut
+      nous quitter.</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Quoi ! déjà nous quitter ?</p>
+     <stage>AIR : <title>Du Roi et le fermier.</title></stage>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>A demain ,</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Queu chagrin!</p>
+    </sp>
+    <spGrp>
+     <stage>ENSEMBLE.</stage>
+     <sp>
+      <speaker>NICETTE.</speaker>
+      <l>Laisse-moi,</l>
+      <l> Je dois fuir loin dé toi.</l>
+
+     </sp>
+     <sp>
+      <speaker>ANDRÉ.</speaker>
+      <l>Ah ! pourquoi</l>
+      <l> Fuir sitôt loin de moi?</l>
+     </sp>
+    </spGrp>
+    <pb n="( 7 )"/>
+
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <l>Nicette pendant ton absence ,</l>
+     <l> Combien souffrira mon amour !</l>
+     <l> Sans te voir, puis-je vivre un Jour ?</l>
+     <l> Ah! je mourrons d'impatience.....</l>
+    </sp>
+    <spGrp>
+     <stage>ENSEMBLE.</stage>
+
+     <sp>
+      <speaker>NICETTE.</speaker>
+      <l>A demain,</l>
+      <l> Pas d'chagrin,</l>
+      <l> Laisse-moi,</l>
+      <l> Je dois fuir loin de toi.</l>
+     </sp>
+     <sp>
+      <speaker>ANDRÉ.</speaker>
+      <l>A demain ,</l>
+      <l> Quel chagrin !</l>
+      <l> Ah ! pourquoi</l>
+      <l> Fuir sitôt loin de moi?</l>
+     </sp>
+    </spGrp>
+
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Un baiser...</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Je ne puis.</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Un baiser...</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Nen, je fuis.</p>
+     <stage>( André l' embrasse. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE III.</head>
+    <stage>NICETTE, ANDRÉ, MATOIS.</stage>
+
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS, </speaker>
+     <stage>il s'est approché d'eux sans bruit, et a été témoin du baiser.</stage>
+     <stage>AIR <title>: De la découpure.</title></stage>
+     <l>Ah ! mamsell' qu'avez-vous fait là ?</l>
+     <l> Quoi, c'est à ma face</l>
+     <l> Que vous souffrez qu'on vous embrasse!</l>
+     <l> Ah ! mamsell' qu'avez-vous fait là !</l>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE, </speaker>
+     <stage>d'un air suppliant.</stage>
+     <p>Je ne le f'rai plus.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Non , vot' maman l'saura.</p>
+     <stage>( à André. )</stage>
+     <p>Décampez , décampez, décampez tôt,</p>
+     <pb n="(8)"/>
+     <l>Partez vite et vite,</l>
+     <l> Je n'aime pas que l'on m'irrite :</l>
+     <l> J'ai le sang , j'ai le sang , j'ai le sang chaud.</l>
+     <l> Redoutez mon bras, car je n'suis pas manchot.</l>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Jarnombille !.. J'n'ons pas non plus les bras engourdis ! <stage>(  Il menace
+      Matois.  )</stage></p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Attends... drôle que tu es !</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Ah ! mon Dieu ! y vont s'battre !....</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Ne craignez rien ; je ne veux pas abuser de l'avantage que mon âge et mes fonctions me
+      donnent sur cet imprudent.</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Quelle générosité ! Va, si je te retrouve jamais le soir dans un taillis....</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Point de menace, M. André !.. Mademoiselle, je vous défends, par toute l'autorité d'un
+      époux, de jamais à l'avenir fréquenter ni recevoir cè mauvais sujet-là.</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Dis-donc... mauvais sujet vous-même, entends-tu ?</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>En devenant le mari de Nicette....</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Ah ! vous ne l'êtes pas encore.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>J'ai l'aveu formel de la mère Delorme.</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Eh! ben, écoutez, M. Matois, vous voyez bien... si vous épousez Nicette, je vous
+      ferai....</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Eh ! bien, qu'est-ce que tu me feras?</p>
+     <pb n="(9)"/>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Oh ! je vous ferai....</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Je vous ferai.... après ?</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Je vous ferai.... enfin, suffit.... je m'entends, et je m'en vas. <stage>( Il sort en
+      colère. )</stage></p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE IV.</head>
+    <stage>MATOIS, NICETTE.</stage>
+
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Il a bien fait de partir.... je commençais à m'échauffer.... et dans un moment de vivacité
+      on ne sait pas ce qui peut arriver.... On n'en sait rien.</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE, </speaker>
+     <stage>à part.</stage>
+     <p>Tâchons de l'éloigner. <stage>( Haut. )</stage> Ah ! mon petit monsieur Matois !...</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Diable ! quelle tendresse ! Mais ce n'est pas à moi qu'on en revend, et je vais sur-le-champ
+      m'en plaindre à votre mère.</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE. </speaker>
+     <stage>à part.</stage>
+     <p>Je suis perdue ! <stage>( Haut. )</stage> Mais j'aperçois madame la baronne.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Madame la baronne !</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>C'est l'heure à laquelle elle a coutume de faire sa promenade du matin.</p>
+     <stage>( Matois va pour entrer dans la chaumière. )</stage>
+     <pb n="( 10 )"/>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE V.</head>
+    <stage>NICETTE, MATOIS, la BARONNE, deux laquais.</stage>
+
+    <sp who="#TDP2289_4">
+     <speaker>la BARONNE, </speaker>
+     <stage>à Matois.</stage>
+     <p>Arrêtez, Matois. Bon jour, Nicette.</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Ben vot' servante, not' bonne maîtresse.</p>
+    </sp>
+    <sp who="#TDP2289_4">
+     <speaker>LA BARONNE, </speaker>
+     <stage>à Matois.</stage>
+     <p>J'ai quelques reproches à vous faire , Matois.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>A moi, madame la baronne ?</p>
+    </sp>
+    <sp who="#TDP2289_4">
+     <speaker>LA BARONNE.</speaker>
+     <p>Oui, à vous-même. J'ai appris que les Braconniers, enhardis par votre négligence, faisaient
+      plus que jamais des dégâts sur mes terres.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Ah ! madame, on m'a calomnié ; et je remplis mes fonctions, je vous assure , avec
+      l'activité, la célérité , la sévérité.... l'intégrité, qui me caractérisent.</p>
+    </sp>
+    <sp who="#TDP2289_4">
+     <speaker>la BARONNE.</speaker>
+     <stage>AIR : <title>Vaud. de Partie carrée.</title></stage>
+     <l>J'estime en vous un serviteur fidèle ,</l>
+     <l> Mais cependant , ici , je m'aperçoi</l>
+     <l> Qu'un beauté vous trouble la cervelle,</l>
+     <l> Et vous ferait négliger votre emploi.</l>
+     <l> L'amour vous retient au village ,</l>
+     <l> Le gibier vous appelle au bois;</l>
+     <l> Et ç'en est trop de courir à votre âge</l>
+     <l> Deux lièvres à-la-fois.</l>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Il est vrai que je n'ai pu être insensible à.... mais que voulez-vous....</p>
+     <pb n="( 11 )"/>
+    </sp>
+    <sp who="#TDP2289_4">
+     <speaker>LA BARONNE.</speaker>
+     <p>Il suffit.... Parcourez les environs du parc, et , à l'avenir, faites plus de
+      surveillance.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS, </speaker>
+     <stage>avec feu.</stage>
+     <p>Soyez tranquille ; je vous amène pieds et poings liés le premier braconnier que je
+      rencontre.</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE. </speaker>
+     <stage>à part.</stage>
+     <p>Il s'en va, quel bonheur.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <stage>AIR : <title>De six mois d'absence.</title></stage>
+     <l>Le devoir me r'clame ,</l>
+     <l> Je vais faire de mon mieux ,</l>
+     <l> Pour prouver, madame,</l>
+     <l> Qu'un sot et moi ça fait deux.</l>
+     <l> Quoiqu'l'amant d'Nicette,</l>
+     <l> J'défendrai toujours vos droits ;</l>
+     <l> Madam', sur ma tête,</l>
+     <l> Moi, je vous réponds du bois.</l>
+    </sp>
+    <spGrp>
+     <stage>ENSEMBLE.</stage>
+
+     <sp who="#TDP2289_3">
+      <speaker>MATOIS.</speaker>
+      <p>Le devoir me r'clame, etc.</p>
+     </sp>
+     <sp who="#TDP2289_4">
+      <speaker>LA BARONNE.</speaker>
+      <l>Je ris, sur mon âme,</l>
+      <l> De ton maintien sérieux.</l>
+      <l> Oui, sans épigramme,</l>
+      <l> Un sot et lui ça fait deux.</l>
+     </sp>
+     <sp who="#TDP2289_1">
+      <speaker>NICETTE.</speaker>
+      <l>Je ris, sur mon âme,</l>
+      <l> De son maintien sérieux.</l>
+      <l> Je conviens, madame,</l>
+      <l> Qu'un sot et lui ça fait deux.</l>
+     </sp>
+    </spGrp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE VI.</head>
+
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE, </speaker>
+     <stage>seule.</stage>
+     <p>Elle s'en va,.. Quelle bonne dame ! Tous ses vassaux l'aiment comme leur mère.</p>
+     <pb n="(12)"/>
+     <stage>Air : <title>J'apprends qu'un jeune prisonnier.</title></stage>
+     <l>Chacun de nous, dans ce séjour,</l>
+     <l> La chérit, bénit sa présence;</l>
+     <l> Elle se glisse chaque jour</l>
+     <l> Sous l'humble toit de l'indigence.</l>
+     <l> L'aspect des heureux qu'elle fait</l>
+     <l> Est sa plus douce récompense ;</l>
+     <l> Et quand elle offre le bienfait,</l>
+     <l> Elle fait la reconnaissance.</l>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME, </speaker>
+     <stage>appelant.</stage>
+     <p>Nicette ?</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>J'y vas, ma mère. Je voulais conter mon chagrin à madame la baronne, mais je n'ai pas osé...
+      Une autre fois je serai peut-être plus hardie.</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME, </speaker>
+     <stage>appelant.</stage>
+     <p>Nicette? Nicette?</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Me v'là, ma mère, me v'là ! .</p>
+     <stage>( Elle rentre dans la chaumière. On entend une ritournelle. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE VII.</head>
+    <stage>FÉLIX , JULES , VICTOR , EUGÈNE , LÉON , GUSTAVE.</stage>
+    <stage>Ils arrivent tous en habits de lycéens, avec de petits fusils.</stage>
+
+    <sp who="#TDP2289_10">
+     <speaker>CHŒUR.</speaker>
+     <stage>AlR : <title>Verse encor, encor, encor.</title></stage>
+     <l>Mes amis, courons, courons, courons,</l>
+     <l> Loin de nos pensions</l>
+     <l> Le plaisir nous appelle.</l>
+     <l> Mes amis, courons, courons, courons,</l>
+     <l> Près de jeunes tendrons</l>
+     <l> Prendre d'autres leçons.</l>
+     <pb n="(13)"/>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <l>Quels sots passe-temps</l>
+     <l> D'être toujours en classe</l>
+     <l> Assis sur des bancs ,</l>
+     <l> Avec des </l>
+     <l> Si je sens le prix</l>
+     <l>,</l>
+     <l> D'un joli souris</l>
+     <l> Je suis bien pins épris.</l>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>CHŒUR.</speaker>
+     <p>Mes amis, courons, etc.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <l>Traduisez, amis,</l>
+     <l> </l>
+     <l> Leurs sages écrits ,</l>
+     <l> Endorment mes esprits.</l>
+     <l> Dût-on me blâmer,'.</l>
+     <l> Je sens que c'est </l>
+     <l> Qui, par l'art d'aimer,</l>
+     <l> Sait bien mieux me charmer.</l>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>CHŒUR.</speaker>
+     <p>Mes amis, courons, etc.</p>
+    </sp>
+    <sp who="#TDP2289_7">
+     <speaker>EUGÈNE, </speaker>
+     <stage>s'asseyant.</stage>
+     <p>Ouf ! je n'en peux plus !</p>
+    </sp>
+    <sp who="#TDP2289_8">
+     <speaker>VICTOR </speaker>
+     <stage>de même.</stage>
+     <p>Ma foi, je suis en nage.</p>
+    </sp>
+    <sp who="#TDP2289_7">
+     <speaker>EUGÈNE.</speaker>
+     <p>Je puis à peine respirer... Voilà cinq heures que nous marchons.</p>
+    </sp>
+    <sp who="#TDP2289_9">
+     <speaker>JULES.</speaker>
+     <p>Ah ! ça, dis-nous donc, Félix.... Tu n'as fait que nous parler en route des prés, des bois,
+      des terres, des châteaux de ta tante..... y sommes nous bientôt ?</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FELIX.</speaker>
+     <p>J'ai bien peur, d'avoir pris une route pour une autre.</p>
+    </sp>
+    <sp who="#TDP2289_8">
+     <speaker>VICTOR.</speaker>
+     <p>C'est bien rassurant !</p>
+     <pb n="(14)"/>
+    </sp>
+    <sp who="#TDP2289_9">
+     <speaker>JULES.</speaker>
+     <p>Tu nous dis en partant : mes amis, comme vos païens sont en province, et que vous vous
+      ennuyeriez au lycée, je me charge de vous, et je vous emmène passer les vacances chez ma
+      tante.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Eh bien ! c'est ce que je fais.</p>
+    </sp>
+    <sp who="#TDP2289_8">
+     <speaker>VICTOR.</speaker>
+     <p>Nous partons ; nous courons ; tu nous dis : nous déjeunerons avec notre chasse ; nous
+      chassons, nous ne tuons rien,</p>
+    </sp>
+    <sp who="#TDP2289_9">
+     <speaker>JULES.</speaker>
+     <p>Et nous ne mangeons que cela.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Ce n'est pas ma faute. Cependant, mes amis, en m'orientant un peu, je parierais que le
+      château de ma tante n'est pas loin.</p>
+    </sp>
+    <sp who="#TDP2289_8">
+     <speaker>VICTOR.</speaker>
+     <p>Ah ! ça, mais où t'a-t-on dit qu'il était ?</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Attendez donc... On m'a dit qu'il était à Soisy......à Choisy.... à Noisy.... je ne peux pas
+      vous dire au juste.... mais c'est toujours dans ces environs-là.</p>
+    </sp>
+    <sp who="#TDP2289_8">
+     <speaker>VICTOR.</speaker>
+     <p>Peste soit de l'étourdi !</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Eh bien ! vous voilà tous abattus !</p>
+    </sp>
+    <sp who="#TDP2289_11">
+     <speaker>LÉON.</speaker>
+     <p>Ecoute donc, je meurs de faim, et je veux déjeuner.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX, </speaker>
+     <stage>le contrefaisant.</stage>
+     <p>Je meurs de faim : je veux déjeuner...! Ah ! le voilà qui cagne, le voilà qui cagne !......
+      Dites-moi, ames faibles et pusillanimes ! quand nous sommes au lycée , et qu'il y a quelques
+      mauvais tours à jouer.... qui est-ce qui s'en charge, hein?</p>
+     <pb n="( 15 )"/>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS.</speaker>
+     <p>C'est Félix !</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Quand nous jetons les balles chez les voisins, qui est-ce qui saute par dessus les murs
+      ?</p>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS.</speaker>
+     <p>C'est Félix !</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Quand l'un de vous est au pain sec, qui est-ce qui va à l'office chipper du beurre salé
+      ?</p>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS.</speaker>
+     <p>C'est Félix ! c'est Félix !</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Eh bien ! ayez donc confiance en moi !</p>
+     <stage>AIR : De <title>Catinat à Saint-Gratien.</title></stage>
+     <l>Pour nous tirer de cet état ,</l>
+     <l> Il faut mettre tout en usage ,</l>
+     <l> </l>
+     <l> C'est la maxime du courage.</l>
+    </sp>
+    <sp who="#TDP2289_8">
+     <speaker>VICTOR.</speaker>
+     <l>Ton latin, sans doute est joli;</l>
+     <l> Mais en ce moment, j'imagine</l>
+     <l> Qu'il vaudrait mieux, mon cher ami,</l>
+     <l> Nous parler latin de cuisine.</l>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Allons, allons, je vois bien qu'il faut faire ce que vous voulez.... C'est à déjeuner qu'il
+      vous faut ?</p>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS.</speaker>
+     <p>Sans doute.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Voulez-vous suivre mes ordres ?</p>
+    </sp>
+    <sp who="#TDP2289_9">
+     <speaker>JULES.</speaker>
+     <p>Nous te nommons notre capitaine.</p>
+    </sp>
+    <sp who="#TDP2289_11">
+     <speaker>LÉON.</speaker>
+     <p>Oui, pourvu que nous mangions.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>En ce cas , soyez prêts au commandement. Vous voyez</p>
+     <pb n="(16)"/>
+     <p>bien cette ferme, ces pommiers, ce colombier , cette cave ?.....Eh ! bien, mes amis ,
+      écoutez-moi.</p>
+     <stage>AIR : <title>On se chagrine trop vite.</title></stage>
+     <l>Victor, va chercher bien vite</l>
+     <l> Des œufs frais au poulaillier ;</l>
+     <l> Gustave , abats-moi de snite</l>
+     <l> Deux pigeons du colombier. </l>
+     <l>Tiens, Je convoite ces pommes,</l>
+     <l> Cueille-les.</l>
+    </sp>
+    <sp who="#TDP2289_11">
+     <speaker>LÉON.</speaker>
+     <p>C'est entendu.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <l>Ah! rien ne séduit les hommes</l>
+     <l> Comme le fruit défendu.</l>
+    </sp>
+    <sp who="#TDP2289_7">
+     <speaker>EUGÈNE.</speaker>
+     <stage>air : <title>Songez donc que vous êtes vieux.</title></stage>
+     <l>Et moi , mes amis, sans délit,</l>
+     <l> Je m'en vais descendre à la cave,</l>
+     <l> Je vais vous monter du Volney,</l>
+     <l> Du Pomard , du Bordeaux, du Grave.</l>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <l>Tiens, mon cher Eugène, crois-moi,</l>
+     <l> Laisse-là ces vins d'étiquette.....</l>
+     <l> Nous serons trop heureux, ma foi,</l>
+     <l> Si tu montes de la piquette.</l>
+     <stage>Victor court au poulailler ; Gustave descend chercher du vin ; Eugène tire sur le
+      colombier et court chercher les pigeons qu'il a tués.</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE VIII.</head>
+    <stage>FÉLIX , JULES , LÉON , la MÈRE DELORME, NICETTE, et ensuite MATOIS.</stage>
+
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <stage>AIR : <title>Ah ! quel scandale abominable.</title></stage>
+     <l>D'où vient ce bruit et ce tapage</l>
+     <l> Que je viens d'entendre à l'instant î</l>
+     <pb n="( 17 )"/>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS, </speaker>
+     <stage>accourant et voyant les enfans avec leurs fusils.</stage>
+     <p>Qui chasse danse le voisinage ?</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Il faut être bien imprudent.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS, </speaker>
+     <stage>à Félix.</stage>
+     <l>Vous êtes pris en braconnage ,</l>
+     <l> Craignez un juste châtiment.</l>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS</speaker>
+     <l>Nous sommes pris en braconnage;</l>
+     <l> Payons d'audace en ce moment.</l>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Quoi! vous avez l'audace de tirer sur le gibier de madame la Baronne?</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Que vous importe ?</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS, </speaker>
+     <stage>fâché.</stage>
+     <p>Répondez verbalement, M. le braconnier.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Allons, ne te fâche pas, mon vieux.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>Matois.</speaker>
+     <p>Mon vieux , mon vieux.... l'impertinent !</p>
+    </sp>
+    <sp who="#TDP2289_8">
+     <speaker>VICTOR, .</speaker>
+     <stage>bas à Félix</stage>
+     <p>Dis donc, Félix, ménage-le un peu.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Eh! laisse-moi donc tranquille, toi, tu as toujours peur <stage>( à la mère
+      Delorme. )</stage> Dites-nous, la mère, est-ce à vous , cette belle enfant ?</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>Oui, monsieur. <stage>( A part. )</stage> Oh ! le méchant petit garnement !</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX, </speaker>
+     <stage>courant après Nicette.</stage>
+     <p>Elle est charmante !</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Il est fort gentil, ce jeune homme-là.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Un moment, monsieur, un moment; il ne s'agit pas de</p>
+     <pb n="(18)"/>
+     <p>cela. Vous allez me suivre, avec vos dignes camarades, chez M. le maire.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FELIX.</speaker>
+     <p>Va te promener, imbécile. Je suis bien ici, et j'y reste. Soldats, vous m'avez promis de
+      m'obéir. Je vous défends de marcher.</p>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS.</speaker>
+     <p>Non, nous n'irons pas.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>Félix </speaker>
+     <stage>à Matois.</stage>
+     <p>D'ailleurs, qui es-tu pour nous parler de la sorte ?</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Ce que je suis ?.....Vous allez le savoir.</p>
+     <stage>AIR : <title>Du vaudeville de M. Guillaume.</title></stage>
+     <l>De ce château , je suis le garde chasse ;</l>
+     <l> Je dois sévir contre les braconniers ;</l>
+     <l> Ainsi pur punir votre audace ,</l>
+     <l> Je vous fais tous mes prisonniers.</l>
+     <l> Vour voyez bien que si je vous arrête ,</l>
+     <l> C'est le devoir de mon emploi ;</l>
+     <l> Car si quelqu'un tire sur une bête ,</l>
+     <l> Ça ne blesse que moi. </l>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Ah ! si tu prends fait et cause pour toutes les bêtes du pays, tu dois avoir de
+      l'ouvrage.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Comment ! vous me narguez encore !</p>
+     <stage>AIR :<title> </title><title>Que d'établissemens nouveaux.</title></stage>
+     <l>De la maîtresse de ce lieu ,</l>
+     <l> Je suis le serviteur fidèle.</l>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <l>Mon ami, comme tu prends feu !</l>
+     <l> Modère cet excès de zèle.</l>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <l>Vous voyez son représentant ;</l>
+     <l> En moi, madame est insultée.....</l>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <l>Eh ! mais, ta maîtresse est vraiment</l>
+     <l> Fort plaisamment représentée.</l>
+     <pb n="( 19 )"/>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS, </speaker>
+     <stage>outré.</stage>
+     <p>Pour le coup, c'en est trop ! <stage>( Il va pour le saisir au collet. )</stage></p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX, </speaker>
+     <stage>le mettant enjoué.</stage>
+     <p>N'approche pas, où tu es mort !.....</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS, </speaker>
+     <stage>effrayé.</stage>
+     <p>Il le ferait comme il le dit..... Je ne veux pas me compromettre avec une pareille
+      marmaille; mais je cours chercher main-forte..... N'èspèrez pas m'échapper.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Va, va, je n'ai pas peur.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Il est encore temps.... rendez-vous.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX, </speaker>
+     <stage>à ses camarades.</stage>
+     <p>Soldats, je vous le défends.</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>Ah ! le démon !</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Madame Delorme, je les laisse tous sous votre responsabilité.</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>Par exemple !</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <stage>AIR : <title>Vaud. de la Matrone.</title></stage>
+     <l>Un téméraire , Un imprudent,</l>
+     <l> Brave maintenant</l>
+     <l> Ma colère.</l>
+     <l> Bientôt, j'espère,</l>
+     <l> Il va savoir</l>
+     <l> Ce qu'en ces lieux, j'ai de pouvoir.</l>
+     <stage>( Jules monte sur un pommier.)</stage>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE , </speaker>
+     <stage>à Matois.</stage>
+     <l>Il faut excuser leur jeunesse.</l>
+     <l> Ah ! monsieur Matois, calmez-vous.</l>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <l>Qu'il aille trouver sa maîtresse,</l>
+     <l> Je redoute peu son courroux.</l>
+     <pb n="(20)"/>
+    </sp>
+    <spGrp>
+     <stage>ENSEMB.</stage>
+     <sp who="#TDP2289_3">
+      <speaker>MATOIS.</speaker>
+      <p>Un téméraire , etc.</p>
+     </sp>
+     <sp who="#TDP2289_10">
+      <speaker>FÉLIX et tous ses camarades.</speaker>
+      <l>Son air sévère</l>
+      <l> Est amusant.</l>
+      <l> Je brave, en riant,</l>
+      <l> Sa colère.</l>
+      <l> Je ne crois guère</l>
+      <l> Qu'il puisse avoir</l>
+      <l> En cet endroit un grand pouvoir.</l>
+     </sp>
+     <sp who="#TDP2289_12">
+      <speaker>LA MÈRE DELORME, NICETTE.</speaker>
+      <l>Un téméraire,</l>
+      <l> En ce moment,</l>
+      <l> Brave imprudemment</l>
+      <l> Sa colère.</l>
+      <l> Dans cette affaire,</l>
+      <l> Il pourra voir,</l>
+      <l> De Matois , quel est le pouvoir.</l>
+     </sp>
+    </spGrp>
+    <stage>( Matois sort. Léon sort après lui. )</stage>
+
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE IX.</head>
+    <stage>Les mêmes, excepté MATOIS et LÉON.</stage>
+
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX, </speaker>
+     <stage>riant.</stage>
+     <p>Ah ! ah ! ah ! le vieux fou !</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>Savez-vous, monsieur, que tout en riant, vous vous trouvez dans une mauvaise affaire !</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Bah! Si c'est vrai ! — Oh ! mon Dieu! vous m'effrayez !... En ce cas, ma bonne, vous allez
+      nous servir un bon déjeûner.</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE , </speaker>
+     <stage>à part.</stage>
+     <p>Mais, c'est qu'il est vraiment aimable, ce petit militaire !</p>
+    </sp>
+    <sp who="#TDP2289_8">
+     <speaker>VICTOR, </speaker>
+     <stage>accourant avec deux poules à la main et des œufs dans son chapeau.</stage>
+     <p>Tiens, Félix , voilà des œufs et des poules.</p>
+     <pb n="( 21 )"/>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Donne , nous allons faire une omelette, et mettre la broche.</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Ah ! ma mère ! ils ont tué nos poules et pris nos œufs !</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>C'est-y possible !</p>
+    </sp>
+    <sp who="#TDP2289_9">
+     <speaker>JULES , </speaker>
+     <stage>accourant avec des pommes dans son chapeau.</stage>
+     <p>Oh ! les amis, voilà des pommes !</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>Comment! ils prennent aussi nos pommes !</p>
+    </sp>
+    <sp who="#TDP2289_13">
+     <speaker>GUSTAVE, </speaker>
+     <stage>de même.</stage>
+     <p>A table, à table ! Voici deux pigeons pour mettre à la crapaudine.</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Juste ciel ! Nos pigeons !</p>
+    </sp>
+    <sp who="#TDP2289_7">
+     <speaker>EUGÈNE, </speaker>
+     <stage>remontant de la cave.</stage>
+     <p>Mes amis, deux vieux flacons de dessous les fagots !.... Il y eu a encore cinquante.</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME</speaker>
+     <p>Et not' vin, not' meilleur encore !</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Allons, la mère, faites-nous cuire tout cela. Nous avons un appétit de tous les diables.</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>Mais, messieurs, payez-moi.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Où avez-vous vu que l'on payait la carte avant d'avoir dîné?</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>Vous avez l'air de petits vagabonds. Il est prudent de prendre ses sûretés.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Est-ce que vous vous méfiez de nous ?</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>Non , mais...</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Non , mais vous n'êtes pas trop rassurée.</p>
+     <stage>AIR : <title>La bonne aventure.</title></stage>
+     <l>Vous nous croyez sans argent ,</l>
+     <l> Cela vous chagrine ;</l>
+     <l> Vous exigez tout comptant,</l>
+     <l> C'est bien mal, voisine.</l>
+     <l> Ailleurs, quoique tout petit,</l>
+     <l> Bien des gens souvent m'ont dit,</l>
+     <l> Qu'ils me feraient bien crédit</l>
+     <l> Sur ma bonne mine.</l>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS.</speaker>
+     <l>Qu'on lui ferait bien crédit</l>
+     <l> Sur sa bonne mine.</l>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>C'est possible ; mais je ne suis pas tranquille.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <stage>AIR : <title>Eh ! ma mère, est-ce que je sais ça.</title></stage>
+     <p>Je pairai, foi d'honnête homme.</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <l>Je n'crois pas à vos discours ;</l>
+     <l> Mon cher Monsieur , voilà comme</l>
+     <l> On nous trompe tous les jours.</l>
+     <l> Malgré c't habit d'importance,</l>
+     <l> Vous n'ferez pas fortun' chez nous;</l>
+     <l> Je n'ai pas de confiance</l>
+     <l> En des hommes comme vous.</l>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>En ce cas nous allons vous payer. Combien avons-nous ?</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>Vous avez des poulets, des pigeons, des œufs, des pommes et du vin ; c'est douze francs.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Allons , mes amis, cottisons-nous. <stage>( Il reçoit ce que chacun de ces camarades lui
+      donne. )</stage></p>
+    </sp>
+    <sp who="#TDP2289_7">
+     <speaker>EUGÈNE, </speaker>
+     <stage>fouillant dans sa poche.</stage>
+     <p>Ma foi, je n'ai pas d'argent.</p>
+     <pb n="(23)"/>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>C'est toujours comme ça.... Je vais payer pour toi, mais tu me le rendras quand tu recevras
+      ta semaine. <stage>( A la mère Delorme , en lui remettant l'argent. )</stage> Tenez, la
+      mère.</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>Ma foi, voilà des enfans mieux élevés que je ne croyais.</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Quand je vous disais qu'ils étaient fort aimables !</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>C'est bon, c'est bon, bavarde !..... Occupez-vous de mettre le couvert. Ces messieurs ont
+      besoin de se raffraîchir..... Vite, vite, du linge, des assiettes.... Allons donc , allons
+      donc.....</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>J'y vas, ma mère. <stage>( Elle rentre avec sa mère. )</stage></p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE X.</head>
+    <stage>FELIX, JULES, VICTOR, EUGÈNE GUSTAVE, ensuite LEON.</stage>
+
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Ah ! nous allons enfin déjeuner ! Ma foi, ce n'est pas sans peine....</p>
+    </sp>
+    <sp who="#TDP2289_11">
+     <speaker>LÉON , </speaker>
+     <stage>accourant tout effrayé.</stage>
+     <p>Leste ! leste !.... Décampons.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Qu'est-ce qu'il a donc celui-la ?</p>
+    </sp>
+    <sp who="#TDP2289_11">
+     <speaker>LÉON.</speaker>
+     <p>Ce que j'ai, parbleu ! Tandis que vous êtes là tous bien tranquilles, tout le village est en
+      l'air, le greffier verba—</p>
+     <pb n="(24)"/>
+     <p>lise , le garde champêtre dérouille son fusil; les paysans prennent des bâtons, et le
+      garde-chasse marche à leur tête.</p>
+    </sp>
+    <sp who="#TDP2289_13">
+     <speaker>GUSTAVE.</speaker>
+     <p>Eh bien ! qu'est-ce qu'ils vont faire ?</p>
+    </sp>
+    <sp who="#TDP2289_11">
+     <speaker>LÉON.</speaker>
+     <p>Nous mettre en prison.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Laisse-nous donc tranquilles, c'est une gausse qu'il nous fait là.....</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE XI</head>
+    <stage>Les mêmes , NICETTE , </stage><stage>apportant tout ce qu'il faut pour mettre le
+     couvert.</stage>
+
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Bravo; la belle enfant !</p>
+    </sp>
+    <sp who="#TDP2289_8">
+     <speaker>VICTOR.</speaker>
+     <p>Elle est jolie à croquer!</p>
+    </sp>
+    <sp who="#TDP2289_13">
+     <speaker>GUSTAVE.</speaker>
+     <p>On voit bien que tu n'as pas déjeuné.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Allons, ma petite Nicette, il faut que je t'embrasse avant d'aller en prison.</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Voulez-vous bien finir ?</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FËLIX.</speaker>
+     <p>Oh ! je t'embrasserai, comme je vais boire ce verre de vin là. <stage>( Il boit. )</stage>
+      Allons, vous autres, faites en autant... Buvez..... Ah ! Nicette , que tu es gentille !
+      <stage>( Il veut l'embrasser. Nicette se sauve ; tous les écoliers courent après
+      elle. )</stage></p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE , </speaker>
+     <stage>se défendant.</stage>
+     <stage>AIR: <title>Voyez papa Bec comme il en détache.</title></stage>
+     <pb n="(25)"/>
+     <l>Quand on m'taquine ,</l>
+     <l> Moi, je suis mutine.</l>
+     <l> Non, non, Finissez donc ;</l>
+     <l> Sur ce point-là je n'entends pas raison.</l>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <l>Tiens, ma chère enfant,</l>
+     <l> Ce que l'on défend,</l>
+     <l> A bien plus d'attrait</l>
+     <l> Que ce qu'on permet,</l>
+     <l> Un baiser surpris,</l>
+     <l> M'offre plus de prix ;</l>
+     <l> Il me déplairait,</l>
+     <l> Si l'on me l'offrait.</l>
+    </sp>
+    <spGrp>
+     <stage>ENSEMBLE.</stage>
+
+     <sp who="#TDP2289_1">
+      <speaker>NICETTE.</speaker>
+      <l>Non, non,</l>
+      <l> Finissez donc, etc.</l>
+     </sp>
+     <sp who="#TDP2289_10">
+      <speaker>TOUS.</speaker>
+      <l>Bon , bon !</l>
+      <l> Point de pardon ;</l>
+      <l> Elle est mutine,</l>
+      <l> Il faut qu'on la lutine.</l>
+      <l> Non, non,</l>
+      <l> Point de pardon,</l>
+      <l> Embrassons tous cet aimable tendron.</l>
+     </sp>
+    </spGrp>
+    <stage>( Ils veulent tous l'embrasser. )</stage>
+
+   </div>
+   <div type="scene">
+
+    <head>SCENE XII.</head>
+    <stage>Les mêmes, ANDRE, </stage><stage>accourant furieux.</stage>
+    <stage>Même air.</stage>
+    <l>Finissez, messieux,</l>
+    <l> J n'aimons pas ces jeux ,</l>
+    <l> J'rossons l'zenjoleux ,</l>
+    <l> Et les cajoleux ;</l>
+    <l> J'dis qu'à ses appas</l>
+    <l> On n'touchera pas :</l>
+    <l> L'z'amans d'not'pays :</l>
+    <l> N'sont pas ceux d'Paris,</l>
+    <pb n="(26)"/>
+    <spGrp>
+     <stage>ENSEMB.</stage>
+
+     <sp who="#TDP2289_10">
+      <speaker>TOUS, </speaker>
+      <stage>dansant autour de lui pendant que Félix embrasse Nicette.</stage>
+      <l>Non, non ,</l>
+      <l> Point de pardon, étc.</l>
+     </sp>
+     <sp who="#TDP2289_1">
+      <speaker>NICETTE.</speaker>
+      <l>Non, non,</l>
+      <l> Finissez donc, etc.</l>
+     </sp>
+     <sp who="#TDP2289_2">
+      <speaker>ANDRÉ.</speaker>
+      <l>Non, non.</l>
+      <l> Finissez donc.</l>
+      <l> Ça me taquine</l>
+      <l> Quand on la lutine.</l>
+      <l> Non, non,</l>
+      <l> Finissez donc,</l>
+      <l> Sur ce point-là, je n'entends pas raison.</l>
+     </sp>
+    </spGrp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Comment , Nicette, c'est-là ton amant? Il est bien gentil... Comment t'appelles-tu ?</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>André.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>C'est un joli nom !.... Eh bien ! monsieur André, voulez-vous boire un coup !</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ , </speaker>
+     <stage>avec humeur.</stage>
+     <p>Je n'ai pas soif.</p>
+    </sp>
+    <sp who="#TDP2289_7">
+     <speaker>EUGÈNE.</speaker>
+     <p>Voulez-vous manger un morcèau ?</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Je n'ai pas faim.</p>
+    </sp>
+    <sp who="#TDP2289_13">
+     <speaker>GUSTAVE.</speaker>
+     <p>Eh bien ! tant mieux, cela sera plutôt fait.</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Mamselle Nicette, vous me le paierez.</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Comment dis-tu?</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Je dis que vous me le paierez, est-ce clair?</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Ah ! mes amis , il est jaloux ! Il boude !</p>
+     <pb n="( 27 )"/>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS, .</speaker>
+     <stage>riant</stage>
+     <p>Oh ! il est jaloux, ah ! ah !</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ, </speaker>
+     <stage>piqué.</stage>
+     <p>Vous voyez, mamzelle Nicette, ce que vous m'attirez.</p>
+     <p>NICETTE.</p>
+     <p>Ecoute, André, si tu n'as pas plus de confiance en moi, tu peux t'en aller d'où tu
+      arrives.</p>
+     <stage>AIR : <title>Ma belle est la belle des belles.</title></stage>
+     <l>A moi , je voulons qu'on se fie ;</l>
+     <l> Il sait que je suis sans détour.</l>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <l>Dam, mamselle, ma jalousie</l>
+     <l> Est un' preuve de mon amour.</l>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <l>D'André , pardonnez la folie ;</l>
+     <l> Belle Nicette, appaisez-vous ;</l>
+     <l> Si vous n'étiez pas si jolie,</l>
+     <l> Il ne serait pas si jaloux.</l>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Allons, je te pardonne.</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Merci, mamselle Nicette.</p>
+    </sp>
+    <sp who="#TDP2289_13">
+     <speaker>GUSTAVE , </speaker>
+     <stage>lui donnant un verre de vin.</stage>
+     <p>Tiens, avale la douleur.... Tu n'es plus en courroux?</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ, </speaker>
+     <stage>avalant le verre de vin.</stage>
+     <p>Non, c'est passé.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>A la bonne heure...</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Comme un service en vaut un autre, je dois vous avertir qu'on est à vos trousses , que ce
+      bosquet est cerné , que toutes les avenues sont gardées, et que vous allez être pris comme
+      dans une souricière.</p>
+    </sp>
+    <sp who="#TDP2289_11">
+     <speaker>LÉON.</speaker>
+     <p>Quand je te le disais.....</p>
+    </sp>
+    <sp who="#TDP2289_7">
+     <speaker>EUGÈNE, </speaker>
+     <stage>à Félix</stage>
+     <p>Il nous met' toujours dans l'embarras , cet imbécile ?....</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX, </speaker>
+     <stage>allant sur Eugène.</stage>
+     <p>Qu'appelles-tu , imbécille !.... Je vais te faire voir.... Je vas joliment te bouler.
+      Attends, attends, tu vas être rossé</p>
+     <pb n="(28)"/>
+    </sp>
+    <sp who="#TDP2289_7">
+     <speaker>EUGÈNE.</speaker>
+     <p>Oui, viens-y, tu verras. <stage>( Les petits écoliers en voulant se battre rossent André qui
+      s'est mis entre deux pour les séparer. )</stage></p>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS LES ENFANS.</speaker>
+     <p>Allons, allons , ne vous disputez pas.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>C'est vrai, ce n'est pas le moment de bavarder.... ni d'avoir peur ; il faut songer à nous
+      défendre.</p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Ah ! ah! On va se battre ?... Courage ! N'ayez pas peur, je m'en vas. <stage>( Il va se
+      cacher dans le colombier. )</stage></p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <p>Je rentre,</p>
+     <stage>( Nicette rentre dans la maison, )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE XIII.</head>
+    <stage>Les mêmes , excepté Nicette et André.</stage>
+
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Allons, mes amis, voici le moment décisif.... <stage>( Ils prennent tous leurs
+      fusils. )</stage></p>
+     <stage>AIR : <title>Du ménage de garçon.</title></stage>
+     <l>Montrons une ame peu commune</l>
+     <l> Pour surmonter les coups du sort;</l>
+     <l> Nons avons tous même fortune,</l>
+     <l> C'est le moment d'être d'accord.</l>
+     <l> Des aquilons bravant la rage,</l>
+     <l> Ainsi de jeunes arbrisseaux</l>
+     <l> Se soutiennent contre l'orage</l>
+     <l> En entrelaçant leurs rameaux, .</l>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS, </speaker>
+     <stage>entralaçant leurs bras sur leurs épaules.</stage>
+     <p>Des aquilons bravant la rage, etc.</p>
+    </sp>
+    <sp who="#TDP2289_8">
+     <speaker>VICTOR.</speaker>
+     <p>C'est ça. L'ennemi va venir. Retranchons-nous dans cette maison.</p>
+     <pb n="( 29 )"/>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Non , messieurs, nous serions pris sans pouvoir nous défendre. Etes-vous prêts ?</p>
+    </sp>
+    <sp who="#TDP2289_13">
+     <speaker>GUSTAVE.</speaker>
+     <p>Oui, capitaine.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Jurez-vous de m'obéir ?</p>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS.</speaker>
+     <p>Oui, général.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Voyez comme en monte en grade en temps de guerre!</p>
+     <stage>AIR: <title>Entends-tu la trompette guerrière. (Canon de Berton.)</title></stage>
+     <l>Mes amis, signalons notre audace ,</l>
+     <l> Campons-nous sur cette terrasse</l>
+     <l> Bien, en face </l>
+     <l> De l'ennemi qui nous menace.</l>
+     <l> Pouvons-nous douter du succès?</l>
+     <l> Nous sommes soldats et français :</l>
+     <l> Non, non, jamais,</l>
+     <l> Les français</l>
+     <l> Ne doutent du succès.</l>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS, </speaker>
+     <stage>en défilant deux à deux, Félix à la tête</stage>
+     <p>Mes amis, signalons notre audace , etc.</p>
+     <stage>( Ils montent sur la terrasse du château et se rangent en bataille , après avoir fermé
+      la grille. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE XIV.</head>
+    <stage>LES MÊMES , LE GREFFIER , MATOIS, VILLAGEOIS armés de bâtons, LE GARDE
+     CHAMPÊTRE, UN TAMBOUR.</stage>
+
+    <sp who="#TDP2289_14">
+     <speaker>CHŒUR DE VILLAGEOIS.</speaker>
+     <stage>Même air.</stage>
+     <l>Mes amis, punissons leur audace,</l>
+     <l> Et contre nous, quoique l'on fasse,</l>
+     <l> Qu'on se place </l>
+     <l> Pour bien entourer la place ;</l>
+     <l> Et de tous ces mauvais sujets,</l>
+     <l> Il faut déjouer les projets.</l>
+     <l> Un bon procès</l>
+     <l> Va punir leurs coupables excès.</l>
+     <pb n="( 30 )"/>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>La mère Delorme ! Mamselle Nicette ! Accourez ! accourez !</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE XV.</head>
+    <stage>LES MÊMES, LA MÈRE DELORME, NICETTE, ANDRÉ.</stage>
+
+    <sp who="#TDP2289_5">
+     <speaker>LA MÈRE DELORME.</speaker>
+     <p>Eh bien ! Est-ce que le feu est au village ! A qui en avez-vous?</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS, </speaker>
+     <stage>apercevant les enfans sur la terrasse.</stage>
+     <p>Comment? comment ? Braconnage et escalade !.... Les voilà-t-il pas sur la terrasse du
+      château.... Mais, ceci va devenir très-conséquent. Entrons..... Tiens , ils ont fermé la
+      grille !.....</p>
+    </sp>
+    <sp who="#TDP2289_15">
+     <speaker>LE GREFFIER.</speaker>
+     <p>Matois, soyez tranquille.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Je m'en vais les coucher en joue.</p>
+    </sp>
+    <sp who="#TDP2289_15">
+     <speaker>LE GREFFIER.</speaker>
+     <p>Non, non, je vais les coucher sur mon procès-verbal.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Eh bien ! messieurs , que demandez-vous ?</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Que vous vous rendiez.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Nous rendre ! Nous ne connoissons pas ce mot-là.</p>
+     <stage>AIR : <title>Vers le temple de l'hymen.</title></stage>
+     <l>Des leçons de la valeur</l>
+     <l> Nous nous faisons une étude ,</l>
+     <l> Et nous prenons l'habitude</l>
+     <l> De n'obéir qu'à l'honner.</l>
+     <l> Rien ne saurait nous abbatre ;</l>
+     <l> On nous apprend à combattre ,</l>
+     <l> On nous apprend à nous battre ,</l>
+     <l> Et sans jamais reculer...</l>
+     <pb n="( 31 )"/>
+     <l>Par un motif que j' ignore,</l>
+     <l> On ne nous a pas encare</l>
+     <l> Appris à capituler.</l>
+    </sp>
+    <sp who="#TDP2289_15">
+     <speaker>LE GREFFIER.</speaker>
+     <p>Je vois qu'il faut leur faire lecture du procès-verbal dans tout son contenu.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX, .</speaker>
+     <stage>appuyé sur son fusil</stage>
+     <p>Ecoutons le procès-verbal.</p>
+    </sp>
+    <sp who="#TDP2289_15">
+     <speaker>LE GREFFIER.</speaker>
+     <p>« Au nom et à la requête de Isaac Séraphin Matois , garde-chasse.....</p>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS, </speaker>
+     <stage>riant.</stage>
+     <p>Ah ! ah ! ah ! ah !</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Séraphin Matois.....</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS</speaker>
+     <p>Oui, fin matois, messieurs , c'est moi.</p>
+    </sp>
+    <sp who="#TDP2289_15">
+     <speaker>LE GREFFIER.</speaker>
+     <p>Silence !... Messieurs... <stage>( Il continue. )</stage> « Séraphin Matois ; représentant madame
+      la Baronne etc. » Le reste est pour la forme... « Nous sommes transportés à l'avenue du
+      château pour bous saisir des braconniers...</p>
+    </sp>
+    <sp who="#TDP2289_8">
+     <speaker>victor.</speaker>
+     <p>Tiens ! nous sommes des braconniers l</p>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS, </speaker>
+     <stage>riant.</stage>
+     <p>Ah ! ah ! ah ! ah !</p>
+    </sp>
+    <sp who="#TDP2289_15">
+     <speaker>LE GREFFIER.</speaker>
+     <p>Silence !.... <stage>( Continuant. )</stage> « Pour nous saisir des braconniers qui ont fait
+      rébellion contre ledit sieur Matois, qu'ils ont traité d'imbécile, ce que ledit Matois a
+      certifié véritable ; en foi de quoi, nous lui avons délivré le présent pour lui servir en cas
+      de besoin. »</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Au fait, où en voulez-vous venir ?</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Que vous déposiez les armes , et que vous vous laissiez conduire sur-le-champ dans les
+      prisons de la commune.</p>
+     <pb n="( 32 )"/>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Rayez cet article-là.... Mettez en place que nous nous rendrons au château.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Dîtes donc, greffier, y a-t-il quelqu'inconvénient ?</p>
+    </sp>
+    <sp who="#TDP2289_15">
+     <speaker>LE GREFFIER.</speaker>
+     <p>Je n'en vois aucun.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS, </speaker>
+     <stage>à Félix.</stage>
+     <p>Accordé !... Ils se rendront donc au château où ils seront traités avec toute la rigueur
+      qu'exige l' énormité de leur faute.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Non, non, pas de ça.... Ils se rendront au château où on leur fera préparer un excellent
+      dîner.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Ah ! par exemple, ça ne se peut pas. Allons, vous autres, en joue.</p>
+    </sp>
+    <sp who="#TDP2289_15">
+     <speaker>LE GREFFIER.</speaker>
+     <p>Mon ami, ils n'ont que des bâtons.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Oh ! c'est vrai.</p>
+    </sp>
+    <sp who="#TDP2289_15">
+     <speaker>LE GREFFIER.</speaker>
+     <p>Au fait, mon cher Matois, je'ne vois rien là que de très-juste..... On doit nourrir les
+      prisonniers.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Vous approuvez donc ?....</p>
+    </sp>
+    <sp who="#TDP2289_15">
+     <speaker>LE GREFFIER.</speaker>
+     <p>Mais entièrement.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Allons, allons, messieurs, accordé.</p>
+    </sp>
+    <sp who="#TDP2289_15">
+     <speaker>LE GREFFIER.</speaker>
+     <p>Après le dîner, ordonnons que ces petits messieùrs seront mis dans les greniers du château
+      jusqu'à demain.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Dans les greniers! Est-ce que vous perdez la tête? Mettez donc dans la cave.</p>
+     <pb n="( 33 )"/>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Ah ! pour ça !....</p>
+    </sp>
+    <sp who="#TDP2289_15">
+     <speaker>LE GREFFIER.</speaker>
+     <p>Messieurs, c'est impossible.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>En ce cas , la garnison va se défendre. Camarades.... portez armes apprêtez armes , .... en
+      joue....</p>
+     <stage>( Ils exécutent le commandement et couchent en joue Matois et le greffier. Les paysans
+      se jettent à terre de frayeur. )</stage>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS , </speaker><stage>effrayé.</stage>
+     <p>Alte-là ! alte-là !.... Comme vous y allez ! Diantre ! Ce sont des diables que ces
+      démons-là.... ils le feraient comme ils le disent..... Messieurs, accordé , accordé....</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>A la bonne heure !</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Puisque nous consentons à tout ce que vous demandez, mettez bas les armes, et
+      constituez-vous nos prisonniers.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>N'allons pas si vite en besogne.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <stage>AIR : <title>Du vaudeville de Vadé;</title></stage>
+     <l>Vous êtes tous des imprudens ,</l>
+     <l> Allons , montrez-vous raisonnables ,</l>
+     <l> Plus vous serez obéissans ,</l>
+     <l> Et moins vous deviendrez coupables. </l>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <l>Nous pourrions bien nous signaler ,</l>
+     <l> Car nous ne vous redoutons guère ;</l>
+     <l> Mais puisqu'il faut capituler,</l>
+     <l> Nous voulons au moins défiler</l>
+     <l> Avec les honneurs de la guerre.</l>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Ah ! c'est le point d'honneur ! C'est bien dû aux soldats qui ont fait une belle résistance.
+      <stage>( Aux villageois. )</stage> Allons, mes amis , rangez-vous sur une haie pour que la
+      garnison défile.</p>
+     <pb n="5"/>
+     <pb n="( 34 )"/>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS, </speaker>
+     <stage>en descendant de la terrasse.</stage>
+     <p>Nous pourrions bien nous signaler , etc.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS </speaker>
+     <stage>au greffier.</stage>
+     <p>Dites donc, greffier, je suis bien aise que-tout se soit passé sans effusion de sang...
+      Quand je vous disais qu'il fallait tenir bon, ne leur rien céder, et que nous en viendrions
+      facilement à bout.</p>
+     <stage>( Les villageois se placent sur une haie. Lés enfans défilent sur le théâtre avec leurs
+      fusils , et se mettent sur une ligne, en chantant.... )</stage>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>LES ENFANS.</speaker>
+     <stage>AIR : <title>Vaud. de la Journée de garnison.</title></stage>
+     <l>Allons,</l>
+     <l> Mes amis, défilons ,</l>
+     <l> Braves compagnons ,</l>
+     <l> Marchons ensemble ,</l>
+     <l> L'amitié nous rassemble ,</l>
+     <l> Et l'on fera</l>
+     <l> De nous ce qu'on voudra.</l>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <l>Nous aurions, avec honneur,</l>
+     <l> Brûlé la dernière cartouche,</l>
+     <l> Si l'on eût cru par la peur</l>
+     <l> Soumettre notre valeur.</l>
+     <l> A présent,</l>
+     <l> C'est bien différent,</l>
+     <l> L'autorité nous touche.</l>
+     <l> Prouvons qu'un'français doit savoir</l>
+     <l> Céder au pouvoir.</l>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>CHŒUR.</speaker>
+     <p>Mes amis, défilons, etc.</p>
+     <stage>( On fait un roulement. La Baronne arrive. )</stage>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Ah ! Voici madame la baronne de Belval !</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Madame la Baronne ?</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>De Belval.</p>
+     <pb n="( 35 )"/>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FELIX.</speaker>
+     <p>Ah ! mes amis, c'est ma tante !</p>
+    </sp>
+    <sp who="#TDP2289_16">
+     <speaker>TOUT LE MONDE.</speaker>
+     <p>Sa tante !</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÈNE XXIV et dernière.</head>
+    <stage>Madame la baronne de BELVAL , la mère DELORME, FÉLIX , JULES , LÉON, GUSTAVE, VICTOR,
+     EUGÈNE, ANDRÉ, NICETTE, MATOIS, LE GREFFIER , LE GARDE CHAMPÊTRE , VlLLAGEOIS.</stage>
+    <stage>AIR : <title>Brillante Corbeille. ( De la Corbeille d'oranges. )</title></stage>
+
+    <sp who="#TDP2289_16">
+     <speaker>TOUT LE MONDE</speaker>
+     <l>Rencontre étonnante !</l>
+     <l> Félix braconnier !</l>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <l>Vous voyez ; ma tante,</l>
+     <l> Votre prisonnier.</l>
+    </sp>
+    <sp who="#TDP2289_10">
+     <speaker>TOUS LES ENFANS.</speaker>
+     <l>Ah ! de notre offense,</l>
+     <l> Nous sommes honteux ;</l>
+     <l> Déjà l'indulgence</l>
+     <l> Se lit dans vos yeux.</l>
+    </sp>
+    <spGrp>
+     <stage>ENSEMBLE</stage>
+     <sp who="#TDP2289_4">
+      <speaker>LA BARONNE</speaker>
+      <l>Rencontre étonnante !</l>
+      <l> Félix braconnier !</l>
+     </sp>
+     <sp who="#TDP2289_6">
+      <speaker>FÉLIX</speaker>
+      <l>Vous voyez, ma tante,</l>
+      <l> Votre prisonnier.</l>
+     </sp>
+     <sp who="#TDP2289_14">
+      <speaker>TOUT LE VILLAGE.</speaker>
+      <l>Rencontre étonnante !</l>
+      <l> Quoi , ce braconnier ,</l>
+      <l> Ici, de sa tante</l>
+      <l> Est le prisonnier ?</l>
+     </sp>
+     <sp who="#TDP2289_10">
+      <speaker>LES ENFANS</speaker>
+      <l>Surprise étonnante !</l>
+      <l> Félix braconnier !</l>
+      <l> Ici, chez sa tante</l>
+      <l> Est fait prisonnier !</l>
+     </sp>
+    </spGrp>
+    <pb n="( 36 )"/>
+
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Madame la baronne ; vous voyez que j'ai fait mon devoir. Vous m'avez reproché de manquer les
+      braconniers, en voilà six d'un coup de filet.</p>
+    </sp>
+    <sp who="#TDP2289_4">
+     <speaker>LA BARONNE.</speaker>
+     <p>Comment Matois , vous arrêtez mon neveu pour un braconnier.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Il est vrai, madame , que je me suis trompé , mais vous devez voir que l'intention y
+      était.</p>
+    </sp>
+    <sp who="#TDP2289_4">
+     <speaker>La Baronne.</speaker>
+     <p>Vous avez fait une bévue.... Matois , vous n'êtes plus jeune, vous avez besoin de repos...
+      Je donne votre place à André , et je vous fais concierge du parc.</p>
+    </sp>
+    <sp who="#TDP2289_18">
+     <speaker>NICETTE ET ANDRÉ.</speaker>
+     <p>Ah ! madame la Baronne, que vous êtes bonne ! <stage>s'approchant de Félix. )</stage>
+      Monsieur, puisque madame la Baronne est votre tante , si vous vouliez parler pour nous....</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FELIX.</speaker>
+     <p>C'est bon. Je me charge de votre mariage... Nous arrangerons cela avec la mère Delorme....
+      N'est-ce pas, la mère ?</p>
+    </sp>
+    <sp who="#TDP2289_5">
+     <speaker>La mère DELORME.</speaker>
+     <p>Monsieur Félix, c'est trop d'honneur... Monsieur Matois , vous sentez bien qu a
+      présent....</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <p>Oui, madame Delorme, je sens bien qu'il faut battre en retraite.... André , voilà mon
+      baudrier et mon fusil... Je t'enseignerai à prendre les braconniers. <stage>( Il donne à André
+      son baudrier , son fusil et son chapeau. )</stage></p>
+    </sp>
+    <sp who="#TDP2289_2">
+     <speaker>ANDRÉ.</speaker>
+     <p>Merci, monsieur Matois.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <p>Mes amis , vous voyez que nos vacances ont commencé gaiement, tâchons qu'elles finissent de
+      même.</p>
+     <pb n="(37)"/>
+    </sp>
+    <sp who="#TDP2289_4">
+     <speaker>LA BARONNE.</speaker>
+     <p>Allons , étourdi, que tout soit oublié.... Mais à l'avenir de braconnage, tu ne te
+      trouverais pas toujours sur mes terres.</p>
+     <stage>VAUDEVILLE FINAL</stage>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX.</speaker>
+     <stage>AIR : <title>Du Vaud. du Méléagre champenois.</title></stage>
+     <l>Loin des Régens</l>
+     <l> Des murs du collège,</l>
+     <l> De nos congés employons bien le temps ;</l>
+     <l> Que des plaisirs, le joyeux cortège,</l>
+     <l> Prenne le soin d'embellir nos instans.</l>
+    </sp>
+    <sp who="#TDP2289_16">
+     <speaker>CHŒUR.</speaker>
+     <p>Loin des Régens, etc.</p>
+    </sp>
+    <sp who="#TDP2289_3">
+     <speaker>MATOIS.</speaker>
+     <l>Quand l'âge vient, l'amour, dit-on, s'envole :</l>
+     <l> A jeune fille en voulant se lier,</l>
+     <l> Pauvre barbon, hélas ! fait une école ;</l>
+     <l> Et craint toujours quelque tour d'écolier.</l>
+    </sp>
+    <sp who="#TDP2289_16">
+     <speaker>CHŒUR.</speaker>
+     <p>Loin des Régens, etc.</p>
+    </sp>
+    <sp who="#TDP2289_7">
+     <speaker>EUGÈNE.</speaker>
+     <l>Au champ du Mars, sitôt que l'airain tonne,</l>
+     <l> Voyez courir tous nos jeunes guerriers :</l>
+     <l> Le seul aspect des drapeaux de Bellone</l>
+     <l> Sait en héros changer ces écoliers.</l>
+    </sp>
+    <sp who="#TDP2289_16">
+     <speaker>CHŒUR.</speaker>
+     <p>Loin des Régens, etc.</p>
+    </sp>
+    <sp who="#TDP2289_1">
+     <speaker>NICETTE.</speaker>
+     <l>A notre école un amant dit sans cesse</l>
+     <l> Qu'il veut d'amour apprendre le métier:</l>
+     <l> Bientôt, hélas ! vers une autre maîtresse</l>
+     <l> Nous voyons fuir le volage écolier,</l>
+    </sp>
+    <sp who="#TDP2289_16">
+     <speaker>CHŒUR.</speaker>
+     <p>Loin des Régens, etc.</p>
+     <pb n="( 38 )"/>
+    </sp>
+    <sp who="#TDP2289_8">
+     <speaker>VICTOR.</speaker>
+     <l>Chez Alizon, qui devait s'y connaître,</l>
+     <l> Près d'un Docteur logeait un Bachelier:</l>
+     <l> Je ne sais pas ce qu'elle apprit du maître;</l>
+     <l> Mais elle aimait encor mieux l'écolier.</l>
+    </sp>
+    <sp who="#TDP2289_16">
+     <speaker>CHŒUR.</speaker>
+     <p>Loin des Régens, etc.</p>
+    </sp>
+    <sp who="#TDP2289_6">
+     <speaker>FÉLIX, </speaker>
+     <stage>au Public.</stage>
+     <l>A votre école , ici , fiers de paraître ,</l>
+     <l> A vos leçons nous devons nous plier ;</l>
+     <l> Mais n'allez pas oublier qu'un bon maître</l>
+     <l> Doit rassurer un timide écolier.</l>
+     <l> Que l'indulgence ici nous protège ;</l>
+     <l> Ne soyez pas , messieurs, trop exigeans ;</l>
+     <l> Que des bravos, le joyeux cortège</l>
+     <l> Soutienne ici des écoliers tremblans.</l>
+    </sp>
+    <sp who="#TDP2289_16">
+     <speaker>CHŒUR.</speaker>
+     <p>Que l'indulgence ici nous protège, etc.</p>
+    </sp>
+   </div>
+   <trailer>FIN.</trailer>
+  </body>
+ </text>
+</TEI>

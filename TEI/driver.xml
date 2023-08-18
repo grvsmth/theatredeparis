@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="TheatreDeParis">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Theatre de Paris : TEI corpus</title>
+   </titleStmt>
+   <publicationStmt>
+    <p>Unpublished test file</p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Automatically generated source driver file</p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc><change  when="2023-07-31" >Make headers and div/@type uniform</change>
+   <change when="2023-07-20">Made test harness</change>
+  </revisionDesc>
+ </teiHeader>
+
+<xi:include href="W0012-ed.xml"/>
+ <xi:include href="W0023-ed.xml"/>
+ <xi:include href="W0371-ed.xml"/>
+ <xi:include href="W0942-ed.xml"/>
+ <xi:include href="W1127-ed.xml"/>
+ <xi:include href="W1178-ed.xml"/>
+ <xi:include href="W1229-ed.xml"/>
+ <xi:include href="W1291-ed.xml"/>
+ <xi:include href="W1544-ed.xml"/>
+ <xi:include href="W1563-ed.xml"/>
+ <xi:include href="W1935-ed.xml"/>
+ <xi:include href="W2025-ed.xml"/>
+ <xi:include href="W2050-ed.xml"/>
+ <xi:include href="W2065-ed.xml"/>
+ <xi:include href="W2169-ed.xml"/>
+ <xi:include href="W2289-ed.xml"/>
+ <xi:include href="W2576-ed.xml"/>
+ <xi:include href="W2701-ed.xml"/>
+ <xi:include href="W2761-ed.xml"/>
+ <xi:include href="W2838-ed.xml"/>
+</TEI>

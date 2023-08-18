@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W1291">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les héritiers Michau, ou le moulin de Lieursain: TEI edition (Wicks no. 1291)</title>
+    <author>Eugene de Planard (1783-1853)</author>
+    <respStmt>
+     <resp>HTML version by</resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI version by</resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <p>The Digital Parisian Stage Corpus is freely available from a GitHub
+   repository at <ref target="https://github.com/grvsmth/theatredeparis"/></p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images available from <ref target="http://www.google.com/books?id=I006AAAAcAAJ"/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/1291heritiers.html"/></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
+   <change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart> LES HÉRITIERS MICHAU, ou LE MOULIN DE LIEURSAIN,</titlePart>
+     <titlePart> OPÉRA-COMIQUE EN UN ACTE ET EN PROSE, </titlePart>
+    </docTitle>
+    <titlePart>Représenté pour la première fois, à Paris, sur le Théâtre de l'Opéra-Comique, le 30
+     Avril 1814 </titlePart>
+
+    <byline>Paroles de M. PLANARD, Musique de M. BOCHSA. </byline>
+    <docImprint>A PARIS, Chez VENTE, Libraire, Boulevard des Italiens, 7, près la rue Favart,
+     1814.</docImprint>
+   </titlePage>  
+   <pb/>
+   <pb n="3"/>
+   <div type="preface">
+    <head>A SON ALTESSE ROYALE MONSIEUR, Comte d'Artois.</head>
+    <p> Monseigneur, Votre Altesse Royale daigne donc accepter la dédicace de quelques scènes
+     villageoises, de quelques couplets naïfs , inspirés par une circonstance fortunée et l'amour de
+     nos Rois, héréditaire dans ma famille ? Mais cette faveur, en me comblant de joie, ne m'aveugle
+     pas sur mon peu de talent ; je n'ai ici d'autre mérite que celui de l'intention. Mon ouvrage
+     doit son succès au souvenir de Henri IV, dont il est rempli. Des Français réunis peuvent-ils ne
+     pas applaudir vivement quand on leur parle de ce prince adorable ! Je pense que c'est encore à
+     ce souvenir que je dois la grâce que vous m'accordez , Monseigneur; le bon Roi fut, dit-on, dès
+     votre enfance, le modèle choisi par Votre Altesse Royale. Chaque jour vous nous en retracez les
+     qualités aimables et brillantes ; et votre cœur n'a pu , sans doute, se refuser à me permettre
+     d'écrire sur le même feuillet votre nom et celui de Henri. Je suis avec la plus vive
+     reconnaissance et le plus profond respect , MONSEIGNEUR, De Votre Altesse Royale, Le
+     très-humble et très-obéissant serviteur, Planard. </p>
+   </div>  <pb n="4"/>
+   <castList>
+    <head>Personnages. Acteurs.</head>
+    <castItem xml:id="TDP1291_1"><role>MICHAU, meunier au village de Lieursain.</role><actor>M.
+     Juliet.</actor></castItem>
+    <castItem xml:id="TDP1291_3"><role>SUZETTE, sa Fille.</role><actor>Mlle. Regnault.</actor></castItem>
+    <castItem xml:id="TDP1291_7"><role>MARIANNE, sœur de Michau.</role><actor>Mme. Crétu.</actor></castItem>
+    <castItem xml:id="TDP1291_6"><role>LUBIN, amant de Suzette.</role><actor>M. Ponchard.</actor></castItem>
+    <castItem xml:id="TDP1291_5"><role>COLAS, promis à Suzette.</role><actor>M. Le Sage.</actor></castItem>
+    <castItem xml:id="TDP1291_8"><role>UNE MARCHANDE DE CHANSONS.</role><actor>Mme. Joly.</actor></castItem>
+    <castItem><role>Villageois et Villageoises.</role><actor/></castItem>
+   </castList>
+   <set>
+    <p> La Scène se passe au Village de Lieursain.</p>
+   </set>
+  </front>
+  <body>
+   <pb n="5"/>
+   <head>LES HÉRITIERS MICHAU, OPÉRA-COMIQUE EN UN ACTE.</head>
+    <stage>Le Théâtre représente une Chambre rustique propre et la plus gaie possible. Deux fenêtres
+     et une porte dans le fond, qui étant ouvertes laissent voir la campagne ou le Jardin de la
+     Maison. Une porte à la droite des Acteurs, à la seconde coulisse. Au lever de la toile, on voit
+     ça et là plusieurs sacs pleins de farine.</stage>
+
+   <div type="scene">
+
+    <head>SCENE PREMIERE.</head>
+    <stage>MICHAU, Paysans et Garçons meuniers.</stage>
+
+    <sp who="#TDP1291_1">
+     <speaker>Michau</speaker>
+     <stage>Chant.</stage>
+     <l>Allons enfans , il est midi ;</l>
+     <l> Bonjour; votre ouvrage est fini.</l>
+    </sp>
+    <sp who="#TDP1291_2">
+     <speaker>Chœur.</speaker>
+     <p>Comment, comment, notre ouvrage est fini ?</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <l>Oui ; dans mon moulin il est fête.</l>
+     <l> Allons , que la meule s'arrête.</l>
+     <l> Plus de tique, tique, tique , tac ,</l>
+     <l> Tôt, tôt, tôt, que l'travail finisse ,</l>
+     <l> Jusqu'à demain qu'on s'réjouisse ;</l>
+     <l> Plus de tique, tique , tique, tac ;</l>
+     <l> Emportez chacun votre sac.</l>
+    </sp>
+    <sp who="#TDP1291_2">
+     <speaker>Chœur.</speaker>
+     <l>Mais jarnigoi qu'a-t-il en tête ?</l>
+     <l> De Lieursain ce n'est pas la fête.</l>
+     <l> Pourquoi faut-il que l'on arrête</l>
+     <l> Le tique, tique, tique, tique, tac,</l>
+     <l> Et prendre chacun notre sac ?</l>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <l>Mais , ventregué ! j'ai ma raison.</l>
+     <l> De Lieursain ce n'est pas la fête,</l>
+     <l> Mais c'est celle de ma maison.</l>
+    </sp>
+    <sp who="#TDP1291_2">
+     <speaker>Chœur.</speaker>
+     <p>C'est la fête de sa maison ?</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <l>Ce soir venez vous mettre en danse</l>
+     <l> Devant la porte du moulin ;</l>
+     <l> Je n'épargnerai pas le vin ,</l>
+     <l> C'est bien vous parler clair, je pense.</l>
+    </sp>
+    <pb n="6"/>
+    <sp who="#TDP1291_2">
+     <speaker>Choeur</speaker>
+     <l>Il n'épargnera pas le vin !</l>
+     <l> Allons, à ce soir, mon voisin.</l>
+     <stage>Ensemble.</stage>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <l>Plus de tique, tique, tique, tac ;</l>
+     <l> Emportez chacun votre sac.</l>
+    </sp>
+    <sp who="#TDP1291_2">
+     <speaker>Choeur</speaker>
+     <l>Plus de tique , tique, tique , tac ;</l>
+     <l> Emportons chacun notre sac.</l>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE II</head>
+
+    <sp who="#TDP1291_1">
+     <speaker>Michau</speaker>
+     <p>Ventre-saint-gris! si j'pouvions leur parler net ! si j'pouvions leur dire : oui, mes amis ,
+      c'est aujourd'hui le plus biau des jours pour la famille des Michau. Il y a aujourd'hui tout
+      juste deux cent sept ans qu'un de mes aïeux eut le bonheur, la puissance de donner à souper
+      dans son moulin au Roi Henri IV ! Rien que ça. Jugez si je devons fêter un tel anniversaire !
+      Mais par malheur , dans le tems qui court, faut parler de ça tout bas, renfarmer son amour
+      dans son cœur. Ah! jarni, que ça fait mal !</p>
+     <stage>COUPLETS.</stage>
+     <lg>
+      <head>Ier.</head>
+      <l>On a ruiné nos familles ,</l>
+      <l> Sucé le fruit de nos labeurs ;</l>
+      <l> Sur leuis amans toutes nos filles</l>
+      <l> Chaque jour répandent des pleurs.</l>
+      <l> De tous nos maux on a pu faire gloire :</l>
+      <l> Mais les Français pouvaient-ils jamais croire</l>
+      <l> Qu'à leur amour on défendrait ce cri :</l>
+      <l> Vive le nom du bon Henri !</l>
+     </lg>
+     <lg>
+      <head>IIe.</head>
+      <l>L'enfant sur te sein de sa mère</l>
+      <l> Apprend à bégayer ce nom ;</l>
+      <l> Le vieillard , fermant la paupière,</l>
+      <l> A ses fils dit avec raison :</l>
+      <l> Pour qu'à jamais , à vos devoirs fidèles ,</l>
+      <l> Des vrais Français vous soyez les modèles ,</l>
+      <l> Ralliez-vous chaque jour a ce cri :</l>
+      <l> Vive le nom du bon Henri !</l>
+     </lg>
+     <lg>
+      <head>IIIe.</head>
+      <l>Toujours, quoique l'on puisse faire ,</l>
+      <l> Vivra ce souvenir touchant.</l>
+      <l> Le magistrat, le militaire ,</l>
+      <l> Le laboureur , l'homme opulent ,</l>
+      <l> Dans les cités aussi bien qu'au village ,</l>
+      <l> Les yeux en pleurs , les Français , d'âge en âge ,</l>
+      <l> A l'unisson répéteront ce cri :</l>
+      <l> Vive le nom du bon Henri !</l>
+     </lg>
+    </sp>
+   </div>  <pb n="7"/>
+   <div type="scene">
+
+    <head>SCENE III. MICHAU, SUZETTE.</head>
+
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Chut ! plus doucement, mon père. Mon Dieu, comme vous parlez haut !</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Ma foi, ma petite Suzette, le cœur a besoin de se soulager queuque fois , vois-tu. Et puis,
+      chacun n'est-il pas maître de chanter son patron ? J'ai choisi Henri, moi ; il en vaut ben un
+      autre.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Assurément ; mais il y a ben long - tems que nous l'avons perdu ; et ses enfans, qui lui
+      auraient ressemblé , sans doute , ou sont-ils? qui nous les rendra ? Ah ! mon Dieu ! mon Dieu
+      !</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau</speaker>
+     <stage>lui prenant la main et lui parlant à l'oreille.</stage>
+     <p>Où sont-ils? qui nous les rendra?... Ils reviendront, jarni ! ils reviendront. Tiens,
+      Suzette, je ne sis qu'un meunier, moi, mais j'raisonne par-ci par-là, et j'te vais bailler une
+      comparaison : D'tems à autre je regardons tourner ma grande meule ; tu sais qu'il y a un
+      morceau cassé : or, à chaque tour je voyons r'passer c'te brèche, et je m'dis à part moi : les
+      affaires de ce monde vont tout de même, et à force de tourner faut que chacun se r'trouve à sa
+      place.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Voyez-vous ben s't'invention !</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Acoute, acoute. Si un soir ; en r'venant de la prairie , tu trouvais not' jolie maisonnette
+      dévastée , not' biau verger mis à bas, not' vigne arrachée par des brigands qui auraient
+      emmené ton pauvre père dans leux caverne, tu s'rais dans la douleur , mon enfant ; mais
+      t'aurais toujours queuque petit espoir, parce que tu sais que le Ciel est juste. Chaque jour
+      tu le prierais de te rendre ton père... Eh ! ben, sarpejeu ! tu sais ben qu'on dit : <hi>Le
+      Roi ne meurt jamais en France</hi> ; et en suppliant la Providence.....Allons, v'là que tu
+      pleures.... Veux-tu ben finir?... Ça m'fait pleurer aussi, moi.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <stage>Air.</stage>
+     <l>De ce que je viens d'entendre</l>
+     <l> Je n'oublierai jamais rien ;</l>
+     <l> Oui, oui , je sais vous comprendre ;</l>
+     <l> Ah ! mon cœur vous entend bien.</l>
+     <pb n="8"/><l> Notre maisonnette jolie,</l>
+     <l> L'air pur et frais de ce pays,</l>
+     <l> La vigne bordant la prairie ,</l>
+     <l> Et ce verger chargé de fruits,</l>
+     <l> C'était jadis l'heureuse France</l>
+     <l> Dans la paix et dans l'abondance ;</l>
+     <l> Ce père pleuré chaque jour</l>
+     <l> Par une pauvre et tendre fille ,</l>
+     <l> C'est notre Roi qu'avec amour</l>
+     <l> Appelle sa grande famille.</l>
+     <l> Fils de nos Rois ,</l>
+     <l> Viens à nos voix !.....</l>
+     <stage>(A son pire, qui lui fait signe de parler bas. )</stage>
+     <l>De ce que je viens d'entendre</l>
+     <l> Je n'oublierai jamais rien ;</l>
+     <l> Oui, oui, je sais vous comprendre ;</l>
+     <l> Ah ! mon cœur vous entend bien.</l>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Embrasse-moi, ma fille ; essuyons-nous les yeux , et tâchons d'être gais pour not' fête de
+      famille.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>J'aurai ben d'la peine , mon père ; j'sis triste.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Pourquoi ça ?</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Vous me mariez ce soir avec Colas...</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Eh ben ?</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Eh ben ! j'ai peur de ne pas l'aimer, là, comme une honnête fille doit aimer son mari.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>En vérité ?</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Oui ; et une autre ben pus grande peur que j'ai encore, c'est d'aimer Lubin beaucoup plus
+      qu'on ne doit aimer son cousin.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>C'est y possible ?</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Dame ! v'là ce que c'est.... et tout ça me chicane.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Mais, sarpebleu! il y a six mois que tu consentis d'bon cœur à ce mariage et que tu donnis
+      ta parole à Colas en même tems que moi.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>C'est vrai ; j'aime Colas de très-bonne amiquié. Pardi ! c'est lui
+      <pb n="9"/>qui, quand j'étais toute
+      petite, m'a appris l'premier la chanson de <title>Vive Henri Quatre</title> !</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>V'là un fiar titre , j'espère.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Oui ; mais pourquoi avez-vous remis la noce à six mois ?</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Pargué ! pour qu'alle s'fit l'anniversaire du jour où le Grand Henri soupa dans le moulin,
+      parce que j'ons dans la tête que ça doit te porter bonheur.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Fort-bian ; mais pendant ce tenu là mon cousin est venu s'établir cheux nous.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Parce que j'avions besoin de son travail.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Et en attendant, c'est lui qui m'a appris, en comparaison avec Colas, que l'amour n'est pas
+      d'l'amiquié , et que l'amiquié n'est pas d'l'amour. Vlà, mon père, ce que j'avions à vous dire
+      : faites vos réflexions ; c'est embarrassant.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Ma fine ! oui, c'est embarrassant ; mais tians, Suzette , gnia qu'un mot qui sarve : j'ons
+      donné parole à Colas, et tu sais ben que dans une maison où-ce qu'a mis le pied Henri IV,faut
+      qu'y ait d'l'honneur, et qu'on tienne, jarni, ses promesses ric-à-ric.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Ce grand Roi n'mentait donc jamais , mon père ?</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Au grand jamais !... quand j'dis jamais, c'est-à-dire queuquefois, avec les dames; mais les
+      dames le li rendaient, vois-tu ; c'était une espèce de convention.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Je comprenons. On s'tenait pour averti, et par ainsi g'ni avait pas de mal.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>C'est ça. Or donc, pour en r'venir à Colas, tâche qu'il te rende ta parole et la mienne ; et
+      pour ça , <stage>( souriant ).</stage> crois-moi , faut mettre ma sœur, ta chère tante, dans
+      la manigance.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Bah!</p>
+    </sp>  <pb n="10"/>
+    <sp who="#TDP1291_1">
+     <speaker>Michau</speaker>
+     <p>Oui , oui ; j'sis un fin renard, moi : ta tante est encore d'âge à se remarier; alle a du
+      bian, et j'ons obsarvé que d'tems à antre alle fait des yeux à Colas.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette</speaker>
+     <p>Oh ! queu bonne idée !</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Chut ! je n'te dis que ça ; fais-en ton profit ; mais souviens-toi qu'y faut que tu épouses
+      queuqu'un ce soir, ou bian j'te ferais encore attendre un an jour pour jour, et ça pourrait
+      t'ennuyer.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Peut-êt' ben.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Holà ! hée ! Marianne, Lubin?... <stage>( à sa fille )</stage>. Faut que j'aille à deux pas,
+      et je veux vous faire auparavant la lecture d'usage.</p>
+     <stage>( appelant ).</stage>
+     <p>Holà ! hée !</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE IV.</head>
+    <stage>Les Précedens, MARIANNE, LUBIN, COLAS.</stage>
+
+    <sp who="#TDP1291_4">
+     <speaker>Marianne et Lubin.</speaker>
+     <p>Nous v'là, nous v'là,</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas</speaker>
+     <stage>( entrant par un autre côte ).</stage>
+     <p>J'arrivons aussi, et en habit de fête suivant vot' ordonnance. J'sis biau, je m'en vante. Et
+      ma Suzette, oh ! qu'alle est jolie ! et son aimable tante !...</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Silence! j'sis pressé. Acoutez l'écriture que je vous lisons tous les ans par ordre de notre
+      trisaïeul.</p>
+     <stage>( Il lit, et , pendant ce tems, toutes les fois qu'il prononce le mot de Henri ou de
+      Roi, les hommes lèvent leur chapeau et les femmes font la révérence. Michau est assis, et les
+      autres sont grouppés autour-de lui ).</stage>
+     <p>Nous Michel Richard , dit Michau, meunier de Lieursain, ordonnons à tous nos descendans de
+      chômer, comme une fête, l'anniversaire du jour où le Roi Henri nous fit la grâce de souper
+      dans notre moulin. Voulons, en conséquence , 1o. que nos héritiers conservent de père en fils
+      la table où le Roi soupa, la chaise sur laquelle il s'assit, la pinte d'étain qu'il eut en
+      main pour verser du vin à notre fille Cateau, et la timballe d'argent dans laquelle il se
+      désaltéra; 2o. que ledit anniversaire arrivé, la famille se serve pour son repas desdits
+      <pb n="11"/>ustensiles, et qu'on y chante en chorus <title>Vive Henri Quatre</title> et <title>Charmante
+      Gabrielle</title> ; 3o. qu'on n'oublie jamais de boire à la santé du Roi, de ses enfans et
+      arrières petits enfans, et permettons même qu'on se grise un petit brin en portant sourent
+      cette chère santé. Signé Michau .</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas</speaker>
+     <stage>( les larmes aux yeux ).</stage>
+     <p>Permettons même qu'on se grise un petit brin !... le bon père ! Mais comme vous avec
+      défriché c't'écriture !.. au lutrin vous vous trompez toujours.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Pargué! j'la savions par cœur pas pus haut que ça ; et ben mieux que le catéchisme encore.
+      Allons, vous m'avez entendu? que tout soit prêt dans une demi-heure, mes enfans : je vas
+      revenir.</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <p>Acoutez donc , père Michau ; et mon mariage ?</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Eh ben ! c'est pour ce soir ; tout d'suite après dîner.</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <p>Et monsieur le Maire, y n'est pas ici ; j'sis passé chez lui ; il est parti hier pour son
+      petit domaine, vous savez ben à l'autre bout d'ia forêt.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Comment ! tu n'as pas encore été le chercher avec ton cheval? j'en étions hier convenus.</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <p>C'est vrai, mais...</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Eh ! vas donc, morgue! si tu veux te marier ce soir. Tu sais ben qu'à présent faut que le
+      maire passe avant le curé. Sans adieu, mes enfans.</p>
+     <stage>( Il sort ).</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE V.</head>
+    <stage>Les précédens hors MICHAU.</stage>
+
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <stage>( à part ).</stage>
+     <p>Allons, faut donc s'décider à traverser c'te maudite forêt maugré tout c'qu'on dit;
+      stapendant je tremble quand j'y pense</p>
+     <stage>( haut ).</stage>
+     <p>Lubin, tu devrais bien m'accompagner, mon garçon</p>
+    </sp>
+    <sp who="#TDP1291_6">
+     <speaker>Lubin.</speaker>
+     <stage>( avec humeur )</stage>
+     <p>Pourquoi ça?</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <p>J'ai peur.</p>
+    </sp>
+    <pb n="12"/><sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>T'es donc poltron ?</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <p>Non.... j'ai peur que monsieur le Maire ne s'ennuie avec moi tout seul.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Eh bian ! reste ; tu te marieras l'année prochaine.</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <p>Mais vous qui parlez, dame Marianne, vous aimez la promenade; y fait si biau! v'nez donc, je
+      jaserons en route. Vous savez que vous vous plaisez dans ma conversation ; vous me le disiez
+      encore hier.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Moi?</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette</speaker>
+     <stage>( souriant ).</stage>
+     <p>En vérité , ma tante ?</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Voyez-vous c'téfronté !</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <p>Oh ! tout doux ; pas de fâcherie. Je m'en irai tout seul... quoiqu'on parle de soldats, de
+      coups de fusil.</p>
+    </sp>
+    <sp who="#TDP1291_6">
+     <speaker>Lubin .</speaker>
+     <stage>( bas à Suzette )</stage>
+     <p>Il tremble. Oh ! si je pouvions l'empêcher d'aller chercher monsieur le Maire, ça
+      retarderait ce maudit mariage.</p>
+     <stage>( haut ).</stage>
+     <p>Adieu, mon pauvre Colas, embrasse-moi ; je risquons bian de ne pas te revoir.</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <p>Qu'est-ce qu'y dit donc ?</p>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>QUATUOR.</head>
+
+    <sp who="#TDP1291_6">
+     <speaker>Lubin.</speaker>
+     <l>Dans la forêt, depuis l'aurore,</l>
+     <l> Le tambour bat ran tan plan plan</l>
+     <l> Et d'ici tout-à-l'heure encore</l>
+     <l> J'entendions le fusil : pan pan.</l>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <stage>( effrayé ).</stage>
+     <l>Le tambour faisait ran tan plan ?</l>
+     <l> Et le fusil pan, pan, pan, pan !</l>
+    </sp>
+    <sp who="#TDP1291_4">
+     <speaker>Les Trois Autres.</speaker>
+     <l>Le tambour faisait ran tan plan.</l>
+     <l> Et le fusil pan, pan, pan, pan !</l>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette</speaker>
+     <stage>( passant à côté de Colas ).</stage>
+     <l>Ce matin , comme à l'ordinaire ,</l>
+     <l> Notre voisin le gros Armand</l>
+     <l> Dans la forêt est allé faire</l>
+     <pb n="13"/> <l> Deux ou trois fagots seulement ;</l>
+     <l> Eh bien ! sa pauvre ménagère</l>
+     <l> N'l'a pas r'vu depuis ce moment.</l>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <l>Comment ? comment ? sa ménagère</l>
+     <l> N'l'a pas r'vu depuis ce moment ?</l>
+    </sp>
+    <sp who="#TDP1291_4">
+     <speaker>Les Trois Autres.</speaker>
+     <l>Oh ! mon Dieu non, sa ménagère</l>
+     <l> N'l'a pas r'vu depuis ce moment.</l>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne</speaker>
+     <stage>( passant près de Colas ).</stage>
+     <l>Pour t'enrôler dans leur milice</l>
+     <l> Ils te prendront, mou pauvre enfant.</l>
+     <l> Puis tu mourras à leur service ;</l>
+     <l> Tu peux faire ton testament.</l>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <stage>( tremblant ).</stage>
+     <p>Je peux faire mon testament !</p>
+    </sp>
+    <sp who="#TDP1291_4">
+     <speaker>Les Trois Autres.</speaker>
+     <l>Dans la forêt, depuis l'aurore ,</l>
+     <l> Le tambour bat : ran tan plan plan.</l>
+     <l> Et d'ici tout-à-1'heure encore</l>
+     <l> J'entendions le fusil : pan , pan !</l>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <stage>( entre ses dents ).</stage>
+     <l>Ah ! quel martyre ! quel martyre !</l>
+     <l> Faut-il partir ? faut-il rester ?</l>
+    </sp>
+    <sp who="#TDP1291_4">
+     <speaker>Les Trois Autres</speaker>
+     <stage>(à part).</stage>
+     <l>Il semble se consulter....</l>
+     <l> Son air poltron me fait rire..</l>
+     <l> Il restera , il restera.</l>
+     <stage>( riant )</stage>
+     <p>Ah, ah , ah, ah , ah, ah, ah , ah !</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <l>Ah ! c'est une raillerie ?</l>
+     <l> Vous riez de ma frayeur.</l>
+     <l> Vous vouliez me faire peur ;</l>
+     <l> J'entends la plaisanterie.</l>
+    </sp>
+    <sp who="#TDP1291_4">
+     <speaker>Les Trois Autres.</speaker>
+     <p>Il restera , il restera.</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas</speaker>
+     <stage>(faisant le courageux ).</stage>
+     <l>Voyez cette alure là !</l>
+     <l> Je chante en me mettant en route</l>
+     <stage>(Il chante en tremblant ).</stage>
+     <p>La, la, la la, la, la, la, la.</p>
+    </sp>
+    <sp who="#TDP1291_4">
+     <speaker>Les Trois Autres</speaker>
+     <l>Oh ! que ce départ lui coûte !</l>
+     <l> Ah, ah, ah, ah, ah , ah , ah , ah !</l>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas</speaker>
+     <stage>( toujours tremblant).</stage>
+     <p>La, la, la, la, la, la, la, la.</p>
+     <stage>( Il sort ).</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCÊNE VI.</head>
+    <stage>Les Mèmes, hors COLAS</stage>
+
+    <sp who="#TDP1291_6">
+     <speaker>Lubin.</speaker>
+     <p>Il est parti ; j'avons eu tort de rire.</p>
+    </sp>
+    <pb n="14"/><sp who="#TDP1291_7">
+     <speaker>Marianne</speaker>
+     <stage>( piquée ).</stage>
+     <p>Il est si empressé d'épouser sa chère Suzette.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette</speaker>
+     <stage>( bas ).</stage>
+     <p>Elle est piquée : mon père avait raison. Voyons un peu.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne</speaker>
+     <stage>( bas ).</stage>
+     <p>Faut que j'parle à ma nièce.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette</speaker>
+     <stage>( bas à Lubin ).</stage>
+     <p>Lubin, va-t-en un petit moment : j'ai mes raisons.</p>
+    </sp>
+    <sp who="#TDP1291_6">
+     <speaker>Lubin.</speaker>
+     <p>Oui-dà?</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Mon petit Lubin. si t'allais à la cave , ça m'en épargnerait la peine.</p>
+    </sp>
+    <sp who="#TDP1291_6">
+     <speaker>Lubin.</speaker>
+     <p>Volontiers</p>
+     <stage>(A part).</stage>
+     <p>Toutes les deux? Quoique ça veut dire ?</p>
+     <stage>( Haut ).</stage>
+     <p>Allons , j'vas chercher du vin ; mais dépêchez-vous de jaser, car le père Michau va
+      revenir.</p>
+     <stage>( Il sort. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE VII</head>
+    <stage>MARIANNE, SUZETTE.</stage>
+
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Ma bonne petite tante ?</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <stage>(sèchement.)</stage>
+     <p>Quoique c'est , mamselle ?</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>C't'idée d'un mariage si proche m'tourmente. Donnez-moi donc queuque conseil.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Moi, des conseils? j'n'en donnons jamais, mamselle. Une autre vous dirait que Colas ne vous
+      convient pas, qu'il a vingt ans d'plus que vous, qu'il est querelleur, paresseux , qu'il va au
+      cabaret trop souvent, que vous ferez mauvais ménage ; que vous êtes ben jeune pour vous
+      marier, et qu'a vot' place j'resterions encore fille ; mais moi je n'vous disons rien. Chacun
+      ses, affaires ; je ne me mêlons jamais de celles des autres.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Rester encore fille ?, stapendant j'sens grande envie de me marier tout de suite avec
+      Lubin.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Hein? Comment dis-tu ça ? Avec Lubin ?</p>
+    </sp>
+    <pb n="15"/><sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Oui, mon cousin.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne</speaker>
+     <stage>(la caressant.)</stage>
+     <p>Ah ! c'est différent. Mais parle donc, mon enfant ; v'là ce que c'est que d's'entendre.
+      J'dis que t'es trop jeune pour Colas, mais que t'as juste l'âge qu'y faut pour Lubin.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Vrai ? Oh ! que vous conseillez ben, ma tante.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>C'est tout simple.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Oui, mais savez-vous c'que dit mon père? Qu'il faut, pour que tout s'arrange, que vous
+      épousiez Colas.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Ah ! ton père dit ça?... Ecoute donc, je ne m'en soucions guère , mais si c'est pour
+      t'obliger.....</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette</speaker>
+     <stage>( avec malice. )</stage>
+     <p>Oh ! non, je ne veux pas vot' malheur. Colas est querelleux,</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>C'est vrai, mais nous serons deux.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Il va au cabaret.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Oui, mais il a le vin assez gai.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Il est paresseux.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Oh ! je l'ferons travailler.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Oui ? Eh ben v'là ce qui s'appelle parler. Plus de difficulté. Epousez Colas, j'épouserai
+      Lubin.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Vlà ce que c'est. Deux noces à la fois. Sois tranquille, mon enfant. A table, nos hommes
+      s'mettront en gaieté ; j'veux que tout soit d'accord à la fin du dîner.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette</speaker>
+     <p>C'te chère tante !</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>C'te pauvre enfant !</p>
+     <stage>( Elles s'embrassent.)</stage>
+    </sp>
+   </div>  <pb n="16"/>
+   <div type="scene">
+
+    <head>SCENE VIII.</head>
+    <stage>Les Mêmes, LUBIN.</stage>
+
+    <sp who="#TDP1291_6">
+     <speaker>Lubin.</speaker>
+     <p>Eh ! Tenez donc m'aider à porter la table, dame Marianne. V'là mon oncle qui rentre par la
+      p'tite porte.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Me voilà, me voilà. Dépêchons-nous, mon garçon.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette</speaker>
+     <stage>( sortant un moment. )</stage>
+     <p>J'courons vite chercher nos fleurs.</p>
+     <stage>( Marianne et Lubin apportent la table toute servie, et arrangent le banc et les
+      chaises. )</stage>
+     <stage>COUPLETS.</stage>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne</speaker>
+     <stage>(à Lubin. )</stage>
+     <l>Voilà la table où simplement,</l>
+     <l> Le bon Roi daigna prendre place ;</l>
+     <l> Voilà la timballe d'argent</l>
+     <l> Oùs' qu'il but de si bonne grâce.</l>
+     <l> Ce grand Monarque des Français</l>
+     <l> D'un meunier embrassa la fille.</l>
+    </sp>
+    <sp who="#TDP1291_6">
+     <speaker>Lubin.</speaker>
+     <l>Pardi ! ça vous étonne ça ?</l>
+     <l> Eh ! c'est qu'avec tous ses sujets</l>
+     <l> Henri-Quatre était en famille.</l>
+    </sp>
+    <sp who="#TDP1291_4">
+     <speaker>Ensemble.</speaker>
+     <l>Oui, c'est qu'avec tous ses sujets</l>
+     <l> Henri-Quatre était en famille.</l>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Tiens, v'là encore la chaise oùs' qu'il fit des façons pour s'asseoir ; il voulait se mettre
+      sur le banc. Pis, v'là la pinte d'étain qu'était devant li. Il en versa rasade à tout le
+      monde.</p>
+    </sp>
+    <sp who="#TDP1291_6">
+     <speaker>Lubin.</speaker>
+     <p>Ah ! dame Marianne, ce sont des r'liques que vous avez là.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette</speaker>
+     <stage>( arrivant avec une corbeille de fleurs. )</stage>
+     <stage>Couplet.</stage>
+     <l>Voilà, de mon petit jardin,</l>
+     <l> Les fleurs que j'ons cru les plus belles ;</l>
+     <l> J'les arrosons soir et matin ;</l>
+     <l> Hélas ! tout passe et meurt comme elles.</l>
+     <l> Henri n'est plus ; mais je serais</l>
+     <l> De Franc' la plus heureuse fille ,</l>
+     <l> Si j'pouvions offrir mes bouquets</l>
+     <l> Aux rejetons de sa famille.</l>
+    </sp>  <pb n="17"/>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Comme elle est fraîche ta corbeille !</p>
+    </sp>
+    <sp who="#TDP1291_6">
+     <speaker>Lubin.</speaker>
+     <p>C'est vrai, au moins. Mais, dis donc, Suzette? y manque une fleur dans tout ça;</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Ah ! j'sais ben ; y manque un Lys.</p>
+    </sp>
+    <sp who="#TDP1291_6">
+     <speaker>Lubin.</speaker>
+     <p>Oui, un Lys.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>J'en avions, une tige superbe y mais il a fait tant d'orages !</p>
+    </sp>
+    <sp who="#TDP1291_6">
+     <speaker>Lubin.</speaker>
+     <p>N't'afflige pas ; y fera peut-êt' pus biau l'année prochaine.</p>
+     <stage>( Suzette pose sa corbeille sut la tablé devant la chaise de Henri IV. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+
+    <head>SCENE IX.</head>
+    <stage>Les mêmes, Michau</stage>
+
+    <sp who="#TDP1291_1">
+     <speaker>Michau</speaker>
+     <stage>(apportant une gravure encadrée du Portrait de Henri IV.)</stage>
+     <stage>3e. COUPLET.</stage>
+     <l>Voila l'portrait du Roi chéri</l>
+     <l> Dont à Paris je fis l'emplette.</l>
+     <l> Chaque matin au bon Henri</l>
+     <l> Je fais ma visite en cachette.</l>
+     <l> J'sis sûr quand je le regardons</l>
+     <l> Que dans mes yeux la gaieté brille ,</l>
+     <l> Et souvent j'nous imaginons</l>
+     <l> Que c'est un portrait de famille.</l>
+    </sp>
+    <sp who="#TDP1291_4">
+     <speaker>Ensemble.</speaker>
+     <l>Et souvent j'nous imaginons</l>
+     <l> Que c'est un portrait de famille.</l>
+     <stage>( Il pose le portrait sur la chaise de Henri IV. )</stage>
+     <p>Allons, à table, mes enfans.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Et ce pauvre Colas ?</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Pas encore de retour ? Oh ! c'est égal. Voici l'heure indiquée par le testament d'notre
+      ancien.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Une minute.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Pas possible. Ce Colas vous tient bien au cœur, madame ma sœur,</p>
+    </sp>
+   </div>  <pb n="18"/>
+   <div type="scene">
+
+    <head>SCÈNE X.</head>
+    <stage>Les mêmes, COLAS.</stage>
+
+    <sp who="#TDP1291_5">
+     <speaker>Colas</speaker>
+     <stage>( de loin. )</stage>
+     <p>Père Michau ! Suzette ! Marianne ! Lubin ! tout le monde !...</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>Le voilà, le voilà.... Comme il est pâle !</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas</speaker>
+     <stage>(tremblant.)</stage>
+     <p>Un verre d'vin, un verre d'vin.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne</speaker>
+     <stage>( lui donnant à boire. )</stage>
+     <p>Tians , tians , mon garçon.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Qu'a-t-y donc ?</p>
+    </sp>
+    <sp who="#TDP1291_6">
+     <speaker>Lubin.</speaker>
+     <p>Il aura eu peur de queuque biche.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Ça va sans dire.</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <p>Oui, queuque biche !.....c'est pas l'tems des braconniers maintenant ; on fait ben la guerre
+      à aut' chose que des cerfs et des biches. Savez-vous c'que j'ons vu défiler d'vant moi ? des
+      uniformes de toutes les couleurs , des sabres de toutes les longueurs , et d'grandes
+      moustaches qui vont en bas ou en haut.</p>
+    </sp>
+    <sp who="#TDP1291_1">
+     <speaker>Michau.</speaker>
+     <p>Eh ben, qu'est-ce que tout ça t'a dit ?</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <p>Rian. Tout ça est passé ben tranquillement en fumant la pipe ; mais toutes ces pysiornomics
+      m'ont partroublé la vue : y n'y en avait pas une de connaissance ; le frisson m'a pris , j'ons
+      tourné bride sans y faire attention, et me v'là. Que monsieur le maire vienne tout seul, si ça
+      l'amuse ; j'n'irons pas le chercher.</p>
+    </sp>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette.</speaker>
+     <p>Bon : tu n'seras pas mon mari.</p>
+    </sp>
+    <sp who="#TDP1291_5">
+     <speaker>Colas.</speaker>
+     <p>Comme il vous plaira; j'aimons mieux être garçon bien portant que mari mort.</p>
+    </sp>
+    <sp who="#TDP1291_7">
+     <speaker>Marianne.</speaker>
+     <p>T'as raison, Sois tranquille; J'arrangerons ça.</p>
+    </sp>
+   </div>  <pb n="23"/>
+   <div type="scene">
+
+    <head>RONDE.</head>
+
+    <sp who="#TDP1291_8">
+     <speaker>La Marchande de chansons.</speaker>
+     <lg>
+      <head>Premier Couplet</head>
+      <l>Marchande de couplets ,</l>
+      <l> J'avais fermé boutique,</l>
+      <l> Car le pauvre Français</l>
+      <l> Etait mélancolique ;</l>
+      <l> Mais, ma foi, ce matin</l>
+      <l> J'me suis remise en train,</l>
+      <l> Et d'un ton de prophète ,</l>
+      <l> A chacun je répète :</l>
+      <l>Prospérité, Tranquillité</l>
+      <l> Franche gaîté,</l>
+      <l> Le bonheur, la paix , l'union ,</l>
+      <l> Tout ça r'vient avec un Bourbon.</l>
+     </lg>
+     <lg>
+      <head>2e. Couplet.</head>
+      <l>Sus l'dôme du palais</l>
+      <l> Le drapeau blanc s'agite.</l>
+      <l> Comm' le cœur des Français</l>
+      <l> En le voyant palpite !</l>
+      <l> Chacun s'dit à la fois :</l>
+      <l> Vivent, vivent nos Rois !</l>
+      <l> C'drapeau de bon augure</l>
+      <l> Nous dit sans écriture :</l>
+      <l>Prospérité, etc.</l>
+     </lg>
+     <lg>
+      <head>3e. Couplet.</head>
+      <l>Quand j'vois un laboureur</l>
+      <l> Qui jadis était riche,</l>
+      <l> Me dire avec douleur</l>
+      <l> Que ses champs sont en friche ;</l>
+      <l> Que ses pauvres enfans,</l>
+      <l> Soutiens de ses vieux ans,</l>
+      <l> Sont tous quatre à la guerre ,</l>
+      <l> J'réponds : courage père !</l>
+      <l>Prospérité, etc.</l>
+     </lg>
+     <lg>
+      <head>4e. Couplet.</head>
+      <l>Trois grands Princes unis</l>
+      <l> Pour notre délivrance,</l>
+      <l> Reçoivent à Paris</l>
+      <l> Les r'mercîmens d'la France,</l>
+      <l> Heureux de leurs bienfaits ,</l>
+      <l> Comme nous satisfaits,</l>
+      <l> Avec un doux sourire,</l>
+      <l> Au peuple ils daignent dire :...</l>
+      <l>Prospérité , etc.</l>
+     </lg>
+    </sp>
+    <pb n="24"/>
+    <sp who="#TDP1291_3">
+     <speaker>Suzette</speaker>
+     <stage>(au Public).</stage>
+     <l>L'Auteur est bon français ,</l>
+     <l> Messieurs , de l'indulgence :</l>
+     <l> Il n'attend son succès</l>
+     <l> Que de la circonstance.</l>
+     <l> Tantôt il avait peur ;</l>
+     <l> J'ai rassuré son cœur,</l>
+     <l> Espérant qu'au Parterre</l>
+     <l> Ce refrain devait plaire :</l>
+     <l>Prospérité,</l>
+     <l> Tranquillité,</l>
+     <l> Franche gaîté,</l>
+     <l> Le bonheur, la paix, l'union ,</l>
+     <l> Tout ça r'vient avec un Bourbon.</l>
+    </sp>
+    <sp who="#TDP1291_4">
+     <speaker>Chœur Géneral.</speaker>
+     <l>Les Rois sont à Paris !</l>
+     <l> Gai, gai, de l'allégresse !</l>
+     <l> Et répétons sans cesse :</l>
+     <l> Vive, vive Louis !</l>
+    </sp>
+  <trailer>FIN.</trailer> </div>
+   <trailer>De l'Imprimerie de Nouzou, rue de Clery, no. 9</trailer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W2050">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nephtali ou les Ammonites: TEI edition (Wicks no. 2050)</title>
+    <author>E. Aignan</author>
+    <respStmt>
+     <resp>HTML version by</resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI version by</resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <p>The Digital Parisian Stage Corpus is freely available from a GitHub repository at <ref
+     target="https://github.com/grvsmth/theatredeparis"/></p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images available from <ref target="http://www.google.com/books?id=tcpDAAAAcAAJ"
+     /></p>
+    <p>HTML transcription available from <ref
+     target="https://github.com/grvsmth/theatredeparis/blob/master/texts/2050nephtali.html"/></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc>
+   <change when="2023-07-31">Make headers and div/@type uniform</change>
+   <change when="2023-07-21">Hand-edited</change>
+   <change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb/><titlePage>
+    <docTitle>
+     <titlePart>NEPHTALI, OU LES AMMONITES, </titlePart>
+     <titlePart>OPÉRA EN TROIS ACTES; </titlePart>
+     <titlePart>Représente pour la première fois, sur le théâtre de l'Académie impériale de Musique,
+      le 6 avril 1806. </titlePart>
+     <titlePart>Prix : 1 fr. 5o c. </titlePart>
+    </docTitle>
+    <docImprint>A PARIS, De l'imprimerie de Ballard, Imprimeur de l'Académie Impériale de Musique,
+     rue J.-J. Rousseau, n°. 8.</docImprint>
+    <docDate>1806. </docDate>
+    <pb/>
+    <byline>Les Paroles sont de M. *** La Musique est de M. BLANGINI Maître de Chapelle de S. M. le
+     Roi de Bavière. Les Ballets sont de M. Gardel. </byline>
+   </titlePage>
+   <pb/><div type="preface">
+    <head>NOTICE. </head>
+    <p>ISRAEL était entouré de faux Dieux qui pénétrèrent souvent dans son sein ; au nord, Baal ; à
+     l'occident, Astarte ; à l'orient, Chamos et Moloch. Ce dernier, le plus cruel de tous , aimait
+     à s'abreuver de sang humain. Les Ammonites , ses adorateurs , étaient en guerre continuelle
+     avec les Juifs , et faisaient souvent des excursions sur leur territoire pour le ravager et
+     enlever les troupeaux et les pasteurs. M. de Florian a composé sur cette donnée un petit poème
+     en prose , très-agréable , intitulé : Eliézer. Il suppose que le fils du grand-prétre des Juifs
+     est sur le point d'être enlevé par les Ammonites; que son frère le délivre, et que tous deux
+     sont épris d'une jeune Israélite nommée Rachel. Cette rivalité des deux frères amène des
+     incidens qui ne s'accordent pas avec la vivacité de la marche dramatique ; l'auteur de cet
+     ouvrage a cru qu'il devait s'ouvrir une route nouvelle , en faisant consommer l'enlèvement qui,
+     dans le poème, n'est que projetté. Il a cherché à présenter une action simple , intéressante ,
+     rapide sur-tout, et à faire briller par des contrastes le talent du compositeur. </p>
+    <p> Encore un mot sur les Ammonites.Tout barbares qu'ils étaient, le luxe et les arts ne leur
+     étaient <pb/> point étrangers. On lit au douzième chapitre des Rois , que lorsque leur ville fut
+     emportée d'assaut par David , on y trouva d'immenses richesses , et que le vainqueur
+     s'appropria la couronne du roi vaincu, qui était du poids d'un talent d'or, et enrichie des
+     plus belles pierreries de l'orient. On sait aussi que les femmes Ammonites étaient belles et
+     voluptueuses , et que plusieurs captives Israélites séduites par l'exemple , abandonnèrent le
+     culte du vrai Dieu. </p>
+   </div>
+
+   <div type="performers">
+
+    <head>ACTEURS ET ACTRICES CHANTANS DANS LES CHOEURS.</head>
+    <div>
+     <head>COTÉ DROIT.</head>
+     <list>
+      <label>BASSES CHANTANTES.</label>
+      <item> <list>
+       <head>Messieurs.</head>
+       <item> Leroy.</item>
+       <item> Deville</item>
+       <item> Nisi.</item>
+       <item> Moreau.</item>
+       <item> Gonthier.</item>
+       <item> Lhoste.</item>
+       <item> Adrien Fs.</item>
+       <item> Putheau.</item>
+       </list> </item>
+      <label> H.-CONTRES.</label>
+      <item> <list>
+       <item>Le Roy.</item>
+       <item> Gobert.</item>
+       <item> Briele.</item>
+       <item> Chollet.</item>
+       <item> Feret.</item>
+       <item> Fasquel.</item>
+       <item> Desargus.</item>
+       </list> </item>
+      <label>PREMIER DESSUS.</label>
+      <item> <list>
+       <head>Mesdames.</head>
+       <item>Duchamp.</item>
+       <item> Himm.</item>
+       <item> Florigny.</item>
+       <item> Aubry.</item>
+       <item> Petit.</item>
+       <item> Delboy.</item>
+       <item> Vaillant-Lechon</item>
+       <item> Valin.</item>
+       <item> Royer.</item>
+       <item> Chévrier.</item>
+       </list> </item>
+     </list>
+    </div>
+    <div>
+     <head> COTÉ GAUCHE.</head>
+     <list>
+      <label>BASSES CHANTANTES.</label>
+      <item> <list>
+       <head>Messieurs.</head>
+       <item>Le Cocq.</item>
+       <item> Devilliers.</item>
+       <item> Herbert.</item>
+       <item> Picard.</item>
+       <item> Aubé.</item>
+       </list> </item>
+      <label> TAILLES.</label>
+      <item> <list>
+       <item>Leroux aîné.</item>
+       <item> Leroux cadet.</item>
+       <item> Chévrier.</item>
+       <item> Duchamp.</item>
+       <item> Nocart.</item>
+       <item> Beaugrand.</item>
+       <item> Cajani.</item>
+       <item> Le Roy.</item>
+       </list> </item>
+      <label>DEUXIEME DESSUS.</label>
+      <item> <list>
+       <head>Mesdames.</head>
+       <item> Boson.</item>
+       <item> Mulot aînée.</item>
+       <item> Mulot cad.</item>
+       <item> Proche.</item>
+       <item> Mante.</item>
+       <item> Mazières.</item>
+       <item> Lorenzetti.</item>
+       </list> </item>
+     </list>
+    </div>
+   </div>
+
+
+
+   <!-- <table>
+     <row role="label">
+      <cell cols="4">ACTEURS ET ACTRICES </cell>
+     </row>
+     <row cols="4" role="label">
+      <cell>CHANTANS DANS LES CHOEURS.</cell>
+     </row>
+     <row role="label">
+      <cell cols="2">COTÉ DROIT.</cell>
+      <cell cols="2">COTÉ GAUCHE.</cell>
+     </row>
+     <row>
+      <label>BASSES CHANTANTES.</label><lb/>
+       <item><list><label>Messieurs.</label><lb/>
+       <item> Leroy.<lb/>
+        Deville<lb/>
+        Nisi.<lb/>
+        Moreau.<lb/>
+        Gonthier.<lb/>
+        Lhoste.<lb/>
+        Adrien Fs.<lb/>
+        Putheau.<lb/></item></list><list>
+       <label> H.-CONTRES.</label><lb/>
+        <item>Le Roy.<lb/>
+        Gobert.<lb/>
+        Briele.<lb/>
+        Chollet.<lb/>
+        Feret.<lb/>
+        Fasquel.<lb/>
+        Desargus.</item></list></item>
+      <cell style="border-right: double;">PREMIER DESSUS.<lb/>
+       <hi>Mesdames.</hi><lb/>
+        Duchamp.<lb/>
+        Himm.<lb/>
+        Florigny.<lb/>
+        Aubry.<lb/>
+        Petit.<lb/>
+        Delboy.<lb/>
+        Vaillant-Lechon<lb/>
+        Valin.<lb/>
+        Royer.<lb/>
+        Chévrier.</cell>
+      <cell>BASSES CHANTANTES.<lb/>
+       <hi>Messieurs.</hi><lb/>
+        Le Cocq.<lb/>
+        Devilliers.<lb/>
+        Herbert.<lb/>
+        Picard.<lb/>
+        Aubé.<lb/>
+        TAILLES.<lb/>
+        Leroux aîné.<lb/>
+        Leroux cadet.<lb/>
+        Chévrier.<lb/>
+        Duchamp.<lb/>
+        Nocart.<lb/>
+        Beaugrand.<lb/>
+        Cajani.<lb/>
+        Le Roy.</cell>
+      <cell>DEUXIEME DESSUS.<lb/>
+       <hi>Mesdames.</hi><lb/>
+        Boson.<lb/>
+        Mulot aînée.<lb/>
+        Mulot cad.<lb/>
+        Proche.<lb/>
+        Mante.<lb/>
+        Mazières.<lb/>
+        Lorenzetti.</cell>
+     </row>
+    </table>-->
+<pb />
+   <div type="performers">
+    <head>PERSONNAGES DANSANS</head>
+    <div>
+     <head>ACTE PREMIER.</head>
+     <list>
+      <label>CHASSEURS.</label>
+      <item>
+       <p>MM. Beaulieu, Branchu.</p>
+       <p> MM. Justin, Seuriot cadet, Rivière, Bance, Lenfant, Sarron, Verneuil, Maze, Biquier,
+       Louis Petit, Henry, Godefroi, Elie, Petit 2e</p></item>
+     </list>
+    </div>
+    <div>
+     <head>ACTE SECOND.</head>
+     <list>
+      <label>AMMONITES.</label>
+      <item>
+       <p> M. St. AMAND. </p>
+       <p>MM. Justin , Seuriot, Petit aîné, Godefroi, Verneuil, Maze, Guillet , Déjazet, Auguste,
+       Eve, Anatole.</p></item>
+     <pb/> <label>ISRAÉLITES.</label>
+      <item>
+       <p>Mme. Gardel.</p>
+       <p>Mmes. Léon, Adélaïde, Athalie, Podevin, Delphine, Albedel, Boilay, Jeanny, Buisson,
+       Marinette, Lavancourt.</p> </item>
+      <label>AUTRES ISRAÉLITES.</label>
+      <item>
+       <p>Mlle. BlGOTTINI.</p>
+       <p>Mmme. Rivière, Fanny, Mareillier l'aînée, Jacotot, Eugénie, Guichard.</p></item>
+     </list>
+    </div>
+    <div>
+     <head>ACTE TROISIÈME.</head>
+     <list>
+      <label>UN PRÊTRE.</label>
+      <item>
+       <p>M. Lenfant.</p></item>
+     </list>
+    </div>
+   </div>
+   <pb/><castList>
+    <head>PERSONNAGES.</head>
+    <castItem><role>Nephtali, }</role><roleDesc> fils du Grand-Prêtre des
+     Juifs,</roleDesc><actor>{ M. Roland.</actor></castItem>
+    <castItem><role>Eliezer, }</role><actor>{ M. Lais.</actor></castItem>
+    <castItem><role>Hareb, Roi des Ammonites,</role><actor>M. Derivis.</actor></castItem>
+    <castItem><role>Le Grand - Prêtre de Moloch,</role><actor>M. Hubi.</actor></castItem>
+    <castItem><role>Rachel , jeune Israélite,</role><actor>Mme. Branchu.</actor></castItem>
+    <castItem><role>Un Lévite,</role><actor>M. Eloy.</actor></castItem>
+    <castItem><role>Un Officier Ammonite,</role><actor>M. Martin.</actor></castItem>
+    <castItem><role>Prêtres de Moloch.</role><actor/></castItem>
+    <castItem><role>Soldats Ammonites.</role><actor/></castItem>
+    <castItem><role>Lévites, Chasseurs et Guerriers,</role><actor/></castItem>
+   </castList>
+   <set>
+    <p>La scène est, au premier Acte , à l'occident du Jourdain, chez les peuples de la tribu de
+     Lévi; et aux deux derniers , chez les Ammonites , à l'orient du même fleuve.</p>
+   </set>
+
+  </front>
+  <body> <pb n="1"/>
+   <head>NEPHTALI, OU LES AMMONITES, OPERA EN TROIS ACTES.</head>
+   <div type="scene">
+
+    <head>ACTE PREMIER.</head>
+    <stage>Le théâtre représente un paysage sur les bords du Jourdain; une chaîne de montagnes et de
+     rochers se prolonge sur l'un des côtés du théâtre.</stage>
+
+
+    <div type="scene">
+
+     <head>SCENE PREMIÈRE.</head>
+     <stage>HAREB, AMMONITES.</stage>
+     <stage>( Ils descendent le Jourdain dans deux barques , qu'ils cachent sous, un rocher à leur
+      arrivée. )</stage>
+
+     <sp who="#TDP2050_1">
+      <speaker>CHŒUR.</speaker>
+      <l>Nous le touchons, ce fertile rivage</l>
+      <l> Que d'Israël usurpent les enfans;</l>
+      <l> Chez nos ennemis triomphans</l>
+      <l> Portons le deuil et le ravage.</l>
+     </sp>
+     <pb n="2"/>
+     <sp who="#TDP2050_1">
+      <speaker>Hareb.</speaker>
+      <p>Soldats, vous révérez, vous aimez votre roi ?</p>
+     </sp>
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites.</speaker>
+      <p>Hareb, nous rêverons, nous aimons notre roi.</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>Au culte de Moloch votre cœur est fidèle ?</p>
+     </sp>
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites.</speaker>
+      <p>Au culte de Molôch notre cœur est fidèle.</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Vous brûlez du désir de venger sa querelle</l>
+      <l> Sur l'ennemi de notre loi ?</l>
+     </sp>
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites.</speaker>
+      <l>Nous brûlons du désir de venger sa querelle</l>
+      <l> Sur l'ennemi de notre loi.,</l>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Apprenez donc quelle preuve nouvelle</l>
+      <l> Hareb attend de votre foi.</l>
+     </sp>
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites.</speaker>
+      <l>Sachons, sachons quelle preuve nouvelle</l>
+      <l> Hareb attend de notre foi.</l>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Fiers descendans d'Ammon, la haine héréditaire</l>
+      <l> Que nous avons jurée aux enfans de Lévi,</l>
+      <l> M'inspire un projet téméraire.</l>
+      <l> Amis, dans ses foyers enlevons Nephtali,</l>
+      <pb n="3"/> <l> L'espérance et l'orgueil du Grand-Prêtre son père,</l>
+      <l> Et puisse de Moloch le courroux sanguinaire</l>
+      <l> Sur ce Lévite être assouvi !</l>
+     </sp>
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites.</speaker>
+      <l>Dans ses foyers enlevons Nephtali,</l>
+      <l> L'espérance et l'orgueil du Grand-Prêtre son père.</l>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Ce Pontife cruel, notre fier ennemi,</l>
+      <l> Unit le sceptre et la tiare;</l>
+      <l> Si dans les fers de ce vainqueur barbare</l>
+      <l> L'Ammonite a long-tems gémi,</l>
+      <l> Quels maux son successeur, Nephtali, nous prépare !</l>
+      <l> Jamais de notre sang se montra-t-il avare?</l>
+      <l> A son seul nom tout mon peuple a frémi.</l>
+     </sp>
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites.</speaker>
+      <p>Dans ses foyers enlevons Nephtali.</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>L'amour souvent égare ici ses pas ;</p>
+      <l>Souvent Rachel, la fille d'Abdias,</l>
+      <l> Laisse errer ses troupeaux dans ce lieu solitaire :</l>
+      <l> A ma poursuite, à ma colère,</l>
+      <l> Ennemis odieux, vous n'échapperez pas.</l>
+      <stage>Air.</stage>
+      <l>Des plus belles Israélites</l>
+      <l> Rachel efface la beauté;</l>
+      <l> Nephtali, des plus fiers Lévites</l>
+      <l> Surpasse la valeur, surpasse la fierté.</l>
+      <pb n="4"/> <l> Couple orgueilleux et détesté,</l>
+      <l> Depuis trop long-tems tu m'irrites,</l>
+      <l> Et mon juste courroux a trop tard éclaté.</l>
+      <l>Charme puissant, plaisir de la vengeance,</l>
+      <l> A ta seule espérance</l>
+      <l> De volupté tout mon cœur a frémi ;</l>
+      <l> Se baigner dans le sang d'un superbe ennemi,</l>
+      <l> Quelle céleste jouissance !</l>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Chœur.</speaker>
+      <p>Charme puissant, etc.</p>
+     </sp>
+     <sp who="#TDP2050_11">
+      <speaker>Hareb, Ammonites.</speaker>
+      <p>Parcourons ces rochers, tâchons de les surprendre.</p>
+      <stage>( Ils se dispersent en prêtant l'oreille au bruit du cor que l' on entend, dans l'
+       éloignement, et qui se rapproche par dégrés.)</stage>
+      <p>Ecoutons, écoutons; quel bruit se fait entendre ?</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb ,</speaker>
+      <stage>regardant du haut d'un rocher.</stage>
+      <p>J'aperçois Nephtali.</p>
+     </sp>
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites.</speaker>
+      <p>Nephtali ! quel bonheur !</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb,</speaker>
+      <stage>descendant.</stage>
+      <l>Mais de Chasseurs nombreux un essaim l'environne.</l>
+      <l> Cachons-nous; de ces rocs cherchons la profondeur ;</l>
+      <l> Si son cortège l'abandonne,</l>
+      <l> Malheur à lui; qu'il craigne ma fureur.</l>
+     </sp>
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites.</speaker>
+      <p>Cachons-nous; de ces rocs cherchons la profondeur.</p>
+      <stage>(Ils se retirent.)</stage>
+     </sp>
+    </div> <pb n="5"/>
+    <div type="scene">
+
+     <head>SCENE II</head>
+     <stage>NEPHTALI, ÉLIÉZER, Chasseurs armés d'arcs et de flèches.</stage>
+     <stage>( Entrée de chasseurs. )</stage>
+
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <l>Que l'aspect de ces monts a d'attraits pour mon ame !</l>
+      <l> C'est ici que Rachel a laissé de sa flamme</l>
+      <l> Echapper le premier aveu;</l>
+      <l> Voici l'heure où par sa présence</l>
+      <l> Rachel doit embellir ce lieu ;</l>
+      <l> Qu'elle tarde, ô mon frère, à mon impatience !</l>
+      <l> En elle est ma félicité;</l>
+      <l> Ses touchantes vertus que Nephtàli révère,</l>
+      <l> Cette aimable candeur qu'aucun détour n'altère;</l>
+      <l> Voilà quels ornemens rehaussent sa beauté.</l>
+     </sp>
+     <sp who="#TDP2050_5">
+      <speaker>Eliézer.</speaker>
+      <l>O mon cher Nephtali ! notre vertueux père</l>
+      <l> Qu'a touché ton amour, qu'a fléchi ma prière,</l>
+      <l> Accorde Rachel à tes vœux;</l>
+      <l> Et moi je suis heureux</l>
+      <l> Du bonheur de mon frère.</l>
+      <pb n="6"/> <stage>Air.</stage>
+      <l>De mon enfance, ô le premier ami !</l>
+      <l> Auprès de toi mon cœur et s'enflamme et s'épure ;</l>
+      <l> Si tu n'étais pour moi choisi par la nature,</l>
+      <l> Ma tendresse t'aurait choisi.</l>
+      <l> Je revois mes foyers après ma longue absence,</l>
+      <l> Et ce retour est enchanteur ;</l>
+      <l> Mais d'un frère chéri partager le bonheur,</l>
+      <l> Ah ! c'est encor là pour mon cœur</l>
+      <l> Une plus douce jouissance.</l>
+     </sp>
+     <sp who="#TDP2050_12">
+      <speaker>Eliézer et Nephtali.</speaker>
+      <l>De mon enfance, ô le premier ami</l>
+      <l> Auprès de toi mon cœur et s'enflamme et s'épure.</l>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <p>Eliézer !</p>
+     </sp>
+     <sp who="#TDP2050_5">
+      <speaker>Eliézer.</speaker>
+      <p>Cher Nephtali !</p>
+     </sp>
+     <sp who="#TDP2050_12">
+      <speaker>Ensemble.</speaker>
+      <l>Si tu n'étais pour moi choisi par la nature,</l>
+      <l> Ma tendresse t'aurait choisi.</l>
+     </sp> <pb n="7"/>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <stage>(aux Chasseurs.)</stage>
+      <l>Mais Rachel ne vient point. Que le cor retentisse</l>
+      <l> Sur ces côteaux, dans ces vallons !</l>
+      <l> De Rachel entendu, que l'éclat de vos sons</l>
+      <l> De ma présence l'avertisse.</l>
+     </sp>
+     <sp who="#TDP2050_5">
+      <speaker>Eliézer</speaker>
+      <stage>Chasseurs s'éloignant.</stage>
+      <l>Que le cor bruyant retentisse</l>
+      <l> Sur ces côteaux, dans ces vallons !</l>
+     </sp>
+    </div> <pb n="8"/>
+    <div type="scene">
+     <head>SCENE III.</head>
+
+     <sp who="#TDP2050_4">
+      <speaker>NEPHTALI,</speaker>
+      <stage>seul.</stage>
+      <stage>( Pendant toute cette scène, le cor se fait entendre à une distance plus ou moins
+       rapprochée.)</stage>
+      <l>Si tu savais, ô Rachel, que mon père</l>
+      <l> Enfin de ses refus a fléchi la rigueur,</l>
+      <l> Ah ! loin d'accuser ta lenteur,</l>
+      <l> Je verrais ta course légère</l>
+      <l> Par sa rapidité seconder mon ardeur.</l>
+      <stage>Air.</stage>
+      <lg><l>O mon amie</l>
+      <l> Douce et chérie,</l>
+      <l> Viens, entends-moi;</l>
+      <l> Ma voix t'appèle,</l>
+      <l> Mon cœur fidèle</l>
+      <l> Vole vers toi.</l></lg>
+     <lg> <l>Jour d'allégresse !</l>
+      <l> Puisse mon cœur</l>
+      <l> Goûter sans cesse</l>
+      <l> La douce ivresse</l>
+      <l> De la tendresse</l>
+      <l> Et du bonheur !</l></lg>
+      <l>O mon amie, etc.</l>
+      <pb n="9"/><lg><l>Chaîne éternelle</l>
+      <l> Va nous unir;</l>
+      <l> Flamme si belle!</l>
+      <l> Ne peut mourir.</l>
+      <l>O mon amie, etc.</l></lg>
+      <p>Que le cor bruyant retentisse, etc.</p>
+      <p>Mais quels cris m'ont frappé? C'est cette voix si chère; C'est elle...</p>
+     </sp>
+    </div> <pb n="10"/>
+    <div type="scene">
+     <head>SCENE IV.</head>
+     <stage>NEPHTALI, RACHEL</stage>
+
+     <sp who="#TDP2050_6">
+      <speaker>Rachel,</speaker>
+      <stage>derrière la scène.</stage>
+      <p>Nephtali! Nephtali!</p>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali,</speaker>
+      <stage>courant à elle.</stage>
+      <p>Juste ciel ! D'où naît ce trouble affreux, ce désordre ?... Rachel ! Calme tes sens, ma
+       bien aimée, Vois Nephtali, vois ton heureux amant !</p>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <p>Fuyons.</p>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <p>Que me dis-tu ? Ma tendresse alarmée...</p>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <l>Fuyons, cher Nephtali, le péril est pressant.</l>
+      <l> Par des barbares poursuivie,</l>
+      <l> Je ne dois mon salut qu'à mon agilité.</l>
+      <l> Je tremble, Nephtali, je tremble pour ta vie ;</l>
+      <l> Fuyons, dérobons-nous à leur férocité.</l>
+      <stage>(Le cor se fait entendre.}</stage>
+     </sp> <pb n="11"/>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <l>Rachel, des ravisseurs ne crains plus la poursuite;</l>
+      <l> Ils n'oseraient paraître ici ;</l>
+      <l> Des braves enfans de Lévi</l>
+      <l> Vois autour de ces monts se disperser l'élite.</l>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel,</speaker>
+      <stage>tendrement</stage>
+      <p>Mon appui le plus sûr est mon cher Nephtali.</p>
+      <stage>Air.</stage>
+      <l>Quelle est donc de l'amour la magique puissance ?</l>
+      <l> Par la terreur mes sens étaient glacés;</l>
+      <l> Je te vois, et c'en est assez</l>
+      <l> Pour retrouver ma confiance.</l>
+      <l> O Nephtali, ne me quitte jamais !</l>
+      <l> Tout m'alarme loin de ta vue ;</l>
+      <l> Près de toi doucement émue,</l>
+      <l> Je goûte le bonheur, l'allégresse et la paix,</l>
+      <l> O Nephtali, ne me quitte jamais.</l>
+     </sp>
+    </div> <pb n="12"/>
+    <div type="scene">
+
+     <head>SCENE V.</head>
+     <stage>LES PRÉCÉDENS, HAREB, AMMONITES.</stage>
+     <stage>( Ils s'avancent avec précaution, tandis que quelques-uns retirent les barques du rocher
+      sous lequel elles étaient cachées , et que d'autres promènent leurs regards du haut des
+      montagnes&#x95;)</stage>
+
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites</speaker>
+      <stage>à demi-voix , dans l'enfoncement.</stage>
+      <p>Sa suite au loin s'égare et ne peut le défendre. Approchons.</p>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <p>Pour toujours nous sommes réunis ; Notre hymen est fixé.</p>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <p>Ciel ! que viens-je d'entendre !</p>
+     </sp>
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites.</speaker>
+      <p>Approchons-nous.</p>
+     </sp>
+     <sp who="#TDP2050_13">
+      <speaker>Rachel et Nephtali.</speaker>
+      <l>Nos tourmens sont finis ;</l>
+      <l> Quel fortuné moment !</l>
+     </sp>
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites,</speaker>
+      <stage>les enveloppant.</stage>
+      <p>Tous deux ils sont surpris.</p>
+     </sp> <pb n="13"/>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <p>O désespoir affreux !</p>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <p>Je meurs.</p>
+     </sp>
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites.</speaker>
+      <l>Bonheur extrême ! Dans nos terribles mains Moloch l'a fait tomber.</l>
+      <l> C'est ce fier Nephtali ; le voilà, c'est lui-même.</l>
+      <stage>(Le cor se rapproche avec un mouvement très-vif.)</stage>
+      <p>Fuyons ; à nos fureurs on vient-le dérober.</p>
+      <stage>( Ils entraînent Nepthali et Rachel dans les barques , qui s'éloignent rapidement
+       )</stage>
+     </sp>
+    </div> <pb n="14"/>
+    <div type="scene">
+     <head>SCENE VI.</head>
+     <stage>ÉLIÉZER, Chasseurs.</stage>
+
+     <sp who="#TDP2050_1">
+      <speaker>Cœur,</speaker>
+      <stage>derrière la scène.</stage>
+      <p>Poursuivons, poursuivons une horde barbare.</p>
+      <stage>(Ils descendent des rochers avec précipitation. )</stage>
+     </sp>
+     <sp who="#TDP2050_5">
+      <speaker>Eliézer,</speaker>
+      <stage>jetant un cri d'horreur.</stage>
+      <p>Que vois-je, Nephtali ?... le Jourdain nous sépare.</p>
+     </sp>
+     <sp who="#TDP2050_7">
+      <speaker>Chasseurs.</speaker>
+      <p>Faisons voler nos traits.</p>
+     </sp>
+     <sp who="#TDP2050_5">
+      <speaker>Eliézer.</speaker>
+      <l>Malheureux, arrêtez ;</l>
+      <l> Vous les dirigez sur mon frère.</l>
+      <l> O rage ! ô désespoir ! Que résoudre ? que faire ?</l>
+      <l> Déjà les ravisseurs loin de nous emportés.</l>
+     </sp>
+     <sp who="#TDP2050_10">
+      <speaker>Chœur général.</speaker>
+      <l>Que la vengeance enflamme le courage !</l>
+      <l> Volons dans ses foyers attaquer l'ennemi ;</l>
+      <l> Et dans des flots de sang, au milieu du carnage,</l>
+      <l> A sa fureur arrachons Nephtali.</l>
+     </sp>
+     <stage>( Ils sortent. )</stage>
+    </div>
+    <trailer>FIN DU PREMIER ACTE.</trailer>
+   </div> <pb n="15"/>
+   <div type="scene">
+    <head>ACTE SECOND.</head>
+    <stage>Le théâtre représente le palais d'Hareb.</stage>
+
+    <div type="scene">
+
+     <head>SCENE PREMIERE.</head>
+     <stage>HAREB, AMMONITES.</stage>
+     <stage>( Chœur. )</stage>
+
+     <sp who="#TDP2050_3">
+      <speaker>Ammonites.</speaker>
+      <l>TRIOMPHE, chef puissant d'un peuple formidable,</l>
+      <l> Triomphe, dans le deuil Israël est plongé.</l>
+      <l> Lévites odieux, la douleur vous accable,</l>
+      <l> Notre Dieu Moloch est vengé.</l>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>Que Nephtali soudain soit conduit à mes yeux.</p>
+     </sp>
+    </div> <pb n="16"/>
+    <div type="scene">
+
+     <head>SCENE II.</head>
+     <stage>HAREB, NEPHTALI, enchaîné.</stage>
+
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>Approche-toi.</p>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <p>Monstre odieux !</p>
+      <stage>Air.</stage>
+      <l>O terre, engloutis-moi dans tels profonds abîmes;</l>
+      <l> Dérobe-moi l'aspect de mon funeste sort,</l>
+      <l> Et ces affreux tourmens qui, par un lent effort,</l>
+      <l> Frappent mille fois lés victimes</l>
+      <l> Avant de leur donner le bienfait de là mort!</l>
+      <l>Ne dois-je plus vous voir, ô Rachel, ô mon père !</l>
+      <l> Qu'ai-je dit ? Ah ! je vais te retrouver, Rachel;</l>
+      <l> Je vais te retrouver à l'autel sanguinaire</l>
+      <l> D'un Dieu stupidement cruel....</l>
+      <p>O terre, engloutis-moi, etc.</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Tu peux les éviter, ces tourmens, dont l'image</l>
+      <l> A le pouvoir de t'effrayer.</l>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <p>Explique-toi ; comment puis-je appaiser ta rage ?</p>
+     </sp> <pb n="17"/>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>A Moloch viens sacrifier.</p>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <l>Qui ! moi ! sacrifier à cette idole impure,</l>
+      <l> L'ouvrage de tes mains, l'horreur de la nature !</l>
+      <l> Abjurer mon Dieu, le trahir !</l>
+      <l> Hareb, qu'on me mène au Supplice ;</l>
+      <l> Ordonne les apprêts d'un cruel sacrifice,</l>
+      <l> Et viens voir si je sais mourir.</l>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>Partage mes grandeurs.</p>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <p>Tes grandeurs sont infâmes.</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>Partage mes trésors.</p>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <l>Le plus cher est l'honneur.</l>
+      <l> O vertu, que tes saintes flammes</l>
+      <l> Ne s'éteignent pas dans mon cœur!</l>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb,</speaker>
+      <stage>à lui-même.</stage>
+      <l>Je vais voir son orgueil se démentir, peut-être.</l>
+      <l> (</l>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali,</speaker>
+      <stage>avec désespoir.</stage>
+      <p>Voilà le dernier coup.</p>
+     </sp> <pb n="15"/>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Mais je la vois paraître.</l>
+      <l> Retire-toi.</l>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali,</speaker>
+      <stage>entraîne par ses Gardes.</stage>
+      <p>Rachel ! ô barbares soldats !</p>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <p>Vers toi, cher Nephtali, je tends mes faibles bras.</p>
+     </sp>
+    </div> <pb n="19"/>
+    <div type="scene">
+     <head>SCENE III.</head>
+     <stage>HAREB, RACHEL.</stage>
+
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <stage>Air.</stage>
+      <l>Votre cœur est-il inflexible?</l>
+      <l> Laissez-moi le voir, lui parler.</l>
+      <l> A mes larmes soyez sensible ;</l>
+      <l> Quel charme éprouvez-vous à les faire couler ?</l>
+      <l> A tous mes vœux le sort long-tems propice,</l>
+      <l> Dans un abîme affreux vient me précipiter;</l>
+      <l> Mais dût s'accroître encor sa cruelle injustice,</l>
+      <l> Si je vois Nephtali, je puis tout supporter.</l>
+      <p>Votre cœur, etc.</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>Rachel, vous aimez donc Nephtali ?</p>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <p>Si je l'aime !</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>Et ses jours vous sont chers?</p>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <p>Ah ! pour les conserver, les miens...</p>
+     </sp> <pb n="20"/>
+     <sp who="#TDP2050_2">
+      <speaker>HAREB.</speaker>
+      <l>Votre pouvoir sur son cœur est extrême ;</l>
+      <l> C'est à l'amour à le sauver.</l>
+      <l> Vous connaissez nos lois ; à notre Dieu terrible</l>
+      <l> Tout captif doit être immolé ;</l>
+      <l> Mais un seul grain d'encens sur ses autels brûlé,</l>
+      <l> Dérobe la victime à ce trépas horrible.</l>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <p>Que résout Nephtali dans cette extrémité ?</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>Il hésite encore,</p>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <p>Il hésite ?</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Ah ! de cet orgueilleux Lévite</l>
+      <l> L'amour doit vaincre la fierté.</l>
+      <stage>Air.</stage>
+      <l>Qu'un triomphe si doux soit votre heureux ouvrage ;</l>
+      <l> J'accorderai Rachel à ses ardens desirs.</l>
+      <l> Est-il une vertu si dure et si sauvage</l>
+      <l> Qui préfère la mort à l'attrait des plaisirs ?</l>
+      <stage>( De jeunes femmes paraissent en dansant.)</stage>
+      <l>Voyez ces captives .</l>
+      <l> Goûter sur nos rives</l>
+      <l> La paix et la félicité ;</l>
+      <pb n="21"/><l> Comme elles, sans cesse,</l>
+      <l> D'une douce ivresse</l>
+      <l> Vous sentirez la volupté.</l>
+     </sp>
+     <sp who="#TDP2050_14">
+      <speaker>Chœur de Femmes.</speaker>
+      <l>D'heureuses captives</l>
+      <l> Goûtent sur ces rives</l>
+      <l> La paix et la félicité ;</l>
+      <l> Comme elles, sans cesse,</l>
+      <l> D'une douce ivresse</l>
+      <l> Vous sentirez la volupté.</l>
+      <stage>(Elles attachent sur le front de Rachel un voile précieux , et d' autres ornemens. —
+       Ballet.)</stage>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel,</speaker>
+      <stage>à Hareb.</stage>
+      <p>Permettez-vous enfin que Nephtali paraisse?</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <stage>avec joie.</stage>
+      <p>Vous allez voir bientôt ce désir accompli.</p>
+      <stage>(il fait un signe. )</stage>
+      <p>Songez...</p>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <l>Reposez-vous sur ma vive tendresse ;</l>
+      <l> Je sais comment on parle au cœur de Nephtali.</l>
+      <stage>( Hareb sort; les femmes le suivent en répétant : )</stage>
+      <p>D'heureuses captives, etc.</p>
+     </sp>
+    </div> <pb n="22"/>
+    <div type="scene">
+     <head>SCENE IV.</head>
+     <stage>NEPHTALI, RACHEL, Garnis dans l'enfoncement.</stage>
+
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali,</speaker>
+      <stage>aux Gardes</stage>
+      <l>En vain d'unie épreuve nouvelle</l>
+      <l> Vous essayez sur moi le prestige enchanteur;</l>
+      <l> A Rachel, comme à Dieu , mon cœur sera fidèle...</l>
+      <stage>(Il approche et la reconnaît. )</stage>
+      <l>Que vois-je ? A comble de l'horreur !</l>
+      <l> Rachel peut à ce point devenir criminelle !</l>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <l>Arrête, Nephtali, tu connais mal mon coeur.</l>
+      <l> Je voulais t'embrasser encore,</l>
+      <l> Je le voulais avant que de périr ;</l>
+      <l> Un moment j'ai trompé le tyran que j' abhorre;</l>
+      <stage>(Arrachant son voile et le foulant aux pieds. )</stage>
+      <p>A présent, Nephtali, je suis prête à mourir.</p>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <l>Se peut-il ? ô tendresse ! ô vertu que j'adore !</l>
+      <l> Mais comment supporter tes horribles revers ?</l>
+      <l> Rachel, ce furieux va te charger de fers.</l> <pb n="23"/>
+      <stage>Duo.</stage>
+     </sp>
+    <spGrp> <head>Duo.</head>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <l>Avec transport Rachel partage</l>
+      <l> Et tes destins et ton danger.</l>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <l>Avec transport Rachel partage</l>
+      <l> Et mes destins et mon danger.</l>
+     </sp>
+     <sp who="#TDP2050_13">
+      <speaker>Ensemble.</speaker>
+      <l>L'amour dans les tourmens soutiendra mon courage.</l>
+      <l> Et rien ne me fera changer.</l>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <l>Rachel, ô désespoir !... mon père</l>
+      <l> Consentait à serrer nos noeuds;</l>
+      <l> J'allais d'un amour vertueux</l>
+      <l> Recevoir enfin le salaire.</l>
+     </sp>
+     <sp who="#TDP2050_13">
+      <speaker>Ensemble.</speaker>
+      <l>O regrets ! ô douleur ! ensemble il faut périr ;</l>
+      <l> Etaient-ce là les nœuds qui devaient nous unir ?</l>
+     </sp>
+     <sp who="#TDP2050_13">
+      <speaker>Rachel et Nephtali.</speaker>
+      <p>Avec transport, etc.</p>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <l>Hareb nous offre ici les trésors, la grandeur,</l>
+      <l> Si sur l'autel d'un Dieu dont le nom fait horreur</l>
+      <pb n="24"/><l> Nous brûlons un encens impie ;</l>
+      <l> Parle, veux-tu mourir, ou racheter ta vie</l>
+      <l> Par le crime et le déshonneur ?</l>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <p>Avec transport, etc.</p>
+     </sp>
+     <sp who="#TDP2050_13">
+      <speaker>Ensemble.</speaker>
+      <l>Non, non, dans une ame avilie</l>
+      <l> Ne peut brûler un si beau feu;</l>
+      <l> Plutôt cent fois perdre la vie,</l>
+      <l> Que trahir l'honneur et son Dieu.</l>
+     </sp></spGrp>
+    </div> <pb n="25"/>
+    <div type="scene">
+
+     <head>SCENE V.</head>
+     <stage>les précédens, HAREB; Suite.</stage>
+
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>Votre choix est-il fait ?</p>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <p>C'est la mort que j'appelle.</p>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <p>C'est la mort qui comble mes vœux.</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Vous la recevrez tous les deux ;</l>
+      <l> Mais vous la recevrez effrayante et cruelle.</l>
+      <stage>Trio.</stage>
+     </sp>
+     <sp who="#TDP2050_13">
+      <speaker>Rachel et Nephtali.</speaker>
+      <l>Ne crois pas nous épouvanter,</l>
+      <l> Hareb, nous défions ta rage.</l>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Rien ne peut vous épouvanter !</l>
+      <l> Mais des tourmens braverez-vous la rage ?</l>
+     </sp>
+     <sp who="#TDP2050_13">
+      <speaker>Rachel et Nephtali.</speaker>
+      <l>De notre Dieu que ta fureur outrage,</l>
+      <l> La vengeance sur toi peut soudain éclater.</l>
+     </sp><pb n="26"/>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb,</speaker>
+      <l>D'un Dieu puissant que votre culte outrage ,</l>
+      <l> La vengeance sur vous va soudain éclater.</l>
+     </sp> 
+     <sp who="#TDP2050_13">
+      <speaker>Nephtali et Rachel</speaker>
+      <l>Mais dût le crime achever son ouvrage ,</l>
+      <l> Ne crois pas nous épouvanter,</l>
+      <l> Hareb , nous défions ta rage.</l>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Rien ne peut vous épouvanter!</l>
+      <l> Mais des tourmens braverez-vous la rage ?</l>
+     </sp>
+     <sp who="#TDP2050_13">
+      <speaker>Nephtali et Rachel.</speaker>
+      <p>Hareb, nous défions ta rage.</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Qu'au temple de Moloch ces captifs soient conduits;</l>
+      <l> Notre Dieu les attend : qu'ils marchent; je les suis.</l>
+      <stage>( On emmène Nephtali et Rachel. )</stage>
+     </sp>
+     <sp who="#TDP2050_14">
+      <speaker>Chœur de Femmes.</speaker>
+      <l>Grâce pour Nephtali, pour cette infortunée !</l>
+      <l> Révoquez un arrêt cruel.</l>
+     </sp>
+     <sp who="#TDP2050_15">
+      <speaker>Hareb, Soldats.</speaker>
+      <l>Non, de Nephtali, de Rachel</l>
+      <l> Va s'accomplir la destinée;</l>
+      <l> Et qu'ainsi soit exterminée</l>
+      <l> La race entière d'Israël !</l>
+     </sp><pb n="27"/>
+     <sp who="#TDP2050_14">
+      <speaker>Femmes.</speaker>
+      <l>Grâce, pitié pour lui, pour cette infortunée!</l>
+      <l> Révoquez un arrêt cruel.</l>
+     </sp>
+     <sp who="#TDP2050_15">
+      <speaker>Hareb, Soldats.</speaker>
+      <l>Point de pitié ; puisse être exterminée</l>
+      <l> La race entière d'Israël !</l>
+     </sp>
+     <stage>( Ils sortent. )</stage>
+    </div>
+    <trailer>FIN DU SECOND ACTE.</trailer>
+
+   </div><pb n="28"/>
+   <div type="scene">
+
+    <head>ACTE TROISIEME.</head>
+    <stage>Le théâtre représente le Temple de Moloch, dans un lieu désert et sauvage. Ce Temple est
+     découvert; son architecture bizarre laisse voir la statue creuse et colossale du Dieu dont les
+     bras sont étendus pour recevoir les victimes. Dans l'enfoncement, est une caverne que surmonte
+     un plateau de rocher.</stage>
+
+
+    <div type="scene">
+
+     <head>SCENE PREMIERE.</head>
+
+     <sp who="#TDP2050_5">
+      <speaker>ÉLIÉZER ,</speaker>
+      <stage>vêtu en Ammonite.</stage>
+      <l>La crainte du péril a glacé tous les cœurs ;</l>
+      <l> Des beaux jours d'Israël à peine il reste une ombre ;</l>
+      <l> De fidèles amis à peine un petit nombre</l>
+      <l> A voulu de la mort affronter les horreurs.</l>
+      <l> J'avance ... j'examine ... et ne vois rien paraître.</l>
+      <l> Dès l'enfance, éloigné des foyers paternels,</l>
+      <l> Je ne suis point connu de ces peuples cruels.</l>
+      <l> Leur habit me protège ; il m'aidera peut-être</l>
+      <l> A pénétrer, à reconnaître ...</l>
+      <l> Mais où porter mes pas irrésolus ?</l>
+      <l> Seul, d'un peuple puissant comment me rendre maître ?</l>
+      <l> Hélas ! je mé consume en desseins superflus,</l>
+      <pb n="29"/> <stage>Air.</stage>
+      <l>O toi qui m'est plus cher, plus cher que l'existence,</l>
+      <l> Nephtali, si mon bras ne peut te secourir,</l>
+      <l> Je conserve au moins l'espérance</l>
+      <l> De t'embrasser et de mourir,</l>
+      <l>Mais nous ne mourrons pas sans vengêance peut-être ;</l>
+      <l> Oui, dans le sein d'Hareb ce poignard enfoncé.</l>
+      <l> Confondra le sang de ce traître</l>
+      <l> Avec les flots du sang que sa rage a versé.</l>
+      <l>O toi qui m'est plus cher, plus cher que l'existence,</l>
+      <l> Nephtali, si mon bras ne peut te secourir,</l>
+      <l> Je conserve au moins l'espérance</l>
+      <l> De te venger et de mourir.</l>
+     </sp>
+    </div><pb n="30"/>
+    <div type="scene">
+
+     <head>SCENE II.</head>
+     <stage>ÉLIEZER, un Lévite vêtu aussi en Ammonite.</stage>
+
+     <sp who="#TDP2050_5">
+      <speaker>Eliézer,</speaker>
+      <stage>vivement.</stage>
+      <l>Cher ami, qu'as-tu vu ? quels discours, quel indice</l>
+      <l> As-tu recueillis ? Parle.</l>
+     </sp>
+     <sp who="#TDP2050_8">
+      <speaker>Le Lévite.</speaker>
+      <l>Ah ! seigneur, apprenez...</l>
+      <l> Rachel et votre frère à la mort sont traînés;</l>
+      <stage>( montrant le temple. )</stage>
+      <p>Voici le lieu du sacrifice.</p>
+     </sp>
+     <sp who="#TDP2050_5">
+      <speaker>Éliézer.</speaker>
+      <p>Courons le délivrer ou périr avec lui.</p>
+      <stage>( il s'arrête. )</stage>
+      <p>Courons... Le ciel m'inspire; implorons son appui.</p>
+     </sp>
+     <sp who="#TDP2050_16">
+      <speaker>Eliézer, le Lévite,</speaker>
+      <stage>retirés à une extrémité du théâtre.</stage>
+      <l>Dieu d'Israël, Dieu redoutable,</l>
+      <l> Sur tes fiers ennemis fais tomber ton courroux !</l>
+      <l> Ah! sauve tes enfans que l'infortune accable,</l>
+      <l> De la mort détourne les coups !</l>
+      <stage>( Eliézer s'éloigne ; le Lévite entre dans la caverne. )</stage>
+     </sp>
+    </div><pb n="31"/>
+    <div type="scene">
+
+     <head>SCENE III.</head>
+     <stage>LE GRAND-PRÊTRE DE MOLOCH; Prêtres.</stage>
+
+     <sp who="#TDP2050_10">
+      <speaker>Chœur</speaker>
+      <stage>derrière la scène.</stage>
+      <l>DIVINITÉ d'Ammon, Moloch, Dieu redoutable,</l>
+      <l> Deux victimes bientôt vont calmer ton courroux ;</l>
+      <l> Tes bras vont les presser d'une étreinte effroyable</l>
+      <l> Et de la mort multiplier les coups.</l>
+     </sp>
+     <sp who="#TDP2050_9">
+      <speaker>Le Grand-Prêtre.</speaker>
+      <p>Que dans ces flancs profonds l'ardent brâsier s'allume !</p>
+      <stage>( Les Prêtres remplissent de feu l'intérieur de la statue.)</stage>
+      <l>Que lentement il les consume !</l>
+      <l> Pressons , ralentissons tour-à-tour sa fureur ;</l>
+      <l> Que la mort dans leur sein pénètre avec douleur !</l>
+     </sp>
+     <sp who="#TDP2050_10">
+      <speaker>Choeur.</speaker>
+      <p>Pressons, ralentissons, etc,</p>
+     </sp>
+    </div><pb n="32"/>
+    <div type="scene">
+
+     <head>SCENE IV.</head>
+     <stage>Les précédens, NEPHTALI, RACHEL, HAREB, AMMONITES.</stage>
+     <stage>( Le cortège fait le tour du Temple , et s'arrête ensuite sur le devant du
+      théâtre.)</stage>
+
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Puissant Moloch, à nos vœux sois propice,</l>
+      <l> Rachel et Nephtali dans tes bras vont périr ;</l>
+      <l> Moloch , quel plus doux sacrifice</l>
+      <l> A ta fureur pourrais-je offrir ?</l>
+     </sp>
+     <sp who="#TDP2050_10">
+      <speaker>Chœur.</speaker>
+      <p>Divinité d'Ammon , etc.</p>
+      <stage>( On déchaîne les captifs pour les conduire dans les bras de la statue. )</stage>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <l>Adieu , Rachel ; adieu, mon père ;</l>
+      <l> Et toi, mon tendre frère ,</l>
+      <l> Eliézer, adieu.</l>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <l>Adieu , cher Nephtali; vous aussi, vous, mon père,</l>
+      <l> Je vais mourir, adieu.</l>
+     </sp>
+     <sp who="#TDP2050_13">
+      <speaker>Ensemble.</speaker>
+      <p>Soutiens mon courage, ô mon Dieu !</p>
+     </sp><pb n="33"/>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Ecoutez; il est encor tems</l>
+      <l> De désarmer du Dieu la terrible colère ;</l>
+      <stage>( Il prend l'encens sur l'autel , et le leur présente. )</stage>
+      <p>Sur ses autels faites fumer l'encens.</p>
+     </sp>
+     <sp who="#TDP2050_10">
+      <speaker>Chœur.</speaker>
+      <p>Sur ses autels faites fumer l'encens.</p>
+      <stage>( Hareb s'éloigne un peu, et laisse seuls les deux amans, qui se regardent et se
+       prennent la main. )</stage>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Quelle est votre réponse? A d'horribles fourmens</l>
+      <l> Consentez-vous à vous soustraire ?</l>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali,</speaker>
+      <stage>jetant l' encens.</stage>
+      <l>Adieu, Rachel ; adieu, mon père ;</l>
+      <l> Et toi, mon tendre frère, Eliézer, adieu !</l>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <l>Adieu, cher Nephtali ; vous aussi, vous, mon père,</l>
+      <l> Je vais mourir, adieu.</l>
+     </sp>
+     <sp who="#TDP2050_13">
+      <speaker>Ensemble.</speaker>
+      <p>Soutiens mon courage, ô mon Dieu!</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb,</speaker>
+      <stage>furieux.</stage>
+      <p>Qu'ils meurent ; au trépas rien ne peut les soustraire.</p>
+      <stage>( Nephtali et Rachel montent sur les marches de l'autel. )</stage>
+     </sp>
+    </div><pb n="34"/>
+    <div type="scene">
+
+     <head>Scène V</head>
+     <stage>Les précédens, un officier Ammonite.</stage>
+
+     <sp who="#TDP2050_17">
+      <speaker>L'Officer,</speaker>
+      <stage>à Hareb.;</stage>
+      <l>Seigneur, de notre loi l'orgueilleux ennemi</l>
+      <l> Conçoit le fol espoir de venger Nephtali ,</l>
+      <l> Son frère Eliézer, avec quelques Lévites ,</l>
+      <l> Vient de descendre sur ce bord ;</l>
+      <l> Un pâtre les a vus se cacher près du port :</l>
+      <l> Ces imprudens Israélites</l>
+      <l> Viennent ici chercher la mort.</l>
+     </sp>
+     <sp who="#TDP2050_3">
+      <speaker>Tous.</speaker>
+      <l>Ces imprudens Israélites</l>
+      <l> Viennent ici chercher la mort.</l>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Qu'on suspende le sacrifice !</l>
+      <l> Eliézer va partager</l>
+      <l> De Nephtali le long supplice.</l>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <l>Eliézer ! ô ciel ! que ta justice</l>
+      <l> Eloigne de lui tout danger !</l>
+     </sp><pb n="35"/>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb,</speaker>
+      <stage>à l'Officier.</stage>
+      <p>Ce pâtre...</p>
+     </sp>
+     <sp who="#TDP2050_17">
+      <speaker>l'Officier.</speaker>
+      <p>Il est ici,</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>Je veux l'interroger.</p>
+      <stage>( L'Officier s'éloigne et amène EHézer. )</stage>
+     </sp>
+    </div><pb n="36"/>
+    <div type="scene">
+
+     <head>SCENE VI ET DERNIÈRE.</head>
+     <stage>LES PRÉCÉDENS, ÉLIÉZER.</stage>
+
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali,</speaker>
+      <stage>vivement.</stage>
+      <p>Mon frère!</p>
+     </sp>
+     <sp who="#TDP2050_6">
+      <speaker>Rachel.</speaker>
+      <p>Eliézer!</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>Que dites-vous?</p>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali,</speaker>
+      <stage>se composant.</stage>
+      <p>Mon frère ! Tu tombes au pouvoir d'un monstre sanguinaire !</p>
+      <stage>(montrant Eliézer,)</stage>
+      <p>Ce lâche délateur, par un vil attentat...</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb,</speaker>
+      <stage>se plaçant entre Eliézer et Nephtali.</stage>
+      <p>Ce fidèle sujet sert son prince et l'état</p>
+      <stage>(prenant la main d'Eliézer.)</stage>
+      <l>Approche; explique-toi sans feinte;</l>
+      <l> Bannis et le trouble et la crainte.</l>
+     </sp>
+     <sp who="#TDP2050_5">
+      <speaker>Eliézer,</speaker>
+      <stage>avec calme.</stage>
+      <p>Que puis-je redouter ? je remplis mon devoir,</p>
+     </sp><pb n="37"/>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <l>Sois sûr que mes bienfaits passeront ton espoir.</l>
+      <l> Parle; ces ennemis dont je crains peu l'approche;</l>
+      <l> Où se sont-ils cachés ?</l>
+     </sp>
+     <sp who="#TDP2050_5">
+      <speaker>Eliézer,</speaker>
+      <stage>montrant le rocher qui surmonte la caverne.</stage>
+      <l>Du haut de cette roche</l>
+      <l> Leur asyle secret se peut apercevoir.</l>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <stage>( montrant Nephtali. )</stage>
+      <l>Suis-moi ; j'y veux monter. Je vais saisir son frère ;</l>
+      <l> Avec lui ce téméraire ,</l>
+      <l> Devant mes yeux va périr.</l>
+     </sp>
+     <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <l>O ciel ! sauve mon frère !</l>
+      <l> Son courage téméraire</l>
+      <l> Pour nous l'expose à périr.</l>
+     </sp>
+     <sp who="#TDP2050_5">
+      <speaker>Eliézer ,</speaker>
+      <stage>à part, marchant derrière Hareb.</stage>
+      <p>Ciel ? sauve-les ; sauve mon frère !</p>
+      <stage>(à Hareb , gui se retourne.)</stage>
+      <p>Je vous livre ce téméraire.</p>
+      <stage>( à part. )</stage>
+      <p>Ou les délivrer, ou mourir.</p>
+      <stage>( Hareb monte sur le rocher; Eliézer le suit. )</stage>
+     </sp><pb n="38"/>
+     <sp who="#TDP2050_5">
+      <speaker>Éliézer ,</speaker>
+      <stage>passant devant la caverne ,et saisissant un glaive.</stage>
+      <p>Lévites, paraissez.</p>
+      <stage>(Les Lévites , armés , sortent de la caverne , et fondent sur les Ammonites. )</stage>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb, Amonites.</speaker>
+      <p>O crime , ô perfidie !</p>
+      <stage>( Hareb veut descendre du rocher ; Eliézer lui ferme le passage. )</stage>
+     </sp>
+     <sp who="#TDP2050_5">
+      <speaker>Eliézer.</speaker>
+      <p>Connais Eliézer, traître, défends ta vie.</p>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb.</speaker>
+      <p>Eliézer!</p>
+      <stage>( Un combat, s'engage entre Eliézer et Hareb sur le rocher , tandis que les Lévites ,
+       dans la plaine , sont aux mains avec les Ammonites. Nephtali s'empare d'une arme, et tenant
+       Rachel d'un bras, il combat de l'autre; mais les Lévites sont repoussés.}</stage>
+     </sp>
+     <sp who="#TDP2050_2">
+      <speaker>Hareb,</speaker>
+      <stage>frappé par Eliézer , et roulant derrière les rochers.</stage>
+      <p>Je meurs.</p>
+     </sp>
+     <sp who="#TDP2050_5">
+      <speaker>Eliézer ,</speaker>
+      <stage>descendant précipitamment et ralliant les siens.</stage>
+      <p>Lévites, vous fuyez,</p>
+      <stage>(montrant le corps d' Hareb.</stage>
+      <p>Quand sous vos coups un barbare... Voyez.</p>
+     </sp><pb n="39"/>
+     <sp who="#TDP2050_19">
+      <speaker>Tous les Lévites.</speaker>
+      <p>Hareb n'est plus , nous bravons leur furie.</p>
+      <stage>(Eliézer et les Lévites renversent et mettent en fuite l'ennemi.</stage>
+     </sp>
+     <sp who="#TDP2050_18">
+      <speaker>Eliézer, Nephtali, Rachel.</speaker>
+      <p>Mon frère, est-ce { toi? vous? } quel bonheur !</p>
+     </sp>
+     <sp who="#TDP2050_19">
+      <speaker>Lévites.</speaker>
+      <l>Le Dieu d'Israël est vainqueur ;</l>
+      <l> D'un Dieu sanguinaire, imposteur,</l>
+      <l> Renversons l'autel impie;</l>
+      <l> O temple, écroule-toi sous notre bras vengeur!</l>
+      <stage>(Les Lévites brisent la statue et renversent le temple dç Moloch.)</stage>
+     </sp>
+     <spGrp>  <head>TRIO.</head>
+      <sp who="#TDP2050_4">
+      <speaker>Nephtali.</speaker>
+      <l>O mon frère ! ô touchante ivresse !</l>
+      <l> Ce jour heureux, ce même jour</l>
+      <l> Rend une épouse à ma tendresse,</l>
+      <l> Et rend un frère à mon amour.</l>
+     </sp>
+     <sp who="#TDP2050_20">
+      <speaker>Rachel, Éliézer.</speaker>
+      <l>O mon frère ! ô touchante ivresse !</l>
+      <l> Ce jour heureux, ce même jour</l>
+      <l> Rend une épouse à sa tendresse,</l>
+      <l> Et rend un frère à son amour.</l>
+     </sp><pb n="40"/>
+     <sp who="#TDP2050_10">
+      <speaker>Chœur général.</speaker>
+      <l>Quittons cet odieux rivage ,</l>
+      <l> Et d'un père chéri courons sécher les pleurs.</l>
+      <l> L'idolâtre frémit d'une impuissante rage;</l>
+      <l> Dieu de Lévi, toi qu'adorent nos cœurs ,</l>
+      <l> Notre victoire est ton ouvrage.</l>
+      <l> Quittons cet odieux rivage,</l>
+      <l> Et d'un père chéri courons sécher les pleurs.</l>
+      <stage>( Ils sortent. )</stage>
+     </sp></spGrp>
+    </div>
+
+
+    <trailer>FIN.</trailer>
+
+   </div>
+  </body>
+ </text>
+</TEI>

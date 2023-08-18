@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W12">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Absinthe, comédie-parade en un acte, mèlée de vaudevilles, par Henrion : TEI edition
+     (Wicks no. 12)</title>
+    <author>Ch. Henrion</author>
+    <respStmt>
+     <resp>HTML version by</resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI version by</resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <p>The Digital Parisian Stage Corpus is distributed on GitHub
+     https://github.com/grvsmth/theatredeparis </p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images available from <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k56253685"/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/12labsinthe.html"/></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
+   <change when="2023-07-20">Hand edited and checked</change>
+   <change when="2023-07-19">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>L'Absinthe, </titlePart>
+     <titlePart>COMÉDIE PARADE EN UN ACTE MÊLÉE DE VAUDEVILLES</titlePart>
+    </docTitle>
+    <byline> Par <docAuthor>HENRION</docAuthor>.</byline>
+    <docImprint>A Paris, Chez PERREAULT, rue et porte St.-Denis, Passage des Filles-Dieu, No 69. Et
+     chez Madame CAVAGNACH, Passage du Panorama, No. 5.</docImprint>
+   </titlePage>
+   <pb n="2"/>
+   <castList>
+    <head>Personnages.</head>
+    <castItem><role>HORTENCE.</role><actor>Mme. d'Herbouville.</actor></castItem>
+    <castItem><role>JEANNETTE.</role><actor>Mlle. Adèle.</actor></castItem>
+    <castItem><role>NICAISE.</role><actor>Mr. Camel.</actor></castItem>
+    <castItem><role>FLANCHET, Maître de danse, Caricature.</role><actor>Mr.
+     St.-Clair.</actor></castItem>
+   </castList>
+   <set>
+    <p>La Scène se passe chez Hortence</p>
+   </set>
+   <div type="preface">
+    <head>COUPLET D'ANNONCE.</head>
+    <stage type="air">AIR :<title> </title><title>Vaud, d'Arlequin-Afficheur.</title></stage>
+    <l>II n'est plus de nouveaux sujets,</l>
+    <l> On épuise tout pour vous plaire ;</l>
+    <l> Pour mettre du sel aux couplets</l>
+    <l> L'absinthe est une source amère :</l>
+    <l> D'un succès nous serions jaloux ,</l>
+    <l> Mais pour que nous ayons la vogue ,</l>
+    <l> N'allez pas dire avec courroux,</l>
+    <l> L'absinthe est une drogue.</l>
+   </div>
+
+  </front>
+  <pb n="3"/>
+  <body>
+   <head>L'absinthe. Comedie,</head>
+   <stage type="set">Le Théâtre représente un Salon.</stage>
+   <div type="scene">
+    <head>SCÈNE PREMIÈRE.</head>
+    <stage type="set">HORTENCE, NICAISE.</stage>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Oui, mon ami, c'est bien vrai; je viens de prévenir Jeannette que je ne consens plus à votre
+      mariage.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Vous avez eu la cruauté de lui causer autant de chagrin ? Cette pauvre fille!... Elle va se
+      désoler!... Perdre la fleur des garçons.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Elle se trouvera un autre.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>II n'y en a pas deux aussi pareils sous la voute céleste des barrières de Paris.</p>
+    </sp>
+    <pb n="4"/>
+    <stage type="air">Air: <title>Vaud. d'Angélique et Melcourt</title></stage>
+    <l>On ne compte qu'un Cicéron</l>
+    <l> Comme on ne compte qu'un Voltaire,</l>
+    <l> Pékin ne compte qu'un Caton,</l>
+    <l> Rome ne compte qu'un Molière ;</l>
+    <l> De même comme ces héros,</l>
+    <l> Depuis Pantin jusqu'à Falaise,</l>
+    <l> Et de Falaise aux Ostrogots,</l>
+    <l> On ne compte qu'un Nicaise.</l>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>C'est donc pour la bétise!</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Vous êtes toujours joviale... Mais notre maîtresse, expliquez-moi donc pourquoi vous ne
+      voulez plus que j'épouse Jeannette.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Je lui en ai dit les raisons ; c'est parce que tu es un gourment qui touche à tout, qui
+      mange mes fruits et mes coufitures : je ne retrouve jamais rien à l'office, et c'est pour t'en
+      punir que j'ai rompu ton mariage.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Si ce n'est que cela, j'épouse Jeannette, ce n'est point moi qui mange vos fruits.</p>
+    </sp>
+    <stage type="air">AIR: <title>Comment goûter quelque repos.</title></stage>
+    <l>Non, je ne fus jamais tenté</l>
+    <l> Ni du raisin de votre treille,</l>
+    <l> Ni d'aucune pêche vermeille</l>
+    <l> Que nous offre la volupté</l>
+    <l> En vain je vois sur une assiète</l>
+    <l> Ce qui réveille l'apetit</l>
+    <pb n="5"/>
+    <l> Moi, par goût je préfère au fruit</l>
+    <l> Les roses du teint de Jeannette.</l>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Mais Nicaise, êtes-vous bien sûr de ce que vous dites ?</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Si j'en suis sûr, madame . . . je l'ai vu encore l'autre jour qu'il avait la bouche sur du
+      raisinet et la main dans la lêche-fritte.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>C'est affreux, un homme en qui j'avais confiance ... je veux l'en punir.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Il faut apprendre au maître à danser, à bien se tenir.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Oh! je lui prépare un tour auquel il ne s'attend pas.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>C'est très-bien fait de votre part, car s'il s'y attendait, cela ne serait pas malin du
+      tout.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Je veux le guérir de ce défaut . . . Mais il
+      <pb n="6"/>faut que vous et Jeannette me secondiez ...</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Nous sommes trop intéressés à votre vengeance , pour ne pas faire tout ce qui dépendra de
+      nous.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Je vais appeler Jeannette.. <stage>( elle appele )</stage> Jeannette ... Jeannette ...</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCÈNE II.</head>
+    <stage type="set">HORTENCE JEANNETTE. NICAISE.</stage>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Me voici, Madame, que désirez-vous ?</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Je t'ai affligée bien injustement ce matin ma pauvre Jeannette, ... tu as cru que tu
+      n'épouserait pas Nicaise.</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Ah ! Madame, je n'étais pas si chagrine que vous voulez bien le dire.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Voyez-vous la perfide !</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Tu n'aimes donc pas Nicaise ?</p>
+    </sp>
+    <pb n="7"/>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Si fait, madame. Je l'aimerais encore mieux sans le proverbe: qui se marie fait bien, mais
+      qui reste fille fait mieux.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Pourtant tu allais entrer en ménage.</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Je suis si faible.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>J'avais cru Nicaise en gourmant qui mangeait tous mes fruits, mais il m'a appris que c'était
+      Mr. Flanchet; je veux l'en punir. Il faut que vous m'aidiez dans mon petit stratagême.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Si je m'en mêle, lui ou moi seront attrapé d'abord.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Vous Nicaise, vous ferez le médecin quand il en sera tems; Jeannette préparera une boisson
+      bien amère avec ces plantes qui sont dans mon grenier; je vais faire laisser des biscuits dans
+      mon anti-chambre, s'il y touche, nous lui ferons croire qu'il s'est empoisonné avec, et nous
+      rironns à ses dépens.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Voilà qui est bon, mais je ne saurai jamais faire le médecin.</p>
+    </sp>
+    <pb n="8"/>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Rien de plus facile : on prend une démarche grave, on tate le poul avec un air <title>pensif, on
+      dit à son malade: montrez-moi votre langue; on fait un mouvement de tête, et quoiqu'on n'aye
+      rien dit du tout, on passe pour un bien savant médecin.</title></p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Mais si le malade en meurt.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>On ne répond plus de ces choses-là aujourd'hui.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Allons, voilà les grandeurs qui me tournent le tête, je veux bien être médecin à présent
+      quel habit prendrai-je ?</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>La robe de mon frère l'avocat... Puisque le projet est arrêté, que chacun de vous aille à
+      son poste.</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <l>Je vais de ce pas</l>
+     <l> Mettre les biscuits sur l'assiète ;</l>
+     <l> Je vais de de pas</l>
+     <l> Au gourmant tendre des appats.</l>
+    </sp>
+    <stage type="air">Air : <title>On dit qu'a quinze ans</title></stage>
+    <l>Je vais de ce pas</l>
+    <l> Mettre les biscuits sur l'assiète ;</l>
+    <l> Je vais de de pas</l>
+    <l> Au gourmant tendre des appats.</l>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <l>Allez , allez , Jeannette,</l>
+     <l> Punissons un gourment ,</l>
+     <pb n="9"/>
+     <l> Surtout soyez discrette</l>
+     <l> Jusques au dénouement.</l>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Je vais de ce pas, &amp;c.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Allez de ce pas, &amp;c.</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCÈNE III.</head>
+    <stage type="set">HORTENCE, seule.</stage>
+    <stage type="set">RONDEAU</stage>
+    <stage type="air">AIR : <title>C'est envain qu'on blâme : du chapître second.</title></stage>
+    <l>Quoique je suis bonne ,</l>
+    <l> La raison l'ordonne ,</l>
+    <l> Je veux le punir :</l>
+    <l> La leçon sévère</l>
+    <l> Pourra je l'espère</l>
+    <l> Enfin le guérir.</l>
+    <l> Je veux dans ce monde</l>
+    <l> D'une erreur profonde,</l>
+    <l> Tirer les gourmants,</l>
+    <l> La gaîté m'inspire</l>
+    <l> Flanchet je vais rire,</l>
+    <l> Rire à vos dépens.</l>
+    <l>Par un tour aimable,</l>
+    <l> D'un goût condamnable, </l>
+    <l>Il faut vous punir ; </l>
+    <l>Pendant votre crainte </l>
+    <l>Vous boirez l'absinthe </l>
+    <l>Pour me divertir. </l>
+    <l>Quoique je suis bonne, &amp;c.</l>
+    <pb n="10"/>
+   </div>
+   <div type="scene">
+    <head>SCÈNE IV.</head>
+    <stage type="set">HORTENCE. JEANNETTE.</stage>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Je viens vous prévenir, madame, que monsieur Flanchet est dans votre anti-chambre.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>C'est bon. Vous y avez laissé les biscuits.</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Oui, madame.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>S'il les mange, il pourra les trouver ensuite aussi amers qu'ils lui auront paru doux.</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Vous voulez donc causer de la peine à ce pauvre garçon?</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <stage type="air">Air : <title>Avec vous sous le même toit</title></stage>
+     <l>Pourrais-tu soupçonner mon cœur,</l>
+     <l> De faire du mal à personne.</l>
+     <l> Moi, qui désire le bonheur</l>
+     <l> Du moindre être qui m'environne:</l>
+     <l> Que ne puis-je au prix de mon bien</l>
+     <l> Voir chacun heureux sur la terre ;</l>
+     <l> Le bonheur d'autruy fait le mien</l>
+     <l> Et tout malheureux est mon frère.</l>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Taisons-nous, le voici :</p>
+    </sp>
+    <stage type="set">Elle sort.</stage>
+   </div>
+   <pb n="11"/>
+   <div type="scene">
+    <head>SCÈNE V.</head>
+    <stage type="set">HORTENCE. FLANCHET.</stage>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>J'ai bien l'honneur de saluer la plus jolie de mes écolière.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Vous êtes toujours galant, monsieur Flanchet.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>II faut cela dans notre état... Un maître de danse doit avoir l'esprit aussi vif que le coup
+      de pied , et battre la conversation aussi chaudement qu'un entrechat.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Qu'allez vous m'enseigner aujourd'hui ?</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Je vais vous donner une leçon nouvelle... Celle de l'hiver dernier... Ah! qu'un professeur
+      est heureux d'avoir pour écolière, une femme aussi intéressante que vous.</p>
+    </sp>
+    <stage type="air">Air : <title>Vaud. du Mameluck.</title></stage>
+    <l>Oui, dans l'art de la cadence,</l>
+    <l> Le goût veut vous engager ;</l>
+    <l> Pour l'amour et pour la danse</l>
+    <l> Que votre ensemble est léger</l>
+    <l> Lorsque je vous vois paraître</l>
+    <l> Avec ce minois fripon</l>
+    <pb n="12"/>
+    <l> Je vois que c'est à mon maître</l>
+    <l> Que je donne une leçon.</l>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Trève de fadeur! Monsieur, Flanchet, vous savez que je ne les aime pas. D'ailleurs, je ne
+      vous ai fait appeler que pour m'apprendre à danser.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Ah ! Madame que vous faîtes bien de vous perfectionner dans cet art charmant !</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <stage type="air">Air : <title>Vaud. de la Fille en Loterie.</title></stage>
+     <l>La femme plaisait autrefois,</l>
+     <l> Par ses vertus, par sa figure,</l>
+     <l> Mais aujourd'hui pour faire un choix,</l>
+     <l> L'amant regarde a la chaussure,</l>
+     <l> C'est en faisant des petits-pas,</l>
+     <l> Qu'on court mieux après sa conquête,</l>
+     <l> Mesdames , vos pieds délicats</l>
+     <l> Font leur chemin dans notre tête.</l>
+     <p>Allons, monsieur Flanchet , veuillez me placer . . . Quel est le pas le plus nouveau ?</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Celui de l'Hortentia.</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCÊNE VI.</head>
+    <stage type="set">HORTENCE. JEANNETE. NICAISE.</stage>
+    <stage type="set">Flanchet et Hortance sont en position de prendre une leçon sur le devant du
+     Théâtre. Nicaise est à la porte de l'appartement et n'ose avancer davantage.</stage>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>L'Hortantia . . . C'est le nom d'une fleur qui nous vient de la Chine.</p>
+    </sp>
+    <pb n="13"/>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE, .</speaker><stage type="inline">furtivement</stage>
+     <p>Madame ... Madame ...</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Les pieds un peu plus en dehors ...</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Madame ... Tous les ... <stage>[ Il s'efforce de faire comprendre que les biscuits sont
+      mangés. ]</stage></p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Placez-vous comme les génies dans le ballet de l'Olympe.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Ils sont éclipsés... Il a tout gobé.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Connaissez-vous le pas des Vestales.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Il n'y en a plus du tout.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <stage type="set">à Niçoise en changent de position.</stage>
+
+     <p>J'entends ... C'est bon ...</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Eh bien ! Non, vous ne l'entendez pas du tout; ce n'est pas cela ... Ce pas demande plus de
+      précision <stage>[ Il le fait, et manque de tomber. ]</stage> et sur-tout de l'a-plomb.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Pardon , mon cher Flanchet, si je vous parais un peu distraite, mais une chose m'occupe, il
+      faut que je m'informe si on a fait une commission que j'avais recommandée ... <stage>( elle
+      appèle )</stage> Jeannette ... Jeannette ...</p>
+    </sp>
+    <pb n="14"/>
+   </div>
+   <div type="scene">
+    <head>SCÊNE VII</head>
+    <stage type="set">FLANCHET. HORTENCE. JEANNETTE.</stage>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Me voici, madame, que désirez-vous ?</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Je voudrais savoir si vous avez été chercher ces biscuits empoisonnés dont j'ai besoin pour
+      détruire les rats du jardin.</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Il y a plus de deux heures qu'ils sont dans votre anti-chambre.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Mais c'est imprudent de les laisser sans les enfermer.</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Ah, Bath! Madame, qui voulez-vous qui touche à cela ...</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET .</speaker><stage type="inline">à part</stage>
+     <p>Ah, mon dieu !... Qu'elle catastrophe !..</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Et puis, il ne sont peut-être pas si dangereux ...</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET .</speaker><stage type="inline">inquiet</stage>
+     <p>Cela ne tuerait peut-être pas un homme.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Si fait... Si fait... Si vous voulez nous allons continuer...</p>
+    </sp>
+    <pb n="15"/>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Je vous avoue que je me suis guère en train aujourd'hui...</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Que pouvez-vous donc avoir ... Vous étiez si bien portant...</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Rien encore, ... Mais je ne serais pas surpris qu'il fallut bientôt me mettre entre les
+      mains d'un médecin...</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Votre mal-aise, vous a donc pris tout d'un coup.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Vous faites des récits d'événements si terrible ... Ces biscuits empoisonnés ... Dont on
+      peut avoir goûté.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE .</speaker><stage type="inline">à part</stage>
+     <p>Nous le tenons. <stage>[ haut. ]</stage> Oh ! il n'y a personne d'assez gourmant pour cela
+      dans da maison.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Que fais-t-on... Quelques fois ceux qu'on soupçonne le moins...</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Eh-bien! Tampis pour eux... Ils mourront, voilà tout ce qui peut leur en arriver...</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Je ne vous prierai pas aujourd'hui de me
+      <pb n="16"/> faire repeter d'autre pas que celui de l'Hortentia ... Mais demain ...</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Cela m'est impossible ... Je vais vous demander la permission de me faire reporter à mon
+      Hôtel.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Votre Hôtel ! Il me semble que ce n'est pas ainsi que vous devez nommer votre demeure.</p>
+
+     <stage type="air">Air : <title>Font la cinquième Édition.</title></stage>
+     <l>Quand sous la tante est le guerrer</l>
+     <l> L'ivrogne à la cave se loge ,</l>
+     <l> Le poète dans le grenier,</l>
+     <l> Et le portier est dans sa loge;</l>
+     <l> Les rois habitent les châteaux,</l>
+     <l> Les bergers sont dans la chaumière,</l>
+     <l> Les marins sont sur les vaisseaux,</l>
+     <l> Les danseurs n'ont qu'un pied-à-terre.</l>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Bientôt les deux miens seront dans l'éternité.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Je ne comprends pas ce dèlire. Expliquez-vous ?</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Les biscuits étaient-ils bien empoisonnées?</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Non pas trop ... Ils ne contenaient qu'un carteron d'arsenic.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET .</speaker><stage type="inline">haut</stage>
+     <p>Aye, Aye !.. Je suis mort... La douleur m'étouffe ...</p>
+    </sp>
+    <pb n="17"/>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE .</speaker><stage type="inline">feignant la surprise</stage>
+     <p>Quoi! Vous en auriez mangé?</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET .</speaker><stage type="inline">désespéré</stage>
+     <p>Je n'en ai pas laissé une miette ...</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Jeannette courez vite chez le médecin, et que les secours les plus promis soyent administrés
+      à mon maître de danse.</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Lequel de vos deux médecins, voulez-vous, madame, est-ce le maréchal ou l'autre.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Le plus habile.</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANETTE.</speaker>
+     <p>J'y cours. <stage>[ Elle sort. ]</stage></p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCÊNE VIII</head>
+    <stage type="set">FLANCHET. HORTENCE.</stage>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Que vais-je devenir?</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Je ne vous cache pas que votre état est très - allarmant.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Le Médecin sera-t-il bientôt arrivé ?</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Il ne demeure qu'au jardin des plantes.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>De la chaussée d'Antin...</p>
+    </sp>
+    <pb n="18"/>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Vous me faites penser à une chose . . . Je suis fachée de n'avoir pas dit à Jeannette de
+      prendre une voiture.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>La mort viendra me trouver avant le médecin.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Non, mais avec.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>II est possible que Jeannette ne le trouve pas chez lui.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Alors, elle donnerait tout de suite un coup de pied jusqu'aux Invelides, où il va voir
+      ordinairement son beau-frère.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Du Jardin des Plantes aux Invalides... la peste le crève... Je sens les entrailles qui me
+      dévorent...</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Tenez, consolez-vous... Je l'entends.</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCÊNE IX.</head>
+    <stage type="set">JEANNETTE. FLANCHET. HORTENCE.</stage>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE, .</speaker><stage type="inline">en médecin</stage>
+     <p>Madame, voici, monsieur le docteur.,</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Madame, voici, monsieur le docteur.,</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Arrivez vîte, monsieur, nous avons besoin de vos services...</p>
+    </sp>
+    <pb n="19"/>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Aye ! Je n'en puis plus! ..</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Quelques vapeurs sans doute,.. Les jolies femmes y sont sujettes...</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Je ne suis point une jolie femme, monsieur, et je n'ai point de vapeurs.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE .</speaker><stage type="inline">à Flanchet</stage>
+     <p>Ah ! C'est de vous dont il s'agit !.. Voyons votre pouls.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Ne perdons point de tems aux formalistés d'usage. Sachez que monsieur, ayant trouvé des
+      biscuits empoisonnés dans mon antichambre, les a tous mangé et qu'il se meurt.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Le cas est grave... Et quel était le poison?</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>De l'arsénic</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Oh ! ... Là ... Là ...</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Et vous convenez, monsieur, de les avoir tous mangés.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Pour mon malheur...</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Monsieur, il y a pour votre état qui est très-allarmant, deux espèces de remèdes.</p>
+    </sp>
+    <pb n="20"/>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Donnez-les-moi, tous deux, je vous prie.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>N'allons pas si vite , sil-vous-plait, je ne puis vous les donner tous les deux attendu que
+      je n'en connais qu'un.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Lequel, sil vous plait?</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Il y a un remède pour les biscuits qui ne sont pas empoisonnés et un autre remède pour les
+      biscuits qui sont empoisonnés, celui pour les biscuits empoisonnés, je ne le connais pas.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Dans ce cas voyos l'autre.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Celui pour les biscuits qui ne sont pas empoisonnés... C'est de donner vingt coups de bâton
+      au gourmant qui les a mangé, afin qu'il n'y retourne plus.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET</speaker>
+     <p>Je ne veux pas de ce remède.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Pourtant, comme je ne veux rien avoir à me reprocher sur votre guérison, je vais vous faire
+      boire abondamment d'une certaine liqueur que je portais à un autre malade attaqué d'une
+      fluxion de poitrine.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Quelle différence entre nous deux.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Jeannette, versez à boire à monsieur ...</p>
+     <stage type="set">( elle sert à boire. )</stage>
+     <p>Tout plein...</p>
+    </sp>
+    <pb n="21"/>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Comment il faut que j'avale tout cela.</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Six fois autant... C'est pour préparer le corps! en attendant le kilomètre de pillules que
+      je vais commander pour vous.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Cette maladie-là me tuera.</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Peut-être moins que les remèdes ...</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Mon cher Flanchet votre état me désespère Excusez-moi, si je vous en parle aussi
+      sérieusement, mais il est bon de s'occuper de ses affaires ; avant de rendre compte de votre
+      conduite devant les juges célestes. N'avez-vous point quelques petits aveux à faire sur ls
+      terre en la quittant... On n'est pas sans se reprocher...</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Oh ! des pécadilles....</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Les biscuits n'étaient pas sans-doute , votre coup d'essai...</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>J'avais pris bien peu de choses avant...</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Buvez donc, monsieur...</p>
+    </sp>
+    <stage type="set">( Il boit en faisant la grimace. )</stage>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Je ne me rappelle que des pêches et de quelques fonds de bouteilles...</p>
+    </sp>
+    <pb n="22"/>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>Le Malaga ...</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Oui, le Malaga ... et puis un peu de Malvoisie.</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>Voyez-vous comme il avoue tout ... Eh bien ! On nous soupçonnait pourtant...</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE, .</speaker><stage type="inline">se découvrant</stage>
+     <p>Et on rompait notre mariage pour nous punir des fautes de monsieur.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Comment c'est Nicaise qui fait le médecine, je ne suis donc pas empoisonné ?</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>C'est le rôle que je lui ai distribué, .... Comme à vous celui de l'empoisonné..... Mais
+      rassurez-vous, il n'y avait d'arsenic que dans notre imagination.</p>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Ah ? Madame que je suis coupable !</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE.</speaker>
+     <p>La leçon a été sévère ... Puisse-t-elle vous corriger ... Quant à Nicaise et Jeannette, je
+      leur rends ma parole et toute mon amitié... Je les unis, puissez-vous tous être
+      satisfaits.</p>
+    </sp>
+    <sp who="#TDP12_4">
+     <speaker>JEANNETTE.</speaker>
+     <p>La bonne maîtresse !</p>
+    </sp>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <p>Tout réussit aujourd'hui, au gré de mes désirs...</p>
+    </sp>
+    <pb n="23"/>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <p>Je ne ferai plus le gourmant, je le jure... Mais , quelle diable de boisson m'avez-vous donc
+      fait prendre.</p>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE</speaker>
+     <p>Un pot d'absinthe... On en trouve à chaque pas qu'on fait dans la vie.</p>
+    </sp>
+    <stage type="set">VAUDEVILLE.</stage>
+    <stage type="air">Air: <title>Vaud. de Lasthénie.</title></stage>
+    <l>Un jeume amant sur un buisson,</l>
+    <l> Voit briller la rose nouvelle,</l>
+    <l> Il la cueille avec son bouton</l>
+    <l> Pour orner le sein de sa belle;</l>
+    <l> Une épine arrête sa main ,</l>
+    <l> Chacun, hélas! rit de sa plaintes,</l>
+    <l> C'est que Cythère est un jardin</l>
+    <l> Où l'on trouve aussi de l'absinthe.</l>
+    <sp who="#TDP12_3">
+     <speaker>NICAISE.</speaker>
+     <l>J'aime à voir nos braves guerriers,</l>
+     <l> Voler aux dangers de la guerre;</l>
+     <l> Ils vont moissonner des lauriers,</l>
+     <l> C'est la parure militaire.</l>
+     <l> Aux batailles j'irais soudain,</l>
+     <l> Mais du boulet j'ai trop de crainte ,</l>
+     <l> Le champ-de-Mars est un jardin</l>
+     <l> Où l'on trouve aussi de l'absinthe.</l>
+    </sp>
+    <sp who="#TDP12_5">
+     <speaker>FLANCHET.</speaker>
+     <l>Par ses calculs un commerçant</l>
+     <l> Fait venir l'or en abondance ;</l>
+     <l> Quand une faillite à l'instant</l>
+     <l> Le laisse sans nulle espérence ;</l>
+     <l> Le gain est toujours incertain,</l>
+     <l> D'un revers conservons la crainte,</l>
+     <l> Car le commerce est un jardin</l>
+     <l> Ou l'on trouve aussi de l'absinthe.</l>
+    </sp>
+    <pb n="24"/>
+    <sp who="#TDP12_4">
+     <speaker>JEANETTE.</speaker>
+     <l>Un jeune auteur pour quelques vers</l>
+     <l> Prétend au temple de mémoire,</l>
+     <l> Il croit que le vaste Univers</l>
+     <l> Ne s'occupe que de sa gloire;</l>
+     <l> Aux succès, il aspire en vain,</l>
+     <l> Phébus n'écoute plus sa plainte,</l>
+     <l> Car le Parnasse est un jardin</l>
+     <l> Où l'on trouve beaucoup d'absinthe.</l>
+    </sp>
+    <sp who="#TDP12_2">
+     <speaker>HORTENCE .</speaker><stage type="inline">au public</stage>
+     <l>Notre Auteur n'a fait ces couplets,</l>
+     <l> Que peut lui lancer la satire ;</l>
+     <l> Et vous serez dans son jardin</l>
+     <l> Sons rien d'amer croître l'absinthe.</l>
+    </sp>
+    <stage type="set">FIN.</stage>
+   </div>
+  </body>
+ </text>
+</TEI>

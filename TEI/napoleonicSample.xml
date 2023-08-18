@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A TEI file automatically converted from CSV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a CSV file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell n="1">Random rank</cell>
+               <cell n="2">Wicks No.</cell>
+               <cell n="3">Title</cell>
+               <cell n="4">Author</cell>
+               <cell n="5">Status</cell>
+               <cell n="6">Source</cell>
+            </row>
+            <row>
+               <cell n="1">29</cell>
+               <cell n="2">5</cell>
+               <cell n="3">l'Abbaye de Grasville, ou le fantôme imaginaire</cell>
+               <cell n="4">Boirie et Clément</cell>
+               <cell n="5">Not found</cell>
+               <cell n="6"/>
+            </row>
+            <row>
+               <cell n="1">28</cell>
+               <cell n="2">12</cell>
+               <cell n="3">l'Absinthe</cell>
+               <cell n="4">Ch. Henrion</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://gallica.bnf.fr/ark:/12148/bpt6k56253685</cell>
+            </row>
+            <row>
+               <cell n="1">13</cell>
+               <cell n="2">23</cell>
+               <cell n="3">les Acteurs à l'épreuve</cell>
+               <cell n="4">Sewrin &amp; Chazet</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+              <!-- <cell n="6">http://books.google.com/books?id=1U46AAAAcAAJ</cell>-->
+             <cell n="6">https://gallica.bnf.fr/ark:/12148/bpt6k57492735</cell>
+            </row>
+            <row>
+               <cell n="1">4</cell>
+               <cell n="2">125</cell>
+               <cell n="3">un An de Périclès</cell>
+               <cell n="4">J. Aude</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">Missing [grayscale]</cell>
+            </row>
+            <row>
+               <cell n="1">22</cell>
+               <cell n="2">259</cell>
+               <cell n="3">Avis aux jaloux, ou la Rencontre imprévue</cell>
+               <cell n="4">Chazet &amp; Ourry</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">https://dezede.org/oeuvres/avis-aux-jaloux-ou-la-rencontre-imprevue/</cell>
+            </row>
+            <row>
+               <cell n="1">25</cell>
+               <cell n="2">279</cell>
+               <cell n="3">le Baron de Felsheim</cell>
+               <cell n="4">Beaunoir?</cell>
+               <cell n="5">Not found</cell>
+               <cell n="6"/>
+            </row>
+            <row>
+               <cell n="1">20</cell>
+               <cell n="2">371</cell>
+               <cell n="3">la Bonne maîtresse, ou la Lettre trouvée</cell>
+               <cell n="4">Mme de Montanclos</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://www.google.com/books?id=kt9RciTYUsMC</cell>
+            </row>
+            <row>
+               <cell n="1">14</cell>
+               <cell n="2">534</cell>
+               <cell n="3">la Chaumière au pied des Alpes</cell>
+               <cell n="4">Maillard &amp; Brazier (&amp; Hapdé?)</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">Missing</cell>
+            </row>
+            <row>
+               <cell n="1">24</cell>
+               <cell n="2">675</cell>
+               <cell n="3">la Dame invisible</cell>
+               <cell n="4">Chateauvieux, Armand Croizette &amp; Fleureau de Ligny</cell>
+               <cell n="5">Not found</cell>
+               <cell n="6"/>
+            </row>
+            <row>
+               <cell n="1">11</cell>
+               <cell n="2">926</cell>
+               <cell n="3">l'Epreuve excusable</cell>
+               <cell n="4">Leroi de Neufvillette</cell>
+               <cell n="5">Not found</cell>
+               <cell n="6"/>
+            </row>
+            <row>
+               <cell n="1">10</cell>
+               <cell n="2">942</cell>
+               <cell n="3">Esope chez Xantus</cell>
+               <cell n="4">Tarenne de Laval</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+             <cell n="6">https://books.google.com/books?id=YoiCpnfdCmYC</cell>
+            </row>
+            <row>
+               <cell n="1">15</cell>
+               <cell n="2">1127</cell>
+               <cell n="3">Fontenelle</cell>
+               <cell n="4">P.A.S. Petit aîné &amp; Servières</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://books.google.com/books?id=WH5LAAAAcAAJ</cell>
+            </row>
+            <row>
+               <cell n="1">5</cell>
+               <cell n="2">1178</cell>
+               <cell n="3">Gallet, ou le Chansonnier droguiste</cell>
+               <cell n="4">Moreau &amp; d'Allarde</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://www.google.com/books?id=9jg6AAAAcAAJ</cell>
+            </row>
+            <row>
+               <cell n="1">1</cell>
+               <cell n="2">1229</cell>
+               <cell n="3">le Grenadier de Louis XV, ou le Lendemain de Fontenoy</cell>
+               <cell n="4">J.-B, Dubois</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+             <cell n="6">https://books.google.com/books?id=UFNoAAAAcAAJ</cell>
+            </row>
+            <row>
+               <cell n="1">3</cell>
+               <cell n="2">1291</cell>
+               <cell n="3">les Héritiers Michau, ou le Moulin de Lieursain</cell>
+               <cell n="4">Planard</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://www.google.com/books?id=I006AAAAcAAJ</cell>
+            </row>
+            <row>
+               <cell n="1">16</cell>
+               <cell n="2">1544</cell>
+               <cell n="3">la Jeunesse de Favart</cell>
+               <cell n="4">A.-P.-C. Favart &amp; Gentil de Chavagnac</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+     <!--   wrong title:  <cell n="6">http://www.google.com/books?id=unQ_AAAAIAAJ</cell>
+    -->         <cell n="6">http://www.google.com/books?id=Dj1MAAAAcAAJ</cell>
+             
+           
+            </row>
+            <row>
+               <cell n="1">2</cell>
+               <cell n="2">1563</cell>
+               <cell n="3">Jocrisse maître et Jocrisse valet</cell>
+               <cell n="4">Sewrin</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">https://books.google.com/books?id=x8JoAAAAcAAJ</cell>
+            </row>
+            <row>
+               <cell n="1">9</cell>
+               <cell n="2">1903</cell>
+               <cell n="3">la Méprise</cell>
+               <cell n="4">Mme de Bawr</cell>
+               <cell n="5">Not found</cell>
+               <cell n="6"/>
+            </row>
+            <row>
+               <cell n="1">19</cell>
+               <cell n="2">1935</cell>
+               <cell n="3">les Moeurs du jour, ou l'Ecole des jeunes femmes</cell>
+               <cell n="4">Collin d'Harleville</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+             <cell n="6"> http://www.google.com/books?id=VyBaAAAAcAAJ http://gallica.bnf.fr/ark:/12148/bpt6k849660.pdf; http://www.google.com/books?id=nUyifeus3uYC</cell>
+            </row>
+            <row>
+               <cell n="1">7</cell>
+               <cell n="2">2025</cell>
+               <cell n="3">la Mort du Capitaine Cook, ou les Insulaires d'O-why-e</cell>
+               <cell n="4">Franconi</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://www.google.com/books?id=mP1DAAAAcAAJ</cell>
+            </row>
+            <row>
+               <cell n="1">6</cell>
+               <cell n="2">2050</cell>
+               <cell n="3">Nephtali, ou les Ammonites</cell>
+               <cell n="4">E.Aignan</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://www.google.com/books?id=tcpDAAAAcAAJ</cell>
+            </row>
+            <row>
+               <cell n="1">26</cell>
+               <cell n="2">2065</cell>
+               <cell n="3">Nitouche et Guignolet</cell>
+               <cell n="4"/>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://www.google.com/books?id=xVWu4jMP5KoC</cell>
+            </row>
+            <row>
+               <cell n="1">31</cell>
+               <cell n="2">2169</cell>
+               <cell n="3">Papirius, ou les Femmes comme elles étaient</cell>
+               <cell n="4">Gersin &amp; Vieillard</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://books.google.com/books?id=JyxaAAAAcAAJ</cell>
+            </row>
+            <row>
+               <cell n="1">23</cell>
+               <cell n="2">2289</cell>
+               <cell n="3">les Petits braconniers, ou les Ecoliers en vacances</cell>
+               <cell n="4">Merle, Brazier &amp; Charles Rondeau</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://books.google.com/books?id=8DBaAAAAcAAJ</cell>
+            </row>
+            <row>
+               <cell n="1">30</cell>
+               <cell n="2">2341</cell>
+               <cell n="3">Plus de peur que de mal</cell>
+               <cell n="4"/>
+               <cell n="5">Not found</cell>
+               <cell n="6"/>
+            </row>
+            <row>
+               <cell n="1">17</cell>
+               <cell n="2">2576</cell>
+               <cell n="3">le Rival obligeant</cell>
+               <cell n="4">Mme de Bawr</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://www.google.com/books?id=r-lKAAAAcAAJ</cell>
+            </row>
+            <row>
+               <cell n="1">8</cell>
+               <cell n="2">2701</cell>
+               <cell n="3">le Singulier mariage</cell>
+               <cell n="4">B.Dupont de Lille</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://www.google.com/books?id=AndsAtBQxpkC</cell>
+            </row>
+            <row>
+               <cell n="1">12</cell>
+               <cell n="2">2761</cell>
+               <cell n="3">les Strélitz</cell>
+               <cell n="4">Duperche &amp; von Bilderbeck</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+               <cell n="6">http://books.google.com/books?id=GGnpR5FuFwYC</cell>
+            </row>
+            <row>
+               <cell n="1">27</cell>
+               <cell n="2">2838</cell>
+               <cell n="3">les Tracasseries, ou M. et Mme Tatillon</cell>
+               <cell n="4">Picard</cell>
+               <cell n="5">Uploaded to GitHub</cell>
+  <!--  wrong edition:           <cell n="6">http://www.google.com/books?id=Rlc0AAAAMAAJ</cell>
+ -->            <cell n="6">http://www.google.com/books?id=VmoQDS2KV7kC</cell>
+            </row>
+            <row>
+               <cell n="1">21</cell>
+               <cell n="2">2861</cell>
+               <cell n="3">les Trois Damis</cell>
+               <cell n="4"/>
+               <cell n="5">Not found</cell>
+               <cell n="6"/>
+            </row>
+            <row>
+               <cell n="1">18</cell>
+               <cell n="2">609a</cell>
+               <cell n="3">le Compère futaille</cell>
+               <cell n="4"/>
+               <cell n="5">Not found</cell>
+               <cell n="6"/>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1591 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="W371">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La bonne maïtresse, comédie en un acte en prose: TEI edition (Wicks no. 371)</title>
+    <author/>
+    <respStmt>
+     <resp>HTML version by</resp>
+     <name>Angus B. Grieve-Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp>TEI version by</resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <p>The Digital Parisian Stage Corpus is freely available from a GitHub
+   repository at <ref target="https://github.com/grvsmth/theatredeparis"/></p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Original page images available from <ref target="http://www.google.com/books?id=kt9RciTYUsMC"/></p>
+    <p>HTML transcription available from <ref target="https://github.com/grvsmth/theatredeparis/blob/master/texts/371bonnemaitresse.html"/></p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc><change when="2023-07-31">Make headers and div/@type uniform</change>
+   <change when="2023-07-20">Hand edited</change>
+   <change when="2023-07-20">Header confected</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>LA BONNE MAITRESSE, </titlePart>
+     <titlePart>COMÉDIE EN UN ACTE EN PROSE; </titlePart>
+    </docTitle>
+    <byline>Par <docAuthor>Madame de Montanclos</docAuthor>, Auteur de <title>Robert le
+     Bossu</title>, <title>le Fauteuil</title>, <title>les Habitons de Vaucluse</title>, et autres
+     Ouvrages.</byline>
+    <titlePart> Représentée pour la première fois sur le théâtre des Jeunes Artistes de la rue de
+     Bondi, le 18 Messidor, an II. </titlePart>
+    <titlePart>Prix : 24 sols. </titlePart>
+    <docImprint>A PARIS, Chez Hugelet , Imprimeur, rue des Fossés-St.-Jacques, N° 4, près
+     l'Estrapade , Division de l'Observatoire.</docImprint>
+    <docDate> AN XII. — 1803.</docDate>
+   </titlePage>
+   <pb n="2"/>
+   <castList>
+    <head>PERSONNAGES.</head>
+    <castItem>Madame D'HERICOURT. </castItem>
+    <castItem>M. LE SINDIC. </castItem>
+    <castItem>MARIE, Domestique de Madame d'Héricourt. </castItem>
+    <castItem>BASILE, Amant de Marie. </castItem>
+    <castItem>ANTOINE , père de Basile. </castItem>
+    <castItem>JACQUES, valet de Madame d'Héricourt.</castItem>
+   </castList>
+   <set>
+    <p> La scène se passe à Lauzanne. </p>
+   </set>
+   <div type="preface">
+    <p>Je déclare avoir cédé au citoyen HUGELET, imprimeur, la pièce ayant pour titre : La bonne
+     Maîtresse , Comédie en un acte et en prose de ma composition; laquelle pièce il peut imprimer,
+     vendre et faire vendre en tel nombre d'exemplaires qu'il lui plaira ; me réservant les droits
+     d'Auteur par chaque représentation qu'on en pourra donner sur les théâtres de la République.
+     Paris, ce 19 Messidor an II. de Montanclos/</p>
+    <p> Je déclare que je poursuivrai tous contrefacteurs et débiteurs d'éditions qui ne porteroient
+     pas le fleuron qui est au frontispice de la présente piece, lequel indique les lettres
+     initiales de mon nom. </p>
+    <signed>J. A. Hugelet</signed>
+   </div>
+  </front>
+  <pb n="3"/>
+  <body>
+   <head>La BONNE MAITRESSE, COMÉDIE.</head>
+   <stage>Le théâtre représente un salon, un grand cabinet. Il faut que tout y respire une
+    simplicité noble et la plus grande propreté, caractère des Genevois et des habitans de Lauzanne.
+    — Un secrétaire ouvert est dans une embrasure très-près de l'avant-scène. Madame d'Héricourt est
+    assise devant le secrétaire et parait occupée à lire une lettre.</stage>
+   <div type="scene">
+    <head>SCENE PREMIERE.</head>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>lisant une lettre.</stage>
+     <p>Je ne puis me lasser de lire cette lettre! elle exprime si bien la candeur, la pureté des
+      sentimens les plus tendres! eh c'est un garçon de village, un paysan enfin, qui l'écrit. Ah!
+      jeunes gens de la ville, vous n'avez pas cette aimable simplicité : c'est par la ruse, par les
+      fausses apparences d'une tendresse que vous n'éprouvez point, que vous parvenez à séduire et à
+      tromper. <stage>( Elle lit. )</stage> Intéressant Basile ! tout à la fois bon fils, amant
+      fidèle et plein de confiance dans ce qu'il aime. <stage>( Elle lit. )</stage> Des plaintes sur
+      son sort, sans bassesse : fesant une action louable, sans orgeuil ; tout ce qui est vertu lui
+      parait naturel. <stage>( Elle se lève. )</stage> En vérité je remercie le hasard qui m'a fait
+      trouver cette lettre.......</p>
+     <p>Mais cette pauvre Marie est dans la plus vive inquiétude de l'avoir perdue. Il faut calmer
+      les peines de cette âme douce et sensible. J'ai eu le tems de lui préparer les surprises
+      agréables, fesons - lui connaître d'avance un plaisir bien innocent. Je ne me pardonnerais pas
+      de l'en avoir privée, si je ne savais que je travaille à la rendre parfaitement heureuse.</p>
+     <stage>( Elle sonne. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE II</head>
+    <stage>MARIE, JACQUES, Mme D'HÉRICOURT.</stage>
+    <stage>( Marie et Jacques entrent en même tems sûr la scène, l'une par la chambre de madame
+     d'Hèricourt , l'autre par l'antichambre de l'appartement, et disent ensemble. )</stage>
+    <p>Me voilà, madame.</p>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Je n'ai pas besoin de vous, Jacques; c'est à Marie que je veux parler.</p>
+    </sp>
+    <pb n="4"/>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( avec humeur. )</stage>
+     <p>Là! J' m'en doutais. Y semble que je ne suis plus bon à rien, depuis que cette petite fille
+      est ici. C'est toujours elle que madame veux ; c'est dépitant, voyez vous.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( en souriant. )</stage>
+     <p>Comment donc? Mais je crois que Jacques est d'un caractère jaloux.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>( avec ingénuité. )</stage>
+     <p>Hélas ! Madame, j'en ai peur et cela me fait bien de la peine.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Pardine, quen ; qui ne serait pas jaloux? Depuis sept ans que je sis au service de madame,
+      ai-je ti jamais manqué à mon devoir? Hé ben, gni a pas six mois que cette morveuse est devenue
+      ma camarade et c'est toujours pour elle qu'est l'ouvrage. Marie, fais ceci, Marie, fait cela ;
+      on ne me commande presque pu rien; ho! alle est ben heureuse d'être fille, et gentille encore,
+      sans cela...</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( à part. )</stage>
+     <p>Sa colère m'amuse, <stage>( haut. )</stage> Hé bien, Jacques, sans cela que feriez-vous
+      ?</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Ce que je ferais? ha! ce que je ferais si c'était un garçon ; hé ben je disputerions notre
+      emploi à coups de poingt, et tout fluet que je sis, je compte ben que je serais le plus fort?
+      parce que le zèle, voyez-vous, ça.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( sérieusement. )</stage>
+     <p>Comment, Jacques....</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( vivement. )</stage>
+     <p>Ho! n'ayez pas peur, madame, je ne sis pas fait pour donner des giffles à une femme je n'ai
+      pas été éduqué pour ça non, ha ben au contraire, voyez vous car drès que mameselle Marie me
+      regarde tant seulement avec son petit air doux , vla que je ris d'aise et que j'aimons cent
+      fois mieux qu'alle soit fille que garçon.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>A la bonnne heure.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Et puis, c'est que j'ons une ben bonne idée sur elle.. vrai.. une pensée.. la.. comme y
+      faut.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Je ne sais pas quelle est votre pensée , Jacques; mais vous pouvez demander à madame si je
+      ne lui dis pas tous les jours que vous êtes un bon serviteur.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>C'est la vérité.</p>
+    </sp>
+    <pb n="5"/>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Allons, faut encore que je la remercie, vous verrez ça; mais pourquoi qu'alle ne dit pas là
+      devant moi par exemple ? ce seroit deux plaisirs ensemble et l'on sait ben que dans ce qui est
+      agréable, deux valent mieux qu'un.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( en souriant. )</stage>
+     <p>Qu'entendes-vous par deux plaisirs ensemble?</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Hé oui, si j'étais ici quand alle dit du bien de moi ça feroit que je verrions pus souvent
+      notre boune maîtresse, et pis celle là dont j'ai envie de faire ma femme.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>( presque effrayée. )</stage>
+     <p>Votre femme, Jacques!</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( d'un ton plaisant. )</stage>
+     <p>Ah ! ce serait là un de vos plaisirs ? allez , Jacques, retournez à votre ouvrage et
+      guérissez-vous en même tems de votre jalousie, et de vos idées de mariage avee Marie.—
+      Allez.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Mais, madame, écoutez-moi donc?....</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Allez, vous dis-je, et qu'il ne soit jamais question de cela, Marie ne vous est pas
+      destinée.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Comment , alle ne m'est pas destinée? mais gni a pas de destinée dans tout ça, J'ai mis mon
+      amitié à aimer Marie, et c'est ben naturel, je sommes de même acabit : je pensons de même pour
+      vous : alle vous sert avec plaisir : je vous sert de tout cœur, alle est pauvre, je ne sis pas
+      riche, et c'est comme ca qu'on se convient! alle est suicesse, je sis français? he ben par le
+      mariage, les deux pays n'en feront qu'un, pardine sa se voit tous les jours, et par ainsi vous
+      ne pouvez pas dire non, et.....</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Jacques, je vous dis d'aller à votre ouvrage et de ne plus penser au mariage relativement à
+      Marie, j'ai d'autres vues sur elle, et vous me fâcheriez sérieusement si vous lui en parlez de
+      nouveau, laissez-nous.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( sanglotant. )</stage>
+     <p>Mais, madame, v'la la première fois que vous me faites de chagrin... songez donc...</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Encore.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>He ben, je m'en va.. là.. ô mon dieu ! mon dieu ! <stage>( en s'en-allant )</stage> mais
+      cest égal, je n'y renonce pus, je la voulons et je l'aurai.</p>
+    </sp>
+   </div>
+   <pb n="6"/>
+   <div type="scene">
+    <head>SCENE III.</head>
+    <stage>Mme D'HÉRICOURT, MARIE.</stage>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>( à part. )</stage>
+     <p>Que veut dire madame, est-ce qu'elle saurait...</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( avec finesse et bonté )</stage>
+     <p>Je ne crois pas t'avoir fait de la peine en refusant Jacques pour ton mari ; n'est-ce pas
+      mon enfant?</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Non, madame, tant s'en faut et je vous remercie bien d'avoir engagé cet honnête garçon à ne
+      plus penser à moi.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( observant Marie )</stage>
+     <p>Mais tes yeux sont tout rouges? tu as pleuré, Marie.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>( se contraignant. )</stage>
+     <p>Moi , pleurer? vous voyez bien que je ris, madame.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( en souriant. )</stage>
+     <p>Oui, tu ris en pleurant encore, va, ma chère petite, je ne veux pas jouir plus long-tems de
+      ton inquiétude; tiens <stage>( elle lui présente la lettre qu'elle lisoit )</stage> n'est-ce
+      pas cela qui cause ton chagrin et qui fait couler tes larmes? cette lettre perdue?</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>avec transport reconnaisant la lettre de Basile; elle la pose sur son cœur.</stage>
+     <p>Ha! la voilà! la voilà! cette lettre dictée par son cœur et qui est si chère au mien.... he!
+      pardon madame j'oublie qui je suis devant vous.... je manque au respect que je vous dois.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Pas du tout, ma chère Marie, mais tu as manqué de confiance, voilà le seul reproche que mon
+      amitié peut te faire.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Madame.....</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Sans doute, pour quoi depuis que tu es à mon service ne m'avoir point parlé de Basile, de ce
+      brave Antoine? J'aurais pu les secourir dans leurs peines, et calmer celle que leurs maleurs
+      te cause.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Ne m'en voulez pas, ma bonne maîtresse, je n'ai jamais osé vous entretenir de ce qui regarde
+      une pauvre fille comme moi, &amp; puis , vous faire connoitre la fâcheuse situation de mes
+      bienfaiteurs.....</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>He bien ?</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Cela n'aurait-il pas eu l'air de solliciter votre générosité
+      <pb n="7"/> pour eux? ha! s'il avaient été dans le bonheur comme par le passé, je n'aurais pas
+      résisté à l'envie de vous voir satisfaite , est - ce que je ne sais pas que vous n'êtes
+      heureuse que lorsque tout le monde paroît content.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Je t'aprouve et te blâme: oui , mon enfant l'un et l'autre,; mais passons sur tout cela et
+      parlons de la lettre de Basile. Elle m'a instruit de tout ce qu'il était essentiel que je
+      seusse. Son père, le bon Antoine, a perdu ses troupeaux : il n'a pu payer ses impositions; un
+      percepteur, plus sévère que juste, a fait mettre en prison: Basile va chaque nuit réchauffer
+      les membres glacés de ce respectable vieillard, et le jour il s'occupe du projet de s'enrôler
+      pour que le prix de son engagement puisse rendre la liberté à son père. Tu vois que j'ai lu là
+      lettre de cet estimable jeune homme avec attention.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>( ingènuement et avec sanglot. )</stage>
+     <p>N'est-il pas vrai, madame, qu'elle vous a navré le cœur.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>J'en conviens , elle ma attendri jusqu'aux larmes, mais je veux savoir de toi le
+      commencement de votre amour mutuel et ce que tu espère d'un attachement qui me parait très
+      sérieux de part et d'autre.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>( sanglotant. )</stage>
+     <p>Ce que j'espère de notre amitié dans le malheur qui poursuit cette honnête famille? he bien,
+      madame, il est clair qu'il n'y a plus de plaisir pour moi sur la terre, faire mon devoir
+      envers vous, ma bonne maîtresse, et pleurer mes bienfaiteurs, voilà tout l'emploi de ma
+      jeunesse et de toute ma vie. <stage>( elle pleure. )</stage></p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Sèche tes larmes, ma fille, et souviens-toi que Basile te parle de la résignation de son
+      père comme d'une vertu à imiter lorsqu'on est dans le malheur; joins a cette résignation,
+      l'éspérance oui l'espérance, entends-tu? le ciel est juste et l'on trouve encore des mortels
+      bienfaisant.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Ha ! quand il n'y aurait que vous, madame, qui êtes la bonté même, voilà qui est fini : je
+      ne pleurerai plus : oui, le ciel viendra au secours de celui qui ma tenu lieu de père.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Comment? tu es donc orpheline.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Oui, madame, mais je ne l'étais plus quand j'étais chez monsieur Antoine. Sa brave digne
+      femme, me tenait lieu de nièce, et pour Basile j'étais une soeur.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Vous avez été élevés ensemble, à ce que je vois.</p>
+    </sp>
+    <pb n="8"/>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Oui madame.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Eh quel age avoit-tu quand tu vins chez Antoine.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Hélas ! madame, j'avais dix ans lorsqu'une maladie contagieuse ravagea noire village; père,
+      mère, frères, je perd tout : c'étoit une désolation chex nous et pour moi j'étais demie
+      morte.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Pauvre enfant !</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>He bien, madame, ce bon monsieur Antoine qui me vit dans cet état me prit dans ses bras
+      comme il aurait enlevé un trésor, il me porta dans sa maison et dit à Geneviève, sa femme.
+      Tiens, voilà ce que tu desires depuis long-tems, une bonne action à faire; Marie Herbin a tout
+      perdu, tout mais quand le riche reste aux pauvres, ils ont gagné tous deux.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Cela devroit être au moins! eh quel âge avoit Basile alors ?</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Il avoit douze ans, j'en ai vingt, vous voyez qu'il en a vingt deux.. .. mais, Madame, il
+      est sage, travailleur, raisonnable et honnête comme s'il en avoit trente.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Sa lettre, en effet, ne semble point écrite par un garçon jeune et élevé dans un
+      village.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Ho! madame, Antoine n'a point la grossièreté d'un homme des champs; c'étoit un des plus
+      riches laboureurs du canton ; il aime son état : il ne veut point que son fils en prenne
+      d'autre, mais il pense qu'on peut, en cultivant la terre, n'être point un brutal, ni un
+      ignorant. Tenez, Madame, il nous disoit toujours, à Basile et à moi, qu'il faut avoir le
+      langage et les manières polies, mais les actions simples et pleine de droiture.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( en souriant. )</stage>
+     <p>Tu as bien profité de ses conseils, mon enfant, <stage>( a part. )</stage> Hélas! dans nos
+      villes c'est presque l'inverse que l'on enseigne <stage>( haut. )</stage> Dis-moi, Marie,
+      Basile doit être bien cher à ses parens ?</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>( avec la naïveté de l'amour. )</stage>
+     <p>Ho ! tout le monde l'aime. Si vous voyez, Madame, comme il est intéressant! Bien
+      fait......</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Tu serais donc bien joyeuse si tu te retrouvais avec lui.</p>
+    </sp>
+    <pb n="9"/>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>( avec tristesse. )</stage>
+     <p>Il ne faut pas me dire cela , madame ; il y a de quoi me rendre triste tout le jour, puisque
+      je sais que je ne le reverrai peut-être jamais.</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE IV.</head>
+    <stage>Mme D'HÉRICOURT, MARIE, JACQUES.</stage>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Madame, voilà monsieur le syndic qui , sûrement , vient vous faire l'honneur... .. non, ce
+      n'est pas ça, il vient pour avoir lui-même l'honneur de vous dire queuque chose,
+      car........</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( en souriant. )</stage>
+     <p>Finissez, mon pauvre Jacques , vous ne pourrez jamais apprendre comment on annonce une
+      visite. Au fait , M. le syndic est-il ici ?</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>He oui madame, c'est ce que je me tue de vous dire; it est dans la cour, là contre le
+      jardin, Vous savez bien? il caresse votre petit chien , et moi quand j'ai vu ça, j'ai bien
+      vite quitté la besogne que je fesais pour.... <stage>( Marie ne peut s'empêcher de
+      sourir. )</stage> Mais voyez donc mamselle Marie qui rit de moi comme si j'étais un nigaud,
+      gni a plus d'enfant, en vérité; allez, mamselle, si je ne parlons pas aussi ben que vous , je
+      ne savons pas moins distinguer ce que c'est qu'eune politesse, et celle que monsieur le syndic
+      fesoit à cette petite bête.... et mais tenez , madame , le voilà lui-même....</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE V.</head>
+    <stage>Mme D'HÉRICOURT, MARIE, JACQUES, LE SYNDIC.</stage>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Bon jour , mon cher voisin , je suis à vous dans l'instant. <stage>( a Marie. )</stage>
+      Marie, je te défend d'être triste , entends-tu bien , et tu ne peux mieux me prouver ton
+      attachement qu'en te souvenant de ce que je t'ai dit. Va, ma fille , va t'occuper dans ma
+      chambre.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( avec dépit. )</stage>
+     <p>Eh moi, madame, vous ne me commandez donc rien ? c'est tout pour Marie.... Tenez, monsieur
+      le syndic , faut que je vous conte......</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( sérieusement. )</stage>
+     <p>Retournez au jardin , Jacques : je vous l'ordonne.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Hé ben, c'est toujours un commandement, cest ce que je voulais.</p>
+     <pb n="10"/>
+     <stage>( En s'en allant Jacques fait une moue à Marie, puis il lui sourit et lui tend la main ;
+      Marie s'en va sans prendre garde à ces mines , Jacques tape du pied de dépit et sort.)</stage>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE VI.</head>
+    <stage>Mme D'HÉRICOURT, LE SYNDIC.</stage>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC, </speaker>
+     <stage>( en riant. )</stage>
+     <p>Il me parait, madame, que ce pauvre Jacques est toujours le même, que vouloit-il me dire, le
+      savez-vous?</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Quelque chose qui tient sans doute à sa simplicité et qui n'est pas fait pour vous
+      intéresser.</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Il faut, je l'avoue, être aussi bonne que vous l'êtes pour garder aussi long-temps un pareil
+      imbécille. Son service doit être bien impatientant ?</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Hé mon voisin, l'intelligence que nous desirons dans nos domestiques est souvent pour eux la
+      source de leurs ruses, de leur publicité et de bien des défauts essentiels. J'ai pris Jacques
+      à mon service par compassion : je le trouvai dans un de nos hospices où son maître , voyageur
+      français , l'avait laissé sans argent, presque sans vêtement, enfin sans ressources; qui n'en
+      aurait eu pitié?</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Les actes de bonté vous sont si familières , madame.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Si cela est, j'en suis récompensée, car ce garçon , à la vérité bien simple , bien borné, il
+      est d'une fidélité à toute épreuve, laborieux, sobre , et je crois de plus qu'il m'est très
+      attaché.</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Ce sont des qualités cela, j'en conviens.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Oui, mon voisin, et quand un domestique remplit ses devons envers nous, l'indulgence pour
+      ses imperfections devient le nôtre; mais parlons, je vous prie, de ces braves gens pour
+      lesquels vous m'avez promis d'agir.</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Je n'ai pas perdu un moment, je vous l'assure.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Hé bien, ce pauvre Antoine est-il libre? Basile n'est-il point engagé? je tremblais que son
+      amour filial n'eut été plus actif que mon zèle.</p>
+    </sp>
+    <pb n="11"/>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Rassurez-vous, madame, tout est terminé au gré de vos désirs. Votre bienfaisance a prévenu
+      tous les malheurs que vous craignez.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Ah ! monsieur, dites votre empressement a me seconder. Mais combien il est heureux que vous
+      ayez en quelqu'un de connoissance dans le village qu'habitent ces bonnes gens?</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Cela n'est point étonnant, j'y suis né ; oui , madame, je suis ne à Soulti, et je ne rougis
+      point de dire que mon père et mon frère étoient de pauvres, mais d'honnêtes cultivateurs.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Il y a cependant plusieurs années que vous habitez Lausanne, et que vous y êtes parvenu par
+      vos talens, et sur-tout vos vertus, à la place distinguée que vous occupez.</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC, </speaker>
+     <stage>( en souriant. )</stage>
+     <p>Si je voulais imiter la plupart des gens qui , nés comme moi veulent pourtant en imposer sur
+      leur origine et sur les fautes de leur jeunesse, je me contenterais de vous remercier de ce
+      compliment flateur par une inclination de tête, petit salut que prescrit une fausse modestie ;
+      mais en vieillissant , j'ai grace au ciel repris ma franchise villageoise, et je vous avoue
+      naïvement, madame, que j'ai quelques torts à me reprocher envers ma famille.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Un pareil aveu suffirait pour les réparer ; et quels sont cet torts ?... s'il n'y a point
+      d'indiscrétien à vous les demander.</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC, </speaker>
+     <stage>( en souriant. )</stage>
+     <p>Je cherche en ce moment les moyens de me racommoder avec ma conscience , et si j'ai le
+      bonheur de réussir dans les démarches que j'ai commencées pour cela , vons serez la, premiere
+      à qui je ferai part de ma satisfaction.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Et moi je vous promets de ne plus vous faire de questions à ce sujet.</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Je suis jaloux de votre estime, madame, et je craindrais de la voir diminuer par l'aveu
+      détaillé de mes fautes, dès que j'aurai pu faire le bien que je désire.</p>
+    </sp>
+   </div>
+   <pb n="12"/>
+   <div type="scene">
+    <head>SCENE VII.</head>
+    <stage>Mme D'HÉRICOURT, LE SYNDIC, JACQUES.</stage>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( un balai à la main. )</stage>
+     <p>Je sis ben fâché de vous déranger, not bourgeoise, mais tant y a qu'il est dix heures et que
+      cette pièce ci n'est pas appropriée; je veux faire mon ouvrage , voyez-vous, sans que mamselle
+      Marie, la bian aimée y vienne fourrer son nez.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Un moment, Jacques.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Allons, un moment à présent, et ça pour donner le tems à Marie de venir m'oter le balai de
+      la main, j'enrage.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Terminons, mon déligeant voisin; ce qui regarde nos infortunés, car ce garçon va me
+      tourmenter pour faire sa besogne. <stage>( à demi bas. )</stage> Mais ne nommez personne, j'ai
+      mes raisons.</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Hé bien , madame, vous desirez que le père soit pendant quelques années exempt
+      d'impositions?</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Oui, mon voisin.</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Je le veux comme vous, mais il faudrait pour cela que j'eusse les papiers nécessaires. Cet
+      homme peut avoir quelque titre d'exemption, il peut être rendu utile à sa commune : avoir
+      adopté quelque enfant malheureux.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Ho! ce titre là existe, je vous en répond ; pour d'autres papiers , je vais lui écrire à
+      l'instant. Quel dommage que cet endroit soit à trente lieues d'ici , comme le bien que l'on
+      veut faire va lentement !</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( impatient. )</stage>
+     <p>Puis-je ti balayer , madame ?</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme. D'HÉRICOURT.</speaker>
+     <p>Une minute, Jacques,</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Mais qu'est-ce donc qui te presse si fort ?</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Comment ! et le devoir donc ? est-ce que j'sons accoutumée d'être en retard? hé madame,
+      qu'aime tant la propreté , ha ben, je n'aurions que mal nétoyer, ça il ferait ben plaisir, et
+      mamselle Marie qui viendroit me faire déguerpir d'ici, je ne voulons pas de ça, non, j'aimons
+      mieux mourir le balai à la main que vivre comme un faignant en regardant travailler les
+      autres.</p>
+    </sp>
+    <pb n="13"/>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC, </speaker>
+     <stage>( en riant. )</stage>
+     <p>Dis moi , Jacques, est-ce que tu ne pourrais pas dire tout cela sans y mêler tes
+      <stage>j'avions</stage> , <stage>je n'aurions?</stage> ces paysans français ont une singulière
+      manière de s'exprimer! je ne puis m'y accoutumer.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>En vérité! ha ben stila et drôle, mais je vas vous dire que..</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Adieu, madame, j'aurai l'honneur de vous revoir tantôt, et j'aurai peut être quelque chose
+      de nouveau à vous apprendre.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Je vous attends avec impatience.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>He ben, écoutez donc, monsieur le Syndic..... mais écoutez donc.</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE VIII.</head>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( seul. )</stage>
+     <p>Il s'en va, c'est qu'il sent ben ce que j'aurais pu li dire au sujet de mon parlage ; y ne
+      sait pas que ches nous je disons, par manière de goaye, tiant stautre y parle français connue
+      un suisse. On dit que je sis ici presque en suisse.. .. je parle donc mieux français qu'eux.
+      <stage>( il s'appuye sur son balai. )</stage> Je pense , moi, suivant mon petit esprit, que
+      chaque pays se croit au-dessus d'un autre. Je nous mocquons de ceux-ci , ils se gobargent de
+      nous et ça fait que je sommes tretous content. <stage>( il balaye )</stage> Mais je voudrais
+      qu'il y aye un queuque zuns qui ne fut d'aucun pays du monde , pour voir un peu celui à qui il
+      donnerait la préférence. Stila qu'aurait du dessous serait ben pénaud ! Je sis français ,
+      dirait l'un. Moi , allemand, dirait l'autre; moi turc; moi noir; moi blanc; moi, que
+      sais-je.... hé ben , st'homme leur répondrait que le meilleur pays est celui où l'on ne fait
+      mépris que du méchant , et où l'honnête homme est toujours bien venu queuque part qu'il aye
+      poussé.....balayons toujours en attendant, <stage>( il chantonne. )</stage> <stage>( On
+      frappe. )</stage> qui qui frape donc ? hé, l'entrée chez les braves gens la porte n'est jamais
+      fermée.</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE IX.</head>
+    <stage>JACQUES, BASILE.</stage>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>regardant partout d'un air inquiet.</stage>
+     <p>Pardon.... monsieur, si je vous dérange...</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( à part. )</stage>
+     <p>Tiens, monsieur ; il est ben honnête ce jeune-homme, <stage>( haut. )</stage> Quoique vous
+      voulez , monsieur?</p>
+    </sp>
+    <pb n="14"/>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Ne suis-je pas dans la maison de madame d'Héricourt?</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>avec une politesse gauche.</stage>
+     <p>Oui, monsieur , vous êtes dans la maison de cette brave dame; voulez-vous que je j'y dise
+      queuque chose de votre part ? je sis sarviable moi, tel que vous me voyez: tenez,
+      assisez-vous....</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Ho! monsieur, je n'ai pas le tems de m'asseoir; il faut que je sache tout de suite si Marie
+      Herbin est toujours ici.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>prenant de l'humeur.</stage>
+     <p>Ha! c'est Marie Herbin, que vous demandez? ça change mon himeur, voyez-vous. Hé queque vous
+      li voulez à cette jeune fille ? êtes-vous son frère , son cousin ? c'est que dans mon pays,
+      toutes ces jeunesses qui sont en condition , avons toujours queuque cousin de commande , et je
+      ne voulons pas que Marie Herbin suive cette mode, parce que je comptons en faire notre femme,
+      entendez-vous?</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Vous? épouser Marie? allons donc, vous badinez. De grace , faites que je lui parle, avant de
+      voir madame d'Héricourt.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Hé ben, il ne se gêne pas ce monsieur, il veut li parler; et que non, que non, que vous ne
+      li parlerez pas, j'y mettrons bon ordre.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>( vivement. )</stage>
+     <p>Mais , monsieur, je suis du pays de Marie, je lui apporte des nouvelles de ses parents, et
+      c'est bien mal de vous de vouloir m'empêcher de la voir.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Hé ben, dites-moi votre nom, et je verrai ben si alle vous connoit. <stage>( à
+      part. )</stage> Ce petit luron là est un cousin , c'est sûr. <stage>( haut )</stage> Quand
+      vous regarderez par tout, ça n'avance de rian, alle n'est pas dans ces boiseries. Faut me dire
+      votre nom, sans ça bernique.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>( impatient. )</stage>
+     <p>Je m'appelle Basile ; ce nom là vous est-il connu? <stage>( à part. )</stage> Je brûle
+      d'impatience.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Ha ! ha! vous vous appelez Basile , c'est donc pour vous que mamselle Marie pleurlichonne si
+      souvent ; pauvre Basile, se fait elle. Moi qui comptoit que c'étoit queuque petit frère
+      qu'alle avoit, j'étais si sot que de vouloir la consoler, hé puis je pleurions avec elle; mais
+      drès que c'est pour un grand jeune homme comme vous... qu'elle se chagrine, ho! ça sent le
+      cousinage de mon pays; et vous ne la verrez pas.</p>
+    </sp>
+    <pb n="15"/>
+    <sp who="#TDP371_5">
+     <speaker>BASILE , </speaker>
+     <stage>( avec un dépit concentré. )</stage>
+     <p>J'espère du moins qu'il me sera permis de voir madame d'Héricourt !</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Ho! ça c'est différent , mais je sis ben aise de vous dire que Marie ne se chagrine pas pour
+      vous tout seul : elle parle aussi d'un Antoine; c'est encore un de vos pays qu'alle aime, pas
+      vrai? la parfide.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>( à part et joyeux. )</stage>
+     <p>Chère Marie , mon père t'occupe autant que moi, à la meilleure des filles.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( à part. )</stage>
+     <p>Le v'la qui parle tout seul à présent ; donnons-lui eune leure. <stage>( haut )</stage> Ah
+      ça, écoutez ; je ne sis pas autant méchant que j'en ai l'air, et si vous voulez voir votre
+      payse , descendez à la cuisine, alle y est, ou alle ne tardera pas d'y aller.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>( joyeux. )</stage>
+     <p>Dites, distes par où je dois passer, j'y serai bientôt.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Tenez, par cette porte là, descendez tout droit devant vous, là: y êtes-vous? hé ben ,
+      tenez-vous les pieds chauds.</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE X.</head>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( seul, en riant aux éclats. )</stage>
+     <p>Ha! ha! ha! il l'attendra long-temps, je sais qu'alle est dans la chambre de madame, moi je
+      va rester ici pour la guéter et l'empêcher d'aller le trouver; peste! c'est un amoureux, ça ;
+      il faudrait n'avoir pas d'yeux pour s'y tromper... si Marie l'aime pourtant, je lui ferai de
+      la peine... bon saint Jacques que je sis embarassé, j'en raffole moi de cette petite fille,
+      mais, alle est si froide pour mon sujet.... Si alle peut ne pas revoir ce Basile peut-être
+      qu'alle s'accoutumeroit à ma figure ; on dit qu'à ça près d'un air bète , je ne sis pas mal;
+      allons, c'est dit, faut pas qu'alle le voie. Ha mon dieu! voila madame, alle va me renvoyer
+      d'ici.</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE XI.</head>
+    <stage>Mme D'HÉRICOURT, JACQUES.</stage>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Vous avez eu le temps de nétoyer, Jacques, allez et laissez moi seule.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( embarrassé. )</stage>
+     <p>Madame....</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Hé bien.</p>
+    </sp>
+    <pb n="16"/>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>C'est que je voudrions bien rester ici, avec votre permission,</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Qu'est-ce que cela signifie, Jacques, pourquoi voulez-vous rester lorsque je vous dis de me
+      laisser seule.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( avec dépit et embarras. )</stage>
+     <p>Madame, c'est que je voudrions bien l'empêcher de descendre à la cuisine.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Est-ce que vous déraisonnez, mon enfant; qui voulez-vous empêcher de descendre à la cuisine
+      ?</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Eh c'est Marie, qui peut être va y aller, qui le verrai mon dieu! que j'ai de guignon,</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>En vérité, mon pauvre Jacques, vous abuses quelques fois de ma patience ; expliquez-vous
+      donc , car je crois que vous ne vous entendez pas vous même.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Hé si, madame, je m'entends ben, et ma peine est aisée à deviner, vous savez depuis ce matin
+      que j'aime Marie.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( avec un ton sévère. )</stage>
+     <p>Jacques ?....</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Tenez, madame, ne vous fâchez pas; cette journée va peut être tuer votre pauvre domestique,
+      par ainsi écoutez moi pour la dernière fois, et puis motus jusqu'à ma fin finale.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Allons donc, parlez pour ia dernière fois.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Hé ben, madame, j'aime donc Marie, c'est arrangé comme ça dans ma tête; mais je ne l'avais
+      pas arrangée à rencontrer un amoureux da, et cependant en voilà un qui viaut d'arriver tout a
+      l'heure de son pays, un certain Basile.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( vivement. )</stage>
+     <p>Basile?....</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Hé mon dieu oui, madame, Basile, qu'est plus grand que moi de toute la main, il demande à
+      voir Marie: ma fine, je lui ai joué d'un tour,</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Comment, un tour?</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Ho! je n'y ai pas fait de mal, je n'en sis pas capable; j'ai ben de la peine à tuer une
+      mouche; mais tenez, je l'ai envoyé
+      <pb n="17"/> dans la cuisine pour l'y faire croquer le marmot, afin qu'il ne fut pas pus
+      chanceux que moi. — C'est pas un crime, n'est-ce pas?</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( à part. )</stage>
+     <p>Bon, Marie aura vu Basile, je l'ai fait descendre par mon cabinet pour aller faire le
+      thé.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>en riant naïvement.</stage>
+     <p>Je vois que vous dites à part vous que j'ai bien fait.</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE XII.</head>
+    <stage>Mme D'HÉRICOURT, MARIE , JACQUES.</stage>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>entre toute essoufflée ; une joie excessive doit être peinte dans ses traits.</stage>
+     <p>Madame! ma bonne maîtresse ! il est ici; il est arrivé; son père l'attend dans l'auberge;
+      ho! mon dieu ! mou dieu ! quel bien vous nous avez fait; laissez moi baiser votre main, votre
+      bras.... Il va venir ; oui, oui , il va venir... Que je regarde voir s'il arrive? pas encore;
+      mais soyez-en bien sûr, madame, ils ne tarderont pas.... Mon pauvre cœur est si plein... Je
+      ris..... je pleure.... je suis comme une folle..... ma joie est trop forte, ça fait mal...
+      <stage>( elle est prête à s'évanouir. )</stage></p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>la retient dans ses bras.</stage>
+     <p>Tu vois, mon enfant, que tout excès est nuisible... tâche de te calmer..... allons, pour
+      l'amour de moi...</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>toujours troublée.</stage>
+     <p>Tout, tout, madame pour l'amour de ma bienfaitrice.... me voilà tranquille.... vous le voyez
+      bien; vous avez tiré Antoine de prison! ô ciel, inspirez-moi ce que je puis faire pour payer
+      un si grand service.... Jacques, mon ami, remerciez donc madame pour moi.... je n'ai pas la
+      force de parler... Mon pauvre Basile.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Oui, remerciez bien madame, d'avoir fait venir un amoureux qui étoit ben loin d'ici , et qui
+      ne pensoit peut-être plus à vous, au lieu que moi, je vous aimons jusque dans nos songes,
+      j'étions tout près de vous, et ça auroit fait un petit ménage de dieu... Basile! vla un bieau
+      nom, ma fine; Jacques le vaut bien; ho ben, madame, je vous respectons, je vous chérissons ,
+      mais.... tatiguienne.... <stage>( il pleure )</stage> je ne vous remercions pas... et je m'en
+      va pleurer là bas tout mon content. <stage>( Marie va souvent regarder à la
+      fenêtre. )</stage></p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>en souriant.</stage>
+     <p>Ce Pauvre Jacques! il t'aime de bonne foi, mais du caractère dont il est , son chagrin ne
+      durera guères.</p>
+    </sp>
+    <pb n="18"/>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Les voilà , madame, les voilà!</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCÈNE XIII.</head>
+    <stage>Mme D'HÉRICOURT, MARIE, ANTOINE, BASILE.</stage>
+    <sp who="#TDP371_5">
+     <speaker>BASILE , </speaker>
+     <stage>en entrant.</stage>
+     <p>C'est ici, mon père , entrez.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>se jettant dans les bras d'Antoine.</stage>
+     <p>Ah! mon bon père, mon premier bienfaiteur.. ...Je vous revois!</p>
+    </sp>
+    <sp who="#TDP371_6">
+     <speaker>ANTOINE, </speaker>
+     <stage>pressant Marie dans ses bras.</stage>
+     <p>Oui , tu revois celui qui t'a toujours regardée comme sa chère fille... Mais, dites-moi
+      vite, mes enfants, c'est sûrement là cet ange du ciel qui a fini nos malheurs..... Mes
+      enfants, tombons à ses genoux, l'être bienfaisant est l'image de la divinité et nos respects
+      pour lui sont légitimes.</p>
+     <stage>( Ils vont pour se mettre a genoux, Mme. d'Hèricourt s'y oppose. )</stage>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>S'en est trop , mes amis : songez qu'en exaltant de la sorte, un acte d'humanité bien simple
+      vous laisseriez penser que cette vertu si naturelle est inconnue.</p>
+    </sp>
+    <sp who="#TDP371_6">
+     <speaker>ANTOINE.</speaker>
+     <p>Hélas! madame, elle est au moins bien rare , et je l'ai éprouvé dans mes revers.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>avec grace.</stage>
+     <p>Le plaisir de vous détromper m'étoit réservé....... Mais occupons-nous de vos affaires,
+      voilà l'essentiel. Dites-moi, Antoine, serais-je assez heureuse pour qu'en venant ici, vous
+      eussiez apporté les papiers relatifs à l'événement fâcheux qui vous est arrivé.</p>
+    </sp>
+    <sp who="#TDP371_6">
+     <speaker>ANTOINE.</speaker>
+     <p>Oui , madame, parce que j'ai des réclamations justes à faire; mais ce n'est pas ce motif qui
+      m'a fait venir : je vous prie de croire que la reconnaissance seule m'a fait oublier les
+      fatigues de la route.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Allez, monsieur Antoine, ma maitresse en est bien persuadée, elle juge les autres d'après
+      son cœur.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>montrant des papiers.</stage>
+     <p>Voilà, madame, les papiers que vous avez paru désirer.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Donnez-les moi , je vais les faire examiner tout de suite par le Syndic de cette ville, qui
+      non seulement est très honnête homme, mais qui, étant de votre commune , prend le plus vif
+      intérêt à votre situation.</p>
+    </sp>
+    <pb n="19"/>
+    <sp who="#TDP371_6">
+     <speaker>ANTOINE.</speaker>
+     <p>J'ai joint à d'anciens titres d'exemption, l'acte d'adoption de ma fille Marie Herbin; mais
+      je suis loin d'en exiger une récompense, je l'ai reçue depuis dix ans par les services et
+      l'amitié de cette chère et honnête créature.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Mon père a raison, madame; s'il a protégé son enfance, elle vient de lui sauver la vie, et
+      c'est nous qui lui sommes redevables.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>vivement.</stage>
+     <p>Mais, Basile, taisez vous donc. Est-ce qu'entre un père et un enfant les services se
+      comptent? c'est une dette entre eux, et le plus heureux est celui qui la paye.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Mes amis , ce combat de délicatesse vous fait honneur à tous ; mais ne perdons pas vos
+      affaires de vue , je vais écrire à monsieur le syndic.</p>
+     <stage>(Elle se met à son secrétaire , et pendant qu'elle écrit il doit y avoir une scene
+      muette de sensibilité entre Antoine , Basile et Marie. )</stage>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Voilà qui est fini. Je lui dis, en peu de mots, ce dont il s'agit. <stage>( Elle lit tout
+      haut. )</stage></p>
+     <p>« Je vous envoie , mon cher voisin , les papiers du bon Antoine : il est ici avec son fils,
+      vous concevez que leur séjour ne peut être long; parcourez ces papiers tout de suite , et
+      mandez moi s'ils sont suffisants. Ces braves gens partiront tranquilles, nous ferous le reste
+      avec le tems. Je vous salue. »</p>
+     <stage>( Madame d'Hèricourt sonne. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE XIV.</head>
+    <stage>Mme D'HÉRICOURT, ANTOINE, BASILE, MARIE, JACQUES.</stage>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>avec l'air chagrin.</stage>
+     <p>Ho ! pour le coup , c'est bens moi qu'on sonne. Vla mamselle Marie qu'est sans doute
+      affairée à faire l'amour. Vous varrez que je vas être obligé de remplir mon devoir et pis le
+      sien avec, c'est genti ca, pas vrai , mamselle ?</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( en souriant. )</stage>
+     <p>Tu te plaignais tantôt de n'être pas assez employé; c'est pour te contenter que Marie te
+      cède la place.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>avec une joie niaise.</stage>
+     <p>Tiens! eh madame qui me tutoye pour la premiere fois;
+      <pb n="20"/> ah! vla donc que je monte en grade, hé ben c'est ça de gagné, mais ma fine
+      j'avais besoin de cette fiché de consolation</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Jacques, portes ce paquet chez monsieur le syndic : attend sa réponse , parce qu'à ton
+      retour on préparera un petit repas pour les accords de Basile et de Marie; allons, dépêches
+      toi.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Patatra ! vla que je tombe de l'échelle. Les accords de Basile et de Marie! suis-je ti
+      encore de ce monde, ho! qu'on a ben raison de dire quelle plaisir et le tems ont de fières
+      jirouestes: j'étions si content de vous, ma bonne dame, et j'espérions que quand ce cousin
+      Basile seroit parti y aurait qeueque moyen de manigancer mon mariage avec mameselle, et tout
+      est à veau leau, ô mon dieu! mon dieu! queu gros péché ai-je ti fait pour m'arranger comme ça,
+      madame. Jacques en mourra; mais c'est égal, faut porter le paquet auparavant et...
+      j'y...vas.</p>
+     <stage>( il pleure comiquement. )</stage>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE XV.</head>
+    <stage>Mme D'HERICOURT, ANTOINE, BASILE, MARIE.</stage>
+    <sp who="#TDP371_6">
+     <speaker>ANTOINE.</speaker>
+     <p>Ce pauvre garçon parait bien affligé.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>en souriant.</stage>
+     <p>C'est un petit mouvement d'amour pour Marie qui le rend jaloux du bonheur de Basile.</p>
+    </sp>
+    <sp who="#TDP371_6">
+     <speaker>ANTOINE.</speaker>
+     <p>Mais, cela peut le rendre très malheureux, et je le plains.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>en riant.</stage>
+     <p>Soyez tranquille, bon Antoine ; l'esprit de Jacques est de nature à préserver son cœur d'une
+      impression durable. C'est d'ailleurs un très-bon sujet que l'on peut rendre heureux fort
+      aisément. Venez , Antoine, venez avec moi dans mon cabinet nous avons quelque chose à arranger
+      pour les enfants, et pour vous.</p>
+    </sp>
+    <sp who="#TDP371_6">
+     <speaker>ANTOINE, </speaker>
+     <stage>pénétré.</stage>
+     <p>Eh ! madame, vous avez assez fait.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Oui , pour votre coeur ; mais, pas suffisamment pour le mien. Venez <stage>( en
+      riant )</stage> d'ailleurs, Basile et Marie ont bien des choses à se dire, depuis le tems
+      qu'ils sont sépares.</p>
+    </sp>
+    <sp who="#TDP371_6">
+     <speaker>ANTOINE.</speaker>
+     <p>Rien que vous ne puissiez entendre , madame ; je suis sûr qu'ils ne parleront que de vos
+      bienfaits.</p>
+    </sp>
+   </div>
+   <pb n="21"/>
+   <div type="scene">
+    <head>SCENE XVI.</head>
+    <stage>BASILE, MARIE.</stage>
+    <stage>( Basile et Marie se regardent un moment sans rien dire, mais leur attitude doit peindre
+     l'ivresse du bonheur. )</stage>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Mais, dis moi, Marie, n'est ce point un songe que ce qui nous arrive ?</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>en riant.</stage>
+     <p>Non, mon ami; ma bonne maîtresse a rendu notre heureuse situation une réalité.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Mon père, que j'ai vu presque mourant dans un cachot est libre! ma mère, ma bonne mere, qui
+      est la tienne , passe de l'excès de la douleur à l'espoir d'embrasser bientôt les objets qui
+      lui sont chers, et c'est à toi que je dois tant de félicité !</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Non , Basile, ce n'est pas à moi, non il ne faut pas m'en donner la gloire.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Comment, tu veux....</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>C'est à la lettre que tu m'as écrite: madame a vu tes bons sentimens pour ton père et ta
+      mère , et sans me rien dire elle a récompensé tes vertus : va, mon ami, c'est bien plus
+      intéressant que l'amour d'une jeune fille.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>( vivement. )</stage>
+     <p>Mais c'est qu'une fille comme toi ne peut aimer qu'un honnête garçon et que ton amitié m'a
+      tout de suite donné un triste que je n'ai par moi même.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Tiens, Basile, cessons de nous débattre là dessus, songeons plutôt à un moyen de montrer
+      notre reconnaissance à madame <stage>( Ici l'on voit paraître Mme d'Hèricourt et Antoine qui
+      observent. )</stage></p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>D'abord , me voilà bien en peine pour ce qui regarde ma bonne maîtresse.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Comment donc.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>en observant Basile.</stage>
+     <p>Réfléchis, Basile, que pour recompense de tant de bontés de sa part voilà que je vas la
+      quitter.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>embarrassé.</stage>
+     <p>Mais dam, que veux tu ?...</p>
+    </sp>
+    <pb n="22"/>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Songe qu'une autre que cette Marie, qu'elle a tiré de pire que le tombeau , va avoir pour
+      elle les soins, les attentions, les égards qu'elle mérite de tout le monde. Cela est-il bien ,
+      Basile? répond et laisse parler ton cœur tout seul.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>attendri et embarrassé.</stage>
+     <p>Ha ! Marie , tu me fait trembler; nous allons donc paraître ingrats. Cependant je sens au
+      fond de l'âme que je donnerais ma vie pour conserver celle de madame d'Héricourt.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>vivement.</stage>
+     <p>Voilà de belles paroles, Basile , et madame d'Héricourt a fait des actions.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE , </speaker>
+     <stage>un peu honteux.</stage>
+     <p>He bin, Marie , prescrit toi même ce que nous devons faire , et l'imiter me semblera aussi
+      honorable que doux.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>( elle s'approche affectueusement de Basile et le prend par dessous le bras. )</stage>
+     <p>Ecoute , il faut aller chercher ta mère.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Ma mere ?.... oui.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Nous entrerons tous quatre au service de madame sans gage au moins.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Ho ? cela va sans dire.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Elle nous nourira seulement ; à nous quatre et ce pauvre Jacques nous ferons l'ouvrage du
+      dedans et du dehors.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>joyeux.</stage>
+     <p>Oui , oui : tout l'ouvrage.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Madame a une ferme à quelques lieues d'ici, son métayer vient de mourir, toi et ton père et
+      Jacques, vous ferez valoir cette ferme et la rendrez bien profitable peur madame.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Et toi , Marie , où seras-tu ?</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Ici, avec notre bonne mère , mais nous irons vous voir , vous viendrez aussi quelques fois.
+      Madame nous chérira comme ses enfans, elle s'applaudira tous les jours d'avoir pu obliger des
+      infortunés qui ont le coeur sensible et reconnoissant, he bien, Basile , est-ce que ce projet
+      ne t'enchante pas ?</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>triste et embarrassé.</stage>
+     <p>Sûrement, Marie, je t'approuve. ..mais notre mariage.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>vivement.</stage>
+     <p>Basile , un mariage peut se retarder , mais une marque de
+      <pb n="23"/> reconnaissance, jamais : madame a-t-elle balancé pour nous faire du bien.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>avec sentiment.</stage>
+     <p>Tu as raison , ma chere amie , et je te demande cent fois pardon d'avoir paru si peu digne
+      de toi, mais que veux tu, je t'aime tant.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Et moi, est-ce que je ne t'aime pas de tout mon coeur ? je te le prouve bien puisque je veux
+      que tu sois de moitié dans le plaisir que j'ai de faire mon devoir.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Allons , voilà qui est dit, je vais en parler à moa père.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Ho! je-suis bien sûre qu'il applaudira mon projet, je connais tous ses sentimeus et si les
+      miens sont louables, c'est à ce bon père que je les dois,</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE.</speaker>
+     <p>Comme tu est digne de sa tendresse et de tout mon amour! va sois satisfaite, tes souhaits
+      seront bientôt remplis.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Mais il ne faut rien dire à madame, entend-tu, Basile. Elle ma surprise , je veux la
+      surprendre à mon tour,</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE XVII.</head>
+    <stage>Mme D'HÉRICOURT , ANTOINE , BASILE, MARIE.</stage>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>embrassant Marie.</stage>
+     <p>Non, ma chère enfant , tu ne me surprendras point. Ton coeur et les sentimens dont il est
+      animé me sont trop bien connus.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>naïvement.</stage>
+     <p>Vous nous avez donc entendu ? hé bien madame, dites que vous consentez à tout ?</p>
+    </sp>
+    <sp who="#TDP371_6">
+     <speaker>ANTOINE, </speaker>
+     <stage>vivement.</stage>
+     <p>Marie, je te sais bien bon gré de n'avoir pas douté du consentement de ton père. Basile, tu
+      m'as fait peine un moment ; mais bientôt j'ai reconnu mon fils.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Vous allez dire oui, n'est-ce pas ma bonne maîtresse ?</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, ( </speaker>
+     <stage>en souriant. )</stage>
+     <p>Oui , oui, je souscris sans hésiter à votre projet ; mais je veux: qu'on se marie , c'est ma
+      volonté expresse......</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE XVIII.</head>
+    <stage>Les Précédens , JACQUES, entrant tout essouflé</stage>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Ha! j'apporte de belles nouvelles, allez. Plus d'accords, plus de
+      <pb n="24"/> mariage; tout est par-dessus le mont Cenis, le syndic va venir , et vous allez
+      voir , vons allez voir.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>avec effroi.</stage>
+     <p>Qu'est-ce que cela signifie ?</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, </speaker>
+     <stage>acablé.</stage>
+     <p>O ciel, qu'ai-je entendu !</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>découragée.</stage>
+     <p>Je n'ai pas de courage pour ce coup là !</p>
+    </sp>
+    <sp who="#TDP371_6">
+     <speaker>ANTOINE.</speaker>
+     <p>Cette nouvelle peine m'est la plus sensible.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Hé ben, via ti pas que leur tristesse me fait mal, allons ne jettez pas le manche après la
+      coignée, ce n'est peut-être qu'une avalanche, on s'en retire , pis que me vela.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>revenant à sa surprise.</stage>
+     <p>J'ai resté un moment interdite par les propos de Jacques, mais la chose demandé explication,
+      <stage>( à Jacques. )</stage> Voyons , que t'a dit monsieur le syndic? répond posément et ne
+      vas pas t'embrouiller dans ton récit.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Récit ? mais il ne m'a pas dit récit. Tenez, je va vous contez ça ben au juste. Drès que je
+      lui ai eu baillé votre billet, il l'a lut tout de suite , puis il s'est dépêché de regarder
+      les papiers que vous l'y envoyez , he ben, c'est en lisant ces papiers que tout d'un coup il a
+      crié comme un perdu. Marie Herbin! Marie Herbin ! celle que je cherche , ha ! la vla donc
+      trouvée pis il s'est levé , il a pris sa canne et son chapeau... et il se promenait comme ça
+      d'un côté, de l'autre. <stage>( Ici, Jacques se promène comiquement. )</stage> il tapoit de sa
+      canne, il regardoit le plancher, il...</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>avec impatience.</stage>
+     <p>Mais finis donc , je t'en prie.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Hé ben , madame , je me tuais de lui dire que vous attendiez la réponse et de lui crier
+      encore plus fort : ça ne se passera pas comme ça. Va vite, m'a-t il fait, je te suit. Marie
+      Herbin, ho! <stage>( à Marie. )</stage> Allez , mamselle , faut que vous tourniez la tête à
+      tout le monde, car monsieur le syndic étoit comme un fou. Ha! le vla, voyez s'il a l'air
+      d'être dans son bon sens?</p>
+    </sp>
+   </div>
+   <div type="scene">
+    <head>SCENE XIX &amp; dernière.</head>
+    <stage>Les Précédons. Le SYNDIC, </stage>
+    <stage>avec l'air du trouble et de l'embarras.</stage>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>Ah ! monsieur, hâtez-vous de dissiper nos allarmes ; mais
+      <pb n="25"/> qu'avez-vous ? qui peut causer l'agitation où je vous vois ?</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC, </speaker>
+     <stage>troublé.</stage>
+     <p>La cause en est bien légitime.</p>
+    </sp>
+    <sp who="#TDP371_5">
+     <speaker>BASILE, .</speaker>
+     <stage>à part</stage>
+     <p>Je tremble!</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, .</speaker>
+     <stage>se jettant dans les bras d'Antoine</stage>
+     <p>Mon père!</p>
+    </sp>
+    <sp who="#TDP371_6">
+     <speaker>ANTOINE.</speaker>
+     <p>Du courage, mes enfans.</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC, </speaker>
+     <stage>avec timidité et sentiment.</stage>
+     <p>Où est-elle, cette Marie, cette fille vertueuse à laquelle vous prenez tant d'intérêt ; la
+      voilà sans doute.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>( sérieusement. )</stage>
+     <p>Oui, monsieur, la voilà, mais je vous préviens que qui l'affligérait en la moindre des
+      choses , me rendrait moi-même très malheureuse. Parlez , monsieur, parlez; je suis sur les
+      épines.</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Hé, madame, c'est a moi de souffrir les angoisses de la crainte. Il faut donc en présence de
+      cette jeune orpheline avouer les torts que je voulais cacher tantôt.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>avec joie.</stage>
+     <p>Comment ! il se pourait que....</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Oui, madame ; Marie est le seul enfant de mon frère Herbin, enlevé à sa famille par la
+      maladie épidémique qui ravagea la commune de Soulti ; je conviens en rougissant qu'à cette
+      époque désastreuse livrée entièrement à l'ambition , j'oubliais mes parents et ne daignai pas
+      m'informer s'ils étoient du nombre des victimes.....</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT.</speaker>
+     <p>C'est assez, mon voisin , et la joie que sûrement vous éprouvez en retrouvant votre nièce
+      répare...</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Non , ce n'est pas assez et je dois subir l'humiliation de dire en votre présence qu'Antoine
+      a fait pour cet enfant ce que seul j'aurais dû faire , il l'a tirée de l'abandon , de la
+      misère ; aussi je vois qu'elle le regarde et le chérit comme un père, tandis que je lui parait
+      sans doute bien méprisable.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE, </speaker>
+     <stage>approchant de son oncle avec affection et respect.</stage>
+     <p>Ah ! mon oncle , Antoine ne m'a point appris à mépriser mes parens. Au contraire, il m'a
+      toujours fait faire des vœux pour ceux que je ne connaissais pas; le ciel les a exaucés
+      puisque je vous retrouve.</p>
+    </sp>
+    <sp who="#TDP371_1">
+     <speaker>Mme D'HÉRICOURT, </speaker>
+     <stage>avec une joie vive.</stage>
+     <p>Voici un des plus beaux jours de ma vie : tenez, mon voisin. voilà
+      <pb n="26"/> le bon Antoine et son fils Basile , vous savez combien tous deux aiment votre
+      nièce?</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Respectable Antoine , je vous dois la pension de Marie depuis bien long-tems et je veux m'en
+      acquiter , mais vous me regardez; est-ce que vous ne reconnaissez pas Henri Herbin, frère aîné
+      du père de votre fille adoptive ?</p>
+    </sp>
+    <sp who="#TDP371_6">
+     <speaker>ANTOINE, </speaker>
+     <stage>lui prenant la main.</stage>
+     <p>Oui, oui je vous reconnois, nous avons été camarades d'enfance, et ce que vous faites
+      aujourd'hui nous rends amis à jamais.</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Ecoutez , mon ami, je donne douze mille francs à ma nièce pour épouser votre fils , cest la
+      pension seulement dont je m'acquite, mais elle devient mon unique héritière.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES, </speaker>
+     <stage>( à part. )</stage>
+     <p>Nièce d'un syndic et son héritière , ho! ce n'est pas pour toi, pauvre Jacques , fais en ton
+      deuil.</p>
+    </sp>
+    <sp who="#TDP371_2">
+     <speaker>MARIE.</speaker>
+     <p>Mais mon chère oncle, en vous exprimant toute ma reconaissance, je dois pourtant vous dire
+      que nous comptons demeurer tous avec notre bonne maîtresse, et que je renoncerai plutôt à la
+      fortune qu'à ce bonheur là , dites-moi en témoignage d'amitié que vous y consentez.</p>
+    </sp>
+    <sp who="#TDP371_4">
+     <speaker>LE SYNDIC.</speaker>
+     <p>Comment oserai-je m'opposer au sentiment de la reconnoissance moi que le caractère
+      bienfaisant de madame a éclairé sur mes devoirs ? oui, réunissons nous auprès d'elle, excitons
+      nous sans cesse a faire le bien , et qu'à notre exemple la fortune du riche devienne par le
+      bienfait le patrimoine du pauvre.</p>
+    </sp>
+    <sp who="#TDP371_3">
+     <speaker>JACQUES.</speaker>
+     <p>Me vla planté comme un terme tant je sis dans l'admiration! que de belles choses dans un
+      jour? pas pour moi pourtant, mais c'est égal, je reste avec vous, pas vrai ma bonne maîtresse?
+      hé ben , vous varrez que je serai l'ami de Basile, je bercerai les enfants de Marie, j'aiderai
+      le père Antoine, j'épousterai les habits de M. le syndic ; tous ces braves gens
+      m'acceuilleront, et ma fine je serai heureux comme un seigneur. Cest pourtant de bonnes gens
+      que ces Suisses ! mais y en a partout , j'en sis ben la preuve , ne sis-je ti pas Français et
+      Parisien encore? et beu si je n'ai pas l'esprit de ma nation, j'en ai le cœur, ça fait qu'on
+      finit par m'aimer.</p>
+     <p><stage>Au Public.</stage> Messieurs, continuez, s'il vous plait, d'avoir des bontés pour
+      Jacques , et il croira être du meilleur pays du monde.</p>
+    </sp>
+   </div>
+   <trailer>FIN.</trailer>
+
+  </body>
+ </text>
+</TEI>
